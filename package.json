@@ -10,19 +10,32 @@
     "generate:excuses": "node scripts/generate_excuses.js"
   },
   "dependencies": {
-    "expo": "~51.0.0",
-    "expo-router": "~4.0.0",
-    "expo-clipboard": "~6.0.0",
-    "expo-sharing": "~12.0.0",
-    "expo-haptics": "~13.0.0",
-    "react": "18.2.0",
-    "react-native": "0.74.0",
-    "@react-native-async-storage/async-storage": "^1.23.0"
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "expo": "55.0.24",
+    "expo-clipboard": "~55.0.13",
+    "expo-dev-client": "~55.0.33",
+    "expo-haptics": "~55.0.14",
+    "expo-router": "55.0.14",
+    "expo-sharing": "~55.0.19",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "react-native": "0.83.6",
+    "react-native-screens": "~4.23.0",
+    "react-native-web": "^0.21.0"
   },
   "devDependencies": {
-    "@types/react": "~18.2.0",
+    "@types/react": "~19.2.0",
     "@types/react-native": "~0.73.0",
-    "typescript": "~5.4.0"
+    "typescript": "~5.9.2"
+  },
+  "overrides": {
+    "@xmldom/xmldom": "^0.8.13",
+    "postcss": "^8.5.10",
+    "send": "^0.19.2",
+    "tar": "^7.5.11",
+    "@expo/image-utils": {
+      "semver": "^7.8.0"
+    }
   },
   "private": true
 }
