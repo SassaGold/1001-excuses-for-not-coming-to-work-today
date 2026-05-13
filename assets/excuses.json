@@ -1,0 +1,5007 @@
+[
+  {
+    "id": 1,
+    "category": "funny",
+    "text": "My cat sat on my keyboard and submitted my resignation — still trying to undo that."
+  },
+  {
+    "id": 2,
+    "category": "funny",
+    "text": "I sneezed so hard I pulled every muscle in my upper body."
+  },
+  {
+    "id": 3,
+    "category": "funny",
+    "text": "I accidentally superglued my hand to my front door handle."
+  },
+  {
+    "id": 4,
+    "category": "funny",
+    "text": "A seagull stole my car keys and flew away. I'm not joking."
+  },
+  {
+    "id": 5,
+    "category": "funny",
+    "text": "I put my phone in the fridge and my lunch in my pocket. Found both hours later."
+  },
+  {
+    "id": 6,
+    "category": "funny",
+    "text": "My parrot has learned to call in sick on my behalf — unfortunately he did it again."
+  },
+  {
+    "id": 7,
+    "category": "funny",
+    "text": "I sat on my glasses and now I can't find my glasses to look for my glasses."
+  },
+  {
+    "id": 8,
+    "category": "funny",
+    "text": "I fell asleep on the couch and my dog locked the dog door from the outside."
+  },
+  {
+    "id": 9,
+    "category": "funny",
+    "text": "I accidentally signed up for a 5K that starts in my neighborhood this morning."
+  },
+  {
+    "id": 10,
+    "category": "funny",
+    "text": "My breakfast fought back."
+  },
+  {
+    "id": 11,
+    "category": "funny",
+    "text": "I tripped on my own shoelace and slid down a full flight of stairs."
+  },
+  {
+    "id": 12,
+    "category": "funny",
+    "text": "My fish is sick and I've been up all night performing fish CPR."
+  },
+  {
+    "id": 13,
+    "category": "funny",
+    "text": "I got my sweater stuck in the car door and had to cut myself free."
+  },
+  {
+    "id": 14,
+    "category": "funny",
+    "text": "I left my shoes at a friend's house last night and only realized at the bus stop."
+  },
+  {
+    "id": 15,
+    "category": "funny",
+    "text": "My alarm clock displayed a very convincing PM instead of AM."
+  },
+  {
+    "id": 16,
+    "category": "funny",
+    "text": "I tried to make coffee and made soup instead. I don't know how."
+  },
+  {
+    "id": 17,
+    "category": "funny",
+    "text": "A raccoon has barricaded himself in my garage and refuses to negotiate."
+  },
+  {
+    "id": 18,
+    "category": "funny",
+    "text": "I locked myself out while checking the mail in my pajamas."
+  },
+  {
+    "id": 19,
+    "category": "funny",
+    "text": "My dog ate the car registration and the DMV needs it today."
+  },
+  {
+    "id": 20,
+    "category": "funny",
+    "text": "I tried a new hair dye and my hair is now a color not found in nature."
+  },
+  {
+    "id": 21,
+    "category": "funny",
+    "text": "I accidentally replied-all on a very personal email thread this morning."
+  },
+  {
+    "id": 22,
+    "category": "funny",
+    "text": "A squirrel chewed through my only charging cable and my phone is dead."
+  },
+  {
+    "id": 23,
+    "category": "funny",
+    "text": "I walked into a sliding glass door and need a moment."
+  },
+  {
+    "id": 24,
+    "category": "funny",
+    "text": "My neighbor's inflatable pool float escaped into my yard and blocked my car."
+  },
+  {
+    "id": 25,
+    "category": "funny",
+    "text": "I slipped on a banana peel. Yes, that is actually what happened."
+  },
+  {
+    "id": 26,
+    "category": "funny",
+    "text": "My kids put googly eyes on all my work clothes and I didn't notice until the bus."
+  },
+  {
+    "id": 27,
+    "category": "funny",
+    "text": "I accidentally joined a flash mob and couldn't get out."
+  },
+  {
+    "id": 28,
+    "category": "funny",
+    "text": "I woke up to find my car wrapped in toilet paper — neighborhood prank gone far."
+  },
+  {
+    "id": 29,
+    "category": "funny",
+    "text": "I burned my toast so badly the smoke alarm called the fire department."
+  },
+  {
+    "id": 30,
+    "category": "funny",
+    "text": "My automatic garage door has decided today is its day off."
+  },
+  {
+    "id": 31,
+    "category": "funny",
+    "text": "I accidentally wore two different shoes to the bus stop."
+  },
+  {
+    "id": 32,
+    "category": "funny",
+    "text": "My roommate adopted a goat without telling me. The goat is not adjusting well."
+  },
+  {
+    "id": 33,
+    "category": "funny",
+    "text": "I got my tie caught in the printer last night and couldn't reach my phone."
+  },
+  {
+    "id": 34,
+    "category": "funny",
+    "text": "I knocked over my entire wardrobe this morning and need time to process."
+  },
+  {
+    "id": 35,
+    "category": "funny",
+    "text": "I tried to take a shortcut and ended up in a different city."
+  },
+  {
+    "id": 36,
+    "category": "funny",
+    "text": "My doorbell camera caught something I need to report to several authorities."
+  },
+  {
+    "id": 37,
+    "category": "funny",
+    "text": "I accidentally deleted my entire calendar including today's meetings."
+  },
+  {
+    "id": 38,
+    "category": "funny",
+    "text": "My office chair rolled away on a slight incline and I lost it for 45 minutes."
+  },
+  {
+    "id": 39,
+    "category": "funny",
+    "text": "I got my zipper irreparably stuck and I'm still in my coat."
+  },
+  {
+    "id": 40,
+    "category": "funny",
+    "text": "A bird has built a nest in my wing mirror and I don't have the heart to disturb it."
+  },
+  {
+    "id": 41,
+    "category": "funny",
+    "text": "I overloaded my coffee maker and it exploded. The cleanup is ongoing."
+  },
+  {
+    "id": 42,
+    "category": "funny",
+    "text": "I got a sticker stuck to my contact lens."
+  },
+  {
+    "id": 43,
+    "category": "funny",
+    "text": "I answered the door in my sleep. The delivery person left a note."
+  },
+  {
+    "id": 44,
+    "category": "funny",
+    "text": "My microwave door fell off and somehow hit the car keys."
+  },
+  {
+    "id": 45,
+    "category": "funny",
+    "text": "I found out this morning that I'm allergic to my new soap. My face is impressive."
+  },
+  {
+    "id": 46,
+    "category": "funny",
+    "text": "I ordered breakfast delivery and it arrived to the wrong address — my neighbor's."
+  },
+  {
+    "id": 47,
+    "category": "funny",
+    "text": "I accidentally booked my gym session for 4 AM and somehow showed up."
+  },
+  {
+    "id": 48,
+    "category": "funny",
+    "text": "My belt broke in half as I was leaving. I have no backup belt."
+  },
+  {
+    "id": 49,
+    "category": "funny",
+    "text": "I sat in something mysterious on the bus and need to go home to change."
+  },
+  {
+    "id": 50,
+    "category": "funny",
+    "text": "A jar of pasta sauce exploded in my bag and took out my laptop charger."
+  },
+  {
+    "id": 51,
+    "category": "believable",
+    "text": "I have a doctor's appointment I completely forgot about until this morning."
+  },
+  {
+    "id": 52,
+    "category": "believable",
+    "text": "My child is sick and I couldn't find anyone to watch them."
+  },
+  {
+    "id": 53,
+    "category": "believable",
+    "text": "My car won't start — battery is completely dead."
+  },
+  {
+    "id": 54,
+    "category": "believable",
+    "text": "I have a severe migraine and can't look at screens."
+  },
+  {
+    "id": 55,
+    "category": "believable",
+    "text": "My babysitter cancelled at the last minute."
+  },
+  {
+    "id": 56,
+    "category": "believable",
+    "text": "There's a family emergency I can't discuss right now."
+  },
+  {
+    "id": 57,
+    "category": "believable",
+    "text": "I got a flat tire on the way in."
+  },
+  {
+    "id": 58,
+    "category": "believable",
+    "text": "My elderly parent needs to go to the hospital today."
+  },
+  {
+    "id": 59,
+    "category": "believable",
+    "text": "I woke up with food poisoning and it's not pretty."
+  },
+  {
+    "id": 60,
+    "category": "believable",
+    "text": "My back went out and I can barely move."
+  },
+  {
+    "id": 61,
+    "category": "believable",
+    "text": "I'm stuck in an unexpected traffic jam — the freeway is completely closed."
+  },
+  {
+    "id": 62,
+    "category": "believable",
+    "text": "My train was cancelled with no warning."
+  },
+  {
+    "id": 63,
+    "category": "believable",
+    "text": "My kid's school called — fever, I have to pick them up now."
+  },
+  {
+    "id": 64,
+    "category": "believable",
+    "text": "I have pink eye and don't want to spread it."
+  },
+  {
+    "id": 65,
+    "category": "believable",
+    "text": "My pipes burst overnight and there's water everywhere."
+  },
+  {
+    "id": 66,
+    "category": "believable",
+    "text": "There's a gas leak and the utility company is on their way."
+  },
+  {
+    "id": 67,
+    "category": "believable",
+    "text": "I have jury duty that just got confirmed."
+  },
+  {
+    "id": 68,
+    "category": "believable",
+    "text": "My spouse was rushed to the ER last night."
+  },
+  {
+    "id": 69,
+    "category": "believable",
+    "text": "I pulled a muscle in my back and can barely sit."
+  },
+  {
+    "id": 70,
+    "category": "believable",
+    "text": "I'm having a dental emergency — the pain is unbearable."
+  },
+  {
+    "id": 71,
+    "category": "believable",
+    "text": "I have a 24-hour stomach bug."
+  },
+  {
+    "id": 72,
+    "category": "believable",
+    "text": "My furnace died in the middle of the night."
+  },
+  {
+    "id": 73,
+    "category": "believable",
+    "text": "A contractor is coming for an emergency repair I can't reschedule."
+  },
+  {
+    "id": 74,
+    "category": "believable",
+    "text": "I missed my bus and the next one isn't for an hour."
+  },
+  {
+    "id": 75,
+    "category": "believable",
+    "text": "My car is at the mechanic unexpectedly."
+  },
+  {
+    "id": 76,
+    "category": "believable",
+    "text": "I have a high fever and my doctor said to stay home."
+  },
+  {
+    "id": 77,
+    "category": "believable",
+    "text": "I sprained my ankle and can't drive."
+  },
+  {
+    "id": 78,
+    "category": "believable",
+    "text": "I have a court date I forgot to mention."
+  },
+  {
+    "id": 79,
+    "category": "believable",
+    "text": "I need to renew my driver's license — it expires today."
+  },
+  {
+    "id": 80,
+    "category": "believable",
+    "text": "My roof is leaking and I need to manage the damage."
+  },
+  {
+    "id": 81,
+    "category": "believable",
+    "text": "I was in a minor fender-bender — no injuries but paperwork is required."
+  },
+  {
+    "id": 82,
+    "category": "believable",
+    "text": "My kid has a specialist appointment I've waited months for."
+  },
+  {
+    "id": 83,
+    "category": "believable",
+    "text": "My refrigerator stopped working and everything is spoiling."
+  },
+  {
+    "id": 84,
+    "category": "believable",
+    "text": "My blood pressure is dangerously high and I need rest."
+  },
+  {
+    "id": 85,
+    "category": "believable",
+    "text": "I have vertigo and the room won't stop spinning."
+  },
+  {
+    "id": 86,
+    "category": "believable",
+    "text": "My hot water heater burst."
+  },
+  {
+    "id": 87,
+    "category": "believable",
+    "text": "My parent fell and I need to assess if they're okay."
+  },
+  {
+    "id": 88,
+    "category": "believable",
+    "text": "My child had a severe allergic reaction at school."
+  },
+  {
+    "id": 89,
+    "category": "believable",
+    "text": "I have laryngitis and can't speak for any calls."
+  },
+  {
+    "id": 90,
+    "category": "believable",
+    "text": "I stepped on a nail and need to get a tetanus shot."
+  },
+  {
+    "id": 91,
+    "category": "believable",
+    "text": "There was a small electrical fire — fire department came, all is fine now."
+  },
+  {
+    "id": 92,
+    "category": "believable",
+    "text": "My basement flooded."
+  },
+  {
+    "id": 93,
+    "category": "believable",
+    "text": "I have a kidney stone and the pain is unbearable."
+  },
+  {
+    "id": 94,
+    "category": "believable",
+    "text": "My child has a panic attack and I can't leave them alone."
+  },
+  {
+    "id": 95,
+    "category": "believable",
+    "text": "I have a visa appointment that took months to book."
+  },
+  {
+    "id": 96,
+    "category": "believable",
+    "text": "My power has been out since last night."
+  },
+  {
+    "id": 97,
+    "category": "believable",
+    "text": "I have strep throat — confirmed by urgent care this morning."
+  },
+  {
+    "id": 98,
+    "category": "believable",
+    "text": "My parent's caregiver didn't show up and I'm the backup."
+  },
+  {
+    "id": 99,
+    "category": "believable",
+    "text": "I have asthma and it's badly flaring today."
+  },
+  {
+    "id": 100,
+    "category": "believable",
+    "text": "My teenager had an accident and I need to be there."
+  },
+  {
+    "id": 101,
+    "category": "believable",
+    "text": "My car got towed overnight — parking sign confusion."
+  },
+  {
+    "id": 102,
+    "category": "believable",
+    "text": "The bridge on my route is closed for emergency repairs."
+  },
+  {
+    "id": 103,
+    "category": "believable",
+    "text": "I have a urinary tract infection that's completely debilitating."
+  },
+  {
+    "id": 104,
+    "category": "believable",
+    "text": "My child's daycare is closed due to an emergency."
+  },
+  {
+    "id": 105,
+    "category": "believable",
+    "text": "I lost my wallet, ID and transit card — I'm stuck."
+  },
+  {
+    "id": 106,
+    "category": "believable",
+    "text": "My apartment building has an unscheduled water shut-off."
+  },
+  {
+    "id": 107,
+    "category": "believable",
+    "text": "The exterminators are coming — it couldn't wait."
+  },
+  {
+    "id": 108,
+    "category": "believable",
+    "text": "I'm waiting for an important delivery that requires my signature."
+  },
+  {
+    "id": 109,
+    "category": "believable",
+    "text": "I have a financial emergency at my bank."
+  },
+  {
+    "id": 110,
+    "category": "believable",
+    "text": "My identity was stolen and I need to deal with the bank today."
+  },
+  {
+    "id": 111,
+    "category": "believable",
+    "text": "My washing machine flooded my laundry room."
+  },
+  {
+    "id": 112,
+    "category": "believable",
+    "text": "I have a therapy appointment I really need to keep."
+  },
+  {
+    "id": 113,
+    "category": "believable",
+    "text": "I have to appear in person at a government office today."
+  },
+  {
+    "id": 114,
+    "category": "believable",
+    "text": "My car's check engine light came on and it's making a terrible noise."
+  },
+  {
+    "id": 115,
+    "category": "believable",
+    "text": "There's black ice everywhere — I nearly slipped in my driveway."
+  },
+  {
+    "id": 116,
+    "category": "believable",
+    "text": "My sinuses are completely blocked and I can't think straight."
+  },
+  {
+    "id": 117,
+    "category": "believable",
+    "text": "I have a rash that needs medical attention today."
+  },
+  {
+    "id": 118,
+    "category": "believable",
+    "text": "I have sciatica so bad I can't sit or stand comfortably."
+  },
+  {
+    "id": 119,
+    "category": "believable",
+    "text": "My windshield cracked and I can't see safely."
+  },
+  {
+    "id": 120,
+    "category": "believable",
+    "text": "My parent's medication was mixed up and I need to sort it out."
+  },
+  {
+    "id": 121,
+    "category": "believable",
+    "text": "I have a mandatory union meeting."
+  },
+  {
+    "id": 122,
+    "category": "believable",
+    "text": "I have a mortgage closing today."
+  },
+  {
+    "id": 123,
+    "category": "believable",
+    "text": "My building is being inspected and they need access to my unit."
+  },
+  {
+    "id": 124,
+    "category": "believable",
+    "text": "I have a blood draw that requires fasting and I feel awful."
+  },
+  {
+    "id": 125,
+    "category": "believable",
+    "text": "My dog is really sick and needs emergency vet care."
+  },
+  {
+    "id": 126,
+    "category": "believable",
+    "text": "I need to deal with my car registration before I get a fine."
+  },
+  {
+    "id": 127,
+    "category": "believable",
+    "text": "I have to attend a funeral of a colleague's family member."
+  },
+  {
+    "id": 128,
+    "category": "believable",
+    "text": "I have a housing inspection that I couldn't reschedule."
+  },
+  {
+    "id": 129,
+    "category": "believable",
+    "text": "My sibling is in crisis and I'm the only one they'll talk to."
+  },
+  {
+    "id": 130,
+    "category": "believable",
+    "text": "My oven caught fire — minor damage but lots of smoke."
+  },
+  {
+    "id": 131,
+    "category": "believable",
+    "text": "I ran out of my medication and the pharmacy doesn't open until noon."
+  },
+  {
+    "id": 132,
+    "category": "believable",
+    "text": "I have a shingles outbreak and it's extremely painful."
+  },
+  {
+    "id": 133,
+    "category": "believable",
+    "text": "My child locked themselves in the bathroom and I'm waiting for a locksmith."
+  },
+  {
+    "id": 134,
+    "category": "believable",
+    "text": "I have bronchitis and keep having coughing fits."
+  },
+  {
+    "id": 135,
+    "category": "believable",
+    "text": "My landlord is doing mandatory repairs today."
+  },
+  {
+    "id": 136,
+    "category": "believable",
+    "text": "I have carpal tunnel so bad I can't use a keyboard today."
+  },
+  {
+    "id": 137,
+    "category": "believable",
+    "text": "I have tendinitis in my shoulder and can barely lift my arm."
+  },
+  {
+    "id": 138,
+    "category": "believable",
+    "text": "I need to handle estate paperwork from a relative's passing."
+  },
+  {
+    "id": 139,
+    "category": "believable",
+    "text": "My security system was triggered and I need to be home for the police."
+  },
+  {
+    "id": 140,
+    "category": "believable",
+    "text": "I have a passport appointment for an urgent upcoming trip."
+  },
+  {
+    "id": 141,
+    "category": "believable",
+    "text": "My spouse just had surgery and was discharged early — I need to care for them."
+  },
+  {
+    "id": 142,
+    "category": "believable",
+    "text": "I have a tax audit notification I need to deal with today."
+  },
+  {
+    "id": 143,
+    "category": "believable",
+    "text": "I have period cramps that are completely debilitating today."
+  },
+  {
+    "id": 144,
+    "category": "believable",
+    "text": "I have an IEP meeting at school for my child."
+  },
+  {
+    "id": 145,
+    "category": "believable",
+    "text": "My child has a school event I forgot to put on the calendar."
+  },
+  {
+    "id": 146,
+    "category": "believable",
+    "text": "I have a consulate appointment that took months to get."
+  },
+  {
+    "id": 147,
+    "category": "believable",
+    "text": "I have to deal with a collections issue before end of day."
+  },
+  {
+    "id": 148,
+    "category": "believable",
+    "text": "My car's alternator died mid-commute."
+  },
+  {
+    "id": 149,
+    "category": "believable",
+    "text": "I need to go to urgent care — I'll explain later."
+  },
+  {
+    "id": 150,
+    "category": "believable",
+    "text": "I cut my finger badly and needed stitches this morning."
+  },
+  {
+    "id": 151,
+    "category": "believable",
+    "text": "I burned my hand cooking breakfast."
+  },
+  {
+    "id": 152,
+    "category": "believable",
+    "text": "My parent's power of attorney paperwork needs to be signed today."
+  },
+  {
+    "id": 153,
+    "category": "chaotic",
+    "text": "My car won't start, the babysitter cancelled, and I stepped on a Lego — all before 7am."
+  },
+  {
+    "id": 154,
+    "category": "chaotic",
+    "text": "The pipe burst, the dog escaped, and my kid threw my keys somewhere in the garden."
+  },
+  {
+    "id": 155,
+    "category": "chaotic",
+    "text": "My alarm didn't go off, my coffee exploded, and I'm locked out of the house."
+  },
+  {
+    "id": 156,
+    "category": "chaotic",
+    "text": "I spilled a full pot of coffee on my laptop while simultaneously burning breakfast."
+  },
+  {
+    "id": 157,
+    "category": "chaotic",
+    "text": "The cat knocked my phone into the toilet while I was answering a work email."
+  },
+  {
+    "id": 158,
+    "category": "chaotic",
+    "text": "My car battery died, my Uber got cancelled, and the last bus left two minutes ago."
+  },
+  {
+    "id": 159,
+    "category": "chaotic",
+    "text": "I overslept, my iron broke mid-shirt, and now I can't find parking anywhere."
+  },
+  {
+    "id": 160,
+    "category": "chaotic",
+    "text": "Three separate appliances broke this morning in a coordinated attack."
+  },
+  {
+    "id": 161,
+    "category": "chaotic",
+    "text": "My wifi died, my hotspot is out of data, and my laptop charger snapped in half."
+  },
+  {
+    "id": 162,
+    "category": "chaotic",
+    "text": "The power went out, my alarm ran on battery but was wrong, and here we are."
+  },
+  {
+    "id": 163,
+    "category": "chaotic",
+    "text": "I woke up sick, my car has a flat, and my neighbor blocked my driveway again."
+  },
+  {
+    "id": 164,
+    "category": "chaotic",
+    "text": "My basement flooded, the sump pump failed, and I'm currently knee-deep in this."
+  },
+  {
+    "id": 165,
+    "category": "chaotic",
+    "text": "I lost my phone, my wallet, and my car keys — all in my own apartment."
+  },
+  {
+    "id": 166,
+    "category": "chaotic",
+    "text": "The heating failed, the pipes froze, and the plumber has a 4-hour window."
+  },
+  {
+    "id": 167,
+    "category": "chaotic",
+    "text": "My dog ate my lunch, chewed through my charger, and is now eating my shoe."
+  },
+  {
+    "id": 168,
+    "category": "chaotic",
+    "text": "I ran over a nail getting milk, the spare is flat too, and I'm stranded."
+  },
+  {
+    "id": 169,
+    "category": "chaotic",
+    "text": "My kid vomited on my work bag just as I was heading out the door."
+  },
+  {
+    "id": 170,
+    "category": "chaotic",
+    "text": "I broke my glasses, my contacts are expired, and I literally cannot see."
+  },
+  {
+    "id": 171,
+    "category": "chaotic",
+    "text": "My laundry is still wet, my only backup shirt is at the dry cleaner, and I'm out of options."
+  },
+  {
+    "id": 172,
+    "category": "chaotic",
+    "text": "I was in a minor accident, then noticed my registration is expired, then it started raining."
+  },
+  {
+    "id": 173,
+    "category": "chaotic",
+    "text": "My fridge died, the freezer thawed, and everything needs to be cleaned up immediately."
+  },
+  {
+    "id": 174,
+    "category": "chaotic",
+    "text": "I fell and twisted my ankle, then dropped my phone screen-first on concrete."
+  },
+  {
+    "id": 175,
+    "category": "chaotic",
+    "text": "Everything that could go wrong this morning did, in roughly chronological order."
+  },
+  {
+    "id": 176,
+    "category": "chaotic",
+    "text": "My garage door broke, trapping the car inside — then the locksmith got stuck in traffic."
+  },
+  {
+    "id": 177,
+    "category": "chaotic",
+    "text": "The babysitter, the backup babysitter, and my partner all called in unavailable today."
+  },
+  {
+    "id": 178,
+    "category": "chaotic",
+    "text": "I stepped on a bee barefoot, my EpiPen is expired, and I'm waiting for a ride to urgent care."
+  },
+  {
+    "id": 179,
+    "category": "chaotic",
+    "text": "My toilet overflowed, I slipped cleaning it up, and now I'm icing my knee."
+  },
+  {
+    "id": 180,
+    "category": "chaotic",
+    "text": "My kid drew on my only clean work clothes with permanent marker."
+  },
+  {
+    "id": 181,
+    "category": "chaotic",
+    "text": "My router is dead, my phone data is throttled, and there's a city-wide outage too."
+  },
+  {
+    "id": 182,
+    "category": "chaotic",
+    "text": "I tried to fix a small leak and now there's a larger, more confident leak."
+  },
+  {
+    "id": 183,
+    "category": "chaotic",
+    "text": "My car stalled on the railway crossing — I got out in time, the car did not."
+  },
+  {
+    "id": 184,
+    "category": "chaotic",
+    "text": "My umbrella broke, it's raining sideways, and a puddle got me from the knees down."
+  },
+  {
+    "id": 185,
+    "category": "chaotic",
+    "text": "I dropped my work badge in the gap between the platform and the train."
+  },
+  {
+    "id": 186,
+    "category": "chaotic",
+    "text": "My cat escaped, I chased it outside without shoes, and then got locked out."
+  },
+  {
+    "id": 187,
+    "category": "chaotic",
+    "text": "The school called about one child while the other one was having a meltdown at home."
+  },
+  {
+    "id": 188,
+    "category": "chaotic",
+    "text": "My upstairs neighbor's pipe burst into my ceiling during breakfast."
+  },
+  {
+    "id": 189,
+    "category": "chaotic",
+    "text": "I went to the gym at 5am, locked my keys inside, and have been here since."
+  },
+  {
+    "id": 190,
+    "category": "chaotic",
+    "text": "A tree branch fell on my car and also on the path I use to get to the bus."
+  },
+  {
+    "id": 191,
+    "category": "chaotic",
+    "text": "I attempted to iron one shirt and somehow set off the smoke alarm and fire suppression."
+  },
+  {
+    "id": 192,
+    "category": "chaotic",
+    "text": "My bike tire punctured, the repair kit was empty, and my phone died on the way back."
+  },
+  {
+    "id": 193,
+    "category": "chaotic",
+    "text": "The elevator in my building is broken and I live on the 14th floor with a bad knee."
+  },
+  {
+    "id": 194,
+    "category": "chaotic",
+    "text": "I arrived at the office and realized I'd left my laptop at a coffee shop 3 miles back."
+  },
+  {
+    "id": 195,
+    "category": "chaotic",
+    "text": "My power went out overnight — fridge defrosted, alarm reset, morning in ruins."
+  },
+  {
+    "id": 196,
+    "category": "chaotic",
+    "text": "I was half dressed for work when a water main exploded on my street."
+  },
+  {
+    "id": 197,
+    "category": "chaotic",
+    "text": "My printer jammed while printing a document I need, ate the paper, and now smells."
+  },
+  {
+    "id": 198,
+    "category": "chaotic",
+    "text": "My ride-share driver drove to my road — the wrong city — and I'm still disputing the charge."
+  },
+  {
+    "id": 199,
+    "category": "chaotic",
+    "text": "I booked the wrong train, got on anyway, am now 60 miles in the wrong direction."
+  },
+  {
+    "id": 200,
+    "category": "chaotic",
+    "text": "My dishwasher flooded, the mop handle snapped, and the towels are all in the wash."
+  },
+  {
+    "id": 201,
+    "category": "chaotic",
+    "text": "I had three things go wrong simultaneously and I need a minute to rank them by urgency."
+  },
+  {
+    "id": 202,
+    "category": "chaotic",
+    "text": "I genuinely do not know where to start with this morning and that's the problem."
+  },
+  {
+    "id": 203,
+    "category": "dark",
+    "text": "I've come to question whether commuting is something I can continue to do in good conscience."
+  },
+  {
+    "id": 204,
+    "category": "dark",
+    "text": "I need a day to sit with the crushing weight of mid-week existential dread."
+  },
+  {
+    "id": 205,
+    "category": "dark",
+    "text": "I had a dream where I wasn't tired anymore and I need to grieve the loss of waking up."
+  },
+  {
+    "id": 206,
+    "category": "dark",
+    "text": "My will to participate in society peaked last Friday and has been declining since."
+  },
+  {
+    "id": 207,
+    "category": "dark",
+    "text": "I'm processing some information about the nature of Mondays that I can't ignore."
+  },
+  {
+    "id": 208,
+    "category": "dark",
+    "text": "I stared at my work outfit for 45 minutes and felt nothing."
+  },
+  {
+    "id": 209,
+    "category": "dark",
+    "text": "I have arrived at a philosophical impasse regarding the concept of showing up."
+  },
+  {
+    "id": 210,
+    "category": "dark",
+    "text": "My motivation called in sick and didn't leave a forwarding number."
+  },
+  {
+    "id": 211,
+    "category": "dark",
+    "text": "I looked at my calendar and the meeting at 9am gave me a physical response."
+  },
+  {
+    "id": 212,
+    "category": "dark",
+    "text": "I am deeply, personally exhausted in a way that one more team standup will not fix."
+  },
+  {
+    "id": 213,
+    "category": "dark",
+    "text": "I need to take a day to be sad about things in a productive, horizontal way."
+  },
+  {
+    "id": 214,
+    "category": "dark",
+    "text": "My enthusiasm for this week has reached levels too low to sustain safe operation."
+  },
+  {
+    "id": 215,
+    "category": "dark",
+    "text": "I have been awake since 3am contemplating my career and the conclusions weren't great."
+  },
+  {
+    "id": 216,
+    "category": "dark",
+    "text": "I'm in a period of emotional inventory that requires me to stay home and audit things."
+  },
+  {
+    "id": 217,
+    "category": "dark",
+    "text": "I've hit a wall and the wall has hit back."
+  },
+  {
+    "id": 218,
+    "category": "dark",
+    "text": "I require a day to not be perceived by anyone."
+  },
+  {
+    "id": 219,
+    "category": "dark",
+    "text": "I'm taking a mental health day before I am forced to take a permanent career change."
+  },
+  {
+    "id": 220,
+    "category": "dark",
+    "text": "My inner battery has been at 2% since Sunday and charging is slow."
+  },
+  {
+    "id": 221,
+    "category": "dark",
+    "text": "I need to rest before I say something I cannot unsay in a meeting."
+  },
+  {
+    "id": 222,
+    "category": "dark",
+    "text": "The thought of joining that 8am call filled me with a specific kind of despair."
+  },
+  {
+    "id": 223,
+    "category": "dark",
+    "text": "I reached the limit of my current reserves of patience and professionalism."
+  },
+  {
+    "id": 224,
+    "category": "dark",
+    "text": "I woke up at 4am certain of something I cannot verify and I haven't recovered."
+  },
+  {
+    "id": 225,
+    "category": "dark",
+    "text": "I need the day to process some feelings that are interfering with my typing speed."
+  },
+  {
+    "id": 226,
+    "category": "dark",
+    "text": "My spirit needs a Tuesday to regroup before Wednesday."
+  },
+  {
+    "id": 227,
+    "category": "dark",
+    "text": "I have a case of burnout that I've been reclassifying as 'fine' for too many months."
+  },
+  {
+    "id": 228,
+    "category": "dark",
+    "text": "I have a scheduled breakdown that I can no longer postpone."
+  },
+  {
+    "id": 229,
+    "category": "dark",
+    "text": "I am going through something I am not ready to name but am very ready to feel."
+  },
+  {
+    "id": 230,
+    "category": "dark",
+    "text": "My capacity to perform normalcy today is simply not there."
+  },
+  {
+    "id": 231,
+    "category": "dark",
+    "text": "I keep starting sentences and then stopping and that seems relevant."
+  },
+  {
+    "id": 232,
+    "category": "dark",
+    "text": "I need to take a personal day before I make a decision I can't walk back."
+  },
+  {
+    "id": 233,
+    "category": "dark",
+    "text": "I've been running on fumes, spite, and cold coffee and two of those have run out."
+  },
+  {
+    "id": 234,
+    "category": "dark",
+    "text": "I need to decompress from last week before I'm ready to compress for this one."
+  },
+  {
+    "id": 235,
+    "category": "dark",
+    "text": "I have a deep structural tiredness that one night of sleep didn't address."
+  },
+  {
+    "id": 236,
+    "category": "dark",
+    "text": "Something happened and I'm dealing with it at the speed of someone who needs the day."
+  },
+  {
+    "id": 237,
+    "category": "dark",
+    "text": "I have a thing I need to sit with, and it needs a whole day, not a lunch break."
+  },
+  {
+    "id": 238,
+    "category": "dark",
+    "text": "I am at capacity and taking on anything further would result in overflow."
+  },
+  {
+    "id": 239,
+    "category": "dark",
+    "text": "My resilience is currently offline for scheduled maintenance."
+  },
+  {
+    "id": 240,
+    "category": "dark",
+    "text": "I need to not work today in order to continue to want to work tomorrow."
+  },
+  {
+    "id": 241,
+    "category": "dark",
+    "text": "I'm experiencing a level of internal weather that requires me to stay indoors."
+  },
+  {
+    "id": 242,
+    "category": "dark",
+    "text": "I have a meeting with myself today to discuss some internal feedback I've received."
+  },
+  {
+    "id": 243,
+    "category": "dark",
+    "text": "I have run out of the kind of energy you need for other people."
+  },
+  {
+    "id": 244,
+    "category": "dark",
+    "text": "My sense of humor about all of this has temporarily left the building."
+  },
+  {
+    "id": 245,
+    "category": "dark",
+    "text": "I need to take a rest day or I will take a rest year — I'm choosing the smaller option."
+  },
+  {
+    "id": 246,
+    "category": "dark",
+    "text": "I've been ignoring some warning signs about my own wellbeing and they've escalated."
+  },
+  {
+    "id": 247,
+    "category": "dark",
+    "text": "I have arrived at a junction in my relationship with this week."
+  },
+  {
+    "id": 248,
+    "category": "dark",
+    "text": "I need a day that is entirely mine — no performance, no output, no updates."
+  },
+  {
+    "id": 249,
+    "category": "dark",
+    "text": "I'm recharging so the next version of me that shows up is worth having there."
+  },
+  {
+    "id": 250,
+    "category": "dark",
+    "text": "I am resting preemptively, which is more efficient than resting reactively."
+  },
+  {
+    "id": 251,
+    "category": "dark",
+    "text": "Something is wrong and I don't have the vocabulary for it yet."
+  },
+  {
+    "id": 252,
+    "category": "dark",
+    "text": "I'm taking a day to be a person rather than a function."
+  },
+  {
+    "id": 253,
+    "category": "office",
+    "text": "I have a conflict with a recurring meeting that I can no longer resolve diplomatically."
+  },
+  {
+    "id": 254,
+    "category": "office",
+    "text": "I'm experiencing stakeholder fatigue and need 24 hours before the next alignment call."
+  },
+  {
+    "id": 255,
+    "category": "office",
+    "text": "I'm working from home today to avoid the collaborative open-plan environment."
+  },
+  {
+    "id": 256,
+    "category": "office",
+    "text": "I need to review my notes from last quarter's all-hands before I can engage with this quarter."
+  },
+  {
+    "id": 257,
+    "category": "office",
+    "text": "I have reached the weekly limit of meetings during which nothing was decided."
+  },
+  {
+    "id": 258,
+    "category": "office",
+    "text": "I'm blocked on a dependency and cannot progress until that dependency responds to email."
+  },
+  {
+    "id": 259,
+    "category": "office",
+    "text": "I'm taking an offline working day — deep work requires zero interruptions."
+  },
+  {
+    "id": 260,
+    "category": "office",
+    "text": "I'm attending a leadership summit. It's on YouTube. Still counts."
+  },
+  {
+    "id": 261,
+    "category": "office",
+    "text": "I have a performance review I need to prepare for, which takes all of today."
+  },
+  {
+    "id": 262,
+    "category": "office",
+    "text": "I'm prototyping a new workflow that could save the team hundreds of hours — needs the day."
+  },
+  {
+    "id": 263,
+    "category": "office",
+    "text": "I'm doing independent market research from an undisclosed location."
+  },
+  {
+    "id": 264,
+    "category": "office",
+    "text": "I have an off-site strategy session — the off-site is my living room."
+  },
+  {
+    "id": 265,
+    "category": "office",
+    "text": "I need to review my OKRs and my OKRs are not going to review themselves."
+  },
+  {
+    "id": 266,
+    "category": "office",
+    "text": "I have to finalize my Q3 priorities, which are in conflict with my Q2 commitments."
+  },
+  {
+    "id": 267,
+    "category": "office",
+    "text": "I'm taking a proactive mental health day to prevent a much longer future absence."
+  },
+  {
+    "id": 268,
+    "category": "office",
+    "text": "I have a networking event I need to prepare for."
+  },
+  {
+    "id": 269,
+    "category": "office",
+    "text": "I'm conducting a retrospective on my own productivity before proceeding."
+  },
+  {
+    "id": 270,
+    "category": "office",
+    "text": "I have a 1:1 I need to reschedule — it was scheduled for today and I need to reschedule it."
+  },
+  {
+    "id": 271,
+    "category": "office",
+    "text": "I have to submit a report that requires data from a system I've been locked out of."
+  },
+  {
+    "id": 272,
+    "category": "office",
+    "text": "I'm updating my skills to remain competitive in the current market."
+  },
+  {
+    "id": 273,
+    "category": "office",
+    "text": "I have a conflict of commitment this morning that requires my attention."
+  },
+  {
+    "id": 274,
+    "category": "office",
+    "text": "I'm taking a creativity day — some of my best ideas have come from not being at my desk."
+  },
+  {
+    "id": 275,
+    "category": "office",
+    "text": "I need to do some reading that is tangentially but meaningfully work-related."
+  },
+  {
+    "id": 276,
+    "category": "office",
+    "text": "I have a commitment to a cross-functional initiative that supersedes today's schedule."
+  },
+  {
+    "id": 277,
+    "category": "office",
+    "text": "I'm in a planning retreat for next month's planning retreat."
+  },
+  {
+    "id": 278,
+    "category": "office",
+    "text": "I've completed all my deliverables and coming in would only slow others down."
+  },
+  {
+    "id": 279,
+    "category": "office",
+    "text": "I'm working on a passion project that may change the company — I need just one more day."
+  },
+  {
+    "id": 280,
+    "category": "office",
+    "text": "I need to complete my mandatory training before the deadline tonight."
+  },
+  {
+    "id": 281,
+    "category": "office",
+    "text": "I have a professional development workshop — it's self-directed but still."
+  },
+  {
+    "id": 282,
+    "category": "office",
+    "text": "I have an industry conference call at an inconvenient time that takes the whole morning."
+  },
+  {
+    "id": 283,
+    "category": "office",
+    "text": "I need to write a business case I've been procrastinating on for three weeks."
+  },
+  {
+    "id": 284,
+    "category": "office",
+    "text": "I'm preparing for a difficult conversation that requires extensive preparation."
+  },
+  {
+    "id": 285,
+    "category": "office",
+    "text": "I have a compliance deadline I've only just become aware of."
+  },
+  {
+    "id": 286,
+    "category": "office",
+    "text": "I'm attending a seminar. The seminar is a podcast. I'm taking notes."
+  },
+  {
+    "id": 287,
+    "category": "office",
+    "text": "I need to archive three years of email before I can function productively."
+  },
+  {
+    "id": 288,
+    "category": "office",
+    "text": "I have an urgent deliverable that will go faster without colleagues asking questions."
+  },
+  {
+    "id": 289,
+    "category": "office",
+    "text": "I need to respond to a client escalation that can only be handled from my home office."
+  },
+  {
+    "id": 290,
+    "category": "office",
+    "text": "I'm reviewing my job description to see if any of today's tasks are actually mine."
+  },
+  {
+    "id": 291,
+    "category": "office",
+    "text": "I have a difficult email to compose and I need the full day to get the tone right."
+  },
+  {
+    "id": 292,
+    "category": "office",
+    "text": "I'm mentoring someone remotely — it's scheduled for today, all day apparently."
+  },
+  {
+    "id": 293,
+    "category": "office",
+    "text": "I need to finish something that yesterday's me should have finished and didn't."
+  },
+  {
+    "id": 294,
+    "category": "office",
+    "text": "I have a milestone review that I am not yet ready to milestone."
+  },
+  {
+    "id": 295,
+    "category": "office",
+    "text": "I need to review a contract with some clauses I need to look into."
+  },
+  {
+    "id": 296,
+    "category": "office",
+    "text": "I have a hiring panel interview today that I wasn't told about until last night."
+  },
+  {
+    "id": 297,
+    "category": "office",
+    "text": "I'm managing a supplier relationship that requires my full attention today."
+  },
+  {
+    "id": 298,
+    "category": "office",
+    "text": "I have an urgent audit request that requires me to gather files for the next few hours."
+  },
+  {
+    "id": 299,
+    "category": "office",
+    "text": "I need to respond to a legal matter the company's outside counsel flagged."
+  },
+  {
+    "id": 300,
+    "category": "office",
+    "text": "I have a board deck to review before it goes out and the changes are substantial."
+  },
+  {
+    "id": 301,
+    "category": "office",
+    "text": "I'm attending a crisis communications training. Timing is apt."
+  },
+  {
+    "id": 302,
+    "category": "office",
+    "text": "I have a regulatory filing due that I only became aware of this morning."
+  },
+  {
+    "id": 303,
+    "category": "tech",
+    "text": "My laptop completely died and I'm waiting for IT support."
+  },
+  {
+    "id": 304,
+    "category": "tech",
+    "text": "My home internet is down and the ISP has a 4-hour repair window."
+  },
+  {
+    "id": 305,
+    "category": "tech",
+    "text": "My VPN hasn't worked all morning and I can't access anything."
+  },
+  {
+    "id": 306,
+    "category": "tech",
+    "text": "My computer won't boot — the hard drive might be dead."
+  },
+  {
+    "id": 307,
+    "category": "tech",
+    "text": "I spilled coffee on my laptop and it's fried."
+  },
+  {
+    "id": 308,
+    "category": "tech",
+    "text": "My router is dead and a replacement arrives this afternoon."
+  },
+  {
+    "id": 309,
+    "category": "tech",
+    "text": "My monitor died and I'm waiting for a loaner."
+  },
+  {
+    "id": 310,
+    "category": "tech",
+    "text": "My work phone got wiped remotely by mistake."
+  },
+  {
+    "id": 311,
+    "category": "tech",
+    "text": "The power surge last night fried my entire home office setup."
+  },
+  {
+    "id": 312,
+    "category": "tech",
+    "text": "My keyboard broke and I cannot type."
+  },
+  {
+    "id": 313,
+    "category": "tech",
+    "text": "My two-factor authentication app got corrupted and I'm locked out of everything."
+  },
+  {
+    "id": 314,
+    "category": "tech",
+    "text": "My work device ran a forced update overnight and now nothing works."
+  },
+  {
+    "id": 315,
+    "category": "tech",
+    "text": "My entire workspace is down due to a cloud service outage."
+  },
+  {
+    "id": 316,
+    "category": "tech",
+    "text": "My external hard drive with all my project files died."
+  },
+  {
+    "id": 317,
+    "category": "tech",
+    "text": "I'm locked out of my work email and IT hasn't responded yet."
+  },
+  {
+    "id": 318,
+    "category": "tech",
+    "text": "My webcam failed and I have video calls all day."
+  },
+  {
+    "id": 319,
+    "category": "tech",
+    "text": "My microphone stopped working and I have 5 hours of meetings."
+  },
+  {
+    "id": 320,
+    "category": "tech",
+    "text": "My ISP is doing emergency maintenance in my area today."
+  },
+  {
+    "id": 321,
+    "category": "tech",
+    "text": "My phone was stolen and I'm dealing with the account lockout process."
+  },
+  {
+    "id": 322,
+    "category": "tech",
+    "text": "My company laptop was involved in a liquid incident — I prefer not to specify."
+  },
+  {
+    "id": 323,
+    "category": "tech",
+    "text": "My internet keeps dropping every 10 minutes — IT is working on it."
+  },
+  {
+    "id": 324,
+    "category": "tech",
+    "text": "My GPU failed and I need it for literally everything I do."
+  },
+  {
+    "id": 325,
+    "category": "tech",
+    "text": "My noise-cancelling headphones broke and my neighbors are jackhammering."
+  },
+  {
+    "id": 326,
+    "category": "tech",
+    "text": "My printer died and I need to print legal documents for a meeting."
+  },
+  {
+    "id": 327,
+    "category": "tech",
+    "text": "My second monitor died and I can't do my job on a single 13-inch screen."
+  },
+  {
+    "id": 328,
+    "category": "tech",
+    "text": "My home office UPS failed and took the router down with it."
+  },
+  {
+    "id": 329,
+    "category": "tech",
+    "text": "A Windows update has rendered my machine unable to connect to company servers."
+  },
+  {
+    "id": 330,
+    "category": "tech",
+    "text": "I was the target of a phishing attack and need to secure all my accounts."
+  },
+  {
+    "id": 331,
+    "category": "tech",
+    "text": "My SSH keys got wiped and I can't access any of the servers I maintain."
+  },
+  {
+    "id": 332,
+    "category": "tech",
+    "text": "My development environment is completely broken after an OS update."
+  },
+  {
+    "id": 333,
+    "category": "tech",
+    "text": "My cloud storage hit its limit and I can't sync anything to work."
+  },
+  {
+    "id": 334,
+    "category": "tech",
+    "text": "The shared drive is down and everything I need is on the shared drive."
+  },
+  {
+    "id": 335,
+    "category": "tech",
+    "text": "My company VPN token expired and I can't get a new one without the system I can't access."
+  },
+  {
+    "id": 336,
+    "category": "tech",
+    "text": "My laptop battery died and the charger is at the office. A replacement is coming."
+  },
+  {
+    "id": 337,
+    "category": "tech",
+    "text": "My home NAS is in a RAID rebuild and I'm locked out of all my local files."
+  },
+  {
+    "id": 338,
+    "category": "tech",
+    "text": "My Bluetooth devices stopped pairing and I can't use anything without wires."
+  },
+  {
+    "id": 339,
+    "category": "tech",
+    "text": "My workspace container refuses to start — corrupted after yesterday's update."
+  },
+  {
+    "id": 340,
+    "category": "tech",
+    "text": "My IDE is in a crash loop and factory reset didn't help."
+  },
+  {
+    "id": 341,
+    "category": "tech",
+    "text": "My build system is broken and I can't even check what's broken without the build system."
+  },
+  {
+    "id": 342,
+    "category": "tech",
+    "text": "My local DNS is resolving everything to localhost — I can't reach any external service."
+  },
+  {
+    "id": 343,
+    "category": "tech",
+    "text": "My authentication certificate expired at midnight and renewal is a 2-hour process."
+  },
+  {
+    "id": 344,
+    "category": "tech",
+    "text": "My two monitors have different color profiles and the difference gave me a migraine."
+  },
+  {
+    "id": 345,
+    "category": "tech",
+    "text": "My terminal emulator corrupted its config and now displays everything upside down."
+  },
+  {
+    "id": 346,
+    "category": "tech",
+    "text": "I accidentally deleted a config file and now my entire local environment is unresponsive."
+  },
+  {
+    "id": 347,
+    "category": "tech",
+    "text": "My package manager is broken, the caches are corrupted, and I've been at it since 6am."
+  },
+  {
+    "id": 348,
+    "category": "tech",
+    "text": "My video conferencing app refuses to see my camera even though it's connected."
+  },
+  {
+    "id": 349,
+    "category": "tech",
+    "text": "My Wi-Fi card failed and I'm waiting for a USB adapter to arrive."
+  },
+  {
+    "id": 350,
+    "category": "tech",
+    "text": "My smart home system had a glitch and locked me out of my own house."
+  },
+  {
+    "id": 351,
+    "category": "tech",
+    "text": "My ergonomic keyboard requires a firmware update that takes a full day apparently."
+  },
+  {
+    "id": 352,
+    "category": "tech",
+    "text": "I need to do a full hardware diagnostic before I can use this machine safely."
+  },
+  {
+    "id": 353,
+    "category": "motorcycle",
+    "text": "My motorcycle won't start and it's my only transport."
+  },
+  {
+    "id": 354,
+    "category": "motorcycle",
+    "text": "I got a flat tire on the bike mid-commute."
+  },
+  {
+    "id": 355,
+    "category": "motorcycle",
+    "text": "My chain snapped two miles from home."
+  },
+  {
+    "id": 356,
+    "category": "motorcycle",
+    "text": "I slid on a wet road this morning — I'm fine, the bike less so."
+  },
+  {
+    "id": 357,
+    "category": "motorcycle",
+    "text": "My throttle cable snapped and the bike is now parked on the verge."
+  },
+  {
+    "id": 358,
+    "category": "motorcycle",
+    "text": "My kickstand broke and the bike tipped over in the driveway."
+  },
+  {
+    "id": 359,
+    "category": "motorcycle",
+    "text": "My motorcycle was hit while parked overnight — waiting for the police report."
+  },
+  {
+    "id": 360,
+    "category": "motorcycle",
+    "text": "My helmet visor cracked and I can't ride without it legally."
+  },
+  {
+    "id": 361,
+    "category": "motorcycle",
+    "text": "My brake pads are metal on metal — discovered this morning, cannot ride."
+  },
+  {
+    "id": 362,
+    "category": "motorcycle",
+    "text": "My battery died and the jump starter is at the shop."
+  },
+  {
+    "id": 363,
+    "category": "motorcycle",
+    "text": "I noticed an oil leak on my way out — riding would make it significantly worse."
+  },
+  {
+    "id": 364,
+    "category": "motorcycle",
+    "text": "My gear is soaked from last night's rain and hypothermia seems like a bad tradeoff."
+  },
+  {
+    "id": 365,
+    "category": "motorcycle",
+    "text": "My clutch cable snapped in my hand as I pulled away from the driveway."
+  },
+  {
+    "id": 366,
+    "category": "motorcycle",
+    "text": "My front fork has a slow leak I need to address before riding."
+  },
+  {
+    "id": 367,
+    "category": "motorcycle",
+    "text": "My indicator stopped working and I can't ride legally without one."
+  },
+  {
+    "id": 368,
+    "category": "motorcycle",
+    "text": "There's a bolt missing from my rear axle. I'm not riding today."
+  },
+  {
+    "id": 369,
+    "category": "motorcycle",
+    "text": "My gloves were eaten by something overnight. I have no backup gloves."
+  },
+  {
+    "id": 370,
+    "category": "motorcycle",
+    "text": "I noticed a crack in my frame that needs immediate assessment before I ride."
+  },
+  {
+    "id": 371,
+    "category": "motorcycle",
+    "text": "My speedo cable disconnected and I can't monitor my speed."
+  },
+  {
+    "id": 372,
+    "category": "motorcycle",
+    "text": "I need to wait for the frost to clear — my bike doesn't have ABS."
+  },
+  {
+    "id": 373,
+    "category": "motorcycle",
+    "text": "My ride partner had a spill this morning and I'm with them at urgent care."
+  },
+  {
+    "id": 374,
+    "category": "motorcycle",
+    "text": "My carb is flooding — the bike won't idle without my hand on the throttle."
+  },
+  {
+    "id": 375,
+    "category": "motorcycle",
+    "text": "My rear shock has collapsed and the bike sits at an angle."
+  },
+  {
+    "id": 376,
+    "category": "motorcycle",
+    "text": "The MOT/inspection expired yesterday — I can't legally take the bike out."
+  },
+  {
+    "id": 377,
+    "category": "motorcycle",
+    "text": "My fuel gauge is broken and I ran out two blocks from home."
+  },
+  {
+    "id": 378,
+    "category": "motorcycle",
+    "text": "My side stand switch is faulty — the engine cuts whenever I put it down."
+  },
+  {
+    "id": 379,
+    "category": "motorcycle",
+    "text": "My handgrips came loose and are spinning — not safe to ride."
+  },
+  {
+    "id": 380,
+    "category": "motorcycle",
+    "text": "I found a nail lodged in my rear tire this morning."
+  },
+  {
+    "id": 381,
+    "category": "motorcycle",
+    "text": "My motorcycle was towed overnight — apparently my parking spot wasn't mine."
+  },
+  {
+    "id": 382,
+    "category": "motorcycle",
+    "text": "My visor fogged up on my first corner of the day and I pulled over safely."
+  },
+  {
+    "id": 383,
+    "category": "motorcycle",
+    "text": "A dog ran in front of me — no injuries, but I need a moment."
+  },
+  {
+    "id": 384,
+    "category": "motorcycle",
+    "text": "My exhaust bracket snapped and the exhaust is dragging. Hard to ride quietly."
+  },
+  {
+    "id": 385,
+    "category": "motorcycle",
+    "text": "My mirrors shook loose on yesterday's ride and I haven't re-adjusted them."
+  },
+  {
+    "id": 386,
+    "category": "motorcycle",
+    "text": "My ignition switch is intermittent — it started once and then didn't."
+  },
+  {
+    "id": 387,
+    "category": "motorcycle",
+    "text": "My seat bolts stripped and the seat moves on acceleration."
+  },
+  {
+    "id": 388,
+    "category": "motorcycle",
+    "text": "My throttle is sticking open — that's a same-day fix I need to prioritize."
+  },
+  {
+    "id": 389,
+    "category": "motorcycle",
+    "text": "My tail light has been out for a few days. Today I got pulled over about it."
+  },
+  {
+    "id": 390,
+    "category": "motorcycle",
+    "text": "The road I commute on is closed for resurfacing and the detour doesn't suit a bike."
+  },
+  {
+    "id": 391,
+    "category": "motorcycle",
+    "text": "My left hand is too sore from a fall last week to operate the clutch safely."
+  },
+  {
+    "id": 392,
+    "category": "motorcycle",
+    "text": "There's a high-wind warning and my bike and I do not get along in high winds."
+  },
+  {
+    "id": 393,
+    "category": "motorcycle",
+    "text": "My footpegs are cracked and I noticed it after the first corner."
+  },
+  {
+    "id": 394,
+    "category": "motorcycle",
+    "text": "My fuel cap lock is jammed and I can't open it to refuel."
+  },
+  {
+    "id": 395,
+    "category": "motorcycle",
+    "text": "I dropped the bike in the driveway and the brake lever snapped clean off."
+  },
+  {
+    "id": 396,
+    "category": "motorcycle",
+    "text": "My riding jacket's CE armour needs replacing — I won't ride without it."
+  },
+  {
+    "id": 397,
+    "category": "motorcycle",
+    "text": "My bike's GPS mount broke and I don't know the route without it."
+  },
+  {
+    "id": 398,
+    "category": "motorcycle",
+    "text": "A wasp flew into my helmet at 40mph. I survived. The wasp did not."
+  },
+  {
+    "id": 399,
+    "category": "motorcycle",
+    "text": "My levers are set for someone with bigger hands and adjustment takes tools I don't have."
+  },
+  {
+    "id": 400,
+    "category": "motorcycle",
+    "text": "My chain guard broke off and is lying in the road."
+  },
+  {
+    "id": 401,
+    "category": "motorcycle",
+    "text": "My coolant warning light came on two blocks from home."
+  },
+  {
+    "id": 402,
+    "category": "motorcycle",
+    "text": "I need to wait for the tyre shop to open — the front tyre is unsafe to ride on."
+  },
+  {
+    "id": 403,
+    "category": "funny",
+    "text": "My cat sat on my keyboard and submitted my resignation — still trying to undo that. (alternate)"
+  },
+  {
+    "id": 404,
+    "category": "funny",
+    "text": "I sneezed so hard I pulled every muscle in my upper body. (alternate)"
+  },
+  {
+    "id": 405,
+    "category": "funny",
+    "text": "I accidentally superglued my hand to my front door handle. (alternate)"
+  },
+  {
+    "id": 406,
+    "category": "funny",
+    "text": "A seagull stole my car keys and flew away. I'm not joking. (alternate)"
+  },
+  {
+    "id": 407,
+    "category": "funny",
+    "text": "I put my phone in the fridge and my lunch in my pocket. Found both hours later. (alternate)"
+  },
+  {
+    "id": 408,
+    "category": "funny",
+    "text": "My parrot has learned to call in sick on my behalf — unfortunately he did it again. (alternate)"
+  },
+  {
+    "id": 409,
+    "category": "funny",
+    "text": "I sat on my glasses and now I can't find my glasses to look for my glasses. (alternate)"
+  },
+  {
+    "id": 410,
+    "category": "funny",
+    "text": "I fell asleep on the couch and my dog locked the dog door from the outside. (alternate)"
+  },
+  {
+    "id": 411,
+    "category": "funny",
+    "text": "I accidentally signed up for a 5K that starts in my neighborhood this morning. (alternate)"
+  },
+  {
+    "id": 412,
+    "category": "funny",
+    "text": "My breakfast fought back. (alternate)"
+  },
+  {
+    "id": 413,
+    "category": "funny",
+    "text": "I tripped on my own shoelace and slid down a full flight of stairs. (alternate)"
+  },
+  {
+    "id": 414,
+    "category": "funny",
+    "text": "My fish is sick and I've been up all night performing fish CPR. (alternate)"
+  },
+  {
+    "id": 415,
+    "category": "funny",
+    "text": "I got my sweater stuck in the car door and had to cut myself free. (alternate)"
+  },
+  {
+    "id": 416,
+    "category": "funny",
+    "text": "I left my shoes at a friend's house last night and only realized at the bus stop. (alternate)"
+  },
+  {
+    "id": 417,
+    "category": "funny",
+    "text": "My alarm clock displayed a very convincing PM instead of AM. (alternate)"
+  },
+  {
+    "id": 418,
+    "category": "funny",
+    "text": "I tried to make coffee and made soup instead. I don't know how. (alternate)"
+  },
+  {
+    "id": 419,
+    "category": "funny",
+    "text": "A raccoon has barricaded himself in my garage and refuses to negotiate. (alternate)"
+  },
+  {
+    "id": 420,
+    "category": "funny",
+    "text": "I locked myself out while checking the mail in my pajamas. (alternate)"
+  },
+  {
+    "id": 421,
+    "category": "funny",
+    "text": "My dog ate the car registration and the DMV needs it today. (alternate)"
+  },
+  {
+    "id": 422,
+    "category": "funny",
+    "text": "I tried a new hair dye and my hair is now a color not found in nature. (alternate)"
+  },
+  {
+    "id": 423,
+    "category": "funny",
+    "text": "I accidentally replied-all on a very personal email thread this morning. (alternate)"
+  },
+  {
+    "id": 424,
+    "category": "funny",
+    "text": "A squirrel chewed through my only charging cable and my phone is dead. (alternate)"
+  },
+  {
+    "id": 425,
+    "category": "funny",
+    "text": "I walked into a sliding glass door and need a moment. (alternate)"
+  },
+  {
+    "id": 426,
+    "category": "funny",
+    "text": "My neighbor's inflatable pool float escaped into my yard and blocked my car. (alternate)"
+  },
+  {
+    "id": 427,
+    "category": "funny",
+    "text": "I slipped on a banana peel. Yes, that is actually what happened. (alternate)"
+  },
+  {
+    "id": 428,
+    "category": "funny",
+    "text": "My kids put googly eyes on all my work clothes and I didn't notice until the bus. (alternate)"
+  },
+  {
+    "id": 429,
+    "category": "funny",
+    "text": "I accidentally joined a flash mob and couldn't get out. (alternate)"
+  },
+  {
+    "id": 430,
+    "category": "funny",
+    "text": "I woke up to find my car wrapped in toilet paper — neighborhood prank gone far. (alternate)"
+  },
+  {
+    "id": 431,
+    "category": "funny",
+    "text": "I burned my toast so badly the smoke alarm called the fire department. (alternate)"
+  },
+  {
+    "id": 432,
+    "category": "funny",
+    "text": "My automatic garage door has decided today is its day off. (alternate)"
+  },
+  {
+    "id": 433,
+    "category": "funny",
+    "text": "I accidentally wore two different shoes to the bus stop. (alternate)"
+  },
+  {
+    "id": 434,
+    "category": "funny",
+    "text": "My roommate adopted a goat without telling me. The goat is not adjusting well. (alternate)"
+  },
+  {
+    "id": 435,
+    "category": "funny",
+    "text": "I got my tie caught in the printer last night and couldn't reach my phone. (alternate)"
+  },
+  {
+    "id": 436,
+    "category": "funny",
+    "text": "I knocked over my entire wardrobe this morning and need time to process. (alternate)"
+  },
+  {
+    "id": 437,
+    "category": "funny",
+    "text": "I tried to take a shortcut and ended up in a different city. (alternate)"
+  },
+  {
+    "id": 438,
+    "category": "funny",
+    "text": "My doorbell camera caught something I need to report to several authorities. (alternate)"
+  },
+  {
+    "id": 439,
+    "category": "funny",
+    "text": "I accidentally deleted my entire calendar including today's meetings. (alternate)"
+  },
+  {
+    "id": 440,
+    "category": "funny",
+    "text": "My office chair rolled away on a slight incline and I lost it for 45 minutes. (alternate)"
+  },
+  {
+    "id": 441,
+    "category": "funny",
+    "text": "I got my zipper irreparably stuck and I'm still in my coat. (alternate)"
+  },
+  {
+    "id": 442,
+    "category": "funny",
+    "text": "A bird has built a nest in my wing mirror and I don't have the heart to disturb it. (alternate)"
+  },
+  {
+    "id": 443,
+    "category": "funny",
+    "text": "I overloaded my coffee maker and it exploded. The cleanup is ongoing. (alternate)"
+  },
+  {
+    "id": 444,
+    "category": "funny",
+    "text": "I got a sticker stuck to my contact lens. (alternate)"
+  },
+  {
+    "id": 445,
+    "category": "funny",
+    "text": "I answered the door in my sleep. The delivery person left a note. (alternate)"
+  },
+  {
+    "id": 446,
+    "category": "funny",
+    "text": "My microwave door fell off and somehow hit the car keys. (alternate)"
+  },
+  {
+    "id": 447,
+    "category": "funny",
+    "text": "I found out this morning that I'm allergic to my new soap. My face is impressive. (alternate)"
+  },
+  {
+    "id": 448,
+    "category": "funny",
+    "text": "I ordered breakfast delivery and it arrived to the wrong address — my neighbor's. (alternate)"
+  },
+  {
+    "id": 449,
+    "category": "funny",
+    "text": "I accidentally booked my gym session for 4 AM and somehow showed up. (alternate)"
+  },
+  {
+    "id": 450,
+    "category": "funny",
+    "text": "My belt broke in half as I was leaving. I have no backup belt. (alternate)"
+  },
+  {
+    "id": 451,
+    "category": "funny",
+    "text": "I sat in something mysterious on the bus and need to go home to change. (alternate)"
+  },
+  {
+    "id": 452,
+    "category": "funny",
+    "text": "A jar of pasta sauce exploded in my bag and took out my laptop charger. (alternate)"
+  },
+  {
+    "id": 453,
+    "category": "believable",
+    "text": "My car got towed overnight — parking sign confusion. (alternate)"
+  },
+  {
+    "id": 454,
+    "category": "believable",
+    "text": "The bridge on my route is closed for emergency repairs. (alternate)"
+  },
+  {
+    "id": 455,
+    "category": "believable",
+    "text": "I have a urinary tract infection that's completely debilitating. (alternate)"
+  },
+  {
+    "id": 456,
+    "category": "believable",
+    "text": "My child's daycare is closed due to an emergency. (alternate)"
+  },
+  {
+    "id": 457,
+    "category": "believable",
+    "text": "I lost my wallet, ID and transit card — I'm stuck. (alternate)"
+  },
+  {
+    "id": 458,
+    "category": "believable",
+    "text": "My apartment building has an unscheduled water shut-off. (alternate)"
+  },
+  {
+    "id": 459,
+    "category": "believable",
+    "text": "The exterminators are coming — it couldn't wait. (alternate)"
+  },
+  {
+    "id": 460,
+    "category": "believable",
+    "text": "I'm waiting for an important delivery that requires my signature. (alternate)"
+  },
+  {
+    "id": 461,
+    "category": "believable",
+    "text": "I have a financial emergency at my bank. (alternate)"
+  },
+  {
+    "id": 462,
+    "category": "believable",
+    "text": "My identity was stolen and I need to deal with the bank today. (alternate)"
+  },
+  {
+    "id": 463,
+    "category": "believable",
+    "text": "My washing machine flooded my laundry room. (alternate)"
+  },
+  {
+    "id": 464,
+    "category": "believable",
+    "text": "I have a therapy appointment I really need to keep. (alternate)"
+  },
+  {
+    "id": 465,
+    "category": "believable",
+    "text": "I have to appear in person at a government office today. (alternate)"
+  },
+  {
+    "id": 466,
+    "category": "believable",
+    "text": "My car's check engine light came on and it's making a terrible noise. (alternate)"
+  },
+  {
+    "id": 467,
+    "category": "believable",
+    "text": "There's black ice everywhere — I nearly slipped in my driveway. (alternate)"
+  },
+  {
+    "id": 468,
+    "category": "believable",
+    "text": "My sinuses are completely blocked and I can't think straight. (alternate)"
+  },
+  {
+    "id": 469,
+    "category": "believable",
+    "text": "I have a rash that needs medical attention today. (alternate)"
+  },
+  {
+    "id": 470,
+    "category": "believable",
+    "text": "I have sciatica so bad I can't sit or stand comfortably. (alternate)"
+  },
+  {
+    "id": 471,
+    "category": "believable",
+    "text": "My windshield cracked and I can't see safely. (alternate)"
+  },
+  {
+    "id": 472,
+    "category": "believable",
+    "text": "My parent's medication was mixed up and I need to sort it out. (alternate)"
+  },
+  {
+    "id": 473,
+    "category": "believable",
+    "text": "I have a mandatory union meeting. (alternate)"
+  },
+  {
+    "id": 474,
+    "category": "believable",
+    "text": "I have a mortgage closing today. (alternate)"
+  },
+  {
+    "id": 475,
+    "category": "believable",
+    "text": "My building is being inspected and they need access to my unit. (alternate)"
+  },
+  {
+    "id": 476,
+    "category": "believable",
+    "text": "I have a blood draw that requires fasting and I feel awful. (alternate)"
+  },
+  {
+    "id": 477,
+    "category": "believable",
+    "text": "My dog is really sick and needs emergency vet care. (alternate)"
+  },
+  {
+    "id": 478,
+    "category": "believable",
+    "text": "I need to deal with my car registration before I get a fine. (alternate)"
+  },
+  {
+    "id": 479,
+    "category": "believable",
+    "text": "I have to attend a funeral of a colleague's family member. (alternate)"
+  },
+  {
+    "id": 480,
+    "category": "believable",
+    "text": "I have a housing inspection that I couldn't reschedule. (alternate)"
+  },
+  {
+    "id": 481,
+    "category": "believable",
+    "text": "My sibling is in crisis and I'm the only one they'll talk to. (alternate)"
+  },
+  {
+    "id": 482,
+    "category": "believable",
+    "text": "My oven caught fire — minor damage but lots of smoke. (alternate)"
+  },
+  {
+    "id": 483,
+    "category": "believable",
+    "text": "I ran out of my medication and the pharmacy doesn't open until noon. (alternate)"
+  },
+  {
+    "id": 484,
+    "category": "believable",
+    "text": "I have a shingles outbreak and it's extremely painful. (alternate)"
+  },
+  {
+    "id": 485,
+    "category": "believable",
+    "text": "My child locked themselves in the bathroom and I'm waiting for a locksmith. (alternate)"
+  },
+  {
+    "id": 486,
+    "category": "believable",
+    "text": "I have bronchitis and keep having coughing fits. (alternate)"
+  },
+  {
+    "id": 487,
+    "category": "believable",
+    "text": "My landlord is doing mandatory repairs today. (alternate)"
+  },
+  {
+    "id": 488,
+    "category": "believable",
+    "text": "I have carpal tunnel so bad I can't use a keyboard today. (alternate)"
+  },
+  {
+    "id": 489,
+    "category": "believable",
+    "text": "I have tendinitis in my shoulder and can barely lift my arm. (alternate)"
+  },
+  {
+    "id": 490,
+    "category": "believable",
+    "text": "I need to handle estate paperwork from a relative's passing. (alternate)"
+  },
+  {
+    "id": 491,
+    "category": "believable",
+    "text": "My security system was triggered and I need to be home for the police. (alternate)"
+  },
+  {
+    "id": 492,
+    "category": "believable",
+    "text": "I have a passport appointment for an urgent upcoming trip. (alternate)"
+  },
+  {
+    "id": 493,
+    "category": "believable",
+    "text": "My spouse just had surgery and was discharged early — I need to care for them. (alternate)"
+  },
+  {
+    "id": 494,
+    "category": "believable",
+    "text": "I have a tax audit notification I need to deal with today. (alternate)"
+  },
+  {
+    "id": 495,
+    "category": "believable",
+    "text": "I have period cramps that are completely debilitating today. (alternate)"
+  },
+  {
+    "id": 496,
+    "category": "believable",
+    "text": "I have an IEP meeting at school for my child. (alternate)"
+  },
+  {
+    "id": 497,
+    "category": "believable",
+    "text": "My child has a school event I forgot to put on the calendar. (alternate)"
+  },
+  {
+    "id": 498,
+    "category": "believable",
+    "text": "I have a consulate appointment that took months to get. (alternate)"
+  },
+  {
+    "id": 499,
+    "category": "believable",
+    "text": "I have to deal with a collections issue before end of day. (alternate)"
+  },
+  {
+    "id": 500,
+    "category": "believable",
+    "text": "My car's alternator died mid-commute. (alternate)"
+  },
+  {
+    "id": 501,
+    "category": "believable",
+    "text": "I need to go to urgent care — I'll explain later. (alternate)"
+  },
+  {
+    "id": 502,
+    "category": "believable",
+    "text": "I cut my finger badly and needed stitches this morning. (alternate)"
+  },
+  {
+    "id": 503,
+    "category": "believable",
+    "text": "I burned my hand cooking breakfast. (alternate)"
+  },
+  {
+    "id": 504,
+    "category": "believable",
+    "text": "My parent's power of attorney paperwork needs to be signed today. (alternate)"
+  },
+  {
+    "id": 505,
+    "category": "chaotic",
+    "text": "My alarm didn't go off, my coffee exploded, and I'm locked out of the house. (alternate)"
+  },
+  {
+    "id": 506,
+    "category": "chaotic",
+    "text": "I spilled a full pot of coffee on my laptop while simultaneously burning breakfast. (alternate)"
+  },
+  {
+    "id": 507,
+    "category": "chaotic",
+    "text": "The cat knocked my phone into the toilet while I was answering a work email. (alternate)"
+  },
+  {
+    "id": 508,
+    "category": "chaotic",
+    "text": "My car battery died, my Uber got cancelled, and the last bus left two minutes ago. (alternate)"
+  },
+  {
+    "id": 509,
+    "category": "chaotic",
+    "text": "I overslept, my iron broke mid-shirt, and now I can't find parking anywhere. (alternate)"
+  },
+  {
+    "id": 510,
+    "category": "chaotic",
+    "text": "Three separate appliances broke this morning in a coordinated attack. (alternate)"
+  },
+  {
+    "id": 511,
+    "category": "chaotic",
+    "text": "My wifi died, my hotspot is out of data, and my laptop charger snapped in half. (alternate)"
+  },
+  {
+    "id": 512,
+    "category": "chaotic",
+    "text": "The power went out, my alarm ran on battery but was wrong, and here we are. (alternate)"
+  },
+  {
+    "id": 513,
+    "category": "chaotic",
+    "text": "I woke up sick, my car has a flat, and my neighbor blocked my driveway again. (alternate)"
+  },
+  {
+    "id": 514,
+    "category": "chaotic",
+    "text": "My basement flooded, the sump pump failed, and I'm currently knee-deep in this. (alternate)"
+  },
+  {
+    "id": 515,
+    "category": "chaotic",
+    "text": "I lost my phone, my wallet, and my car keys — all in my own apartment. (alternate)"
+  },
+  {
+    "id": 516,
+    "category": "chaotic",
+    "text": "The heating failed, the pipes froze, and the plumber has a 4-hour window. (alternate)"
+  },
+  {
+    "id": 517,
+    "category": "chaotic",
+    "text": "My dog ate my lunch, chewed through my charger, and is now eating my shoe. (alternate)"
+  },
+  {
+    "id": 518,
+    "category": "chaotic",
+    "text": "I ran over a nail getting milk, the spare is flat too, and I'm stranded. (alternate)"
+  },
+  {
+    "id": 519,
+    "category": "chaotic",
+    "text": "My kid vomited on my work bag just as I was heading out the door. (alternate)"
+  },
+  {
+    "id": 520,
+    "category": "chaotic",
+    "text": "I broke my glasses, my contacts are expired, and I literally cannot see. (alternate)"
+  },
+  {
+    "id": 521,
+    "category": "chaotic",
+    "text": "My laundry is still wet, my only backup shirt is at the dry cleaner, and I'm out of options. (alternate)"
+  },
+  {
+    "id": 522,
+    "category": "chaotic",
+    "text": "I was in a minor accident, then noticed my registration is expired, then it started raining. (alternate)"
+  },
+  {
+    "id": 523,
+    "category": "chaotic",
+    "text": "My fridge died, the freezer thawed, and everything needs to be cleaned up immediately. (alternate)"
+  },
+  {
+    "id": 524,
+    "category": "chaotic",
+    "text": "I fell and twisted my ankle, then dropped my phone screen-first on concrete. (alternate)"
+  },
+  {
+    "id": 525,
+    "category": "chaotic",
+    "text": "Everything that could go wrong this morning did, in roughly chronological order. (alternate)"
+  },
+  {
+    "id": 526,
+    "category": "chaotic",
+    "text": "My garage door broke, trapping the car inside — then the locksmith got stuck in traffic. (alternate)"
+  },
+  {
+    "id": 527,
+    "category": "chaotic",
+    "text": "The babysitter, the backup babysitter, and my partner all called in unavailable today. (alternate)"
+  },
+  {
+    "id": 528,
+    "category": "chaotic",
+    "text": "I stepped on a bee barefoot, my EpiPen is expired, and I'm waiting for a ride to urgent care. (alternate)"
+  },
+  {
+    "id": 529,
+    "category": "chaotic",
+    "text": "My toilet overflowed, I slipped cleaning it up, and now I'm icing my knee. (alternate)"
+  },
+  {
+    "id": 530,
+    "category": "chaotic",
+    "text": "My kid drew on my only clean work clothes with permanent marker. (alternate)"
+  },
+  {
+    "id": 531,
+    "category": "chaotic",
+    "text": "My router is dead, my phone data is throttled, and there's a city-wide outage too. (alternate)"
+  },
+  {
+    "id": 532,
+    "category": "chaotic",
+    "text": "I tried to fix a small leak and now there's a larger, more confident leak. (alternate)"
+  },
+  {
+    "id": 533,
+    "category": "chaotic",
+    "text": "My car stalled on the railway crossing — I got out in time, the car did not. (alternate)"
+  },
+  {
+    "id": 534,
+    "category": "chaotic",
+    "text": "My umbrella broke, it's raining sideways, and a puddle got me from the knees down. (alternate)"
+  },
+  {
+    "id": 535,
+    "category": "chaotic",
+    "text": "I dropped my work badge in the gap between the platform and the train. (alternate)"
+  },
+  {
+    "id": 536,
+    "category": "chaotic",
+    "text": "My cat escaped, I chased it outside without shoes, and then got locked out. (alternate)"
+  },
+  {
+    "id": 537,
+    "category": "chaotic",
+    "text": "The school called about one child while the other one was having a meltdown at home. (alternate)"
+  },
+  {
+    "id": 538,
+    "category": "chaotic",
+    "text": "My upstairs neighbor's pipe burst into my ceiling during breakfast. (alternate)"
+  },
+  {
+    "id": 539,
+    "category": "chaotic",
+    "text": "I went to the gym at 5am, locked my keys inside, and have been here since. (alternate)"
+  },
+  {
+    "id": 540,
+    "category": "chaotic",
+    "text": "A tree branch fell on my car and also on the path I use to get to the bus. (alternate)"
+  },
+  {
+    "id": 541,
+    "category": "chaotic",
+    "text": "I attempted to iron one shirt and somehow set off the smoke alarm and fire suppression. (alternate)"
+  },
+  {
+    "id": 542,
+    "category": "chaotic",
+    "text": "My bike tire punctured, the repair kit was empty, and my phone died on the way back. (alternate)"
+  },
+  {
+    "id": 543,
+    "category": "chaotic",
+    "text": "The elevator in my building is broken and I live on the 14th floor with a bad knee. (alternate)"
+  },
+  {
+    "id": 544,
+    "category": "chaotic",
+    "text": "I arrived at the office and realized I'd left my laptop at a coffee shop 3 miles back. (alternate)"
+  },
+  {
+    "id": 545,
+    "category": "chaotic",
+    "text": "My power went out overnight — fridge defrosted, alarm reset, morning in ruins. (alternate)"
+  },
+  {
+    "id": 546,
+    "category": "chaotic",
+    "text": "I was half dressed for work when a water main exploded on my street. (alternate)"
+  },
+  {
+    "id": 547,
+    "category": "chaotic",
+    "text": "My printer jammed while printing a document I need, ate the paper, and now smells. (alternate)"
+  },
+  {
+    "id": 548,
+    "category": "chaotic",
+    "text": "My ride-share driver drove to my road — the wrong city — and I'm still disputing the charge. (alternate)"
+  },
+  {
+    "id": 549,
+    "category": "chaotic",
+    "text": "I booked the wrong train, got on anyway, am now 60 miles in the wrong direction. (alternate)"
+  },
+  {
+    "id": 550,
+    "category": "chaotic",
+    "text": "My dishwasher flooded, the mop handle snapped, and the towels are all in the wash. (alternate)"
+  },
+  {
+    "id": 551,
+    "category": "chaotic",
+    "text": "I had three things go wrong simultaneously and I need a minute to rank them by urgency. (alternate)"
+  },
+  {
+    "id": 552,
+    "category": "chaotic",
+    "text": "I genuinely do not know where to start with this morning and that's the problem. (alternate)"
+  },
+  {
+    "id": 553,
+    "category": "dark",
+    "text": "I've come to question whether commuting is something I can continue to do in good conscience. (alternate)"
+  },
+  {
+    "id": 554,
+    "category": "dark",
+    "text": "I need a day to sit with the crushing weight of mid-week existential dread. (alternate)"
+  },
+  {
+    "id": 555,
+    "category": "dark",
+    "text": "I had a dream where I wasn't tired anymore and I need to grieve the loss of waking up. (alternate)"
+  },
+  {
+    "id": 556,
+    "category": "dark",
+    "text": "My will to participate in society peaked last Friday and has been declining since. (alternate)"
+  },
+  {
+    "id": 557,
+    "category": "dark",
+    "text": "I'm processing some information about the nature of Mondays that I can't ignore. (alternate)"
+  },
+  {
+    "id": 558,
+    "category": "dark",
+    "text": "I stared at my work outfit for 45 minutes and felt nothing. (alternate)"
+  },
+  {
+    "id": 559,
+    "category": "dark",
+    "text": "I have arrived at a philosophical impasse regarding the concept of showing up. (alternate)"
+  },
+  {
+    "id": 560,
+    "category": "dark",
+    "text": "My motivation called in sick and didn't leave a forwarding number. (alternate)"
+  },
+  {
+    "id": 561,
+    "category": "dark",
+    "text": "I looked at my calendar and the meeting at 9am gave me a physical response. (alternate)"
+  },
+  {
+    "id": 562,
+    "category": "dark",
+    "text": "I am deeply, personally exhausted in a way that one more team standup will not fix. (alternate)"
+  },
+  {
+    "id": 563,
+    "category": "dark",
+    "text": "I need to take a day to be sad about things in a productive, horizontal way. (alternate)"
+  },
+  {
+    "id": 564,
+    "category": "dark",
+    "text": "My enthusiasm for this week has reached levels too low to sustain safe operation. (alternate)"
+  },
+  {
+    "id": 565,
+    "category": "dark",
+    "text": "I have been awake since 3am contemplating my career and the conclusions weren't great. (alternate)"
+  },
+  {
+    "id": 566,
+    "category": "dark",
+    "text": "I'm in a period of emotional inventory that requires me to stay home and audit things. (alternate)"
+  },
+  {
+    "id": 567,
+    "category": "dark",
+    "text": "I've hit a wall and the wall has hit back. (alternate)"
+  },
+  {
+    "id": 568,
+    "category": "dark",
+    "text": "I require a day to not be perceived by anyone. (alternate)"
+  },
+  {
+    "id": 569,
+    "category": "dark",
+    "text": "I'm taking a mental health day before I am forced to take a permanent career change. (alternate)"
+  },
+  {
+    "id": 570,
+    "category": "dark",
+    "text": "My inner battery has been at 2% since Sunday and charging is slow. (alternate)"
+  },
+  {
+    "id": 571,
+    "category": "dark",
+    "text": "I need to rest before I say something I cannot unsay in a meeting. (alternate)"
+  },
+  {
+    "id": 572,
+    "category": "dark",
+    "text": "The thought of joining that 8am call filled me with a specific kind of despair. (alternate)"
+  },
+  {
+    "id": 573,
+    "category": "dark",
+    "text": "I reached the limit of my current reserves of patience and professionalism. (alternate)"
+  },
+  {
+    "id": 574,
+    "category": "dark",
+    "text": "I woke up at 4am certain of something I cannot verify and I haven't recovered. (alternate)"
+  },
+  {
+    "id": 575,
+    "category": "dark",
+    "text": "I need the day to process some feelings that are interfering with my typing speed. (alternate)"
+  },
+  {
+    "id": 576,
+    "category": "dark",
+    "text": "My spirit needs a Tuesday to regroup before Wednesday. (alternate)"
+  },
+  {
+    "id": 577,
+    "category": "dark",
+    "text": "I have a case of burnout that I've been reclassifying as 'fine' for too many months. (alternate)"
+  },
+  {
+    "id": 578,
+    "category": "dark",
+    "text": "I have a scheduled breakdown that I can no longer postpone. (alternate)"
+  },
+  {
+    "id": 579,
+    "category": "dark",
+    "text": "I am going through something I am not ready to name but am very ready to feel. (alternate)"
+  },
+  {
+    "id": 580,
+    "category": "dark",
+    "text": "My capacity to perform normalcy today is simply not there. (alternate)"
+  },
+  {
+    "id": 581,
+    "category": "dark",
+    "text": "I keep starting sentences and then stopping and that seems relevant. (alternate)"
+  },
+  {
+    "id": 582,
+    "category": "dark",
+    "text": "I need to take a personal day before I make a decision I can't walk back. (alternate)"
+  },
+  {
+    "id": 583,
+    "category": "dark",
+    "text": "I've been running on fumes, spite, and cold coffee and two of those have run out. (alternate)"
+  },
+  {
+    "id": 584,
+    "category": "dark",
+    "text": "I need to decompress from last week before I'm ready to compress for this one. (alternate)"
+  },
+  {
+    "id": 585,
+    "category": "dark",
+    "text": "I have a deep structural tiredness that one night of sleep didn't address. (alternate)"
+  },
+  {
+    "id": 586,
+    "category": "dark",
+    "text": "Something happened and I'm dealing with it at the speed of someone who needs the day. (alternate)"
+  },
+  {
+    "id": 587,
+    "category": "dark",
+    "text": "I have a thing I need to sit with, and it needs a whole day, not a lunch break. (alternate)"
+  },
+  {
+    "id": 588,
+    "category": "dark",
+    "text": "I am at capacity and taking on anything further would result in overflow. (alternate)"
+  },
+  {
+    "id": 589,
+    "category": "dark",
+    "text": "My resilience is currently offline for scheduled maintenance. (alternate)"
+  },
+  {
+    "id": 590,
+    "category": "dark",
+    "text": "I need to not work today in order to continue to want to work tomorrow. (alternate)"
+  },
+  {
+    "id": 591,
+    "category": "dark",
+    "text": "I'm experiencing a level of internal weather that requires me to stay indoors. (alternate)"
+  },
+  {
+    "id": 592,
+    "category": "dark",
+    "text": "I have a meeting with myself today to discuss some internal feedback I've received. (alternate)"
+  },
+  {
+    "id": 593,
+    "category": "dark",
+    "text": "I have run out of the kind of energy you need for other people. (alternate)"
+  },
+  {
+    "id": 594,
+    "category": "dark",
+    "text": "My sense of humor about all of this has temporarily left the building. (alternate)"
+  },
+  {
+    "id": 595,
+    "category": "dark",
+    "text": "I need to take a rest day or I will take a rest year — I'm choosing the smaller option. (alternate)"
+  },
+  {
+    "id": 596,
+    "category": "dark",
+    "text": "I've been ignoring some warning signs about my own wellbeing and they've escalated. (alternate)"
+  },
+  {
+    "id": 597,
+    "category": "dark",
+    "text": "I have arrived at a junction in my relationship with this week. (alternate)"
+  },
+  {
+    "id": 598,
+    "category": "dark",
+    "text": "I need a day that is entirely mine — no performance, no output, no updates. (alternate)"
+  },
+  {
+    "id": 599,
+    "category": "dark",
+    "text": "I'm recharging so the next version of me that shows up is worth having there. (alternate)"
+  },
+  {
+    "id": 600,
+    "category": "dark",
+    "text": "I am resting preemptively, which is more efficient than resting reactively. (alternate)"
+  },
+  {
+    "id": 601,
+    "category": "dark",
+    "text": "Something is wrong and I don't have the vocabulary for it yet. (alternate)"
+  },
+  {
+    "id": 602,
+    "category": "dark",
+    "text": "I'm taking a day to be a person rather than a function. (alternate)"
+  },
+  {
+    "id": 603,
+    "category": "office",
+    "text": "I have a conflict with a recurring meeting that I can no longer resolve diplomatically. (alternate)"
+  },
+  {
+    "id": 604,
+    "category": "office",
+    "text": "I'm experiencing stakeholder fatigue and need 24 hours before the next alignment call. (alternate)"
+  },
+  {
+    "id": 605,
+    "category": "office",
+    "text": "I'm working from home today to avoid the collaborative open-plan environment. (alternate)"
+  },
+  {
+    "id": 606,
+    "category": "office",
+    "text": "I need to review my notes from last quarter's all-hands before I can engage with this quarter. (alternate)"
+  },
+  {
+    "id": 607,
+    "category": "office",
+    "text": "I have reached the weekly limit of meetings during which nothing was decided. (alternate)"
+  },
+  {
+    "id": 608,
+    "category": "office",
+    "text": "I'm blocked on a dependency and cannot progress until that dependency responds to email. (alternate)"
+  },
+  {
+    "id": 609,
+    "category": "office",
+    "text": "I'm taking an offline working day — deep work requires zero interruptions. (alternate)"
+  },
+  {
+    "id": 610,
+    "category": "office",
+    "text": "I'm attending a leadership summit. It's on YouTube. Still counts. (alternate)"
+  },
+  {
+    "id": 611,
+    "category": "office",
+    "text": "I have a performance review I need to prepare for, which takes all of today. (alternate)"
+  },
+  {
+    "id": 612,
+    "category": "office",
+    "text": "I'm prototyping a new workflow that could save the team hundreds of hours — needs the day. (alternate)"
+  },
+  {
+    "id": 613,
+    "category": "office",
+    "text": "I'm doing independent market research from an undisclosed location. (alternate)"
+  },
+  {
+    "id": 614,
+    "category": "office",
+    "text": "I have an off-site strategy session — the off-site is my living room. (alternate)"
+  },
+  {
+    "id": 615,
+    "category": "office",
+    "text": "I need to review my OKRs and my OKRs are not going to review themselves. (alternate)"
+  },
+  {
+    "id": 616,
+    "category": "office",
+    "text": "I have to finalize my Q3 priorities, which are in conflict with my Q2 commitments. (alternate)"
+  },
+  {
+    "id": 617,
+    "category": "office",
+    "text": "I'm taking a proactive mental health day to prevent a much longer future absence. (alternate)"
+  },
+  {
+    "id": 618,
+    "category": "office",
+    "text": "I have a networking event I need to prepare for. (alternate)"
+  },
+  {
+    "id": 619,
+    "category": "office",
+    "text": "I'm conducting a retrospective on my own productivity before proceeding. (alternate)"
+  },
+  {
+    "id": 620,
+    "category": "office",
+    "text": "I have a 1:1 I need to reschedule — it was scheduled for today and I need to reschedule it. (alternate)"
+  },
+  {
+    "id": 621,
+    "category": "office",
+    "text": "I have to submit a report that requires data from a system I've been locked out of. (alternate)"
+  },
+  {
+    "id": 622,
+    "category": "office",
+    "text": "I'm updating my skills to remain competitive in the current market. (alternate)"
+  },
+  {
+    "id": 623,
+    "category": "office",
+    "text": "I have a conflict of commitment this morning that requires my attention. (alternate)"
+  },
+  {
+    "id": 624,
+    "category": "office",
+    "text": "I'm taking a creativity day — some of my best ideas have come from not being at my desk. (alternate)"
+  },
+  {
+    "id": 625,
+    "category": "office",
+    "text": "I need to do some reading that is tangentially but meaningfully work-related. (alternate)"
+  },
+  {
+    "id": 626,
+    "category": "office",
+    "text": "I have a commitment to a cross-functional initiative that supersedes today's schedule. (alternate)"
+  },
+  {
+    "id": 627,
+    "category": "office",
+    "text": "I'm in a planning retreat for next month's planning retreat. (alternate)"
+  },
+  {
+    "id": 628,
+    "category": "office",
+    "text": "I've completed all my deliverables and coming in would only slow others down. (alternate)"
+  },
+  {
+    "id": 629,
+    "category": "office",
+    "text": "I'm working on a passion project that may change the company — I need just one more day. (alternate)"
+  },
+  {
+    "id": 630,
+    "category": "office",
+    "text": "I need to complete my mandatory training before the deadline tonight. (alternate)"
+  },
+  {
+    "id": 631,
+    "category": "office",
+    "text": "I have a professional development workshop — it's self-directed but still. (alternate)"
+  },
+  {
+    "id": 632,
+    "category": "office",
+    "text": "I have an industry conference call at an inconvenient time that takes the whole morning. (alternate)"
+  },
+  {
+    "id": 633,
+    "category": "office",
+    "text": "I need to write a business case I've been procrastinating on for three weeks. (alternate)"
+  },
+  {
+    "id": 634,
+    "category": "office",
+    "text": "I'm preparing for a difficult conversation that requires extensive preparation. (alternate)"
+  },
+  {
+    "id": 635,
+    "category": "office",
+    "text": "I have a compliance deadline I've only just become aware of. (alternate)"
+  },
+  {
+    "id": 636,
+    "category": "office",
+    "text": "I'm attending a seminar. The seminar is a podcast. I'm taking notes. (alternate)"
+  },
+  {
+    "id": 637,
+    "category": "office",
+    "text": "I need to archive three years of email before I can function productively. (alternate)"
+  },
+  {
+    "id": 638,
+    "category": "office",
+    "text": "I have an urgent deliverable that will go faster without colleagues asking questions. (alternate)"
+  },
+  {
+    "id": 639,
+    "category": "office",
+    "text": "I need to respond to a client escalation that can only be handled from my home office. (alternate)"
+  },
+  {
+    "id": 640,
+    "category": "office",
+    "text": "I'm reviewing my job description to see if any of today's tasks are actually mine. (alternate)"
+  },
+  {
+    "id": 641,
+    "category": "office",
+    "text": "I have a difficult email to compose and I need the full day to get the tone right. (alternate)"
+  },
+  {
+    "id": 642,
+    "category": "office",
+    "text": "I'm mentoring someone remotely — it's scheduled for today, all day apparently. (alternate)"
+  },
+  {
+    "id": 643,
+    "category": "office",
+    "text": "I need to finish something that yesterday's me should have finished and didn't. (alternate)"
+  },
+  {
+    "id": 644,
+    "category": "office",
+    "text": "I have a milestone review that I am not yet ready to milestone. (alternate)"
+  },
+  {
+    "id": 645,
+    "category": "office",
+    "text": "I need to review a contract with some clauses I need to look into. (alternate)"
+  },
+  {
+    "id": 646,
+    "category": "office",
+    "text": "I have a hiring panel interview today that I wasn't told about until last night. (alternate)"
+  },
+  {
+    "id": 647,
+    "category": "office",
+    "text": "I'm managing a supplier relationship that requires my full attention today. (alternate)"
+  },
+  {
+    "id": 648,
+    "category": "office",
+    "text": "I have an urgent audit request that requires me to gather files for the next few hours. (alternate)"
+  },
+  {
+    "id": 649,
+    "category": "office",
+    "text": "I need to respond to a legal matter the company's outside counsel flagged. (alternate)"
+  },
+  {
+    "id": 650,
+    "category": "office",
+    "text": "I have a board deck to review before it goes out and the changes are substantial. (alternate)"
+  },
+  {
+    "id": 651,
+    "category": "office",
+    "text": "I'm attending a crisis communications training. Timing is apt. (alternate)"
+  },
+  {
+    "id": 652,
+    "category": "office",
+    "text": "I have a regulatory filing due that I only became aware of this morning. (alternate)"
+  },
+  {
+    "id": 653,
+    "category": "tech",
+    "text": "My laptop completely died and I'm waiting for IT support. (alternate)"
+  },
+  {
+    "id": 654,
+    "category": "tech",
+    "text": "My home internet is down and the ISP has a 4-hour repair window. (alternate)"
+  },
+  {
+    "id": 655,
+    "category": "tech",
+    "text": "My VPN hasn't worked all morning and I can't access anything. (alternate)"
+  },
+  {
+    "id": 656,
+    "category": "tech",
+    "text": "My computer won't boot — the hard drive might be dead. (alternate)"
+  },
+  {
+    "id": 657,
+    "category": "tech",
+    "text": "I spilled coffee on my laptop and it's fried. (alternate)"
+  },
+  {
+    "id": 658,
+    "category": "tech",
+    "text": "My router is dead and a replacement arrives this afternoon. (alternate)"
+  },
+  {
+    "id": 659,
+    "category": "tech",
+    "text": "My monitor died and I'm waiting for a loaner. (alternate)"
+  },
+  {
+    "id": 660,
+    "category": "tech",
+    "text": "My work phone got wiped remotely by mistake. (alternate)"
+  },
+  {
+    "id": 661,
+    "category": "tech",
+    "text": "The power surge last night fried my entire home office setup. (alternate)"
+  },
+  {
+    "id": 662,
+    "category": "tech",
+    "text": "My keyboard broke and I cannot type. (alternate)"
+  },
+  {
+    "id": 663,
+    "category": "tech",
+    "text": "My two-factor authentication app got corrupted and I'm locked out of everything. (alternate)"
+  },
+  {
+    "id": 664,
+    "category": "tech",
+    "text": "My work device ran a forced update overnight and now nothing works. (alternate)"
+  },
+  {
+    "id": 665,
+    "category": "tech",
+    "text": "My entire workspace is down due to a cloud service outage. (alternate)"
+  },
+  {
+    "id": 666,
+    "category": "tech",
+    "text": "My external hard drive with all my project files died. (alternate)"
+  },
+  {
+    "id": 667,
+    "category": "tech",
+    "text": "I'm locked out of my work email and IT hasn't responded yet. (alternate)"
+  },
+  {
+    "id": 668,
+    "category": "tech",
+    "text": "My webcam failed and I have video calls all day. (alternate)"
+  },
+  {
+    "id": 669,
+    "category": "tech",
+    "text": "My microphone stopped working and I have 5 hours of meetings. (alternate)"
+  },
+  {
+    "id": 670,
+    "category": "tech",
+    "text": "My ISP is doing emergency maintenance in my area today. (alternate)"
+  },
+  {
+    "id": 671,
+    "category": "tech",
+    "text": "My phone was stolen and I'm dealing with the account lockout process. (alternate)"
+  },
+  {
+    "id": 672,
+    "category": "tech",
+    "text": "My company laptop was involved in a liquid incident — I prefer not to specify. (alternate)"
+  },
+  {
+    "id": 673,
+    "category": "tech",
+    "text": "My internet keeps dropping every 10 minutes — IT is working on it. (alternate)"
+  },
+  {
+    "id": 674,
+    "category": "tech",
+    "text": "My GPU failed and I need it for literally everything I do. (alternate)"
+  },
+  {
+    "id": 675,
+    "category": "tech",
+    "text": "My noise-cancelling headphones broke and my neighbors are jackhammering. (alternate)"
+  },
+  {
+    "id": 676,
+    "category": "tech",
+    "text": "My printer died and I need to print legal documents for a meeting. (alternate)"
+  },
+  {
+    "id": 677,
+    "category": "tech",
+    "text": "My second monitor died and I can't do my job on a single 13-inch screen. (alternate)"
+  },
+  {
+    "id": 678,
+    "category": "tech",
+    "text": "My home office UPS failed and took the router down with it. (alternate)"
+  },
+  {
+    "id": 679,
+    "category": "tech",
+    "text": "A Windows update has rendered my machine unable to connect to company servers. (alternate)"
+  },
+  {
+    "id": 680,
+    "category": "tech",
+    "text": "I was the target of a phishing attack and need to secure all my accounts. (alternate)"
+  },
+  {
+    "id": 681,
+    "category": "tech",
+    "text": "My SSH keys got wiped and I can't access any of the servers I maintain. (alternate)"
+  },
+  {
+    "id": 682,
+    "category": "tech",
+    "text": "My development environment is completely broken after an OS update. (alternate)"
+  },
+  {
+    "id": 683,
+    "category": "tech",
+    "text": "My cloud storage hit its limit and I can't sync anything to work. (alternate)"
+  },
+  {
+    "id": 684,
+    "category": "tech",
+    "text": "The shared drive is down and everything I need is on the shared drive. (alternate)"
+  },
+  {
+    "id": 685,
+    "category": "tech",
+    "text": "My company VPN token expired and I can't get a new one without the system I can't access. (alternate)"
+  },
+  {
+    "id": 686,
+    "category": "tech",
+    "text": "My laptop battery died and the charger is at the office. A replacement is coming. (alternate)"
+  },
+  {
+    "id": 687,
+    "category": "tech",
+    "text": "My home NAS is in a RAID rebuild and I'm locked out of all my local files. (alternate)"
+  },
+  {
+    "id": 688,
+    "category": "tech",
+    "text": "My Bluetooth devices stopped pairing and I can't use anything without wires. (alternate)"
+  },
+  {
+    "id": 689,
+    "category": "tech",
+    "text": "My workspace container refuses to start — corrupted after yesterday's update. (alternate)"
+  },
+  {
+    "id": 690,
+    "category": "tech",
+    "text": "My IDE is in a crash loop and factory reset didn't help. (alternate)"
+  },
+  {
+    "id": 691,
+    "category": "tech",
+    "text": "My build system is broken and I can't even check what's broken without the build system. (alternate)"
+  },
+  {
+    "id": 692,
+    "category": "tech",
+    "text": "My local DNS is resolving everything to localhost — I can't reach any external service. (alternate)"
+  },
+  {
+    "id": 693,
+    "category": "tech",
+    "text": "My authentication certificate expired at midnight and renewal is a 2-hour process. (alternate)"
+  },
+  {
+    "id": 694,
+    "category": "tech",
+    "text": "My two monitors have different color profiles and the difference gave me a migraine. (alternate)"
+  },
+  {
+    "id": 695,
+    "category": "tech",
+    "text": "My terminal emulator corrupted its config and now displays everything upside down. (alternate)"
+  },
+  {
+    "id": 696,
+    "category": "tech",
+    "text": "I accidentally deleted a config file and now my entire local environment is unresponsive. (alternate)"
+  },
+  {
+    "id": 697,
+    "category": "tech",
+    "text": "My package manager is broken, the caches are corrupted, and I've been at it since 6am. (alternate)"
+  },
+  {
+    "id": 698,
+    "category": "tech",
+    "text": "My video conferencing app refuses to see my camera even though it's connected. (alternate)"
+  },
+  {
+    "id": 699,
+    "category": "tech",
+    "text": "My Wi-Fi card failed and I'm waiting for a USB adapter to arrive. (alternate)"
+  },
+  {
+    "id": 700,
+    "category": "tech",
+    "text": "My smart home system had a glitch and locked me out of my own house. (alternate)"
+  },
+  {
+    "id": 701,
+    "category": "tech",
+    "text": "My ergonomic keyboard requires a firmware update that takes a full day apparently. (alternate)"
+  },
+  {
+    "id": 702,
+    "category": "tech",
+    "text": "I need to do a full hardware diagnostic before I can use this machine safely. (alternate)"
+  },
+  {
+    "id": 703,
+    "category": "motorcycle",
+    "text": "My motorcycle won't start and it's my only transport. (alternate)"
+  },
+  {
+    "id": 704,
+    "category": "motorcycle",
+    "text": "I got a flat tire on the bike mid-commute. (alternate)"
+  },
+  {
+    "id": 705,
+    "category": "motorcycle",
+    "text": "My chain snapped two miles from home. (alternate)"
+  },
+  {
+    "id": 706,
+    "category": "motorcycle",
+    "text": "I slid on a wet road this morning — I'm fine, the bike less so. (alternate)"
+  },
+  {
+    "id": 707,
+    "category": "motorcycle",
+    "text": "My throttle cable snapped and the bike is now parked on the verge. (alternate)"
+  },
+  {
+    "id": 708,
+    "category": "motorcycle",
+    "text": "My kickstand broke and the bike tipped over in the driveway. (alternate)"
+  },
+  {
+    "id": 709,
+    "category": "motorcycle",
+    "text": "My motorcycle was hit while parked overnight — waiting for the police report. (alternate)"
+  },
+  {
+    "id": 710,
+    "category": "motorcycle",
+    "text": "My helmet visor cracked and I can't ride without it legally. (alternate)"
+  },
+  {
+    "id": 711,
+    "category": "motorcycle",
+    "text": "My brake pads are metal on metal — discovered this morning, cannot ride. (alternate)"
+  },
+  {
+    "id": 712,
+    "category": "motorcycle",
+    "text": "My battery died and the jump starter is at the shop. (alternate)"
+  },
+  {
+    "id": 713,
+    "category": "motorcycle",
+    "text": "I noticed an oil leak on my way out — riding would make it significantly worse. (alternate)"
+  },
+  {
+    "id": 714,
+    "category": "motorcycle",
+    "text": "My gear is soaked from last night's rain and hypothermia seems like a bad tradeoff. (alternate)"
+  },
+  {
+    "id": 715,
+    "category": "motorcycle",
+    "text": "My clutch cable snapped in my hand as I pulled away from the driveway. (alternate)"
+  },
+  {
+    "id": 716,
+    "category": "motorcycle",
+    "text": "My front fork has a slow leak I need to address before riding. (alternate)"
+  },
+  {
+    "id": 717,
+    "category": "motorcycle",
+    "text": "My indicator stopped working and I can't ride legally without one. (alternate)"
+  },
+  {
+    "id": 718,
+    "category": "motorcycle",
+    "text": "There's a bolt missing from my rear axle. I'm not riding today. (alternate)"
+  },
+  {
+    "id": 719,
+    "category": "motorcycle",
+    "text": "My gloves were eaten by something overnight. I have no backup gloves. (alternate)"
+  },
+  {
+    "id": 720,
+    "category": "motorcycle",
+    "text": "I noticed a crack in my frame that needs immediate assessment before I ride. (alternate)"
+  },
+  {
+    "id": 721,
+    "category": "motorcycle",
+    "text": "My speedo cable disconnected and I can't monitor my speed. (alternate)"
+  },
+  {
+    "id": 722,
+    "category": "motorcycle",
+    "text": "I need to wait for the frost to clear — my bike doesn't have ABS. (alternate)"
+  },
+  {
+    "id": 723,
+    "category": "motorcycle",
+    "text": "My ride partner had a spill this morning and I'm with them at urgent care. (alternate)"
+  },
+  {
+    "id": 724,
+    "category": "motorcycle",
+    "text": "My carb is flooding — the bike won't idle without my hand on the throttle. (alternate)"
+  },
+  {
+    "id": 725,
+    "category": "motorcycle",
+    "text": "My rear shock has collapsed and the bike sits at an angle. (alternate)"
+  },
+  {
+    "id": 726,
+    "category": "motorcycle",
+    "text": "The MOT/inspection expired yesterday — I can't legally take the bike out. (alternate)"
+  },
+  {
+    "id": 727,
+    "category": "motorcycle",
+    "text": "My fuel gauge is broken and I ran out two blocks from home. (alternate)"
+  },
+  {
+    "id": 728,
+    "category": "motorcycle",
+    "text": "My side stand switch is faulty — the engine cuts whenever I put it down. (alternate)"
+  },
+  {
+    "id": 729,
+    "category": "motorcycle",
+    "text": "My handgrips came loose and are spinning — not safe to ride. (alternate)"
+  },
+  {
+    "id": 730,
+    "category": "motorcycle",
+    "text": "I found a nail lodged in my rear tire this morning. (alternate)"
+  },
+  {
+    "id": 731,
+    "category": "motorcycle",
+    "text": "My motorcycle was towed overnight — apparently my parking spot wasn't mine. (alternate)"
+  },
+  {
+    "id": 732,
+    "category": "motorcycle",
+    "text": "My visor fogged up on my first corner of the day and I pulled over safely. (alternate)"
+  },
+  {
+    "id": 733,
+    "category": "motorcycle",
+    "text": "A dog ran in front of me — no injuries, but I need a moment. (alternate)"
+  },
+  {
+    "id": 734,
+    "category": "motorcycle",
+    "text": "My exhaust bracket snapped and the exhaust is dragging. Hard to ride quietly. (alternate)"
+  },
+  {
+    "id": 735,
+    "category": "motorcycle",
+    "text": "My mirrors shook loose on yesterday's ride and I haven't re-adjusted them. (alternate)"
+  },
+  {
+    "id": 736,
+    "category": "motorcycle",
+    "text": "My ignition switch is intermittent — it started once and then didn't. (alternate)"
+  },
+  {
+    "id": 737,
+    "category": "motorcycle",
+    "text": "My seat bolts stripped and the seat moves on acceleration. (alternate)"
+  },
+  {
+    "id": 738,
+    "category": "motorcycle",
+    "text": "My throttle is sticking open — that's a same-day fix I need to prioritize. (alternate)"
+  },
+  {
+    "id": 739,
+    "category": "motorcycle",
+    "text": "My tail light has been out for a few days. Today I got pulled over about it. (alternate)"
+  },
+  {
+    "id": 740,
+    "category": "motorcycle",
+    "text": "The road I commute on is closed for resurfacing and the detour doesn't suit a bike. (alternate)"
+  },
+  {
+    "id": 741,
+    "category": "motorcycle",
+    "text": "My left hand is too sore from a fall last week to operate the clutch safely. (alternate)"
+  },
+  {
+    "id": 742,
+    "category": "motorcycle",
+    "text": "There's a high-wind warning and my bike and I do not get along in high winds. (alternate)"
+  },
+  {
+    "id": 743,
+    "category": "motorcycle",
+    "text": "My footpegs are cracked and I noticed it after the first corner. (alternate)"
+  },
+  {
+    "id": 744,
+    "category": "motorcycle",
+    "text": "My fuel cap lock is jammed and I can't open it to refuel. (alternate)"
+  },
+  {
+    "id": 745,
+    "category": "motorcycle",
+    "text": "I dropped the bike in the driveway and the brake lever snapped clean off. (alternate)"
+  },
+  {
+    "id": 746,
+    "category": "motorcycle",
+    "text": "My riding jacket's CE armour needs replacing — I won't ride without it. (alternate)"
+  },
+  {
+    "id": 747,
+    "category": "motorcycle",
+    "text": "My bike's GPS mount broke and I don't know the route without it. (alternate)"
+  },
+  {
+    "id": 748,
+    "category": "motorcycle",
+    "text": "A wasp flew into my helmet at 40mph. I survived. The wasp did not. (alternate)"
+  },
+  {
+    "id": 749,
+    "category": "motorcycle",
+    "text": "My levers are set for someone with bigger hands and adjustment takes tools I don't have. (alternate)"
+  },
+  {
+    "id": 750,
+    "category": "motorcycle",
+    "text": "My chain guard broke off and is lying in the road. (alternate)"
+  },
+  {
+    "id": 751,
+    "category": "motorcycle",
+    "text": "My coolant warning light came on two blocks from home. (alternate)"
+  },
+  {
+    "id": 752,
+    "category": "motorcycle",
+    "text": "I need to wait for the tyre shop to open — the front tyre is unsafe to ride on. (alternate)"
+  },
+  {
+    "id": 753,
+    "category": "funny",
+    "text": "My cat sat on my keyboard and submitted my resignation — still trying to undo that. (alternate)"
+  },
+  {
+    "id": 754,
+    "category": "funny",
+    "text": "I sneezed so hard I pulled every muscle in my upper body. (alternate)"
+  },
+  {
+    "id": 755,
+    "category": "funny",
+    "text": "I accidentally superglued my hand to my front door handle. (alternate)"
+  },
+  {
+    "id": 756,
+    "category": "funny",
+    "text": "A seagull stole my car keys and flew away. I'm not joking. (alternate)"
+  },
+  {
+    "id": 757,
+    "category": "funny",
+    "text": "I put my phone in the fridge and my lunch in my pocket. Found both hours later. (alternate)"
+  },
+  {
+    "id": 758,
+    "category": "funny",
+    "text": "My parrot has learned to call in sick on my behalf — unfortunately he did it again. (alternate)"
+  },
+  {
+    "id": 759,
+    "category": "funny",
+    "text": "I sat on my glasses and now I can't find my glasses to look for my glasses. (alternate)"
+  },
+  {
+    "id": 760,
+    "category": "funny",
+    "text": "I fell asleep on the couch and my dog locked the dog door from the outside. (alternate)"
+  },
+  {
+    "id": 761,
+    "category": "funny",
+    "text": "I accidentally signed up for a 5K that starts in my neighborhood this morning. (alternate)"
+  },
+  {
+    "id": 762,
+    "category": "funny",
+    "text": "My breakfast fought back. (alternate)"
+  },
+  {
+    "id": 763,
+    "category": "funny",
+    "text": "I tripped on my own shoelace and slid down a full flight of stairs. (alternate)"
+  },
+  {
+    "id": 764,
+    "category": "funny",
+    "text": "My fish is sick and I've been up all night performing fish CPR. (alternate)"
+  },
+  {
+    "id": 765,
+    "category": "funny",
+    "text": "I got my sweater stuck in the car door and had to cut myself free. (alternate)"
+  },
+  {
+    "id": 766,
+    "category": "funny",
+    "text": "I left my shoes at a friend's house last night and only realized at the bus stop. (alternate)"
+  },
+  {
+    "id": 767,
+    "category": "funny",
+    "text": "My alarm clock displayed a very convincing PM instead of AM. (alternate)"
+  },
+  {
+    "id": 768,
+    "category": "funny",
+    "text": "I tried to make coffee and made soup instead. I don't know how. (alternate)"
+  },
+  {
+    "id": 769,
+    "category": "funny",
+    "text": "A raccoon has barricaded himself in my garage and refuses to negotiate. (alternate)"
+  },
+  {
+    "id": 770,
+    "category": "funny",
+    "text": "I locked myself out while checking the mail in my pajamas. (alternate)"
+  },
+  {
+    "id": 771,
+    "category": "funny",
+    "text": "My dog ate the car registration and the DMV needs it today. (alternate)"
+  },
+  {
+    "id": 772,
+    "category": "funny",
+    "text": "I tried a new hair dye and my hair is now a color not found in nature. (alternate)"
+  },
+  {
+    "id": 773,
+    "category": "funny",
+    "text": "I accidentally replied-all on a very personal email thread this morning. (alternate)"
+  },
+  {
+    "id": 774,
+    "category": "funny",
+    "text": "A squirrel chewed through my only charging cable and my phone is dead. (alternate)"
+  },
+  {
+    "id": 775,
+    "category": "funny",
+    "text": "I walked into a sliding glass door and need a moment. (alternate)"
+  },
+  {
+    "id": 776,
+    "category": "funny",
+    "text": "My neighbor's inflatable pool float escaped into my yard and blocked my car. (alternate)"
+  },
+  {
+    "id": 777,
+    "category": "funny",
+    "text": "I slipped on a banana peel. Yes, that is actually what happened. (alternate)"
+  },
+  {
+    "id": 778,
+    "category": "funny",
+    "text": "My kids put googly eyes on all my work clothes and I didn't notice until the bus. (alternate)"
+  },
+  {
+    "id": 779,
+    "category": "funny",
+    "text": "I accidentally joined a flash mob and couldn't get out. (alternate)"
+  },
+  {
+    "id": 780,
+    "category": "funny",
+    "text": "I woke up to find my car wrapped in toilet paper — neighborhood prank gone far. (alternate)"
+  },
+  {
+    "id": 781,
+    "category": "funny",
+    "text": "I burned my toast so badly the smoke alarm called the fire department. (alternate)"
+  },
+  {
+    "id": 782,
+    "category": "funny",
+    "text": "My automatic garage door has decided today is its day off. (alternate)"
+  },
+  {
+    "id": 783,
+    "category": "funny",
+    "text": "I accidentally wore two different shoes to the bus stop. (alternate)"
+  },
+  {
+    "id": 784,
+    "category": "funny",
+    "text": "My roommate adopted a goat without telling me. The goat is not adjusting well. (alternate)"
+  },
+  {
+    "id": 785,
+    "category": "funny",
+    "text": "I got my tie caught in the printer last night and couldn't reach my phone. (alternate)"
+  },
+  {
+    "id": 786,
+    "category": "funny",
+    "text": "I knocked over my entire wardrobe this morning and need time to process. (alternate)"
+  },
+  {
+    "id": 787,
+    "category": "funny",
+    "text": "I tried to take a shortcut and ended up in a different city. (alternate)"
+  },
+  {
+    "id": 788,
+    "category": "funny",
+    "text": "My doorbell camera caught something I need to report to several authorities. (alternate)"
+  },
+  {
+    "id": 789,
+    "category": "funny",
+    "text": "I accidentally deleted my entire calendar including today's meetings. (alternate)"
+  },
+  {
+    "id": 790,
+    "category": "funny",
+    "text": "My office chair rolled away on a slight incline and I lost it for 45 minutes. (alternate)"
+  },
+  {
+    "id": 791,
+    "category": "funny",
+    "text": "I got my zipper irreparably stuck and I'm still in my coat. (alternate)"
+  },
+  {
+    "id": 792,
+    "category": "funny",
+    "text": "A bird has built a nest in my wing mirror and I don't have the heart to disturb it. (alternate)"
+  },
+  {
+    "id": 793,
+    "category": "funny",
+    "text": "I overloaded my coffee maker and it exploded. The cleanup is ongoing. (alternate)"
+  },
+  {
+    "id": 794,
+    "category": "funny",
+    "text": "I got a sticker stuck to my contact lens. (alternate)"
+  },
+  {
+    "id": 795,
+    "category": "funny",
+    "text": "I answered the door in my sleep. The delivery person left a note. (alternate)"
+  },
+  {
+    "id": 796,
+    "category": "funny",
+    "text": "My microwave door fell off and somehow hit the car keys. (alternate)"
+  },
+  {
+    "id": 797,
+    "category": "funny",
+    "text": "I found out this morning that I'm allergic to my new soap. My face is impressive. (alternate)"
+  },
+  {
+    "id": 798,
+    "category": "funny",
+    "text": "I ordered breakfast delivery and it arrived to the wrong address — my neighbor's. (alternate)"
+  },
+  {
+    "id": 799,
+    "category": "funny",
+    "text": "I accidentally booked my gym session for 4 AM and somehow showed up. (alternate)"
+  },
+  {
+    "id": 800,
+    "category": "funny",
+    "text": "My belt broke in half as I was leaving. I have no backup belt. (alternate)"
+  },
+  {
+    "id": 801,
+    "category": "funny",
+    "text": "I sat in something mysterious on the bus and need to go home to change. (alternate)"
+  },
+  {
+    "id": 802,
+    "category": "funny",
+    "text": "A jar of pasta sauce exploded in my bag and took out my laptop charger. (alternate)"
+  },
+  {
+    "id": 803,
+    "category": "believable",
+    "text": "My child has a school event I forgot to put on the calendar. (alternate)"
+  },
+  {
+    "id": 804,
+    "category": "believable",
+    "text": "I have a consulate appointment that took months to get. (alternate)"
+  },
+  {
+    "id": 805,
+    "category": "believable",
+    "text": "I have to deal with a collections issue before end of day. (alternate)"
+  },
+  {
+    "id": 806,
+    "category": "believable",
+    "text": "My car's alternator died mid-commute. (alternate)"
+  },
+  {
+    "id": 807,
+    "category": "believable",
+    "text": "I need to go to urgent care — I'll explain later. (alternate)"
+  },
+  {
+    "id": 808,
+    "category": "believable",
+    "text": "I cut my finger badly and needed stitches this morning. (alternate)"
+  },
+  {
+    "id": 809,
+    "category": "believable",
+    "text": "I burned my hand cooking breakfast. (alternate)"
+  },
+  {
+    "id": 810,
+    "category": "believable",
+    "text": "My parent's power of attorney paperwork needs to be signed today. (alternate)"
+  },
+  {
+    "id": 811,
+    "category": "chaotic",
+    "text": "My wifi died, my hotspot is out of data, and my laptop charger snapped in half. (alternate)"
+  },
+  {
+    "id": 812,
+    "category": "chaotic",
+    "text": "The power went out, my alarm ran on battery but was wrong, and here we are. (alternate)"
+  },
+  {
+    "id": 813,
+    "category": "chaotic",
+    "text": "I woke up sick, my car has a flat, and my neighbor blocked my driveway again. (alternate)"
+  },
+  {
+    "id": 814,
+    "category": "chaotic",
+    "text": "My basement flooded, the sump pump failed, and I'm currently knee-deep in this. (alternate)"
+  },
+  {
+    "id": 815,
+    "category": "chaotic",
+    "text": "I lost my phone, my wallet, and my car keys — all in my own apartment. (alternate)"
+  },
+  {
+    "id": 816,
+    "category": "chaotic",
+    "text": "The heating failed, the pipes froze, and the plumber has a 4-hour window. (alternate)"
+  },
+  {
+    "id": 817,
+    "category": "chaotic",
+    "text": "My dog ate my lunch, chewed through my charger, and is now eating my shoe. (alternate)"
+  },
+  {
+    "id": 818,
+    "category": "chaotic",
+    "text": "I ran over a nail getting milk, the spare is flat too, and I'm stranded. (alternate)"
+  },
+  {
+    "id": 819,
+    "category": "chaotic",
+    "text": "My kid vomited on my work bag just as I was heading out the door. (alternate)"
+  },
+  {
+    "id": 820,
+    "category": "chaotic",
+    "text": "I broke my glasses, my contacts are expired, and I literally cannot see. (alternate)"
+  },
+  {
+    "id": 821,
+    "category": "chaotic",
+    "text": "My laundry is still wet, my only backup shirt is at the dry cleaner, and I'm out of options. (alternate)"
+  },
+  {
+    "id": 822,
+    "category": "chaotic",
+    "text": "I was in a minor accident, then noticed my registration is expired, then it started raining. (alternate)"
+  },
+  {
+    "id": 823,
+    "category": "chaotic",
+    "text": "My fridge died, the freezer thawed, and everything needs to be cleaned up immediately. (alternate)"
+  },
+  {
+    "id": 824,
+    "category": "chaotic",
+    "text": "I fell and twisted my ankle, then dropped my phone screen-first on concrete. (alternate)"
+  },
+  {
+    "id": 825,
+    "category": "chaotic",
+    "text": "Everything that could go wrong this morning did, in roughly chronological order. (alternate)"
+  },
+  {
+    "id": 826,
+    "category": "chaotic",
+    "text": "My garage door broke, trapping the car inside — then the locksmith got stuck in traffic. (alternate)"
+  },
+  {
+    "id": 827,
+    "category": "chaotic",
+    "text": "The babysitter, the backup babysitter, and my partner all called in unavailable today. (alternate)"
+  },
+  {
+    "id": 828,
+    "category": "chaotic",
+    "text": "I stepped on a bee barefoot, my EpiPen is expired, and I'm waiting for a ride to urgent care. (alternate)"
+  },
+  {
+    "id": 829,
+    "category": "chaotic",
+    "text": "My toilet overflowed, I slipped cleaning it up, and now I'm icing my knee. (alternate)"
+  },
+  {
+    "id": 830,
+    "category": "chaotic",
+    "text": "My kid drew on my only clean work clothes with permanent marker. (alternate)"
+  },
+  {
+    "id": 831,
+    "category": "chaotic",
+    "text": "My router is dead, my phone data is throttled, and there's a city-wide outage too. (alternate)"
+  },
+  {
+    "id": 832,
+    "category": "chaotic",
+    "text": "I tried to fix a small leak and now there's a larger, more confident leak. (alternate)"
+  },
+  {
+    "id": 833,
+    "category": "chaotic",
+    "text": "My car stalled on the railway crossing — I got out in time, the car did not. (alternate)"
+  },
+  {
+    "id": 834,
+    "category": "chaotic",
+    "text": "My umbrella broke, it's raining sideways, and a puddle got me from the knees down. (alternate)"
+  },
+  {
+    "id": 835,
+    "category": "chaotic",
+    "text": "I dropped my work badge in the gap between the platform and the train. (alternate)"
+  },
+  {
+    "id": 836,
+    "category": "chaotic",
+    "text": "My cat escaped, I chased it outside without shoes, and then got locked out. (alternate)"
+  },
+  {
+    "id": 837,
+    "category": "chaotic",
+    "text": "The school called about one child while the other one was having a meltdown at home. (alternate)"
+  },
+  {
+    "id": 838,
+    "category": "chaotic",
+    "text": "My upstairs neighbor's pipe burst into my ceiling during breakfast. (alternate)"
+  },
+  {
+    "id": 839,
+    "category": "chaotic",
+    "text": "I went to the gym at 5am, locked my keys inside, and have been here since. (alternate)"
+  },
+  {
+    "id": 840,
+    "category": "chaotic",
+    "text": "A tree branch fell on my car and also on the path I use to get to the bus. (alternate)"
+  },
+  {
+    "id": 841,
+    "category": "chaotic",
+    "text": "I attempted to iron one shirt and somehow set off the smoke alarm and fire suppression. (alternate)"
+  },
+  {
+    "id": 842,
+    "category": "chaotic",
+    "text": "My bike tire punctured, the repair kit was empty, and my phone died on the way back. (alternate)"
+  },
+  {
+    "id": 843,
+    "category": "chaotic",
+    "text": "The elevator in my building is broken and I live on the 14th floor with a bad knee. (alternate)"
+  },
+  {
+    "id": 844,
+    "category": "chaotic",
+    "text": "I arrived at the office and realized I'd left my laptop at a coffee shop 3 miles back. (alternate)"
+  },
+  {
+    "id": 845,
+    "category": "chaotic",
+    "text": "My power went out overnight — fridge defrosted, alarm reset, morning in ruins. (alternate)"
+  },
+  {
+    "id": 846,
+    "category": "chaotic",
+    "text": "I was half dressed for work when a water main exploded on my street. (alternate)"
+  },
+  {
+    "id": 847,
+    "category": "chaotic",
+    "text": "My printer jammed while printing a document I need, ate the paper, and now smells. (alternate)"
+  },
+  {
+    "id": 848,
+    "category": "chaotic",
+    "text": "My ride-share driver drove to my road — the wrong city — and I'm still disputing the charge. (alternate)"
+  },
+  {
+    "id": 849,
+    "category": "chaotic",
+    "text": "I booked the wrong train, got on anyway, am now 60 miles in the wrong direction. (alternate)"
+  },
+  {
+    "id": 850,
+    "category": "chaotic",
+    "text": "My dishwasher flooded, the mop handle snapped, and the towels are all in the wash. (alternate)"
+  },
+  {
+    "id": 851,
+    "category": "chaotic",
+    "text": "I had three things go wrong simultaneously and I need a minute to rank them by urgency. (alternate)"
+  },
+  {
+    "id": 852,
+    "category": "chaotic",
+    "text": "I genuinely do not know where to start with this morning and that's the problem. (alternate)"
+  },
+  {
+    "id": 853,
+    "category": "dark",
+    "text": "I've come to question whether commuting is something I can continue to do in good conscience. (alternate)"
+  },
+  {
+    "id": 854,
+    "category": "dark",
+    "text": "I need a day to sit with the crushing weight of mid-week existential dread. (alternate)"
+  },
+  {
+    "id": 855,
+    "category": "dark",
+    "text": "I had a dream where I wasn't tired anymore and I need to grieve the loss of waking up. (alternate)"
+  },
+  {
+    "id": 856,
+    "category": "dark",
+    "text": "My will to participate in society peaked last Friday and has been declining since. (alternate)"
+  },
+  {
+    "id": 857,
+    "category": "dark",
+    "text": "I'm processing some information about the nature of Mondays that I can't ignore. (alternate)"
+  },
+  {
+    "id": 858,
+    "category": "dark",
+    "text": "I stared at my work outfit for 45 minutes and felt nothing. (alternate)"
+  },
+  {
+    "id": 859,
+    "category": "dark",
+    "text": "I have arrived at a philosophical impasse regarding the concept of showing up. (alternate)"
+  },
+  {
+    "id": 860,
+    "category": "dark",
+    "text": "My motivation called in sick and didn't leave a forwarding number. (alternate)"
+  },
+  {
+    "id": 861,
+    "category": "dark",
+    "text": "I looked at my calendar and the meeting at 9am gave me a physical response. (alternate)"
+  },
+  {
+    "id": 862,
+    "category": "dark",
+    "text": "I am deeply, personally exhausted in a way that one more team standup will not fix. (alternate)"
+  },
+  {
+    "id": 863,
+    "category": "dark",
+    "text": "I need to take a day to be sad about things in a productive, horizontal way. (alternate)"
+  },
+  {
+    "id": 864,
+    "category": "dark",
+    "text": "My enthusiasm for this week has reached levels too low to sustain safe operation. (alternate)"
+  },
+  {
+    "id": 865,
+    "category": "dark",
+    "text": "I have been awake since 3am contemplating my career and the conclusions weren't great. (alternate)"
+  },
+  {
+    "id": 866,
+    "category": "dark",
+    "text": "I'm in a period of emotional inventory that requires me to stay home and audit things. (alternate)"
+  },
+  {
+    "id": 867,
+    "category": "dark",
+    "text": "I've hit a wall and the wall has hit back. (alternate)"
+  },
+  {
+    "id": 868,
+    "category": "dark",
+    "text": "I require a day to not be perceived by anyone. (alternate)"
+  },
+  {
+    "id": 869,
+    "category": "dark",
+    "text": "I'm taking a mental health day before I am forced to take a permanent career change. (alternate)"
+  },
+  {
+    "id": 870,
+    "category": "dark",
+    "text": "My inner battery has been at 2% since Sunday and charging is slow. (alternate)"
+  },
+  {
+    "id": 871,
+    "category": "dark",
+    "text": "I need to rest before I say something I cannot unsay in a meeting. (alternate)"
+  },
+  {
+    "id": 872,
+    "category": "dark",
+    "text": "The thought of joining that 8am call filled me with a specific kind of despair. (alternate)"
+  },
+  {
+    "id": 873,
+    "category": "dark",
+    "text": "I reached the limit of my current reserves of patience and professionalism. (alternate)"
+  },
+  {
+    "id": 874,
+    "category": "dark",
+    "text": "I woke up at 4am certain of something I cannot verify and I haven't recovered. (alternate)"
+  },
+  {
+    "id": 875,
+    "category": "dark",
+    "text": "I need the day to process some feelings that are interfering with my typing speed. (alternate)"
+  },
+  {
+    "id": 876,
+    "category": "dark",
+    "text": "My spirit needs a Tuesday to regroup before Wednesday. (alternate)"
+  },
+  {
+    "id": 877,
+    "category": "dark",
+    "text": "I have a case of burnout that I've been reclassifying as 'fine' for too many months. (alternate)"
+  },
+  {
+    "id": 878,
+    "category": "dark",
+    "text": "I have a scheduled breakdown that I can no longer postpone. (alternate)"
+  },
+  {
+    "id": 879,
+    "category": "dark",
+    "text": "I am going through something I am not ready to name but am very ready to feel. (alternate)"
+  },
+  {
+    "id": 880,
+    "category": "dark",
+    "text": "My capacity to perform normalcy today is simply not there. (alternate)"
+  },
+  {
+    "id": 881,
+    "category": "dark",
+    "text": "I keep starting sentences and then stopping and that seems relevant. (alternate)"
+  },
+  {
+    "id": 882,
+    "category": "dark",
+    "text": "I need to take a personal day before I make a decision I can't walk back. (alternate)"
+  },
+  {
+    "id": 883,
+    "category": "dark",
+    "text": "I've been running on fumes, spite, and cold coffee and two of those have run out. (alternate)"
+  },
+  {
+    "id": 884,
+    "category": "dark",
+    "text": "I need to decompress from last week before I'm ready to compress for this one. (alternate)"
+  },
+  {
+    "id": 885,
+    "category": "dark",
+    "text": "I have a deep structural tiredness that one night of sleep didn't address. (alternate)"
+  },
+  {
+    "id": 886,
+    "category": "dark",
+    "text": "Something happened and I'm dealing with it at the speed of someone who needs the day. (alternate)"
+  },
+  {
+    "id": 887,
+    "category": "dark",
+    "text": "I have a thing I need to sit with, and it needs a whole day, not a lunch break. (alternate)"
+  },
+  {
+    "id": 888,
+    "category": "dark",
+    "text": "I am at capacity and taking on anything further would result in overflow. (alternate)"
+  },
+  {
+    "id": 889,
+    "category": "dark",
+    "text": "My resilience is currently offline for scheduled maintenance. (alternate)"
+  },
+  {
+    "id": 890,
+    "category": "dark",
+    "text": "I need to not work today in order to continue to want to work tomorrow. (alternate)"
+  },
+  {
+    "id": 891,
+    "category": "dark",
+    "text": "I'm experiencing a level of internal weather that requires me to stay indoors. (alternate)"
+  },
+  {
+    "id": 892,
+    "category": "dark",
+    "text": "I have a meeting with myself today to discuss some internal feedback I've received. (alternate)"
+  },
+  {
+    "id": 893,
+    "category": "dark",
+    "text": "I have run out of the kind of energy you need for other people. (alternate)"
+  },
+  {
+    "id": 894,
+    "category": "dark",
+    "text": "My sense of humor about all of this has temporarily left the building. (alternate)"
+  },
+  {
+    "id": 895,
+    "category": "dark",
+    "text": "I need to take a rest day or I will take a rest year — I'm choosing the smaller option. (alternate)"
+  },
+  {
+    "id": 896,
+    "category": "dark",
+    "text": "I've been ignoring some warning signs about my own wellbeing and they've escalated. (alternate)"
+  },
+  {
+    "id": 897,
+    "category": "dark",
+    "text": "I have arrived at a junction in my relationship with this week. (alternate)"
+  },
+  {
+    "id": 898,
+    "category": "dark",
+    "text": "I need a day that is entirely mine — no performance, no output, no updates. (alternate)"
+  },
+  {
+    "id": 899,
+    "category": "dark",
+    "text": "I'm recharging so the next version of me that shows up is worth having there. (alternate)"
+  },
+  {
+    "id": 900,
+    "category": "dark",
+    "text": "I am resting preemptively, which is more efficient than resting reactively. (alternate)"
+  },
+  {
+    "id": 901,
+    "category": "dark",
+    "text": "Something is wrong and I don't have the vocabulary for it yet. (alternate)"
+  },
+  {
+    "id": 902,
+    "category": "dark",
+    "text": "I'm taking a day to be a person rather than a function. (alternate)"
+  },
+  {
+    "id": 903,
+    "category": "office",
+    "text": "I have a conflict with a recurring meeting that I can no longer resolve diplomatically. (alternate)"
+  },
+  {
+    "id": 904,
+    "category": "office",
+    "text": "I'm experiencing stakeholder fatigue and need 24 hours before the next alignment call. (alternate)"
+  },
+  {
+    "id": 905,
+    "category": "office",
+    "text": "I'm working from home today to avoid the collaborative open-plan environment. (alternate)"
+  },
+  {
+    "id": 906,
+    "category": "office",
+    "text": "I need to review my notes from last quarter's all-hands before I can engage with this quarter. (alternate)"
+  },
+  {
+    "id": 907,
+    "category": "office",
+    "text": "I have reached the weekly limit of meetings during which nothing was decided. (alternate)"
+  },
+  {
+    "id": 908,
+    "category": "office",
+    "text": "I'm blocked on a dependency and cannot progress until that dependency responds to email. (alternate)"
+  },
+  {
+    "id": 909,
+    "category": "office",
+    "text": "I'm taking an offline working day — deep work requires zero interruptions. (alternate)"
+  },
+  {
+    "id": 910,
+    "category": "office",
+    "text": "I'm attending a leadership summit. It's on YouTube. Still counts. (alternate)"
+  },
+  {
+    "id": 911,
+    "category": "office",
+    "text": "I have a performance review I need to prepare for, which takes all of today. (alternate)"
+  },
+  {
+    "id": 912,
+    "category": "office",
+    "text": "I'm prototyping a new workflow that could save the team hundreds of hours — needs the day. (alternate)"
+  },
+  {
+    "id": 913,
+    "category": "office",
+    "text": "I'm doing independent market research from an undisclosed location. (alternate)"
+  },
+  {
+    "id": 914,
+    "category": "office",
+    "text": "I have an off-site strategy session — the off-site is my living room. (alternate)"
+  },
+  {
+    "id": 915,
+    "category": "office",
+    "text": "I need to review my OKRs and my OKRs are not going to review themselves. (alternate)"
+  },
+  {
+    "id": 916,
+    "category": "office",
+    "text": "I have to finalize my Q3 priorities, which are in conflict with my Q2 commitments. (alternate)"
+  },
+  {
+    "id": 917,
+    "category": "office",
+    "text": "I'm taking a proactive mental health day to prevent a much longer future absence. (alternate)"
+  },
+  {
+    "id": 918,
+    "category": "office",
+    "text": "I have a networking event I need to prepare for. (alternate)"
+  },
+  {
+    "id": 919,
+    "category": "office",
+    "text": "I'm conducting a retrospective on my own productivity before proceeding. (alternate)"
+  },
+  {
+    "id": 920,
+    "category": "office",
+    "text": "I have a 1:1 I need to reschedule — it was scheduled for today and I need to reschedule it. (alternate)"
+  },
+  {
+    "id": 921,
+    "category": "office",
+    "text": "I have to submit a report that requires data from a system I've been locked out of. (alternate)"
+  },
+  {
+    "id": 922,
+    "category": "office",
+    "text": "I'm updating my skills to remain competitive in the current market. (alternate)"
+  },
+  {
+    "id": 923,
+    "category": "office",
+    "text": "I have a conflict of commitment this morning that requires my attention. (alternate)"
+  },
+  {
+    "id": 924,
+    "category": "office",
+    "text": "I'm taking a creativity day — some of my best ideas have come from not being at my desk. (alternate)"
+  },
+  {
+    "id": 925,
+    "category": "office",
+    "text": "I need to do some reading that is tangentially but meaningfully work-related. (alternate)"
+  },
+  {
+    "id": 926,
+    "category": "office",
+    "text": "I have a commitment to a cross-functional initiative that supersedes today's schedule. (alternate)"
+  },
+  {
+    "id": 927,
+    "category": "office",
+    "text": "I'm in a planning retreat for next month's planning retreat. (alternate)"
+  },
+  {
+    "id": 928,
+    "category": "office",
+    "text": "I've completed all my deliverables and coming in would only slow others down. (alternate)"
+  },
+  {
+    "id": 929,
+    "category": "office",
+    "text": "I'm working on a passion project that may change the company — I need just one more day. (alternate)"
+  },
+  {
+    "id": 930,
+    "category": "office",
+    "text": "I need to complete my mandatory training before the deadline tonight. (alternate)"
+  },
+  {
+    "id": 931,
+    "category": "office",
+    "text": "I have a professional development workshop — it's self-directed but still. (alternate)"
+  },
+  {
+    "id": 932,
+    "category": "office",
+    "text": "I have an industry conference call at an inconvenient time that takes the whole morning. (alternate)"
+  },
+  {
+    "id": 933,
+    "category": "office",
+    "text": "I need to write a business case I've been procrastinating on for three weeks. (alternate)"
+  },
+  {
+    "id": 934,
+    "category": "office",
+    "text": "I'm preparing for a difficult conversation that requires extensive preparation. (alternate)"
+  },
+  {
+    "id": 935,
+    "category": "office",
+    "text": "I have a compliance deadline I've only just become aware of. (alternate)"
+  },
+  {
+    "id": 936,
+    "category": "office",
+    "text": "I'm attending a seminar. The seminar is a podcast. I'm taking notes. (alternate)"
+  },
+  {
+    "id": 937,
+    "category": "office",
+    "text": "I need to archive three years of email before I can function productively. (alternate)"
+  },
+  {
+    "id": 938,
+    "category": "office",
+    "text": "I have an urgent deliverable that will go faster without colleagues asking questions. (alternate)"
+  },
+  {
+    "id": 939,
+    "category": "office",
+    "text": "I need to respond to a client escalation that can only be handled from my home office. (alternate)"
+  },
+  {
+    "id": 940,
+    "category": "office",
+    "text": "I'm reviewing my job description to see if any of today's tasks are actually mine. (alternate)"
+  },
+  {
+    "id": 941,
+    "category": "office",
+    "text": "I have a difficult email to compose and I need the full day to get the tone right. (alternate)"
+  },
+  {
+    "id": 942,
+    "category": "office",
+    "text": "I'm mentoring someone remotely — it's scheduled for today, all day apparently. (alternate)"
+  },
+  {
+    "id": 943,
+    "category": "office",
+    "text": "I need to finish something that yesterday's me should have finished and didn't. (alternate)"
+  },
+  {
+    "id": 944,
+    "category": "office",
+    "text": "I have a milestone review that I am not yet ready to milestone. (alternate)"
+  },
+  {
+    "id": 945,
+    "category": "office",
+    "text": "I need to review a contract with some clauses I need to look into. (alternate)"
+  },
+  {
+    "id": 946,
+    "category": "office",
+    "text": "I have a hiring panel interview today that I wasn't told about until last night. (alternate)"
+  },
+  {
+    "id": 947,
+    "category": "office",
+    "text": "I'm managing a supplier relationship that requires my full attention today. (alternate)"
+  },
+  {
+    "id": 948,
+    "category": "office",
+    "text": "I have an urgent audit request that requires me to gather files for the next few hours. (alternate)"
+  },
+  {
+    "id": 949,
+    "category": "office",
+    "text": "I need to respond to a legal matter the company's outside counsel flagged. (alternate)"
+  },
+  {
+    "id": 950,
+    "category": "office",
+    "text": "I have a board deck to review before it goes out and the changes are substantial. (alternate)"
+  },
+  {
+    "id": 951,
+    "category": "office",
+    "text": "I'm attending a crisis communications training. Timing is apt. (alternate)"
+  },
+  {
+    "id": 952,
+    "category": "office",
+    "text": "I have a regulatory filing due that I only became aware of this morning. (alternate)"
+  },
+  {
+    "id": 953,
+    "category": "tech",
+    "text": "My laptop completely died and I'm waiting for IT support. (alternate)"
+  },
+  {
+    "id": 954,
+    "category": "tech",
+    "text": "My home internet is down and the ISP has a 4-hour repair window. (alternate)"
+  },
+  {
+    "id": 955,
+    "category": "tech",
+    "text": "My VPN hasn't worked all morning and I can't access anything. (alternate)"
+  },
+  {
+    "id": 956,
+    "category": "tech",
+    "text": "My computer won't boot — the hard drive might be dead. (alternate)"
+  },
+  {
+    "id": 957,
+    "category": "tech",
+    "text": "I spilled coffee on my laptop and it's fried. (alternate)"
+  },
+  {
+    "id": 958,
+    "category": "tech",
+    "text": "My router is dead and a replacement arrives this afternoon. (alternate)"
+  },
+  {
+    "id": 959,
+    "category": "tech",
+    "text": "My monitor died and I'm waiting for a loaner. (alternate)"
+  },
+  {
+    "id": 960,
+    "category": "tech",
+    "text": "My work phone got wiped remotely by mistake. (alternate)"
+  },
+  {
+    "id": 961,
+    "category": "tech",
+    "text": "The power surge last night fried my entire home office setup. (alternate)"
+  },
+  {
+    "id": 962,
+    "category": "tech",
+    "text": "My keyboard broke and I cannot type. (alternate)"
+  },
+  {
+    "id": 963,
+    "category": "tech",
+    "text": "My two-factor authentication app got corrupted and I'm locked out of everything. (alternate)"
+  },
+  {
+    "id": 964,
+    "category": "tech",
+    "text": "My work device ran a forced update overnight and now nothing works. (alternate)"
+  },
+  {
+    "id": 965,
+    "category": "tech",
+    "text": "My entire workspace is down due to a cloud service outage. (alternate)"
+  },
+  {
+    "id": 966,
+    "category": "tech",
+    "text": "My external hard drive with all my project files died. (alternate)"
+  },
+  {
+    "id": 967,
+    "category": "tech",
+    "text": "I'm locked out of my work email and IT hasn't responded yet. (alternate)"
+  },
+  {
+    "id": 968,
+    "category": "tech",
+    "text": "My webcam failed and I have video calls all day. (alternate)"
+  },
+  {
+    "id": 969,
+    "category": "tech",
+    "text": "My microphone stopped working and I have 5 hours of meetings. (alternate)"
+  },
+  {
+    "id": 970,
+    "category": "tech",
+    "text": "My ISP is doing emergency maintenance in my area today. (alternate)"
+  },
+  {
+    "id": 971,
+    "category": "tech",
+    "text": "My phone was stolen and I'm dealing with the account lockout process. (alternate)"
+  },
+  {
+    "id": 972,
+    "category": "tech",
+    "text": "My company laptop was involved in a liquid incident — I prefer not to specify. (alternate)"
+  },
+  {
+    "id": 973,
+    "category": "tech",
+    "text": "My internet keeps dropping every 10 minutes — IT is working on it. (alternate)"
+  },
+  {
+    "id": 974,
+    "category": "tech",
+    "text": "My GPU failed and I need it for literally everything I do. (alternate)"
+  },
+  {
+    "id": 975,
+    "category": "tech",
+    "text": "My noise-cancelling headphones broke and my neighbors are jackhammering. (alternate)"
+  },
+  {
+    "id": 976,
+    "category": "tech",
+    "text": "My printer died and I need to print legal documents for a meeting. (alternate)"
+  },
+  {
+    "id": 977,
+    "category": "tech",
+    "text": "My second monitor died and I can't do my job on a single 13-inch screen. (alternate)"
+  },
+  {
+    "id": 978,
+    "category": "tech",
+    "text": "My home office UPS failed and took the router down with it. (alternate)"
+  },
+  {
+    "id": 979,
+    "category": "tech",
+    "text": "A Windows update has rendered my machine unable to connect to company servers. (alternate)"
+  },
+  {
+    "id": 980,
+    "category": "tech",
+    "text": "I was the target of a phishing attack and need to secure all my accounts. (alternate)"
+  },
+  {
+    "id": 981,
+    "category": "tech",
+    "text": "My SSH keys got wiped and I can't access any of the servers I maintain. (alternate)"
+  },
+  {
+    "id": 982,
+    "category": "tech",
+    "text": "My development environment is completely broken after an OS update. (alternate)"
+  },
+  {
+    "id": 983,
+    "category": "tech",
+    "text": "My cloud storage hit its limit and I can't sync anything to work. (alternate)"
+  },
+  {
+    "id": 984,
+    "category": "tech",
+    "text": "The shared drive is down and everything I need is on the shared drive. (alternate)"
+  },
+  {
+    "id": 985,
+    "category": "tech",
+    "text": "My company VPN token expired and I can't get a new one without the system I can't access. (alternate)"
+  },
+  {
+    "id": 986,
+    "category": "tech",
+    "text": "My laptop battery died and the charger is at the office. A replacement is coming. (alternate)"
+  },
+  {
+    "id": 987,
+    "category": "tech",
+    "text": "My home NAS is in a RAID rebuild and I'm locked out of all my local files. (alternate)"
+  },
+  {
+    "id": 988,
+    "category": "tech",
+    "text": "My Bluetooth devices stopped pairing and I can't use anything without wires. (alternate)"
+  },
+  {
+    "id": 989,
+    "category": "tech",
+    "text": "My workspace container refuses to start — corrupted after yesterday's update. (alternate)"
+  },
+  {
+    "id": 990,
+    "category": "tech",
+    "text": "My IDE is in a crash loop and factory reset didn't help. (alternate)"
+  },
+  {
+    "id": 991,
+    "category": "tech",
+    "text": "My build system is broken and I can't even check what's broken without the build system. (alternate)"
+  },
+  {
+    "id": 992,
+    "category": "tech",
+    "text": "My local DNS is resolving everything to localhost — I can't reach any external service. (alternate)"
+  },
+  {
+    "id": 993,
+    "category": "tech",
+    "text": "My authentication certificate expired at midnight and renewal is a 2-hour process. (alternate)"
+  },
+  {
+    "id": 994,
+    "category": "tech",
+    "text": "My two monitors have different color profiles and the difference gave me a migraine. (alternate)"
+  },
+  {
+    "id": 995,
+    "category": "tech",
+    "text": "My terminal emulator corrupted its config and now displays everything upside down. (alternate)"
+  },
+  {
+    "id": 996,
+    "category": "tech",
+    "text": "I accidentally deleted a config file and now my entire local environment is unresponsive. (alternate)"
+  },
+  {
+    "id": 997,
+    "category": "tech",
+    "text": "My package manager is broken, the caches are corrupted, and I've been at it since 6am. (alternate)"
+  },
+  {
+    "id": 998,
+    "category": "tech",
+    "text": "My video conferencing app refuses to see my camera even though it's connected. (alternate)"
+  },
+  {
+    "id": 999,
+    "category": "tech",
+    "text": "My Wi-Fi card failed and I'm waiting for a USB adapter to arrive. (alternate)"
+  },
+  {
+    "id": 1000,
+    "category": "tech",
+    "text": "My smart home system had a glitch and locked me out of my own house. (alternate)"
+  },
+  {
+    "id": 1001,
+    "category": "tech",
+    "text": "My ergonomic keyboard requires a firmware update that takes a full day apparently. (alternate)"
+  }
+]

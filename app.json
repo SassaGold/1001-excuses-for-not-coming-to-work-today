@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "1001 Excuses",
+    "slug": "1001-excuses",
+    "scheme": "excuses",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "userInterfaceStyle": "automatic",
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": true }
+  }
+}
