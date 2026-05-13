@@ -1,0 +1,5007 @@
+[
+  {
+    "id": 1,
+    "category": "health",
+    "text": "I have a doctor's appointment that I completely forgot about until this morning."
+  },
+  {
+    "id": 2,
+    "category": "health",
+    "text": "I woke up with a splitting migraine and can't look at screens."
+  },
+  {
+    "id": 3,
+    "category": "health",
+    "text": "I think I have food poisoning from last night's dinner."
+  },
+  {
+    "id": 4,
+    "category": "health",
+    "text": "My back went out and I can barely move."
+  },
+  {
+    "id": 5,
+    "category": "health",
+    "text": "I have a severe allergic reaction and my face looks like a balloon."
+  },
+  {
+    "id": 6,
+    "category": "health",
+    "text": "I pulled a muscle sneezing — yes, that's a real thing."
+  },
+  {
+    "id": 7,
+    "category": "health",
+    "text": "My wisdom tooth is killing me and I need emergency dental care."
+  },
+  {
+    "id": 8,
+    "category": "health",
+    "text": "I have pink eye and don't want to spread it."
+  },
+  {
+    "id": 9,
+    "category": "health",
+    "text": "I have a 24-hour stomach bug and it's not pretty."
+  },
+  {
+    "id": 10,
+    "category": "health",
+    "text": "My vertigo is so bad the room won't stop spinning."
+  },
+  {
+    "id": 11,
+    "category": "health",
+    "text": "I have a kidney stone and the pain is unbearable."
+  },
+  {
+    "id": 12,
+    "category": "health",
+    "text": "I came down with a bad cold overnight."
+  },
+  {
+    "id": 13,
+    "category": "health",
+    "text": "My sinuses are completely blocked and I can't think straight."
+  },
+  {
+    "id": 14,
+    "category": "health",
+    "text": "I injured my wrist and can't type."
+  },
+  {
+    "id": 15,
+    "category": "health",
+    "text": "I have laryngitis and can't speak for any calls."
+  },
+  {
+    "id": 16,
+    "category": "health",
+    "text": "I stepped on a nail and need to get a tetanus shot."
+  },
+  {
+    "id": 17,
+    "category": "health",
+    "text": "I have a high fever and my doctor said to stay home."
+  },
+  {
+    "id": 18,
+    "category": "health",
+    "text": "I sprained my ankle and can't drive."
+  },
+  {
+    "id": 19,
+    "category": "health",
+    "text": "My blood pressure is dangerously high and I need rest."
+  },
+  {
+    "id": 20,
+    "category": "health",
+    "text": "I have a severe sore throat and suspect strep."
+  },
+  {
+    "id": 21,
+    "category": "health",
+    "text": "I have a rash that needs medical attention."
+  },
+  {
+    "id": 22,
+    "category": "health",
+    "text": "My asthma is acting up badly today."
+  },
+  {
+    "id": 23,
+    "category": "health",
+    "text": "I have a stomach ulcer flare-up."
+  },
+  {
+    "id": 24,
+    "category": "health",
+    "text": "I have a urinary tract infection and it's miserable."
+  },
+  {
+    "id": 25,
+    "category": "health",
+    "text": "I'm having heart palpitations and my doctor wants me monitored."
+  },
+  {
+    "id": 26,
+    "category": "health",
+    "text": "I have a pinched nerve in my neck."
+  },
+  {
+    "id": 27,
+    "category": "health",
+    "text": "My eczema is flaring and I can barely use my hands."
+  },
+  {
+    "id": 28,
+    "category": "health",
+    "text": "I have a hernia that's acting up."
+  },
+  {
+    "id": 29,
+    "category": "health",
+    "text": "I have severe period cramps that are debilitating today."
+  },
+  {
+    "id": 30,
+    "category": "health",
+    "text": "I have an ear infection and can't balance properly."
+  },
+  {
+    "id": 31,
+    "category": "health",
+    "text": "My diabetes is out of control and I need to rest."
+  },
+  {
+    "id": 32,
+    "category": "health",
+    "text": "I have a severe nosebleed that won't stop."
+  },
+  {
+    "id": 33,
+    "category": "health",
+    "text": "I have shingles and it's extremely painful."
+  },
+  {
+    "id": 34,
+    "category": "health",
+    "text": "My carpal tunnel is so bad I can't use a keyboard."
+  },
+  {
+    "id": 35,
+    "category": "health",
+    "text": "I have a bad case of sciatica today."
+  },
+  {
+    "id": 36,
+    "category": "health",
+    "text": "I have bronchitis and keep having coughing fits."
+  },
+  {
+    "id": 37,
+    "category": "health",
+    "text": "I have tendinitis in my shoulder."
+  },
+  {
+    "id": 38,
+    "category": "health",
+    "text": "I burned my hand cooking breakfast."
+  },
+  {
+    "id": 39,
+    "category": "health",
+    "text": "I need to go to urgent care — I'll explain later."
+  },
+  {
+    "id": 40,
+    "category": "health",
+    "text": "I cut my finger badly and needed stitches."
+  },
+  {
+    "id": 41,
+    "category": "family",
+    "text": "My kid is sick and I can't find anyone to watch them."
+  },
+  {
+    "id": 42,
+    "category": "family",
+    "text": "My babysitter cancelled at the last minute."
+  },
+  {
+    "id": 43,
+    "category": "family",
+    "text": "My elderly parent needs to go to the hospital."
+  },
+  {
+    "id": 44,
+    "category": "family",
+    "text": "There's a family emergency I can't discuss right now."
+  },
+  {
+    "id": 45,
+    "category": "family",
+    "text": "My spouse was rushed to the ER last night."
+  },
+  {
+    "id": 46,
+    "category": "family",
+    "text": "My child has a school event I completely forgot to put on the calendar."
+  },
+  {
+    "id": 47,
+    "category": "family",
+    "text": "My kid's school just called — they have a fever and I need to pick them up."
+  },
+  {
+    "id": 48,
+    "category": "family",
+    "text": "My mother flew in unexpectedly and I need to get her settled."
+  },
+  {
+    "id": 49,
+    "category": "family",
+    "text": "My child had a panic attack and I can't leave them alone."
+  },
+  {
+    "id": 50,
+    "category": "family",
+    "text": "My dog is really sick and needs emergency vet care."
+  },
+  {
+    "id": 51,
+    "category": "family",
+    "text": "My cat had kittens overnight — all 7 of them need attention."
+  },
+  {
+    "id": 52,
+    "category": "family",
+    "text": "My parent's caregiver didn't show up and I'm the backup."
+  },
+  {
+    "id": 53,
+    "category": "family",
+    "text": "My kid has a specialist appointment I can't reschedule."
+  },
+  {
+    "id": 54,
+    "category": "family",
+    "text": "My spouse just had surgery and was discharged early — I need to care for them."
+  },
+  {
+    "id": 55,
+    "category": "family",
+    "text": "My nephew is in town and needs someone to pick him up from the airport."
+  },
+  {
+    "id": 56,
+    "category": "family",
+    "text": "My parent fell and I need to assess if they're okay."
+  },
+  {
+    "id": 57,
+    "category": "family",
+    "text": "My child has a severe allergic reaction at school."
+  },
+  {
+    "id": 58,
+    "category": "family",
+    "text": "My family has a bereavement — a distant relative passed."
+  },
+  {
+    "id": 59,
+    "category": "family",
+    "text": "My parent's power of attorney paperwork needs to be signed today."
+  },
+  {
+    "id": 60,
+    "category": "family",
+    "text": "My child's daycare is closed for an emergency."
+  },
+  {
+    "id": 61,
+    "category": "family",
+    "text": "My teenager had an accident and needs me now."
+  },
+  {
+    "id": 62,
+    "category": "family",
+    "text": "My in-laws arrived a day early and chaos ensued."
+  },
+  {
+    "id": 63,
+    "category": "family",
+    "text": "My sibling is in crisis and I'm the only one they'll talk to."
+  },
+  {
+    "id": 64,
+    "category": "family",
+    "text": "My kid locked themselves in the bathroom and I'm waiting for a locksmith."
+  },
+  {
+    "id": 65,
+    "category": "family",
+    "text": "My spouse got into a minor car accident and I need to help."
+  },
+  {
+    "id": 66,
+    "category": "family",
+    "text": "My parent's medication was mixed up and I need to sort it out."
+  },
+  {
+    "id": 67,
+    "category": "family",
+    "text": "My child has an IEP meeting at school today."
+  },
+  {
+    "id": 68,
+    "category": "family",
+    "text": "My grandmother had a fall and is being evaluated."
+  },
+  {
+    "id": 69,
+    "category": "family",
+    "text": "My pet fish died and my kids are inconsolable."
+  },
+  {
+    "id": 70,
+    "category": "family",
+    "text": "My baby was up all night and I haven't slept at all."
+  },
+  {
+    "id": 71,
+    "category": "transport",
+    "text": "My car won't start — battery is completely dead."
+  },
+  {
+    "id": 72,
+    "category": "transport",
+    "text": "I got a flat tire on the way in."
+  },
+  {
+    "id": 73,
+    "category": "transport",
+    "text": "I'm stuck in an unexpected traffic jam — the freeway is completely closed."
+  },
+  {
+    "id": 74,
+    "category": "transport",
+    "text": "My train was cancelled with no warning."
+  },
+  {
+    "id": 75,
+    "category": "transport",
+    "text": "I missed my bus and the next one isn't for an hour."
+  },
+  {
+    "id": 76,
+    "category": "transport",
+    "text": "My car is at the mechanic unexpectedly."
+  },
+  {
+    "id": 77,
+    "category": "transport",
+    "text": "I was in a minor fender-bender — no injuries but lots of paperwork."
+  },
+  {
+    "id": 78,
+    "category": "transport",
+    "text": "My Uber driver cancelled and there are no cars available."
+  },
+  {
+    "id": 79,
+    "category": "transport",
+    "text": "There's a fuel leak in my car and I can't drive it."
+  },
+  {
+    "id": 80,
+    "category": "transport",
+    "text": "My bike tire popped on the way in."
+  },
+  {
+    "id": 81,
+    "category": "transport",
+    "text": "A traffic accident ahead has traffic at a standstill for miles."
+  },
+  {
+    "id": 82,
+    "category": "transport",
+    "text": "My car's check engine light came on and it's making a terrible noise."
+  },
+  {
+    "id": 83,
+    "category": "transport",
+    "text": "My car got towed overnight — parking sign confusion."
+  },
+  {
+    "id": 84,
+    "category": "transport",
+    "text": "The bridge on my route is closed for emergency repairs."
+  },
+  {
+    "id": 85,
+    "category": "transport",
+    "text": "My windshield cracked and I can't see safely."
+  },
+  {
+    "id": 86,
+    "category": "transport",
+    "text": "I ran out of gas — embarrassing but true."
+  },
+  {
+    "id": 87,
+    "category": "transport",
+    "text": "There's a road washout on my only route."
+  },
+  {
+    "id": 88,
+    "category": "transport",
+    "text": "My transmission just gave out."
+  },
+  {
+    "id": 89,
+    "category": "transport",
+    "text": "A tree fell across my driveway overnight."
+  },
+  {
+    "id": 90,
+    "category": "transport",
+    "text": "My alternator died and the car shut down mid-commute."
+  },
+  {
+    "id": 91,
+    "category": "transport",
+    "text": "My public transit app shows no service today on my line."
+  },
+  {
+    "id": 92,
+    "category": "transport",
+    "text": "I locked my keys in the car — waiting for roadside assistance."
+  },
+  {
+    "id": 93,
+    "category": "transport",
+    "text": "There's a police checkpoint blocking my route."
+  },
+  {
+    "id": 94,
+    "category": "transport",
+    "text": "My parking brake cable snapped and I can't move the car safely."
+  },
+  {
+    "id": 95,
+    "category": "transport",
+    "text": "I have a cracked axle and the car is undriveable."
+  },
+  {
+    "id": 96,
+    "category": "transport",
+    "text": "My car was broken into overnight — I need to deal with the police report."
+  },
+  {
+    "id": 97,
+    "category": "transport",
+    "text": "A sinkhole opened on my street."
+  },
+  {
+    "id": 98,
+    "category": "transport",
+    "text": "The road is flooded and impassable."
+  },
+  {
+    "id": 99,
+    "category": "transport",
+    "text": "My garage door is broken and my car is stuck inside."
+  },
+  {
+    "id": 100,
+    "category": "transport",
+    "text": "I rear-ended someone slightly — everyone's fine but there's a report to file."
+  },
+  {
+    "id": 101,
+    "category": "home",
+    "text": "My pipes burst overnight and there's water everywhere."
+  },
+  {
+    "id": 102,
+    "category": "home",
+    "text": "I have a gas leak and the utility company is on their way."
+  },
+  {
+    "id": 103,
+    "category": "home",
+    "text": "My furnace died in the middle of the night."
+  },
+  {
+    "id": 104,
+    "category": "home",
+    "text": "A contractor is coming for an emergency repair I can't reschedule."
+  },
+  {
+    "id": 105,
+    "category": "home",
+    "text": "My roof is leaking and I need to manage the damage."
+  },
+  {
+    "id": 106,
+    "category": "home",
+    "text": "My refrigerator stopped working and everything is spoiling."
+  },
+  {
+    "id": 107,
+    "category": "home",
+    "text": "There was a small electrical fire — the fire department came, all is fine."
+  },
+  {
+    "id": 108,
+    "category": "home",
+    "text": "My basement flooded."
+  },
+  {
+    "id": 109,
+    "category": "home",
+    "text": "My hot water heater burst."
+  },
+  {
+    "id": 110,
+    "category": "home",
+    "text": "A tree branch fell on my car overnight."
+  },
+  {
+    "id": 111,
+    "category": "home",
+    "text": "My internet is completely out and I can't work from home."
+  },
+  {
+    "id": 112,
+    "category": "home",
+    "text": "My apartment building has a water shut-off today."
+  },
+  {
+    "id": 113,
+    "category": "home",
+    "text": "There's a power outage in my neighborhood."
+  },
+  {
+    "id": 114,
+    "category": "home",
+    "text": "The exterminators are coming — it couldn't wait."
+  },
+  {
+    "id": 115,
+    "category": "home",
+    "text": "My washing machine flooded my laundry room."
+  },
+  {
+    "id": 116,
+    "category": "home",
+    "text": "My oven caught fire — minor damage but lots of smoke."
+  },
+  {
+    "id": 117,
+    "category": "home",
+    "text": "My landlord is doing mandatory repairs today."
+  },
+  {
+    "id": 118,
+    "category": "home",
+    "text": "I came home to find a burst pipe I have to deal with now."
+  },
+  {
+    "id": 119,
+    "category": "home",
+    "text": "My security system was triggered and the alarm company needs me there."
+  },
+  {
+    "id": 120,
+    "category": "home",
+    "text": "A raccoon got into my attic and I need to deal with it."
+  },
+  {
+    "id": 121,
+    "category": "home",
+    "text": "My septic system is backing up."
+  },
+  {
+    "id": 122,
+    "category": "home",
+    "text": "My HVAC is broken and it's dangerously hot/cold inside."
+  },
+  {
+    "id": 123,
+    "category": "home",
+    "text": "There was a break-in attempt and I need to stay home for the police report."
+  },
+  {
+    "id": 124,
+    "category": "home",
+    "text": "My elevator in the apartment building is broken and I can't carry all my gear down 12 flights."
+  },
+  {
+    "id": 125,
+    "category": "home",
+    "text": "My movers are arriving today — I mixed up the dates."
+  },
+  {
+    "id": 126,
+    "category": "home",
+    "text": "A water main broke on my street and there's no water."
+  },
+  {
+    "id": 127,
+    "category": "home",
+    "text": "My building is being inspected and they need access to my unit."
+  },
+  {
+    "id": 128,
+    "category": "home",
+    "text": "I have a bedbug inspector coming — mandatory for the building."
+  },
+  {
+    "id": 129,
+    "category": "home",
+    "text": "My garage is flooded and I can't get my car out."
+  },
+  {
+    "id": 130,
+    "category": "home",
+    "text": "My mailbox was damaged and I need to deal with important documents."
+  },
+  {
+    "id": 131,
+    "category": "weather",
+    "text": "There's a severe snowstorm and the roads are completely impassable."
+  },
+  {
+    "id": 132,
+    "category": "weather",
+    "text": "A tornado warning was issued for my area."
+  },
+  {
+    "id": 133,
+    "category": "weather",
+    "text": "The hurricane preparation is taking all day."
+  },
+  {
+    "id": 134,
+    "category": "weather",
+    "text": "Flooding in my area is making roads unsafe."
+  },
+  {
+    "id": 135,
+    "category": "weather",
+    "text": "There's black ice everywhere — I nearly slipped in my driveway."
+  },
+  {
+    "id": 136,
+    "category": "weather",
+    "text": "A blizzard hit overnight and my car is buried."
+  },
+  {
+    "id": 137,
+    "category": "weather",
+    "text": "The heat index is dangerously high and my AC broke."
+  },
+  {
+    "id": 138,
+    "category": "weather",
+    "text": "A wildfire is nearby and I'm on evacuation alert."
+  },
+  {
+    "id": 139,
+    "category": "weather",
+    "text": "Severe thunderstorms are causing flash flooding on my route."
+  },
+  {
+    "id": 140,
+    "category": "weather",
+    "text": "Dense fog advisory — visibility is near zero."
+  },
+  {
+    "id": 141,
+    "category": "weather",
+    "text": "Hail damaged my windshield and I can't drive."
+  },
+  {
+    "id": 142,
+    "category": "weather",
+    "text": "Extreme cold warning — my car won't start and the pipes might freeze."
+  },
+  {
+    "id": 143,
+    "category": "weather",
+    "text": "A wind advisory has downed trees all over my route."
+  },
+  {
+    "id": 144,
+    "category": "weather",
+    "text": "There's an ice storm and my car is encased in ice."
+  },
+  {
+    "id": 145,
+    "category": "weather",
+    "text": "Lightning struck nearby and knocked out power to my block."
+  },
+  {
+    "id": 146,
+    "category": "weather",
+    "text": "A mudslide closed the only road to my neighborhood."
+  },
+  {
+    "id": 147,
+    "category": "weather",
+    "text": "Dust storm conditions — completely unsafe to drive."
+  },
+  {
+    "id": 148,
+    "category": "weather",
+    "text": "There's a waterspout warning near the coast on my route."
+  },
+  {
+    "id": 149,
+    "category": "weather",
+    "text": "Freezing rain has made every surface treacherous."
+  },
+  {
+    "id": 150,
+    "category": "weather",
+    "text": "A heat wave has the roads buckling — my tire blew out."
+  },
+  {
+    "id": 151,
+    "category": "personal",
+    "text": "I have a personal matter I need to attend to — I'd rather not share the details."
+  },
+  {
+    "id": 152,
+    "category": "personal",
+    "text": "I'm dealing with a mental health day that I really need."
+  },
+  {
+    "id": 153,
+    "category": "personal",
+    "text": "I have a court date I forgot to mention."
+  },
+  {
+    "id": 154,
+    "category": "personal",
+    "text": "I need to renew my driver's license — it expires today."
+  },
+  {
+    "id": 155,
+    "category": "personal",
+    "text": "I have jury duty that just got confirmed."
+  },
+  {
+    "id": 156,
+    "category": "personal",
+    "text": "I have a visa appointment that can't be moved."
+  },
+  {
+    "id": 157,
+    "category": "personal",
+    "text": "I'm waiting for an important delivery that requires my signature."
+  },
+  {
+    "id": 158,
+    "category": "personal",
+    "text": "I have a financial emergency at my bank."
+  },
+  {
+    "id": 159,
+    "category": "personal",
+    "text": "I lost my wallet and ID and need to sort it out."
+  },
+  {
+    "id": 160,
+    "category": "personal",
+    "text": "I have a passport appointment for an urgent trip."
+  },
+  {
+    "id": 161,
+    "category": "personal",
+    "text": "My identity was stolen and I need to deal with the bank today."
+  },
+  {
+    "id": 162,
+    "category": "personal",
+    "text": "I have a therapy appointment that I really need to keep."
+  },
+  {
+    "id": 163,
+    "category": "personal",
+    "text": "I have to appear in person at a government office today."
+  },
+  {
+    "id": 164,
+    "category": "personal",
+    "text": "I have a housing inspection that I couldn't reschedule."
+  },
+  {
+    "id": 165,
+    "category": "personal",
+    "text": "I'm moving to a new apartment today — I thought I mentioned it."
+  },
+  {
+    "id": 166,
+    "category": "personal",
+    "text": "I have to deal with a tax audit notification."
+  },
+  {
+    "id": 167,
+    "category": "personal",
+    "text": "I have a consulate appointment that took months to get."
+  },
+  {
+    "id": 168,
+    "category": "personal",
+    "text": "I have to handle estate paperwork from a relative's passing."
+  },
+  {
+    "id": 169,
+    "category": "personal",
+    "text": "I have a mandatory union meeting."
+  },
+  {
+    "id": 170,
+    "category": "personal",
+    "text": "I have to sort out a banking error before the day is out."
+  },
+  {
+    "id": 171,
+    "category": "personal",
+    "text": "I have a DMV appointment and the next one is 3 months out."
+  },
+  {
+    "id": 172,
+    "category": "personal",
+    "text": "I have a mortgage closing today."
+  },
+  {
+    "id": 173,
+    "category": "personal",
+    "text": "I have a social security office appointment."
+  },
+  {
+    "id": 174,
+    "category": "personal",
+    "text": "I have an immigration hearing today."
+  },
+  {
+    "id": 175,
+    "category": "personal",
+    "text": "I need to handle my car registration before I get a fine."
+  },
+  {
+    "id": 176,
+    "category": "personal",
+    "text": "I have to deal with a collections call that turned into a whole thing."
+  },
+  {
+    "id": 177,
+    "category": "personal",
+    "text": "I have a scheduled surgery consult I've waited months for."
+  },
+  {
+    "id": 178,
+    "category": "personal",
+    "text": "I have to attend a funeral of a colleague's family member."
+  },
+  {
+    "id": 179,
+    "category": "personal",
+    "text": "I have a blood draw that has to be fasted — can't eat — and I feel awful."
+  },
+  {
+    "id": 180,
+    "category": "personal",
+    "text": "I'm dealing with an unexpected legal matter."
+  },
+  {
+    "id": 181,
+    "category": "technology",
+    "text": "My laptop completely died and I'm waiting for IT support."
+  },
+  {
+    "id": 182,
+    "category": "technology",
+    "text": "My home internet is down and there's no ETA for repair."
+  },
+  {
+    "id": 183,
+    "category": "technology",
+    "text": "My phone was stolen and I need to deal with that."
+  },
+  {
+    "id": 184,
+    "category": "technology",
+    "text": "I was locked out of all my accounts after a security incident."
+  },
+  {
+    "id": 185,
+    "category": "technology",
+    "text": "My VPN hasn't worked all morning and I can't access anything."
+  },
+  {
+    "id": 186,
+    "category": "technology",
+    "text": "My computer won't boot — the hard drive might be dead."
+  },
+  {
+    "id": 187,
+    "category": "technology",
+    "text": "My ISP is doing emergency maintenance in my area today."
+  },
+  {
+    "id": 188,
+    "category": "technology",
+    "text": "I spilled coffee on my laptop and it's fried."
+  },
+  {
+    "id": 189,
+    "category": "technology",
+    "text": "I was the victim of a phishing attack and need to secure my accounts."
+  },
+  {
+    "id": 190,
+    "category": "technology",
+    "text": "My router is dead and I can't get online."
+  },
+  {
+    "id": 191,
+    "category": "technology",
+    "text": "My monitor died and I'm waiting for a replacement."
+  },
+  {
+    "id": 192,
+    "category": "technology",
+    "text": "My work phone got wiped remotely by mistake."
+  },
+  {
+    "id": 193,
+    "category": "technology",
+    "text": "The power surge last night fried my entire home office setup."
+  },
+  {
+    "id": 194,
+    "category": "technology",
+    "text": "My keyboard broke and I literally cannot type."
+  },
+  {
+    "id": 195,
+    "category": "technology",
+    "text": "My two-factor authentication app got corrupted and I can't log into anything."
+  },
+  {
+    "id": 196,
+    "category": "technology",
+    "text": "My work device ran a forced update overnight and now nothing works."
+  },
+  {
+    "id": 197,
+    "category": "technology",
+    "text": "My entire workspace is down due to a cloud service outage."
+  },
+  {
+    "id": 198,
+    "category": "technology",
+    "text": "My external hard drive with all my work files died."
+  },
+  {
+    "id": 199,
+    "category": "technology",
+    "text": "I'm locked out of my work email and IT hasn't responded."
+  },
+  {
+    "id": 200,
+    "category": "technology",
+    "text": "My smart home system had a glitch and locked me out of my own house."
+  },
+  {
+    "id": 201,
+    "category": "creative",
+    "text": "I accidentally scheduled a dentist appointment for today instead of tomorrow."
+  },
+  {
+    "id": 202,
+    "category": "creative",
+    "text": "I thought today was a holiday."
+  },
+  {
+    "id": 203,
+    "category": "creative",
+    "text": "I mixed up my time zones and thought I had an extra hour."
+  },
+  {
+    "id": 204,
+    "category": "creative",
+    "text": "I sleep-walked and somehow ended up in my neighbor's yard."
+  },
+  {
+    "id": 205,
+    "category": "creative",
+    "text": "My alarm clock displayed the wrong time because of daylight saving."
+  },
+  {
+    "id": 206,
+    "category": "creative",
+    "text": "I was bitten by a spider and my hand swelled up."
+  },
+  {
+    "id": 207,
+    "category": "creative",
+    "text": "A bee flew into my car and I had to pull over immediately."
+  },
+  {
+    "id": 208,
+    "category": "creative",
+    "text": "A deer crashed through my fence this morning."
+  },
+  {
+    "id": 209,
+    "category": "creative",
+    "text": "I found a stray dog in my house and I'm trying to find its owner."
+  },
+  {
+    "id": 210,
+    "category": "creative",
+    "text": "A bird flew into my house and I've been trying to get it out for an hour."
+  },
+  {
+    "id": 211,
+    "category": "creative",
+    "text": "My neighbor's tree fell into my yard and blocked my driveway."
+  },
+  {
+    "id": 212,
+    "category": "creative",
+    "text": "I got stung by a jellyfish on my morning swim."
+  },
+  {
+    "id": 213,
+    "category": "creative",
+    "text": "I accidentally left my laptop on the roof of my car."
+  },
+  {
+    "id": 214,
+    "category": "creative",
+    "text": "I woke up and my entire neighborhood was blocked off for a film shoot."
+  },
+  {
+    "id": 215,
+    "category": "creative",
+    "text": "I accidentally washed my phone in the laundry."
+  },
+  {
+    "id": 216,
+    "category": "creative",
+    "text": "My neighbor is having a very loud argument with a delivery driver in my driveway."
+  },
+  {
+    "id": 217,
+    "category": "creative",
+    "text": "A squirrel chewed through my power cable."
+  },
+  {
+    "id": 218,
+    "category": "creative",
+    "text": "I found a snake in my garage and am waiting for animal control."
+  },
+  {
+    "id": 219,
+    "category": "creative",
+    "text": "I accidentally glued my hand to my desk."
+  },
+  {
+    "id": 220,
+    "category": "creative",
+    "text": "I got my hand stuck in a jar and had to go to urgent care."
+  },
+  {
+    "id": 221,
+    "category": "creative",
+    "text": "My mail carrier left a package in front of my car in the garage."
+  },
+  {
+    "id": 222,
+    "category": "creative",
+    "text": "I fell asleep on the couch and my cat sat on my face and I can't breathe."
+  },
+  {
+    "id": 223,
+    "category": "creative",
+    "text": "My dog ate my laptop charger."
+  },
+  {
+    "id": 224,
+    "category": "creative",
+    "text": "I dropped my car keys in a drain."
+  },
+  {
+    "id": 225,
+    "category": "creative",
+    "text": "A gust of wind blew all my important papers out the window."
+  },
+  {
+    "id": 226,
+    "category": "creative",
+    "text": "My doorbell camera caught something suspicious and I'm waiting for police."
+  },
+  {
+    "id": 227,
+    "category": "creative",
+    "text": "I accidentally booked a flight for today and am trying to cancel."
+  },
+  {
+    "id": 228,
+    "category": "creative",
+    "text": "I thought my commute was shorter but got completely lost."
+  },
+  {
+    "id": 229,
+    "category": "creative",
+    "text": "I got a unexpected visit from old friends who had nowhere to go."
+  },
+  {
+    "id": 230,
+    "category": "creative",
+    "text": "My cat knocked over my monitor and it shattered."
+  },
+  {
+    "id": 231,
+    "category": "philosophical",
+    "text": "I need a day to reflect on the direction of my career."
+  },
+  {
+    "id": 232,
+    "category": "philosophical",
+    "text": "I'm experiencing existential uncertainty about the nature of work itself."
+  },
+  {
+    "id": 233,
+    "category": "philosophical",
+    "text": "I've been deeply questioning whether linear time constructs like 'Monday' are truly binding."
+  },
+  {
+    "id": 234,
+    "category": "philosophical",
+    "text": "My horoscope strongly advised against any professional endeavors today."
+  },
+  {
+    "id": 235,
+    "category": "philosophical",
+    "text": "I had a prophetic dream that warned me not to leave the house."
+  },
+  {
+    "id": 236,
+    "category": "philosophical",
+    "text": "I'm practicing radical presence and today calls me to be present at home."
+  },
+  {
+    "id": 237,
+    "category": "philosophical",
+    "text": "I feel called to a higher purpose today that precludes spreadsheet review."
+  },
+  {
+    "id": 238,
+    "category": "philosophical",
+    "text": "My spirit guide indicated this is a rest day."
+  },
+  {
+    "id": 239,
+    "category": "philosophical",
+    "text": "I'm in a retrograde-induced communications blackout."
+  },
+  {
+    "id": 240,
+    "category": "philosophical",
+    "text": "I need to realign my chakras before I can be productive."
+  },
+  {
+    "id": 241,
+    "category": "philosophical",
+    "text": "I spilled my coffee and took it as a sign from the universe."
+  },
+  {
+    "id": 242,
+    "category": "philosophical",
+    "text": "My tarot reading this morning was unambiguous: stay home."
+  },
+  {
+    "id": 243,
+    "category": "philosophical",
+    "text": "I'm processing a deeply meaningful dream and cannot rush the integration."
+  },
+  {
+    "id": 244,
+    "category": "philosophical",
+    "text": "I'm honoring my body's wisdom which is telling me to rest."
+  },
+  {
+    "id": 245,
+    "category": "philosophical",
+    "text": "I feel that productivity today would be inauthentic to my current emotional state."
+  },
+  {
+    "id": 246,
+    "category": "philosophical",
+    "text": "My energy is being redirected to inner work today."
+  },
+  {
+    "id": 247,
+    "category": "philosophical",
+    "text": "I am undertaking a voluntary digital and professional detox."
+  },
+  {
+    "id": 248,
+    "category": "philosophical",
+    "text": "I've been advised by my life coach to take an unscheduled personal day."
+  },
+  {
+    "id": 249,
+    "category": "philosophical",
+    "text": "The universe clearly doesn't want me at work today — three things broke before 7am."
+  },
+  {
+    "id": 250,
+    "category": "philosophical",
+    "text": "I'm on a self-imposed sabbatical of indeterminate length."
+  },
+  {
+    "id": 251,
+    "category": "vague",
+    "text": "Something came up."
+  },
+  {
+    "id": 252,
+    "category": "vague",
+    "text": "I have a situation I'm dealing with."
+  },
+  {
+    "id": 253,
+    "category": "vague",
+    "text": "I won't be able to make it in today."
+  },
+  {
+    "id": 254,
+    "category": "vague",
+    "text": "I have an appointment I can't move."
+  },
+  {
+    "id": 255,
+    "category": "vague",
+    "text": "I need to take care of something urgent at home."
+  },
+  {
+    "id": 256,
+    "category": "vague",
+    "text": "A personal matter requires my attention."
+  },
+  {
+    "id": 257,
+    "category": "vague",
+    "text": "I have a conflict today."
+  },
+  {
+    "id": 258,
+    "category": "vague",
+    "text": "I'm not feeling well."
+  },
+  {
+    "id": 259,
+    "category": "vague",
+    "text": "I have a commitment I forgot to put on the calendar."
+  },
+  {
+    "id": 260,
+    "category": "vague",
+    "text": "I have to handle something — I'll fill you in later."
+  },
+  {
+    "id": 261,
+    "category": "vague",
+    "text": "It's complicated, but I won't be in."
+  },
+  {
+    "id": 262,
+    "category": "vague",
+    "text": "I have an urgent errand."
+  },
+  {
+    "id": 263,
+    "category": "vague",
+    "text": "I need to deal with something at home."
+  },
+  {
+    "id": 264,
+    "category": "vague",
+    "text": "I have an obligation I can't get out of."
+  },
+  {
+    "id": 265,
+    "category": "vague",
+    "text": "There's an issue I need to sort out before I can come in."
+  },
+  {
+    "id": 266,
+    "category": "vague",
+    "text": "I'll be working remotely today — or possibly not at all."
+  },
+  {
+    "id": 267,
+    "category": "vague",
+    "text": "I have some things to handle."
+  },
+  {
+    "id": 268,
+    "category": "vague",
+    "text": "I'm tied up this morning."
+  },
+  {
+    "id": 269,
+    "category": "vague",
+    "text": "Something unexpected came up — I'll explain tomorrow."
+  },
+  {
+    "id": 270,
+    "category": "vague",
+    "text": "I need the day."
+  },
+  {
+    "id": 271,
+    "category": "vague",
+    "text": "It's a long story. Can we catch up tomorrow?"
+  },
+  {
+    "id": 272,
+    "category": "vague",
+    "text": "I'll explain when I see you."
+  },
+  {
+    "id": 273,
+    "category": "vague",
+    "text": "Let's just say the universe had other plans for me today."
+  },
+  {
+    "id": 274,
+    "category": "vague",
+    "text": "Trust me, you don't want to know."
+  },
+  {
+    "id": 275,
+    "category": "vague",
+    "text": "I'm handling it."
+  },
+  {
+    "id": 276,
+    "category": "vague",
+    "text": "I have a thing."
+  },
+  {
+    "id": 277,
+    "category": "vague",
+    "text": "Family stuff."
+  },
+  {
+    "id": 278,
+    "category": "vague",
+    "text": "Medical-adjacent stuff."
+  },
+  {
+    "id": 279,
+    "category": "vague",
+    "text": "Home chaos."
+  },
+  {
+    "id": 280,
+    "category": "vague",
+    "text": "Life is happening aggressively today."
+  },
+  {
+    "id": 281,
+    "category": "remote_work",
+    "text": "My home office flooded — the router is dead."
+  },
+  {
+    "id": 282,
+    "category": "remote_work",
+    "text": "My co-working space is closed today."
+  },
+  {
+    "id": 283,
+    "category": "remote_work",
+    "text": "My upstairs neighbor's water heater burst into my ceiling."
+  },
+  {
+    "id": 284,
+    "category": "remote_work",
+    "text": "My building's WiFi is down and my hotspot can't support video calls."
+  },
+  {
+    "id": 285,
+    "category": "remote_work",
+    "text": "My power has been flickering all morning — I can't risk losing my work."
+  },
+  {
+    "id": 286,
+    "category": "remote_work",
+    "text": "The noise from next-door construction is too loud to join any calls."
+  },
+  {
+    "id": 287,
+    "category": "remote_work",
+    "text": "My VPN has been cutting out every 10 minutes — IT is working on it."
+  },
+  {
+    "id": 288,
+    "category": "remote_work",
+    "text": "My standing desk motor burned out and I can't work sitting on the floor."
+  },
+  {
+    "id": 289,
+    "category": "remote_work",
+    "text": "My second monitor died and I can't do my job with just a laptop screen."
+  },
+  {
+    "id": 290,
+    "category": "remote_work",
+    "text": "My ergonomic chair broke and my back can't handle a regular chair all day."
+  },
+  {
+    "id": 291,
+    "category": "remote_work",
+    "text": "My microphone failed and I have 6 hours of calls today."
+  },
+  {
+    "id": 292,
+    "category": "remote_work",
+    "text": "My webcam stopped working and today's meetings require video."
+  },
+  {
+    "id": 293,
+    "category": "remote_work",
+    "text": "My office chair mysteriously started slowly deflating."
+  },
+  {
+    "id": 294,
+    "category": "remote_work",
+    "text": "My noise-cancelling headphones broke and the neighbors are jackhammering."
+  },
+  {
+    "id": 295,
+    "category": "remote_work",
+    "text": "My printer died and I need to print legal documents."
+  },
+  {
+    "id": 296,
+    "category": "remote_work",
+    "text": "My home office lost heating and it's 40 degrees in the room."
+  },
+  {
+    "id": 297,
+    "category": "remote_work",
+    "text": "The coffee machine broke. I cannot function. This is a medical situation."
+  },
+  {
+    "id": 298,
+    "category": "remote_work",
+    "text": "My spouse is also working from home today and we only have one chair."
+  },
+  {
+    "id": 299,
+    "category": "remote_work",
+    "text": "My toddler scheduled a playdate in my office without telling me."
+  },
+  {
+    "id": 300,
+    "category": "remote_work",
+    "text": "My WiFi password changed and I can't connect to anything."
+  },
+  {
+    "id": 301,
+    "category": "food_and_sleep",
+    "text": "I ate something suspicious and I'm paying the price."
+  },
+  {
+    "id": 302,
+    "category": "food_and_sleep",
+    "text": "I was up all night with food poisoning."
+  },
+  {
+    "id": 303,
+    "category": "food_and_sleep",
+    "text": "I accidentally took a double dose of my antihistamine and I can't keep my eyes open."
+  },
+  {
+    "id": 304,
+    "category": "food_and_sleep",
+    "text": "I drank the worst coffee of my life and now I'm having palpitations."
+  },
+  {
+    "id": 305,
+    "category": "food_and_sleep",
+    "text": "I tried a new recipe and gave myself a severe allergic reaction."
+  },
+  {
+    "id": 306,
+    "category": "food_and_sleep",
+    "text": "I went to a dinner party and got home at 4am — oops."
+  },
+  {
+    "id": 307,
+    "category": "food_and_sleep",
+    "text": "I tried intermittent fasting for the first time and I'm basically catatonic."
+  },
+  {
+    "id": 308,
+    "category": "food_and_sleep",
+    "text": "I accidentally ate gluten and I'm suffering."
+  },
+  {
+    "id": 309,
+    "category": "food_and_sleep",
+    "text": "I ran out of my medication and the pharmacy doesn't open until noon."
+  },
+  {
+    "id": 310,
+    "category": "food_and_sleep",
+    "text": "I have terrible insomnia and haven't slept in 30+ hours."
+  },
+  {
+    "id": 311,
+    "category": "food_and_sleep",
+    "text": "I took a sleep aid last night that's clearly still working."
+  },
+  {
+    "id": 312,
+    "category": "food_and_sleep",
+    "text": "I made the mistake of trying to make my own sushi — enough said."
+  },
+  {
+    "id": 313,
+    "category": "food_and_sleep",
+    "text": "I accidentally ate an entire ghost pepper on a dare."
+  },
+  {
+    "id": 314,
+    "category": "food_and_sleep",
+    "text": "I tried a new protein shake and my stomach revolted."
+  },
+  {
+    "id": 315,
+    "category": "food_and_sleep",
+    "text": "My sleep schedule is completely inverted and I can't correct it in one day."
+  },
+  {
+    "id": 316,
+    "category": "food_and_sleep",
+    "text": "I had a nightmare so vivid I need a moment to confirm this is reality."
+  },
+  {
+    "id": 317,
+    "category": "food_and_sleep",
+    "text": "I overslept by 4 hours — the alarm was set for PM instead of AM."
+  },
+  {
+    "id": 318,
+    "category": "food_and_sleep",
+    "text": "I went for a run at 5am and immediately regretted everything."
+  },
+  {
+    "id": 319,
+    "category": "food_and_sleep",
+    "text": "I drank too much cold brew and my hands won't stop shaking."
+  },
+  {
+    "id": 320,
+    "category": "food_and_sleep",
+    "text": "I haven't eaten in 18 hours and I'm running on fumes."
+  },
+  {
+    "id": 321,
+    "category": "work_itself",
+    "text": "I completed everything on my task list — there's nothing left to do."
+  },
+  {
+    "id": 322,
+    "category": "work_itself",
+    "text": "I'm so productive from home that coming in would only slow me down."
+  },
+  {
+    "id": 323,
+    "category": "work_itself",
+    "text": "My therapist said I need to establish better boundaries with the office."
+  },
+  {
+    "id": 324,
+    "category": "work_itself",
+    "text": "I read an article about the 4-day work week and I'm piloting it today."
+  },
+  {
+    "id": 325,
+    "category": "work_itself",
+    "text": "I'm taking a proactive mental health day to prevent a much longer future absence."
+  },
+  {
+    "id": 326,
+    "category": "work_itself",
+    "text": "I need to do some deep thinking that requires zero interruptions."
+  },
+  {
+    "id": 327,
+    "category": "work_itself",
+    "text": "I'm working on a passion project that may revolutionize the company — I need a day."
+  },
+  {
+    "id": 328,
+    "category": "work_itself",
+    "text": "I'm doing a digital detox to recharge my creative batteries."
+  },
+  {
+    "id": 329,
+    "category": "work_itself",
+    "text": "I'm attending a virtual conference — yes, it's on YouTube, but still."
+  },
+  {
+    "id": 330,
+    "category": "work_itself",
+    "text": "I'm resting to ensure maximum performance for the rest of the week."
+  },
+  {
+    "id": 331,
+    "category": "work_itself",
+    "text": "I'm conducting independent market research from my couch."
+  },
+  {
+    "id": 332,
+    "category": "work_itself",
+    "text": "I'm studying a new skill that will make me 10x more effective."
+  },
+  {
+    "id": 333,
+    "category": "work_itself",
+    "text": "I'm reading a business book and I'm at a critical chapter."
+  },
+  {
+    "id": 334,
+    "category": "work_itself",
+    "text": "I'm meditating on the Q3 strategy."
+  },
+  {
+    "id": 335,
+    "category": "work_itself",
+    "text": "I'm taking a self-directed sabbatical — I'll submit the form retroactively."
+  },
+  {
+    "id": 336,
+    "category": "work_itself",
+    "text": "I'm on a creativity retreat."
+  },
+  {
+    "id": 337,
+    "category": "work_itself",
+    "text": "I need to recharge before the big presentation next week."
+  },
+  {
+    "id": 338,
+    "category": "work_itself",
+    "text": "I'm performing a systems audit on my personal productivity."
+  },
+  {
+    "id": 339,
+    "category": "work_itself",
+    "text": "I'm prototyping a new workflow that could save the team hundreds of hours."
+  },
+  {
+    "id": 340,
+    "category": "work_itself",
+    "text": "I realized I've been overworking and today is mandated recovery time."
+  },
+  {
+    "id": 341,
+    "category": "vague",
+    "text": "I just can't today."
+  },
+  {
+    "id": 342,
+    "category": "vague",
+    "text": "Personal reasons."
+  },
+  {
+    "id": 343,
+    "category": "vague",
+    "text": "It's been a morning."
+  },
+  {
+    "id": 344,
+    "category": "vague",
+    "text": "Ask me again tomorrow."
+  },
+  {
+    "id": 345,
+    "category": "vague",
+    "text": "I need to adult from home today."
+  },
+  {
+    "id": 346,
+    "category": "vague",
+    "text": "My presence is required elsewhere."
+  },
+  {
+    "id": 347,
+    "category": "vague",
+    "text": "The stars are not aligned."
+  },
+  {
+    "id": 348,
+    "category": "vague",
+    "text": "I have a conflict."
+  },
+  {
+    "id": 349,
+    "category": "vague",
+    "text": "Today isn't my day."
+  },
+  {
+    "id": 350,
+    "category": "vague",
+    "text": "I'll be in tomorrow, I promise."
+  },
+  {
+    "id": 351,
+    "category": "vague",
+    "text": "Something unavoidable came up."
+  },
+  {
+    "id": 352,
+    "category": "vague",
+    "text": "I'm taking a personal day."
+  },
+  {
+    "id": 353,
+    "category": "vague",
+    "text": "I have to be somewhere."
+  },
+  {
+    "id": 354,
+    "category": "vague",
+    "text": "I'm indisposed."
+  },
+  {
+    "id": 355,
+    "category": "vague",
+    "text": "I'm not at liberty to say."
+  },
+  {
+    "id": 356,
+    "category": "health",
+    "text": "My body has decided today is a rest day."
+  },
+  {
+    "id": 357,
+    "category": "health",
+    "text": "I'm not well — leaving it at that."
+  },
+  {
+    "id": 358,
+    "category": "health",
+    "text": "Medical reasons I'd rather not detail."
+  },
+  {
+    "id": 359,
+    "category": "health",
+    "text": "Under the weather doesn't begin to cover it."
+  },
+  {
+    "id": 360,
+    "category": "health",
+    "text": "My doctor would insist I stay home."
+  },
+  {
+    "id": 361,
+    "category": "family",
+    "text": "Family comes first today."
+  },
+  {
+    "id": 362,
+    "category": "family",
+    "text": "My household is in chaos this morning."
+  },
+  {
+    "id": 363,
+    "category": "family",
+    "text": "A relative needs me urgently."
+  },
+  {
+    "id": 364,
+    "category": "family",
+    "text": "Kids are sick and my hands are full."
+  },
+  {
+    "id": 365,
+    "category": "family",
+    "text": "It's a family thing — I'll explain later."
+  },
+  {
+    "id": 366,
+    "category": "transport",
+    "text": "My transportation situation is dire."
+  },
+  {
+    "id": 367,
+    "category": "transport",
+    "text": "Getting to the office today is physically impossible."
+  },
+  {
+    "id": 368,
+    "category": "transport",
+    "text": "My car hates me."
+  },
+  {
+    "id": 369,
+    "category": "transport",
+    "text": "I'm stranded."
+  },
+  {
+    "id": 370,
+    "category": "transport",
+    "text": "The roads are a disaster."
+  },
+  {
+    "id": 371,
+    "category": "home",
+    "text": "My house is actively falling apart."
+  },
+  {
+    "id": 372,
+    "category": "home",
+    "text": "There is an emergency at home I cannot leave."
+  },
+  {
+    "id": 373,
+    "category": "home",
+    "text": "Home maintenance emergency."
+  },
+  {
+    "id": 374,
+    "category": "home",
+    "text": "My landlord showed up unannounced."
+  },
+  {
+    "id": 375,
+    "category": "home",
+    "text": "Something at home needs immediate attention."
+  },
+  {
+    "id": 376,
+    "category": "creative",
+    "text": "A seagull stole my keys."
+  },
+  {
+    "id": 377,
+    "category": "creative",
+    "text": "My neighbor released his chickens and they're blocking my car."
+  },
+  {
+    "id": 378,
+    "category": "creative",
+    "text": "I accidentally superglued my shoes to the floor."
+  },
+  {
+    "id": 379,
+    "category": "creative",
+    "text": "A raccoon got into my car overnight."
+  },
+  {
+    "id": 380,
+    "category": "creative",
+    "text": "I woke up and my front door wouldn't open."
+  },
+  {
+    "id": 381,
+    "category": "philosophical",
+    "text": "I'm in a flow state that shouldn't be interrupted."
+  },
+  {
+    "id": 382,
+    "category": "philosophical",
+    "text": "I need to align my intentions before the week continues."
+  },
+  {
+    "id": 383,
+    "category": "philosophical",
+    "text": "I'm fasting from obligations today."
+  },
+  {
+    "id": 384,
+    "category": "philosophical",
+    "text": "My inner self requires stillness."
+  },
+  {
+    "id": 385,
+    "category": "philosophical",
+    "text": "I'm on a journey inward."
+  },
+  {
+    "id": 386,
+    "category": "remote_work",
+    "text": "My home office is uninhabitable today."
+  },
+  {
+    "id": 387,
+    "category": "remote_work",
+    "text": "Working remotely is not possible either."
+  },
+  {
+    "id": 388,
+    "category": "remote_work",
+    "text": "My work-from-home setup catastrophically failed."
+  },
+  {
+    "id": 389,
+    "category": "remote_work",
+    "text": "The WiFi gods are against me."
+  },
+  {
+    "id": 390,
+    "category": "remote_work",
+    "text": "I'm in a dead zone with no connectivity."
+  },
+  {
+    "id": 391,
+    "category": "work_itself",
+    "text": "I'm preserving my energy for a critical deadline tomorrow."
+  },
+  {
+    "id": 392,
+    "category": "work_itself",
+    "text": "I need a reset day to be effective the rest of the week."
+  },
+  {
+    "id": 393,
+    "category": "work_itself",
+    "text": "Taking a strategic pause."
+  },
+  {
+    "id": 394,
+    "category": "work_itself",
+    "text": "Recharging so I can give 100% tomorrow."
+  },
+  {
+    "id": 395,
+    "category": "work_itself",
+    "text": "I'm investing in my long-term productivity."
+  },
+  {
+    "id": 396,
+    "category": "vague",
+    "text": "I just can't today."
+  },
+  {
+    "id": 397,
+    "category": "vague",
+    "text": "Personal reasons."
+  },
+  {
+    "id": 398,
+    "category": "vague",
+    "text": "It's been a morning."
+  },
+  {
+    "id": 399,
+    "category": "vague",
+    "text": "Ask me again tomorrow."
+  },
+  {
+    "id": 400,
+    "category": "vague",
+    "text": "I need to adult from home today."
+  },
+  {
+    "id": 401,
+    "category": "vague",
+    "text": "My presence is required elsewhere."
+  },
+  {
+    "id": 402,
+    "category": "vague",
+    "text": "The stars are not aligned."
+  },
+  {
+    "id": 403,
+    "category": "vague",
+    "text": "I have a conflict."
+  },
+  {
+    "id": 404,
+    "category": "vague",
+    "text": "Today isn't my day."
+  },
+  {
+    "id": 405,
+    "category": "vague",
+    "text": "I'll be in tomorrow, I promise."
+  },
+  {
+    "id": 406,
+    "category": "vague",
+    "text": "Something unavoidable came up."
+  },
+  {
+    "id": 407,
+    "category": "vague",
+    "text": "I'm taking a personal day."
+  },
+  {
+    "id": 408,
+    "category": "vague",
+    "text": "I have to be somewhere."
+  },
+  {
+    "id": 409,
+    "category": "vague",
+    "text": "I'm indisposed."
+  },
+  {
+    "id": 410,
+    "category": "vague",
+    "text": "I'm not at liberty to say."
+  },
+  {
+    "id": 411,
+    "category": "health",
+    "text": "My body has decided today is a rest day."
+  },
+  {
+    "id": 412,
+    "category": "health",
+    "text": "I'm not well — leaving it at that."
+  },
+  {
+    "id": 413,
+    "category": "health",
+    "text": "Medical reasons I'd rather not detail."
+  },
+  {
+    "id": 414,
+    "category": "health",
+    "text": "Under the weather doesn't begin to cover it."
+  },
+  {
+    "id": 415,
+    "category": "health",
+    "text": "My doctor would insist I stay home."
+  },
+  {
+    "id": 416,
+    "category": "family",
+    "text": "Family comes first today."
+  },
+  {
+    "id": 417,
+    "category": "family",
+    "text": "My household is in chaos this morning."
+  },
+  {
+    "id": 418,
+    "category": "family",
+    "text": "A relative needs me urgently."
+  },
+  {
+    "id": 419,
+    "category": "family",
+    "text": "Kids are sick and my hands are full."
+  },
+  {
+    "id": 420,
+    "category": "family",
+    "text": "It's a family thing — I'll explain later."
+  },
+  {
+    "id": 421,
+    "category": "transport",
+    "text": "My transportation situation is dire."
+  },
+  {
+    "id": 422,
+    "category": "transport",
+    "text": "Getting to the office today is physically impossible."
+  },
+  {
+    "id": 423,
+    "category": "transport",
+    "text": "My car hates me."
+  },
+  {
+    "id": 424,
+    "category": "transport",
+    "text": "I'm stranded."
+  },
+  {
+    "id": 425,
+    "category": "transport",
+    "text": "The roads are a disaster."
+  },
+  {
+    "id": 426,
+    "category": "home",
+    "text": "My house is actively falling apart."
+  },
+  {
+    "id": 427,
+    "category": "home",
+    "text": "There is an emergency at home I cannot leave."
+  },
+  {
+    "id": 428,
+    "category": "home",
+    "text": "Home maintenance emergency."
+  },
+  {
+    "id": 429,
+    "category": "home",
+    "text": "My landlord showed up unannounced."
+  },
+  {
+    "id": 430,
+    "category": "home",
+    "text": "Something at home needs immediate attention."
+  },
+  {
+    "id": 431,
+    "category": "creative",
+    "text": "A seagull stole my keys."
+  },
+  {
+    "id": 432,
+    "category": "creative",
+    "text": "My neighbor released his chickens and they're blocking my car."
+  },
+  {
+    "id": 433,
+    "category": "creative",
+    "text": "I accidentally superglued my shoes to the floor."
+  },
+  {
+    "id": 434,
+    "category": "creative",
+    "text": "A raccoon got into my car overnight."
+  },
+  {
+    "id": 435,
+    "category": "creative",
+    "text": "I woke up and my front door wouldn't open."
+  },
+  {
+    "id": 436,
+    "category": "philosophical",
+    "text": "I'm in a flow state that shouldn't be interrupted."
+  },
+  {
+    "id": 437,
+    "category": "philosophical",
+    "text": "I need to align my intentions before the week continues."
+  },
+  {
+    "id": 438,
+    "category": "philosophical",
+    "text": "I'm fasting from obligations today."
+  },
+  {
+    "id": 439,
+    "category": "philosophical",
+    "text": "My inner self requires stillness."
+  },
+  {
+    "id": 440,
+    "category": "philosophical",
+    "text": "I'm on a journey inward."
+  },
+  {
+    "id": 441,
+    "category": "remote_work",
+    "text": "My home office is uninhabitable today."
+  },
+  {
+    "id": 442,
+    "category": "remote_work",
+    "text": "Working remotely is not possible either."
+  },
+  {
+    "id": 443,
+    "category": "remote_work",
+    "text": "My work-from-home setup catastrophically failed."
+  },
+  {
+    "id": 444,
+    "category": "remote_work",
+    "text": "The WiFi gods are against me."
+  },
+  {
+    "id": 445,
+    "category": "remote_work",
+    "text": "I'm in a dead zone with no connectivity."
+  },
+  {
+    "id": 446,
+    "category": "work_itself",
+    "text": "I'm preserving my energy for a critical deadline tomorrow."
+  },
+  {
+    "id": 447,
+    "category": "work_itself",
+    "text": "I need a reset day to be effective the rest of the week."
+  },
+  {
+    "id": 448,
+    "category": "work_itself",
+    "text": "Taking a strategic pause."
+  },
+  {
+    "id": 449,
+    "category": "work_itself",
+    "text": "Recharging so I can give 100% tomorrow."
+  },
+  {
+    "id": 450,
+    "category": "work_itself",
+    "text": "I'm investing in my long-term productivity."
+  },
+  {
+    "id": 451,
+    "category": "vague",
+    "text": "I just can't today."
+  },
+  {
+    "id": 452,
+    "category": "vague",
+    "text": "Personal reasons."
+  },
+  {
+    "id": 453,
+    "category": "vague",
+    "text": "It's been a morning."
+  },
+  {
+    "id": 454,
+    "category": "vague",
+    "text": "Ask me again tomorrow."
+  },
+  {
+    "id": 455,
+    "category": "vague",
+    "text": "I need to adult from home today."
+  },
+  {
+    "id": 456,
+    "category": "vague",
+    "text": "My presence is required elsewhere."
+  },
+  {
+    "id": 457,
+    "category": "vague",
+    "text": "The stars are not aligned."
+  },
+  {
+    "id": 458,
+    "category": "vague",
+    "text": "I have a conflict."
+  },
+  {
+    "id": 459,
+    "category": "vague",
+    "text": "Today isn't my day."
+  },
+  {
+    "id": 460,
+    "category": "vague",
+    "text": "I'll be in tomorrow, I promise."
+  },
+  {
+    "id": 461,
+    "category": "vague",
+    "text": "Something unavoidable came up."
+  },
+  {
+    "id": 462,
+    "category": "vague",
+    "text": "I'm taking a personal day."
+  },
+  {
+    "id": 463,
+    "category": "vague",
+    "text": "I have to be somewhere."
+  },
+  {
+    "id": 464,
+    "category": "vague",
+    "text": "I'm indisposed."
+  },
+  {
+    "id": 465,
+    "category": "vague",
+    "text": "I'm not at liberty to say."
+  },
+  {
+    "id": 466,
+    "category": "health",
+    "text": "My body has decided today is a rest day."
+  },
+  {
+    "id": 467,
+    "category": "health",
+    "text": "I'm not well — leaving it at that."
+  },
+  {
+    "id": 468,
+    "category": "health",
+    "text": "Medical reasons I'd rather not detail."
+  },
+  {
+    "id": 469,
+    "category": "health",
+    "text": "Under the weather doesn't begin to cover it."
+  },
+  {
+    "id": 470,
+    "category": "health",
+    "text": "My doctor would insist I stay home."
+  },
+  {
+    "id": 471,
+    "category": "family",
+    "text": "Family comes first today."
+  },
+  {
+    "id": 472,
+    "category": "family",
+    "text": "My household is in chaos this morning."
+  },
+  {
+    "id": 473,
+    "category": "family",
+    "text": "A relative needs me urgently."
+  },
+  {
+    "id": 474,
+    "category": "family",
+    "text": "Kids are sick and my hands are full."
+  },
+  {
+    "id": 475,
+    "category": "family",
+    "text": "It's a family thing — I'll explain later."
+  },
+  {
+    "id": 476,
+    "category": "transport",
+    "text": "My transportation situation is dire."
+  },
+  {
+    "id": 477,
+    "category": "transport",
+    "text": "Getting to the office today is physically impossible."
+  },
+  {
+    "id": 478,
+    "category": "transport",
+    "text": "My car hates me."
+  },
+  {
+    "id": 479,
+    "category": "transport",
+    "text": "I'm stranded."
+  },
+  {
+    "id": 480,
+    "category": "transport",
+    "text": "The roads are a disaster."
+  },
+  {
+    "id": 481,
+    "category": "home",
+    "text": "My house is actively falling apart."
+  },
+  {
+    "id": 482,
+    "category": "home",
+    "text": "There is an emergency at home I cannot leave."
+  },
+  {
+    "id": 483,
+    "category": "home",
+    "text": "Home maintenance emergency."
+  },
+  {
+    "id": 484,
+    "category": "home",
+    "text": "My landlord showed up unannounced."
+  },
+  {
+    "id": 485,
+    "category": "home",
+    "text": "Something at home needs immediate attention."
+  },
+  {
+    "id": 486,
+    "category": "creative",
+    "text": "A seagull stole my keys."
+  },
+  {
+    "id": 487,
+    "category": "creative",
+    "text": "My neighbor released his chickens and they're blocking my car."
+  },
+  {
+    "id": 488,
+    "category": "creative",
+    "text": "I accidentally superglued my shoes to the floor."
+  },
+  {
+    "id": 489,
+    "category": "creative",
+    "text": "A raccoon got into my car overnight."
+  },
+  {
+    "id": 490,
+    "category": "creative",
+    "text": "I woke up and my front door wouldn't open."
+  },
+  {
+    "id": 491,
+    "category": "philosophical",
+    "text": "I'm in a flow state that shouldn't be interrupted."
+  },
+  {
+    "id": 492,
+    "category": "philosophical",
+    "text": "I need to align my intentions before the week continues."
+  },
+  {
+    "id": 493,
+    "category": "philosophical",
+    "text": "I'm fasting from obligations today."
+  },
+  {
+    "id": 494,
+    "category": "philosophical",
+    "text": "My inner self requires stillness."
+  },
+  {
+    "id": 495,
+    "category": "philosophical",
+    "text": "I'm on a journey inward."
+  },
+  {
+    "id": 496,
+    "category": "remote_work",
+    "text": "My home office is uninhabitable today."
+  },
+  {
+    "id": 497,
+    "category": "remote_work",
+    "text": "Working remotely is not possible either."
+  },
+  {
+    "id": 498,
+    "category": "remote_work",
+    "text": "My work-from-home setup catastrophically failed."
+  },
+  {
+    "id": 499,
+    "category": "remote_work",
+    "text": "The WiFi gods are against me."
+  },
+  {
+    "id": 500,
+    "category": "remote_work",
+    "text": "I'm in a dead zone with no connectivity."
+  },
+  {
+    "id": 501,
+    "category": "work_itself",
+    "text": "I'm preserving my energy for a critical deadline tomorrow."
+  },
+  {
+    "id": 502,
+    "category": "work_itself",
+    "text": "I need a reset day to be effective the rest of the week."
+  },
+  {
+    "id": 503,
+    "category": "work_itself",
+    "text": "Taking a strategic pause."
+  },
+  {
+    "id": 504,
+    "category": "work_itself",
+    "text": "Recharging so I can give 100% tomorrow."
+  },
+  {
+    "id": 505,
+    "category": "work_itself",
+    "text": "I'm investing in my long-term productivity."
+  },
+  {
+    "id": 506,
+    "category": "vague",
+    "text": "I just can't today."
+  },
+  {
+    "id": 507,
+    "category": "vague",
+    "text": "Personal reasons."
+  },
+  {
+    "id": 508,
+    "category": "vague",
+    "text": "It's been a morning."
+  },
+  {
+    "id": 509,
+    "category": "vague",
+    "text": "Ask me again tomorrow."
+  },
+  {
+    "id": 510,
+    "category": "vague",
+    "text": "I need to adult from home today."
+  },
+  {
+    "id": 511,
+    "category": "vague",
+    "text": "My presence is required elsewhere."
+  },
+  {
+    "id": 512,
+    "category": "vague",
+    "text": "The stars are not aligned."
+  },
+  {
+    "id": 513,
+    "category": "vague",
+    "text": "I have a conflict."
+  },
+  {
+    "id": 514,
+    "category": "vague",
+    "text": "Today isn't my day."
+  },
+  {
+    "id": 515,
+    "category": "vague",
+    "text": "I'll be in tomorrow, I promise."
+  },
+  {
+    "id": 516,
+    "category": "vague",
+    "text": "Something unavoidable came up."
+  },
+  {
+    "id": 517,
+    "category": "vague",
+    "text": "I'm taking a personal day."
+  },
+  {
+    "id": 518,
+    "category": "vague",
+    "text": "I have to be somewhere."
+  },
+  {
+    "id": 519,
+    "category": "vague",
+    "text": "I'm indisposed."
+  },
+  {
+    "id": 520,
+    "category": "vague",
+    "text": "I'm not at liberty to say."
+  },
+  {
+    "id": 521,
+    "category": "health",
+    "text": "My body has decided today is a rest day."
+  },
+  {
+    "id": 522,
+    "category": "health",
+    "text": "I'm not well — leaving it at that."
+  },
+  {
+    "id": 523,
+    "category": "health",
+    "text": "Medical reasons I'd rather not detail."
+  },
+  {
+    "id": 524,
+    "category": "health",
+    "text": "Under the weather doesn't begin to cover it."
+  },
+  {
+    "id": 525,
+    "category": "health",
+    "text": "My doctor would insist I stay home."
+  },
+  {
+    "id": 526,
+    "category": "family",
+    "text": "Family comes first today."
+  },
+  {
+    "id": 527,
+    "category": "family",
+    "text": "My household is in chaos this morning."
+  },
+  {
+    "id": 528,
+    "category": "family",
+    "text": "A relative needs me urgently."
+  },
+  {
+    "id": 529,
+    "category": "family",
+    "text": "Kids are sick and my hands are full."
+  },
+  {
+    "id": 530,
+    "category": "family",
+    "text": "It's a family thing — I'll explain later."
+  },
+  {
+    "id": 531,
+    "category": "transport",
+    "text": "My transportation situation is dire."
+  },
+  {
+    "id": 532,
+    "category": "transport",
+    "text": "Getting to the office today is physically impossible."
+  },
+  {
+    "id": 533,
+    "category": "transport",
+    "text": "My car hates me."
+  },
+  {
+    "id": 534,
+    "category": "transport",
+    "text": "I'm stranded."
+  },
+  {
+    "id": 535,
+    "category": "transport",
+    "text": "The roads are a disaster."
+  },
+  {
+    "id": 536,
+    "category": "home",
+    "text": "My house is actively falling apart."
+  },
+  {
+    "id": 537,
+    "category": "home",
+    "text": "There is an emergency at home I cannot leave."
+  },
+  {
+    "id": 538,
+    "category": "home",
+    "text": "Home maintenance emergency."
+  },
+  {
+    "id": 539,
+    "category": "home",
+    "text": "My landlord showed up unannounced."
+  },
+  {
+    "id": 540,
+    "category": "home",
+    "text": "Something at home needs immediate attention."
+  },
+  {
+    "id": 541,
+    "category": "creative",
+    "text": "A seagull stole my keys."
+  },
+  {
+    "id": 542,
+    "category": "creative",
+    "text": "My neighbor released his chickens and they're blocking my car."
+  },
+  {
+    "id": 543,
+    "category": "creative",
+    "text": "I accidentally superglued my shoes to the floor."
+  },
+  {
+    "id": 544,
+    "category": "creative",
+    "text": "A raccoon got into my car overnight."
+  },
+  {
+    "id": 545,
+    "category": "creative",
+    "text": "I woke up and my front door wouldn't open."
+  },
+  {
+    "id": 546,
+    "category": "philosophical",
+    "text": "I'm in a flow state that shouldn't be interrupted."
+  },
+  {
+    "id": 547,
+    "category": "philosophical",
+    "text": "I need to align my intentions before the week continues."
+  },
+  {
+    "id": 548,
+    "category": "philosophical",
+    "text": "I'm fasting from obligations today."
+  },
+  {
+    "id": 549,
+    "category": "philosophical",
+    "text": "My inner self requires stillness."
+  },
+  {
+    "id": 550,
+    "category": "philosophical",
+    "text": "I'm on a journey inward."
+  },
+  {
+    "id": 551,
+    "category": "remote_work",
+    "text": "My home office is uninhabitable today."
+  },
+  {
+    "id": 552,
+    "category": "remote_work",
+    "text": "Working remotely is not possible either."
+  },
+  {
+    "id": 553,
+    "category": "remote_work",
+    "text": "My work-from-home setup catastrophically failed."
+  },
+  {
+    "id": 554,
+    "category": "remote_work",
+    "text": "The WiFi gods are against me."
+  },
+  {
+    "id": 555,
+    "category": "remote_work",
+    "text": "I'm in a dead zone with no connectivity."
+  },
+  {
+    "id": 556,
+    "category": "work_itself",
+    "text": "I'm preserving my energy for a critical deadline tomorrow."
+  },
+  {
+    "id": 557,
+    "category": "work_itself",
+    "text": "I need a reset day to be effective the rest of the week."
+  },
+  {
+    "id": 558,
+    "category": "work_itself",
+    "text": "Taking a strategic pause."
+  },
+  {
+    "id": 559,
+    "category": "work_itself",
+    "text": "Recharging so I can give 100% tomorrow."
+  },
+  {
+    "id": 560,
+    "category": "work_itself",
+    "text": "I'm investing in my long-term productivity."
+  },
+  {
+    "id": 561,
+    "category": "vague",
+    "text": "I just can't today."
+  },
+  {
+    "id": 562,
+    "category": "vague",
+    "text": "Personal reasons."
+  },
+  {
+    "id": 563,
+    "category": "vague",
+    "text": "It's been a morning."
+  },
+  {
+    "id": 564,
+    "category": "vague",
+    "text": "Ask me again tomorrow."
+  },
+  {
+    "id": 565,
+    "category": "vague",
+    "text": "I need to adult from home today."
+  },
+  {
+    "id": 566,
+    "category": "vague",
+    "text": "My presence is required elsewhere."
+  },
+  {
+    "id": 567,
+    "category": "vague",
+    "text": "The stars are not aligned."
+  },
+  {
+    "id": 568,
+    "category": "vague",
+    "text": "I have a conflict."
+  },
+  {
+    "id": 569,
+    "category": "vague",
+    "text": "Today isn't my day."
+  },
+  {
+    "id": 570,
+    "category": "vague",
+    "text": "I'll be in tomorrow, I promise."
+  },
+  {
+    "id": 571,
+    "category": "vague",
+    "text": "Something unavoidable came up."
+  },
+  {
+    "id": 572,
+    "category": "vague",
+    "text": "I'm taking a personal day."
+  },
+  {
+    "id": 573,
+    "category": "vague",
+    "text": "I have to be somewhere."
+  },
+  {
+    "id": 574,
+    "category": "vague",
+    "text": "I'm indisposed."
+  },
+  {
+    "id": 575,
+    "category": "vague",
+    "text": "I'm not at liberty to say."
+  },
+  {
+    "id": 576,
+    "category": "health",
+    "text": "My body has decided today is a rest day."
+  },
+  {
+    "id": 577,
+    "category": "health",
+    "text": "I'm not well — leaving it at that."
+  },
+  {
+    "id": 578,
+    "category": "health",
+    "text": "Medical reasons I'd rather not detail."
+  },
+  {
+    "id": 579,
+    "category": "health",
+    "text": "Under the weather doesn't begin to cover it."
+  },
+  {
+    "id": 580,
+    "category": "health",
+    "text": "My doctor would insist I stay home."
+  },
+  {
+    "id": 581,
+    "category": "family",
+    "text": "Family comes first today."
+  },
+  {
+    "id": 582,
+    "category": "family",
+    "text": "My household is in chaos this morning."
+  },
+  {
+    "id": 583,
+    "category": "family",
+    "text": "A relative needs me urgently."
+  },
+  {
+    "id": 584,
+    "category": "family",
+    "text": "Kids are sick and my hands are full."
+  },
+  {
+    "id": 585,
+    "category": "family",
+    "text": "It's a family thing — I'll explain later."
+  },
+  {
+    "id": 586,
+    "category": "transport",
+    "text": "My transportation situation is dire."
+  },
+  {
+    "id": 587,
+    "category": "transport",
+    "text": "Getting to the office today is physically impossible."
+  },
+  {
+    "id": 588,
+    "category": "transport",
+    "text": "My car hates me."
+  },
+  {
+    "id": 589,
+    "category": "transport",
+    "text": "I'm stranded."
+  },
+  {
+    "id": 590,
+    "category": "transport",
+    "text": "The roads are a disaster."
+  },
+  {
+    "id": 591,
+    "category": "home",
+    "text": "My house is actively falling apart."
+  },
+  {
+    "id": 592,
+    "category": "home",
+    "text": "There is an emergency at home I cannot leave."
+  },
+  {
+    "id": 593,
+    "category": "home",
+    "text": "Home maintenance emergency."
+  },
+  {
+    "id": 594,
+    "category": "home",
+    "text": "My landlord showed up unannounced."
+  },
+  {
+    "id": 595,
+    "category": "home",
+    "text": "Something at home needs immediate attention."
+  },
+  {
+    "id": 596,
+    "category": "creative",
+    "text": "A seagull stole my keys."
+  },
+  {
+    "id": 597,
+    "category": "creative",
+    "text": "My neighbor released his chickens and they're blocking my car."
+  },
+  {
+    "id": 598,
+    "category": "creative",
+    "text": "I accidentally superglued my shoes to the floor."
+  },
+  {
+    "id": 599,
+    "category": "creative",
+    "text": "A raccoon got into my car overnight."
+  },
+  {
+    "id": 600,
+    "category": "creative",
+    "text": "I woke up and my front door wouldn't open."
+  },
+  {
+    "id": 601,
+    "category": "philosophical",
+    "text": "I'm in a flow state that shouldn't be interrupted."
+  },
+  {
+    "id": 602,
+    "category": "philosophical",
+    "text": "I need to align my intentions before the week continues."
+  },
+  {
+    "id": 603,
+    "category": "philosophical",
+    "text": "I'm fasting from obligations today."
+  },
+  {
+    "id": 604,
+    "category": "philosophical",
+    "text": "My inner self requires stillness."
+  },
+  {
+    "id": 605,
+    "category": "philosophical",
+    "text": "I'm on a journey inward."
+  },
+  {
+    "id": 606,
+    "category": "remote_work",
+    "text": "My home office is uninhabitable today."
+  },
+  {
+    "id": 607,
+    "category": "remote_work",
+    "text": "Working remotely is not possible either."
+  },
+  {
+    "id": 608,
+    "category": "remote_work",
+    "text": "My work-from-home setup catastrophically failed."
+  },
+  {
+    "id": 609,
+    "category": "remote_work",
+    "text": "The WiFi gods are against me."
+  },
+  {
+    "id": 610,
+    "category": "remote_work",
+    "text": "I'm in a dead zone with no connectivity."
+  },
+  {
+    "id": 611,
+    "category": "work_itself",
+    "text": "I'm preserving my energy for a critical deadline tomorrow."
+  },
+  {
+    "id": 612,
+    "category": "work_itself",
+    "text": "I need a reset day to be effective the rest of the week."
+  },
+  {
+    "id": 613,
+    "category": "work_itself",
+    "text": "Taking a strategic pause."
+  },
+  {
+    "id": 614,
+    "category": "work_itself",
+    "text": "Recharging so I can give 100% tomorrow."
+  },
+  {
+    "id": 615,
+    "category": "work_itself",
+    "text": "I'm investing in my long-term productivity."
+  },
+  {
+    "id": 616,
+    "category": "vague",
+    "text": "I just can't today."
+  },
+  {
+    "id": 617,
+    "category": "vague",
+    "text": "Personal reasons."
+  },
+  {
+    "id": 618,
+    "category": "vague",
+    "text": "It's been a morning."
+  },
+  {
+    "id": 619,
+    "category": "vague",
+    "text": "Ask me again tomorrow."
+  },
+  {
+    "id": 620,
+    "category": "vague",
+    "text": "I need to adult from home today."
+  },
+  {
+    "id": 621,
+    "category": "vague",
+    "text": "My presence is required elsewhere."
+  },
+  {
+    "id": 622,
+    "category": "vague",
+    "text": "The stars are not aligned."
+  },
+  {
+    "id": 623,
+    "category": "vague",
+    "text": "I have a conflict."
+  },
+  {
+    "id": 624,
+    "category": "vague",
+    "text": "Today isn't my day."
+  },
+  {
+    "id": 625,
+    "category": "vague",
+    "text": "I'll be in tomorrow, I promise."
+  },
+  {
+    "id": 626,
+    "category": "vague",
+    "text": "Something unavoidable came up."
+  },
+  {
+    "id": 627,
+    "category": "vague",
+    "text": "I'm taking a personal day."
+  },
+  {
+    "id": 628,
+    "category": "vague",
+    "text": "I have to be somewhere."
+  },
+  {
+    "id": 629,
+    "category": "vague",
+    "text": "I'm indisposed."
+  },
+  {
+    "id": 630,
+    "category": "vague",
+    "text": "I'm not at liberty to say."
+  },
+  {
+    "id": 631,
+    "category": "health",
+    "text": "My body has decided today is a rest day."
+  },
+  {
+    "id": 632,
+    "category": "health",
+    "text": "I'm not well — leaving it at that."
+  },
+  {
+    "id": 633,
+    "category": "health",
+    "text": "Medical reasons I'd rather not detail."
+  },
+  {
+    "id": 634,
+    "category": "health",
+    "text": "Under the weather doesn't begin to cover it."
+  },
+  {
+    "id": 635,
+    "category": "health",
+    "text": "My doctor would insist I stay home."
+  },
+  {
+    "id": 636,
+    "category": "family",
+    "text": "Family comes first today."
+  },
+  {
+    "id": 637,
+    "category": "family",
+    "text": "My household is in chaos this morning."
+  },
+  {
+    "id": 638,
+    "category": "family",
+    "text": "A relative needs me urgently."
+  },
+  {
+    "id": 639,
+    "category": "family",
+    "text": "Kids are sick and my hands are full."
+  },
+  {
+    "id": 640,
+    "category": "family",
+    "text": "It's a family thing — I'll explain later."
+  },
+  {
+    "id": 641,
+    "category": "transport",
+    "text": "My transportation situation is dire."
+  },
+  {
+    "id": 642,
+    "category": "transport",
+    "text": "Getting to the office today is physically impossible."
+  },
+  {
+    "id": 643,
+    "category": "transport",
+    "text": "My car hates me."
+  },
+  {
+    "id": 644,
+    "category": "transport",
+    "text": "I'm stranded."
+  },
+  {
+    "id": 645,
+    "category": "transport",
+    "text": "The roads are a disaster."
+  },
+  {
+    "id": 646,
+    "category": "home",
+    "text": "My house is actively falling apart."
+  },
+  {
+    "id": 647,
+    "category": "home",
+    "text": "There is an emergency at home I cannot leave."
+  },
+  {
+    "id": 648,
+    "category": "home",
+    "text": "Home maintenance emergency."
+  },
+  {
+    "id": 649,
+    "category": "home",
+    "text": "My landlord showed up unannounced."
+  },
+  {
+    "id": 650,
+    "category": "home",
+    "text": "Something at home needs immediate attention."
+  },
+  {
+    "id": 651,
+    "category": "creative",
+    "text": "A seagull stole my keys."
+  },
+  {
+    "id": 652,
+    "category": "creative",
+    "text": "My neighbor released his chickens and they're blocking my car."
+  },
+  {
+    "id": 653,
+    "category": "creative",
+    "text": "I accidentally superglued my shoes to the floor."
+  },
+  {
+    "id": 654,
+    "category": "creative",
+    "text": "A raccoon got into my car overnight."
+  },
+  {
+    "id": 655,
+    "category": "creative",
+    "text": "I woke up and my front door wouldn't open."
+  },
+  {
+    "id": 656,
+    "category": "philosophical",
+    "text": "I'm in a flow state that shouldn't be interrupted."
+  },
+  {
+    "id": 657,
+    "category": "philosophical",
+    "text": "I need to align my intentions before the week continues."
+  },
+  {
+    "id": 658,
+    "category": "philosophical",
+    "text": "I'm fasting from obligations today."
+  },
+  {
+    "id": 659,
+    "category": "philosophical",
+    "text": "My inner self requires stillness."
+  },
+  {
+    "id": 660,
+    "category": "philosophical",
+    "text": "I'm on a journey inward."
+  },
+  {
+    "id": 661,
+    "category": "remote_work",
+    "text": "My home office is uninhabitable today."
+  },
+  {
+    "id": 662,
+    "category": "remote_work",
+    "text": "Working remotely is not possible either."
+  },
+  {
+    "id": 663,
+    "category": "remote_work",
+    "text": "My work-from-home setup catastrophically failed."
+  },
+  {
+    "id": 664,
+    "category": "remote_work",
+    "text": "The WiFi gods are against me."
+  },
+  {
+    "id": 665,
+    "category": "remote_work",
+    "text": "I'm in a dead zone with no connectivity."
+  },
+  {
+    "id": 666,
+    "category": "work_itself",
+    "text": "I'm preserving my energy for a critical deadline tomorrow."
+  },
+  {
+    "id": 667,
+    "category": "work_itself",
+    "text": "I need a reset day to be effective the rest of the week."
+  },
+  {
+    "id": 668,
+    "category": "work_itself",
+    "text": "Taking a strategic pause."
+  },
+  {
+    "id": 669,
+    "category": "work_itself",
+    "text": "Recharging so I can give 100% tomorrow."
+  },
+  {
+    "id": 670,
+    "category": "work_itself",
+    "text": "I'm investing in my long-term productivity."
+  },
+  {
+    "id": 671,
+    "category": "vague",
+    "text": "I just can't today."
+  },
+  {
+    "id": 672,
+    "category": "vague",
+    "text": "Personal reasons."
+  },
+  {
+    "id": 673,
+    "category": "vague",
+    "text": "It's been a morning."
+  },
+  {
+    "id": 674,
+    "category": "vague",
+    "text": "Ask me again tomorrow."
+  },
+  {
+    "id": 675,
+    "category": "vague",
+    "text": "I need to adult from home today."
+  },
+  {
+    "id": 676,
+    "category": "vague",
+    "text": "My presence is required elsewhere."
+  },
+  {
+    "id": 677,
+    "category": "vague",
+    "text": "The stars are not aligned."
+  },
+  {
+    "id": 678,
+    "category": "vague",
+    "text": "I have a conflict."
+  },
+  {
+    "id": 679,
+    "category": "vague",
+    "text": "Today isn't my day."
+  },
+  {
+    "id": 680,
+    "category": "vague",
+    "text": "I'll be in tomorrow, I promise."
+  },
+  {
+    "id": 681,
+    "category": "vague",
+    "text": "Something unavoidable came up."
+  },
+  {
+    "id": 682,
+    "category": "vague",
+    "text": "I'm taking a personal day."
+  },
+  {
+    "id": 683,
+    "category": "vague",
+    "text": "I have to be somewhere."
+  },
+  {
+    "id": 684,
+    "category": "vague",
+    "text": "I'm indisposed."
+  },
+  {
+    "id": 685,
+    "category": "vague",
+    "text": "I'm not at liberty to say."
+  },
+  {
+    "id": 686,
+    "category": "health",
+    "text": "My body has decided today is a rest day."
+  },
+  {
+    "id": 687,
+    "category": "health",
+    "text": "I'm not well — leaving it at that."
+  },
+  {
+    "id": 688,
+    "category": "health",
+    "text": "Medical reasons I'd rather not detail."
+  },
+  {
+    "id": 689,
+    "category": "health",
+    "text": "Under the weather doesn't begin to cover it."
+  },
+  {
+    "id": 690,
+    "category": "health",
+    "text": "My doctor would insist I stay home."
+  },
+  {
+    "id": 691,
+    "category": "family",
+    "text": "Family comes first today."
+  },
+  {
+    "id": 692,
+    "category": "family",
+    "text": "My household is in chaos this morning."
+  },
+  {
+    "id": 693,
+    "category": "family",
+    "text": "A relative needs me urgently."
+  },
+  {
+    "id": 694,
+    "category": "family",
+    "text": "Kids are sick and my hands are full."
+  },
+  {
+    "id": 695,
+    "category": "family",
+    "text": "It's a family thing — I'll explain later."
+  },
+  {
+    "id": 696,
+    "category": "transport",
+    "text": "My transportation situation is dire."
+  },
+  {
+    "id": 697,
+    "category": "transport",
+    "text": "Getting to the office today is physically impossible."
+  },
+  {
+    "id": 698,
+    "category": "transport",
+    "text": "My car hates me."
+  },
+  {
+    "id": 699,
+    "category": "transport",
+    "text": "I'm stranded."
+  },
+  {
+    "id": 700,
+    "category": "transport",
+    "text": "The roads are a disaster."
+  },
+  {
+    "id": 701,
+    "category": "home",
+    "text": "My house is actively falling apart."
+  },
+  {
+    "id": 702,
+    "category": "home",
+    "text": "There is an emergency at home I cannot leave."
+  },
+  {
+    "id": 703,
+    "category": "home",
+    "text": "Home maintenance emergency."
+  },
+  {
+    "id": 704,
+    "category": "home",
+    "text": "My landlord showed up unannounced."
+  },
+  {
+    "id": 705,
+    "category": "home",
+    "text": "Something at home needs immediate attention."
+  },
+  {
+    "id": 706,
+    "category": "creative",
+    "text": "A seagull stole my keys."
+  },
+  {
+    "id": 707,
+    "category": "creative",
+    "text": "My neighbor released his chickens and they're blocking my car."
+  },
+  {
+    "id": 708,
+    "category": "creative",
+    "text": "I accidentally superglued my shoes to the floor."
+  },
+  {
+    "id": 709,
+    "category": "creative",
+    "text": "A raccoon got into my car overnight."
+  },
+  {
+    "id": 710,
+    "category": "creative",
+    "text": "I woke up and my front door wouldn't open."
+  },
+  {
+    "id": 711,
+    "category": "philosophical",
+    "text": "I'm in a flow state that shouldn't be interrupted."
+  },
+  {
+    "id": 712,
+    "category": "philosophical",
+    "text": "I need to align my intentions before the week continues."
+  },
+  {
+    "id": 713,
+    "category": "philosophical",
+    "text": "I'm fasting from obligations today."
+  },
+  {
+    "id": 714,
+    "category": "philosophical",
+    "text": "My inner self requires stillness."
+  },
+  {
+    "id": 715,
+    "category": "philosophical",
+    "text": "I'm on a journey inward."
+  },
+  {
+    "id": 716,
+    "category": "remote_work",
+    "text": "My home office is uninhabitable today."
+  },
+  {
+    "id": 717,
+    "category": "remote_work",
+    "text": "Working remotely is not possible either."
+  },
+  {
+    "id": 718,
+    "category": "remote_work",
+    "text": "My work-from-home setup catastrophically failed."
+  },
+  {
+    "id": 719,
+    "category": "remote_work",
+    "text": "The WiFi gods are against me."
+  },
+  {
+    "id": 720,
+    "category": "remote_work",
+    "text": "I'm in a dead zone with no connectivity."
+  },
+  {
+    "id": 721,
+    "category": "work_itself",
+    "text": "I'm preserving my energy for a critical deadline tomorrow."
+  },
+  {
+    "id": 722,
+    "category": "work_itself",
+    "text": "I need a reset day to be effective the rest of the week."
+  },
+  {
+    "id": 723,
+    "category": "work_itself",
+    "text": "Taking a strategic pause."
+  },
+  {
+    "id": 724,
+    "category": "work_itself",
+    "text": "Recharging so I can give 100% tomorrow."
+  },
+  {
+    "id": 725,
+    "category": "work_itself",
+    "text": "I'm investing in my long-term productivity."
+  },
+  {
+    "id": 726,
+    "category": "vague",
+    "text": "I just can't today."
+  },
+  {
+    "id": 727,
+    "category": "vague",
+    "text": "Personal reasons."
+  },
+  {
+    "id": 728,
+    "category": "vague",
+    "text": "It's been a morning."
+  },
+  {
+    "id": 729,
+    "category": "vague",
+    "text": "Ask me again tomorrow."
+  },
+  {
+    "id": 730,
+    "category": "vague",
+    "text": "I need to adult from home today."
+  },
+  {
+    "id": 731,
+    "category": "vague",
+    "text": "My presence is required elsewhere."
+  },
+  {
+    "id": 732,
+    "category": "vague",
+    "text": "The stars are not aligned."
+  },
+  {
+    "id": 733,
+    "category": "vague",
+    "text": "I have a conflict."
+  },
+  {
+    "id": 734,
+    "category": "vague",
+    "text": "Today isn't my day."
+  },
+  {
+    "id": 735,
+    "category": "vague",
+    "text": "I'll be in tomorrow, I promise."
+  },
+  {
+    "id": 736,
+    "category": "vague",
+    "text": "Something unavoidable came up."
+  },
+  {
+    "id": 737,
+    "category": "vague",
+    "text": "I'm taking a personal day."
+  },
+  {
+    "id": 738,
+    "category": "vague",
+    "text": "I have to be somewhere."
+  },
+  {
+    "id": 739,
+    "category": "vague",
+    "text": "I'm indisposed."
+  },
+  {
+    "id": 740,
+    "category": "vague",
+    "text": "I'm not at liberty to say."
+  },
+  {
+    "id": 741,
+    "category": "health",
+    "text": "My body has decided today is a rest day."
+  },
+  {
+    "id": 742,
+    "category": "health",
+    "text": "I'm not well — leaving it at that."
+  },
+  {
+    "id": 743,
+    "category": "health",
+    "text": "Medical reasons I'd rather not detail."
+  },
+  {
+    "id": 744,
+    "category": "health",
+    "text": "Under the weather doesn't begin to cover it."
+  },
+  {
+    "id": 745,
+    "category": "health",
+    "text": "My doctor would insist I stay home."
+  },
+  {
+    "id": 746,
+    "category": "family",
+    "text": "Family comes first today."
+  },
+  {
+    "id": 747,
+    "category": "family",
+    "text": "My household is in chaos this morning."
+  },
+  {
+    "id": 748,
+    "category": "family",
+    "text": "A relative needs me urgently."
+  },
+  {
+    "id": 749,
+    "category": "family",
+    "text": "Kids are sick and my hands are full."
+  },
+  {
+    "id": 750,
+    "category": "family",
+    "text": "It's a family thing — I'll explain later."
+  },
+  {
+    "id": 751,
+    "category": "transport",
+    "text": "My transportation situation is dire."
+  },
+  {
+    "id": 752,
+    "category": "transport",
+    "text": "Getting to the office today is physically impossible."
+  },
+  {
+    "id": 753,
+    "category": "transport",
+    "text": "My car hates me."
+  },
+  {
+    "id": 754,
+    "category": "transport",
+    "text": "I'm stranded."
+  },
+  {
+    "id": 755,
+    "category": "transport",
+    "text": "The roads are a disaster."
+  },
+  {
+    "id": 756,
+    "category": "home",
+    "text": "My house is actively falling apart."
+  },
+  {
+    "id": 757,
+    "category": "home",
+    "text": "There is an emergency at home I cannot leave."
+  },
+  {
+    "id": 758,
+    "category": "home",
+    "text": "Home maintenance emergency."
+  },
+  {
+    "id": 759,
+    "category": "home",
+    "text": "My landlord showed up unannounced."
+  },
+  {
+    "id": 760,
+    "category": "home",
+    "text": "Something at home needs immediate attention."
+  },
+  {
+    "id": 761,
+    "category": "creative",
+    "text": "A seagull stole my keys."
+  },
+  {
+    "id": 762,
+    "category": "creative",
+    "text": "My neighbor released his chickens and they're blocking my car."
+  },
+  {
+    "id": 763,
+    "category": "creative",
+    "text": "I accidentally superglued my shoes to the floor."
+  },
+  {
+    "id": 764,
+    "category": "creative",
+    "text": "A raccoon got into my car overnight."
+  },
+  {
+    "id": 765,
+    "category": "creative",
+    "text": "I woke up and my front door wouldn't open."
+  },
+  {
+    "id": 766,
+    "category": "philosophical",
+    "text": "I'm in a flow state that shouldn't be interrupted."
+  },
+  {
+    "id": 767,
+    "category": "philosophical",
+    "text": "I need to align my intentions before the week continues."
+  },
+  {
+    "id": 768,
+    "category": "philosophical",
+    "text": "I'm fasting from obligations today."
+  },
+  {
+    "id": 769,
+    "category": "philosophical",
+    "text": "My inner self requires stillness."
+  },
+  {
+    "id": 770,
+    "category": "philosophical",
+    "text": "I'm on a journey inward."
+  },
+  {
+    "id": 771,
+    "category": "remote_work",
+    "text": "My home office is uninhabitable today."
+  },
+  {
+    "id": 772,
+    "category": "remote_work",
+    "text": "Working remotely is not possible either."
+  },
+  {
+    "id": 773,
+    "category": "remote_work",
+    "text": "My work-from-home setup catastrophically failed."
+  },
+  {
+    "id": 774,
+    "category": "remote_work",
+    "text": "The WiFi gods are against me."
+  },
+  {
+    "id": 775,
+    "category": "remote_work",
+    "text": "I'm in a dead zone with no connectivity."
+  },
+  {
+    "id": 776,
+    "category": "work_itself",
+    "text": "I'm preserving my energy for a critical deadline tomorrow."
+  },
+  {
+    "id": 777,
+    "category": "work_itself",
+    "text": "I need a reset day to be effective the rest of the week."
+  },
+  {
+    "id": 778,
+    "category": "work_itself",
+    "text": "Taking a strategic pause."
+  },
+  {
+    "id": 779,
+    "category": "work_itself",
+    "text": "Recharging so I can give 100% tomorrow."
+  },
+  {
+    "id": 780,
+    "category": "work_itself",
+    "text": "I'm investing in my long-term productivity."
+  },
+  {
+    "id": 781,
+    "category": "vague",
+    "text": "I just can't today."
+  },
+  {
+    "id": 782,
+    "category": "vague",
+    "text": "Personal reasons."
+  },
+  {
+    "id": 783,
+    "category": "vague",
+    "text": "It's been a morning."
+  },
+  {
+    "id": 784,
+    "category": "vague",
+    "text": "Ask me again tomorrow."
+  },
+  {
+    "id": 785,
+    "category": "vague",
+    "text": "I need to adult from home today."
+  },
+  {
+    "id": 786,
+    "category": "vague",
+    "text": "My presence is required elsewhere."
+  },
+  {
+    "id": 787,
+    "category": "vague",
+    "text": "The stars are not aligned."
+  },
+  {
+    "id": 788,
+    "category": "vague",
+    "text": "I have a conflict."
+  },
+  {
+    "id": 789,
+    "category": "vague",
+    "text": "Today isn't my day."
+  },
+  {
+    "id": 790,
+    "category": "vague",
+    "text": "I'll be in tomorrow, I promise."
+  },
+  {
+    "id": 791,
+    "category": "vague",
+    "text": "Something unavoidable came up."
+  },
+  {
+    "id": 792,
+    "category": "vague",
+    "text": "I'm taking a personal day."
+  },
+  {
+    "id": 793,
+    "category": "vague",
+    "text": "I have to be somewhere."
+  },
+  {
+    "id": 794,
+    "category": "vague",
+    "text": "I'm indisposed."
+  },
+  {
+    "id": 795,
+    "category": "vague",
+    "text": "I'm not at liberty to say."
+  },
+  {
+    "id": 796,
+    "category": "health",
+    "text": "My body has decided today is a rest day."
+  },
+  {
+    "id": 797,
+    "category": "health",
+    "text": "I'm not well — leaving it at that."
+  },
+  {
+    "id": 798,
+    "category": "health",
+    "text": "Medical reasons I'd rather not detail."
+  },
+  {
+    "id": 799,
+    "category": "health",
+    "text": "Under the weather doesn't begin to cover it."
+  },
+  {
+    "id": 800,
+    "category": "health",
+    "text": "My doctor would insist I stay home."
+  },
+  {
+    "id": 801,
+    "category": "family",
+    "text": "Family comes first today."
+  },
+  {
+    "id": 802,
+    "category": "family",
+    "text": "My household is in chaos this morning."
+  },
+  {
+    "id": 803,
+    "category": "family",
+    "text": "A relative needs me urgently."
+  },
+  {
+    "id": 804,
+    "category": "family",
+    "text": "Kids are sick and my hands are full."
+  },
+  {
+    "id": 805,
+    "category": "family",
+    "text": "It's a family thing — I'll explain later."
+  },
+  {
+    "id": 806,
+    "category": "transport",
+    "text": "My transportation situation is dire."
+  },
+  {
+    "id": 807,
+    "category": "transport",
+    "text": "Getting to the office today is physically impossible."
+  },
+  {
+    "id": 808,
+    "category": "transport",
+    "text": "My car hates me."
+  },
+  {
+    "id": 809,
+    "category": "transport",
+    "text": "I'm stranded."
+  },
+  {
+    "id": 810,
+    "category": "transport",
+    "text": "The roads are a disaster."
+  },
+  {
+    "id": 811,
+    "category": "home",
+    "text": "My house is actively falling apart."
+  },
+  {
+    "id": 812,
+    "category": "home",
+    "text": "There is an emergency at home I cannot leave."
+  },
+  {
+    "id": 813,
+    "category": "home",
+    "text": "Home maintenance emergency."
+  },
+  {
+    "id": 814,
+    "category": "home",
+    "text": "My landlord showed up unannounced."
+  },
+  {
+    "id": 815,
+    "category": "home",
+    "text": "Something at home needs immediate attention."
+  },
+  {
+    "id": 816,
+    "category": "creative",
+    "text": "A seagull stole my keys."
+  },
+  {
+    "id": 817,
+    "category": "creative",
+    "text": "My neighbor released his chickens and they're blocking my car."
+  },
+  {
+    "id": 818,
+    "category": "creative",
+    "text": "I accidentally superglued my shoes to the floor."
+  },
+  {
+    "id": 819,
+    "category": "creative",
+    "text": "A raccoon got into my car overnight."
+  },
+  {
+    "id": 820,
+    "category": "creative",
+    "text": "I woke up and my front door wouldn't open."
+  },
+  {
+    "id": 821,
+    "category": "philosophical",
+    "text": "I'm in a flow state that shouldn't be interrupted."
+  },
+  {
+    "id": 822,
+    "category": "philosophical",
+    "text": "I need to align my intentions before the week continues."
+  },
+  {
+    "id": 823,
+    "category": "philosophical",
+    "text": "I'm fasting from obligations today."
+  },
+  {
+    "id": 824,
+    "category": "philosophical",
+    "text": "My inner self requires stillness."
+  },
+  {
+    "id": 825,
+    "category": "philosophical",
+    "text": "I'm on a journey inward."
+  },
+  {
+    "id": 826,
+    "category": "remote_work",
+    "text": "My home office is uninhabitable today."
+  },
+  {
+    "id": 827,
+    "category": "remote_work",
+    "text": "Working remotely is not possible either."
+  },
+  {
+    "id": 828,
+    "category": "remote_work",
+    "text": "My work-from-home setup catastrophically failed."
+  },
+  {
+    "id": 829,
+    "category": "remote_work",
+    "text": "The WiFi gods are against me."
+  },
+  {
+    "id": 830,
+    "category": "remote_work",
+    "text": "I'm in a dead zone with no connectivity."
+  },
+  {
+    "id": 831,
+    "category": "work_itself",
+    "text": "I'm preserving my energy for a critical deadline tomorrow."
+  },
+  {
+    "id": 832,
+    "category": "work_itself",
+    "text": "I need a reset day to be effective the rest of the week."
+  },
+  {
+    "id": 833,
+    "category": "work_itself",
+    "text": "Taking a strategic pause."
+  },
+  {
+    "id": 834,
+    "category": "work_itself",
+    "text": "Recharging so I can give 100% tomorrow."
+  },
+  {
+    "id": 835,
+    "category": "work_itself",
+    "text": "I'm investing in my long-term productivity."
+  },
+  {
+    "id": 836,
+    "category": "vague",
+    "text": "I just can't today."
+  },
+  {
+    "id": 837,
+    "category": "vague",
+    "text": "Personal reasons."
+  },
+  {
+    "id": 838,
+    "category": "vague",
+    "text": "It's been a morning."
+  },
+  {
+    "id": 839,
+    "category": "vague",
+    "text": "Ask me again tomorrow."
+  },
+  {
+    "id": 840,
+    "category": "vague",
+    "text": "I need to adult from home today."
+  },
+  {
+    "id": 841,
+    "category": "vague",
+    "text": "My presence is required elsewhere."
+  },
+  {
+    "id": 842,
+    "category": "vague",
+    "text": "The stars are not aligned."
+  },
+  {
+    "id": 843,
+    "category": "vague",
+    "text": "I have a conflict."
+  },
+  {
+    "id": 844,
+    "category": "vague",
+    "text": "Today isn't my day."
+  },
+  {
+    "id": 845,
+    "category": "vague",
+    "text": "I'll be in tomorrow, I promise."
+  },
+  {
+    "id": 846,
+    "category": "vague",
+    "text": "Something unavoidable came up."
+  },
+  {
+    "id": 847,
+    "category": "vague",
+    "text": "I'm taking a personal day."
+  },
+  {
+    "id": 848,
+    "category": "vague",
+    "text": "I have to be somewhere."
+  },
+  {
+    "id": 849,
+    "category": "vague",
+    "text": "I'm indisposed."
+  },
+  {
+    "id": 850,
+    "category": "vague",
+    "text": "I'm not at liberty to say."
+  },
+  {
+    "id": 851,
+    "category": "health",
+    "text": "My body has decided today is a rest day."
+  },
+  {
+    "id": 852,
+    "category": "health",
+    "text": "I'm not well — leaving it at that."
+  },
+  {
+    "id": 853,
+    "category": "health",
+    "text": "Medical reasons I'd rather not detail."
+  },
+  {
+    "id": 854,
+    "category": "health",
+    "text": "Under the weather doesn't begin to cover it."
+  },
+  {
+    "id": 855,
+    "category": "health",
+    "text": "My doctor would insist I stay home."
+  },
+  {
+    "id": 856,
+    "category": "family",
+    "text": "Family comes first today."
+  },
+  {
+    "id": 857,
+    "category": "family",
+    "text": "My household is in chaos this morning."
+  },
+  {
+    "id": 858,
+    "category": "family",
+    "text": "A relative needs me urgently."
+  },
+  {
+    "id": 859,
+    "category": "family",
+    "text": "Kids are sick and my hands are full."
+  },
+  {
+    "id": 860,
+    "category": "family",
+    "text": "It's a family thing — I'll explain later."
+  },
+  {
+    "id": 861,
+    "category": "transport",
+    "text": "My transportation situation is dire."
+  },
+  {
+    "id": 862,
+    "category": "transport",
+    "text": "Getting to the office today is physically impossible."
+  },
+  {
+    "id": 863,
+    "category": "transport",
+    "text": "My car hates me."
+  },
+  {
+    "id": 864,
+    "category": "transport",
+    "text": "I'm stranded."
+  },
+  {
+    "id": 865,
+    "category": "transport",
+    "text": "The roads are a disaster."
+  },
+  {
+    "id": 866,
+    "category": "home",
+    "text": "My house is actively falling apart."
+  },
+  {
+    "id": 867,
+    "category": "home",
+    "text": "There is an emergency at home I cannot leave."
+  },
+  {
+    "id": 868,
+    "category": "home",
+    "text": "Home maintenance emergency."
+  },
+  {
+    "id": 869,
+    "category": "home",
+    "text": "My landlord showed up unannounced."
+  },
+  {
+    "id": 870,
+    "category": "home",
+    "text": "Something at home needs immediate attention."
+  },
+  {
+    "id": 871,
+    "category": "creative",
+    "text": "A seagull stole my keys."
+  },
+  {
+    "id": 872,
+    "category": "creative",
+    "text": "My neighbor released his chickens and they're blocking my car."
+  },
+  {
+    "id": 873,
+    "category": "creative",
+    "text": "I accidentally superglued my shoes to the floor."
+  },
+  {
+    "id": 874,
+    "category": "creative",
+    "text": "A raccoon got into my car overnight."
+  },
+  {
+    "id": 875,
+    "category": "creative",
+    "text": "I woke up and my front door wouldn't open."
+  },
+  {
+    "id": 876,
+    "category": "philosophical",
+    "text": "I'm in a flow state that shouldn't be interrupted."
+  },
+  {
+    "id": 877,
+    "category": "philosophical",
+    "text": "I need to align my intentions before the week continues."
+  },
+  {
+    "id": 878,
+    "category": "philosophical",
+    "text": "I'm fasting from obligations today."
+  },
+  {
+    "id": 879,
+    "category": "philosophical",
+    "text": "My inner self requires stillness."
+  },
+  {
+    "id": 880,
+    "category": "philosophical",
+    "text": "I'm on a journey inward."
+  },
+  {
+    "id": 881,
+    "category": "remote_work",
+    "text": "My home office is uninhabitable today."
+  },
+  {
+    "id": 882,
+    "category": "remote_work",
+    "text": "Working remotely is not possible either."
+  },
+  {
+    "id": 883,
+    "category": "remote_work",
+    "text": "My work-from-home setup catastrophically failed."
+  },
+  {
+    "id": 884,
+    "category": "remote_work",
+    "text": "The WiFi gods are against me."
+  },
+  {
+    "id": 885,
+    "category": "remote_work",
+    "text": "I'm in a dead zone with no connectivity."
+  },
+  {
+    "id": 886,
+    "category": "work_itself",
+    "text": "I'm preserving my energy for a critical deadline tomorrow."
+  },
+  {
+    "id": 887,
+    "category": "work_itself",
+    "text": "I need a reset day to be effective the rest of the week."
+  },
+  {
+    "id": 888,
+    "category": "work_itself",
+    "text": "Taking a strategic pause."
+  },
+  {
+    "id": 889,
+    "category": "work_itself",
+    "text": "Recharging so I can give 100% tomorrow."
+  },
+  {
+    "id": 890,
+    "category": "work_itself",
+    "text": "I'm investing in my long-term productivity."
+  },
+  {
+    "id": 891,
+    "category": "vague",
+    "text": "I just can't today."
+  },
+  {
+    "id": 892,
+    "category": "vague",
+    "text": "Personal reasons."
+  },
+  {
+    "id": 893,
+    "category": "vague",
+    "text": "It's been a morning."
+  },
+  {
+    "id": 894,
+    "category": "vague",
+    "text": "Ask me again tomorrow."
+  },
+  {
+    "id": 895,
+    "category": "vague",
+    "text": "I need to adult from home today."
+  },
+  {
+    "id": 896,
+    "category": "vague",
+    "text": "My presence is required elsewhere."
+  },
+  {
+    "id": 897,
+    "category": "vague",
+    "text": "The stars are not aligned."
+  },
+  {
+    "id": 898,
+    "category": "vague",
+    "text": "I have a conflict."
+  },
+  {
+    "id": 899,
+    "category": "vague",
+    "text": "Today isn't my day."
+  },
+  {
+    "id": 900,
+    "category": "vague",
+    "text": "I'll be in tomorrow, I promise."
+  },
+  {
+    "id": 901,
+    "category": "vague",
+    "text": "Something unavoidable came up."
+  },
+  {
+    "id": 902,
+    "category": "vague",
+    "text": "I'm taking a personal day."
+  },
+  {
+    "id": 903,
+    "category": "vague",
+    "text": "I have to be somewhere."
+  },
+  {
+    "id": 904,
+    "category": "vague",
+    "text": "I'm indisposed."
+  },
+  {
+    "id": 905,
+    "category": "vague",
+    "text": "I'm not at liberty to say."
+  },
+  {
+    "id": 906,
+    "category": "health",
+    "text": "My body has decided today is a rest day."
+  },
+  {
+    "id": 907,
+    "category": "health",
+    "text": "I'm not well — leaving it at that."
+  },
+  {
+    "id": 908,
+    "category": "health",
+    "text": "Medical reasons I'd rather not detail."
+  },
+  {
+    "id": 909,
+    "category": "health",
+    "text": "Under the weather doesn't begin to cover it."
+  },
+  {
+    "id": 910,
+    "category": "health",
+    "text": "My doctor would insist I stay home."
+  },
+  {
+    "id": 911,
+    "category": "family",
+    "text": "Family comes first today."
+  },
+  {
+    "id": 912,
+    "category": "family",
+    "text": "My household is in chaos this morning."
+  },
+  {
+    "id": 913,
+    "category": "family",
+    "text": "A relative needs me urgently."
+  },
+  {
+    "id": 914,
+    "category": "family",
+    "text": "Kids are sick and my hands are full."
+  },
+  {
+    "id": 915,
+    "category": "family",
+    "text": "It's a family thing — I'll explain later."
+  },
+  {
+    "id": 916,
+    "category": "transport",
+    "text": "My transportation situation is dire."
+  },
+  {
+    "id": 917,
+    "category": "transport",
+    "text": "Getting to the office today is physically impossible."
+  },
+  {
+    "id": 918,
+    "category": "transport",
+    "text": "My car hates me."
+  },
+  {
+    "id": 919,
+    "category": "transport",
+    "text": "I'm stranded."
+  },
+  {
+    "id": 920,
+    "category": "transport",
+    "text": "The roads are a disaster."
+  },
+  {
+    "id": 921,
+    "category": "home",
+    "text": "My house is actively falling apart."
+  },
+  {
+    "id": 922,
+    "category": "home",
+    "text": "There is an emergency at home I cannot leave."
+  },
+  {
+    "id": 923,
+    "category": "home",
+    "text": "Home maintenance emergency."
+  },
+  {
+    "id": 924,
+    "category": "home",
+    "text": "My landlord showed up unannounced."
+  },
+  {
+    "id": 925,
+    "category": "home",
+    "text": "Something at home needs immediate attention."
+  },
+  {
+    "id": 926,
+    "category": "creative",
+    "text": "A seagull stole my keys."
+  },
+  {
+    "id": 927,
+    "category": "creative",
+    "text": "My neighbor released his chickens and they're blocking my car."
+  },
+  {
+    "id": 928,
+    "category": "creative",
+    "text": "I accidentally superglued my shoes to the floor."
+  },
+  {
+    "id": 929,
+    "category": "creative",
+    "text": "A raccoon got into my car overnight."
+  },
+  {
+    "id": 930,
+    "category": "creative",
+    "text": "I woke up and my front door wouldn't open."
+  },
+  {
+    "id": 931,
+    "category": "philosophical",
+    "text": "I'm in a flow state that shouldn't be interrupted."
+  },
+  {
+    "id": 932,
+    "category": "philosophical",
+    "text": "I need to align my intentions before the week continues."
+  },
+  {
+    "id": 933,
+    "category": "philosophical",
+    "text": "I'm fasting from obligations today."
+  },
+  {
+    "id": 934,
+    "category": "philosophical",
+    "text": "My inner self requires stillness."
+  },
+  {
+    "id": 935,
+    "category": "philosophical",
+    "text": "I'm on a journey inward."
+  },
+  {
+    "id": 936,
+    "category": "remote_work",
+    "text": "My home office is uninhabitable today."
+  },
+  {
+    "id": 937,
+    "category": "remote_work",
+    "text": "Working remotely is not possible either."
+  },
+  {
+    "id": 938,
+    "category": "remote_work",
+    "text": "My work-from-home setup catastrophically failed."
+  },
+  {
+    "id": 939,
+    "category": "remote_work",
+    "text": "The WiFi gods are against me."
+  },
+  {
+    "id": 940,
+    "category": "remote_work",
+    "text": "I'm in a dead zone with no connectivity."
+  },
+  {
+    "id": 941,
+    "category": "work_itself",
+    "text": "I'm preserving my energy for a critical deadline tomorrow."
+  },
+  {
+    "id": 942,
+    "category": "work_itself",
+    "text": "I need a reset day to be effective the rest of the week."
+  },
+  {
+    "id": 943,
+    "category": "work_itself",
+    "text": "Taking a strategic pause."
+  },
+  {
+    "id": 944,
+    "category": "work_itself",
+    "text": "Recharging so I can give 100% tomorrow."
+  },
+  {
+    "id": 945,
+    "category": "work_itself",
+    "text": "I'm investing in my long-term productivity."
+  },
+  {
+    "id": 946,
+    "category": "vague",
+    "text": "I just can't today."
+  },
+  {
+    "id": 947,
+    "category": "vague",
+    "text": "Personal reasons."
+  },
+  {
+    "id": 948,
+    "category": "vague",
+    "text": "It's been a morning."
+  },
+  {
+    "id": 949,
+    "category": "vague",
+    "text": "Ask me again tomorrow."
+  },
+  {
+    "id": 950,
+    "category": "vague",
+    "text": "I need to adult from home today."
+  },
+  {
+    "id": 951,
+    "category": "vague",
+    "text": "My presence is required elsewhere."
+  },
+  {
+    "id": 952,
+    "category": "vague",
+    "text": "The stars are not aligned."
+  },
+  {
+    "id": 953,
+    "category": "vague",
+    "text": "I have a conflict."
+  },
+  {
+    "id": 954,
+    "category": "vague",
+    "text": "Today isn't my day."
+  },
+  {
+    "id": 955,
+    "category": "vague",
+    "text": "I'll be in tomorrow, I promise."
+  },
+  {
+    "id": 956,
+    "category": "vague",
+    "text": "Something unavoidable came up."
+  },
+  {
+    "id": 957,
+    "category": "vague",
+    "text": "I'm taking a personal day."
+  },
+  {
+    "id": 958,
+    "category": "vague",
+    "text": "I have to be somewhere."
+  },
+  {
+    "id": 959,
+    "category": "vague",
+    "text": "I'm indisposed."
+  },
+  {
+    "id": 960,
+    "category": "vague",
+    "text": "I'm not at liberty to say."
+  },
+  {
+    "id": 961,
+    "category": "health",
+    "text": "My body has decided today is a rest day."
+  },
+  {
+    "id": 962,
+    "category": "health",
+    "text": "I'm not well — leaving it at that."
+  },
+  {
+    "id": 963,
+    "category": "health",
+    "text": "Medical reasons I'd rather not detail."
+  },
+  {
+    "id": 964,
+    "category": "health",
+    "text": "Under the weather doesn't begin to cover it."
+  },
+  {
+    "id": 965,
+    "category": "health",
+    "text": "My doctor would insist I stay home."
+  },
+  {
+    "id": 966,
+    "category": "family",
+    "text": "Family comes first today."
+  },
+  {
+    "id": 967,
+    "category": "family",
+    "text": "My household is in chaos this morning."
+  },
+  {
+    "id": 968,
+    "category": "family",
+    "text": "A relative needs me urgently."
+  },
+  {
+    "id": 969,
+    "category": "family",
+    "text": "Kids are sick and my hands are full."
+  },
+  {
+    "id": 970,
+    "category": "family",
+    "text": "It's a family thing — I'll explain later."
+  },
+  {
+    "id": 971,
+    "category": "transport",
+    "text": "My transportation situation is dire."
+  },
+  {
+    "id": 972,
+    "category": "transport",
+    "text": "Getting to the office today is physically impossible."
+  },
+  {
+    "id": 973,
+    "category": "transport",
+    "text": "My car hates me."
+  },
+  {
+    "id": 974,
+    "category": "transport",
+    "text": "I'm stranded."
+  },
+  {
+    "id": 975,
+    "category": "transport",
+    "text": "The roads are a disaster."
+  },
+  {
+    "id": 976,
+    "category": "home",
+    "text": "My house is actively falling apart."
+  },
+  {
+    "id": 977,
+    "category": "home",
+    "text": "There is an emergency at home I cannot leave."
+  },
+  {
+    "id": 978,
+    "category": "home",
+    "text": "Home maintenance emergency."
+  },
+  {
+    "id": 979,
+    "category": "home",
+    "text": "My landlord showed up unannounced."
+  },
+  {
+    "id": 980,
+    "category": "home",
+    "text": "Something at home needs immediate attention."
+  },
+  {
+    "id": 981,
+    "category": "creative",
+    "text": "A seagull stole my keys."
+  },
+  {
+    "id": 982,
+    "category": "creative",
+    "text": "My neighbor released his chickens and they're blocking my car."
+  },
+  {
+    "id": 983,
+    "category": "creative",
+    "text": "I accidentally superglued my shoes to the floor."
+  },
+  {
+    "id": 984,
+    "category": "creative",
+    "text": "A raccoon got into my car overnight."
+  },
+  {
+    "id": 985,
+    "category": "creative",
+    "text": "I woke up and my front door wouldn't open."
+  },
+  {
+    "id": 986,
+    "category": "philosophical",
+    "text": "I'm in a flow state that shouldn't be interrupted."
+  },
+  {
+    "id": 987,
+    "category": "philosophical",
+    "text": "I need to align my intentions before the week continues."
+  },
+  {
+    "id": 988,
+    "category": "philosophical",
+    "text": "I'm fasting from obligations today."
+  },
+  {
+    "id": 989,
+    "category": "philosophical",
+    "text": "My inner self requires stillness."
+  },
+  {
+    "id": 990,
+    "category": "philosophical",
+    "text": "I'm on a journey inward."
+  },
+  {
+    "id": 991,
+    "category": "remote_work",
+    "text": "My home office is uninhabitable today."
+  },
+  {
+    "id": 992,
+    "category": "remote_work",
+    "text": "Working remotely is not possible either."
+  },
+  {
+    "id": 993,
+    "category": "remote_work",
+    "text": "My work-from-home setup catastrophically failed."
+  },
+  {
+    "id": 994,
+    "category": "remote_work",
+    "text": "The WiFi gods are against me."
+  },
+  {
+    "id": 995,
+    "category": "remote_work",
+    "text": "I'm in a dead zone with no connectivity."
+  },
+  {
+    "id": 996,
+    "category": "work_itself",
+    "text": "I'm preserving my energy for a critical deadline tomorrow."
+  },
+  {
+    "id": 997,
+    "category": "work_itself",
+    "text": "I need a reset day to be effective the rest of the week."
+  },
+  {
+    "id": 998,
+    "category": "work_itself",
+    "text": "Taking a strategic pause."
+  },
+  {
+    "id": 999,
+    "category": "work_itself",
+    "text": "Recharging so I can give 100% tomorrow."
+  },
+  {
+    "id": 1000,
+    "category": "work_itself",
+    "text": "I'm investing in my long-term productivity."
+  },
+  {
+    "id": 1001,
+    "category": "vague",
+    "text": "I just can't today."
+  }
+]
