@@ -1,7 +1,6 @@
 import React from "react";
-import { View, Pressable, Text, StyleSheet } from "react-native";
+import { View, Pressable, Text, StyleSheet, Share } from "react-native";
 import * as Clipboard from "expo-clipboard";
-import * as Sharing from "expo-sharing";
 import { colors } from "../utils/colors";
 
 type Props = { text?: string };
@@ -15,11 +14,8 @@ export function ShareButtons({ text }: Props) {
   };
 
   const share = async () => {
-    if (!text || !(await Sharing.isAvailableAsync())) return;
-    await Sharing.shareAsync("" as any, {
-      dialogTitle: text,
-      mimeType: "text/plain",
-    });
+    if (!text) return;
+    await Share.share({ message: text });
   };
 
   return (

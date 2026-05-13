@@ -1,6 +1,6 @@
-import React, { useState } from "react";
-import { View, StyleSheet } from "react-native";
-import { useRouter } from "expo-router";
+import React, { useState, useEffect } from "react";
+import { View, Pressable, Text, StyleSheet } from "react-native";
+import { useRouter, useNavigation } from "expo-router";
 import { ExcuseCard } from "../components/ExcuseCard";
 import { GenerateButton } from "../components/GenerateButton";
 import { CategoryChips } from "../components/CategoryChips";
@@ -15,6 +15,25 @@ export default function HomeScreen() {
   const [excuse, setExcuse] = useState<Excuse | undefined>(undefined);
   const { add } = useHistory();
   const router = useRouter();
+  const navigation = useNavigation();
+
+  useEffect(() => {
+    navigation.setOptions({
+      headerRight: () => (
+        <View style={styles.headerButtons}>
+          <Pressable onPress={() => router.push("/categories")} style={styles.headerBtn}>
+            <Text style={styles.headerBtnText}>Categories</Text>
+          </Pressable>
+          <Pressable onPress={() => router.push("/history")} style={styles.headerBtn}>
+            <Text style={styles.headerBtnText}>History</Text>
+          </Pressable>
+          <Pressable onPress={() => router.push("/settings")} style={styles.headerBtn} accessibilityLabel="Settings">
+            <Text style={styles.headerBtnText}>⚙️</Text>
+          </Pressable>
+        </View>
+      ),
+    });
+  }, [navigation, router]);
 
   const generate = () => {
     const e = getRandomExcuse(category);
@@ -38,5 +57,19 @@ const styles = StyleSheet.create({
     backgroundColor: colors.background,
     padding: 20,
     gap: 16,
+  },
+  headerButtons: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 4,
+  },
+  headerBtn: {
+    paddingHorizontal: 8,
+    paddingVertical: 4,
+  },
+  headerBtnText: {
+    color: colors.accent,
+    fontSize: 13,
+    fontWeight: "600",
   },
 });
