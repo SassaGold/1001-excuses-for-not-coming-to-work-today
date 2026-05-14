@@ -1,0 +1,5007 @@
+[
+  {
+    "id": 1,
+    "category": "funny",
+    "text": "Kötturinn minn setti sig á lyklaborðið og sendi inn uppsagnarbréfið mitt — er enn að reyna að afturkalla það."
+  },
+  {
+    "id": 2,
+    "category": "funny",
+    "text": "Ég hnerraði svo fast að ég togaði alla vöðva í efri hluta líkamans."
+  },
+  {
+    "id": 3,
+    "category": "funny",
+    "text": "Ég límdi handið mitt óvart við útidyrnahúninn."
+  },
+  {
+    "id": 4,
+    "category": "funny",
+    "text": "Máfur stal bílslyklunum mínum og flaug í burtu. Ég er ekki að grínast."
+  },
+  {
+    "id": 5,
+    "category": "funny",
+    "text": "Ég setti símann í kæli og matinn í vasann. Fann bæði mörgum klukkustundum síðar."
+  },
+  {
+    "id": 6,
+    "category": "funny",
+    "text": "Páfagaukurinn minn hefur lært að hringja og skrá sig veikan í mínu nafni — því miður gerði hann það aftur."
+  },
+  {
+    "id": 7,
+    "category": "funny",
+    "text": "Ég sat á gleraugunum mínum og get nú ekki fundið þau til að leita að þeim."
+  },
+  {
+    "id": 8,
+    "category": "funny",
+    "text": "Ég sofnaði á sófanum og hundurinn minn læsti hundadyrunum að utan."
+  },
+  {
+    "id": 9,
+    "category": "funny",
+    "text": "Ég skráði mig óvart í 5 km hlaupaviðburð sem byrjar í hverfinu mínu í morgun."
+  },
+  {
+    "id": 10,
+    "category": "funny",
+    "text": "Morgunmaturinn minn barðist við mig."
+  },
+  {
+    "id": 11,
+    "category": "funny",
+    "text": "Ég rann á eigin skóhnút og rann niður alla stiga."
+  },
+  {
+    "id": 12,
+    "category": "funny",
+    "text": "Fiskurinn minn er veikur og ég hef verið vakandi alla nótt að gera fisk-hjartahnoð."
+  },
+  {
+    "id": 13,
+    "category": "funny",
+    "text": "Ég fékk peysu mína fösta í bílhurðinni og þurfti að klippa mig laus."
+  },
+  {
+    "id": 14,
+    "category": "funny",
+    "text": "Ég skildi skóna mína eftir hjá vini í gær og uppgötvaði það fyrst við strætóstoppið."
+  },
+  {
+    "id": 15,
+    "category": "funny",
+    "text": "Vekjarinn minn sýndi PM í stað AM á mjög sannfærandi hátt."
+  },
+  {
+    "id": 16,
+    "category": "funny",
+    "text": "Ég reyndi að gera kaffi og gerði súpu í staðinn. Ég veit ekki hvernig."
+  },
+  {
+    "id": 17,
+    "category": "funny",
+    "text": "Refur hefur girt af sér í bílskúrnum mínum og neitar að semja."
+  },
+  {
+    "id": 18,
+    "category": "funny",
+    "text": "Ég laðst út á meðan ég var að sækja póstinn í náttfötum mínum."
+  },
+  {
+    "id": 19,
+    "category": "funny",
+    "text": "Hundurinn minn borðaði bílskráninguna og þjónustumiðstöðin þarf hana í dag."
+  },
+  {
+    "id": 20,
+    "category": "funny",
+    "text": "Ég prófaði nýja hárlit og hárin mín eru nú litur sem finnst ekki í náttúrunni."
+  },
+  {
+    "id": 21,
+    "category": "funny",
+    "text": "Ég svaraði tölvupósti til allra með mjög persónulegt skilaboð í morgun."
+  },
+  {
+    "id": 22,
+    "category": "funny",
+    "text": "Íkorni gnagaði í gegnum eina og einustu hleðslulínuna mína og síminn er dauður."
+  },
+  {
+    "id": 23,
+    "category": "funny",
+    "text": "Ég gekk beint í rennihlera og þarf augnablik."
+  },
+  {
+    "id": 24,
+    "category": "funny",
+    "text": "Blaðra grannaherbergisins flataðist og lokaði bílnum mínum."
+  },
+  {
+    "id": 25,
+    "category": "funny",
+    "text": "Ég rann á bananahýðis. Já, það er einmitt það sem gerðist."
+  },
+  {
+    "id": 26,
+    "category": "funny",
+    "text": "Börnin mín settu augnakúlur á öll vinnuföt mín og ég tók það ekki eftir fyrr en í strætó."
+  },
+  {
+    "id": 27,
+    "category": "funny",
+    "text": "Ég gekk óvart í flashmóbb og komst ekki út."
+  },
+  {
+    "id": 28,
+    "category": "funny",
+    "text": "Ég vaknaði og fann bílinn minn pakkaðan inn í salernispappír."
+  },
+  {
+    "id": 29,
+    "category": "funny",
+    "text": "Ég brann brauðið mitt svo slæmt að reykskynjarinn hringdi til slökkvilidsins."
+  },
+  {
+    "id": 30,
+    "category": "funny",
+    "text": "Bílskúrshurðin mín sjálfvirka hefur ákveðið að taka sér frídaginn í dag."
+  },
+  {
+    "id": 31,
+    "category": "funny",
+    "text": "Ég klæddist tveimur mismunandi skóm óvart og komst að þessu við strætóstoppið."
+  },
+  {
+    "id": 32,
+    "category": "funny",
+    "text": "Herbergismakkinn minn tók sér geit án þess að segja mér frá. Geitin er ekki að laga sig."
+  },
+  {
+    "id": 33,
+    "category": "funny",
+    "text": "Ég fékk bindi mitt fast í prentarann í gær og náði ekki í símann."
+  },
+  {
+    "id": 34,
+    "category": "funny",
+    "text": "Ég velti yfir alla fataskápinn minn í morgun og þarf tíma til að vinna úr þessu."
+  },
+  {
+    "id": 35,
+    "category": "funny",
+    "text": "Ég reyndi að taka skyndileið og endaði í annarri borg."
+  },
+  {
+    "id": 36,
+    "category": "funny",
+    "text": "Dyrklukkan mín tók upp eitthvað sem ég þarf að tilkynna til yfirvalda."
+  },
+  {
+    "id": 37,
+    "category": "funny",
+    "text": "Ég eyddi dagatalinu mínu óvart ásamt öllum fundum dagsins."
+  },
+  {
+    "id": 38,
+    "category": "funny",
+    "text": "Skrifstofustóllinn minn rann á brött og ég glataðist í 45 mínútur."
+  },
+  {
+    "id": 39,
+    "category": "funny",
+    "text": "Rennilásinn minn brotnaði algerlega og ég er enn í úlpunni."
+  },
+  {
+    "id": 40,
+    "category": "funny",
+    "text": "Fugl hefur byggt sér hreiður í uppgjarðarmynni bílsins míns og mér líður ekki til að trufla hann."
+  },
+  {
+    "id": 41,
+    "category": "funny",
+    "text": "Ég ofhluð kaffikökuna mína og hún sprakk. Þvottastarfið er enn í gangi."
+  },
+  {
+    "id": 42,
+    "category": "funny",
+    "text": "Ég fékk límmiða föstu við augnlinsuna."
+  },
+  {
+    "id": 43,
+    "category": "funny",
+    "text": "Ég svaraði dyrunum í svefni. Sendingamaðurinn skildi eftir miða."
+  },
+  {
+    "id": 44,
+    "category": "funny",
+    "text": "Örbylgjuofnsinn minn fell af og lenti einhvern veginn á bílslyklunum."
+  },
+  {
+    "id": 45,
+    "category": "funny",
+    "text": "Ég uppgötvaði í morgun að ég er ofnæmur fyrir nýja sápunni. Andlit mitt er áhugavert."
+  },
+  {
+    "id": 46,
+    "category": "funny",
+    "text": "Ég pantaði morgunverð á heimleið og hann kom til nágrannans — fékk hann aldrei."
+  },
+  {
+    "id": 47,
+    "category": "funny",
+    "text": "Ég skráði mig í líkamsræktartíma klukkan 4 á morgnana og mætti einhvern veginn."
+  },
+  {
+    "id": 48,
+    "category": "funny",
+    "text": "Beltið mitt brotnaði í tvennt þegar ég var að fara. Ég á ekkert varabelt."
+  },
+  {
+    "id": 49,
+    "category": "funny",
+    "text": "Ég settist á eitthvað dularfullt í strætónum og þarf að fara heim til að skipta um föt."
+  },
+  {
+    "id": 50,
+    "category": "funny",
+    "text": "Dós með tómatsósu sprakk í töskuni og eyðilagði hleðslulínuna."
+  },
+  {
+    "id": 51,
+    "category": "funny",
+    "text": "Ég fékk örvasa í vasann þar sem símahluthleðarinn er."
+  },
+  {
+    "id": 52,
+    "category": "funny",
+    "text": "Vindurinn blés frumskjalið mitt burt um leið og ég opnaði bílinn."
+  },
+  {
+    "id": 53,
+    "category": "funny",
+    "text": "Ég klappaði hundinum á nágrannanum og hann sleit leyfið á mér."
+  },
+  {
+    "id": 54,
+    "category": "funny",
+    "text": "Froðan í kaffistönginni minn rifnaði og fleygði heitu kaffi á frammáfatið mitt."
+  },
+  {
+    "id": 55,
+    "category": "funny",
+    "text": "Ég leigði hjól í morgun og það brotnaði á miðri leið."
+  },
+  {
+    "id": 56,
+    "category": "funny",
+    "text": "Ég eyðilagði skó minn þar sem þakrennan rann yfir og féll ofan á mig."
+  },
+  {
+    "id": 57,
+    "category": "funny",
+    "text": "Barnið mitt bjó til list á veggnum í eldhúsinu klukkan fimm í morgun og ég get ekki skilið þetta."
+  },
+  {
+    "id": 58,
+    "category": "funny",
+    "text": "Ég rann á ís á gangstéttinni og henti tömbu og kaffibolla."
+  },
+  {
+    "id": 59,
+    "category": "funny",
+    "text": "Hundurinn minn tók skóinn minn upp á þakið og ég veit ekki hvernig."
+  },
+  {
+    "id": 60,
+    "category": "funny",
+    "text": "Ég rak mig í nýja skrímslið af strætó vegna þess að ég var að lesa."
+  },
+  {
+    "id": 61,
+    "category": "funny",
+    "text": "Ég opnaði ranga hurð hjá næsta húsi og settist niður í eldhúsinu þeirra áður en ég tók eftir þessu."
+  },
+  {
+    "id": 62,
+    "category": "funny",
+    "text": "Einhver parkertaði of nálægt og ég get ekki opnað bílhurðina."
+  },
+  {
+    "id": 63,
+    "category": "funny",
+    "text": "Sveppurinn minn í gróðurhúsinu er í neyðarástandi og þarf sérstaka meðferð."
+  },
+  {
+    "id": 64,
+    "category": "funny",
+    "text": "Ég renndi öllum morgunkaffa mínum á skjáborðið og á lyklaborðið."
+  },
+  {
+    "id": 65,
+    "category": "funny",
+    "text": "Ég þumalfingur minn er fastfrosinn við póstkassann."
+  },
+  {
+    "id": 66,
+    "category": "funny",
+    "text": "Ég keypti ranga stærð af fötum í gær og vandinn er augljós."
+  },
+  {
+    "id": 67,
+    "category": "funny",
+    "text": "Klukkan í stofunni fór að slá 23 sinnum að nóttu til og vekti mig."
+  },
+  {
+    "id": 68,
+    "category": "funny",
+    "text": "Granninn minn er að fá þilviðarklæðningu og þilviðurinn er ansi nálægt bílnum mínum."
+  },
+  {
+    "id": 69,
+    "category": "funny",
+    "text": "Ég er í óvissu um hvort hundurinn minn sé að spila leik á mér eða sé í raun veikur."
+  },
+  {
+    "id": 70,
+    "category": "funny",
+    "text": "Ég fann jógúrtdós í stað skóanna minna í stígvélatabbasamanum."
+  },
+  {
+    "id": 71,
+    "category": "funny",
+    "text": "Kettlingurinn minn lærði að opna kælir og tók matinn minn til að fela."
+  },
+  {
+    "id": 72,
+    "category": "funny",
+    "text": "Ég hlustaði á röngum podcast og fór óvart á málþing um sjálfræðisstefnur."
+  },
+  {
+    "id": 73,
+    "category": "funny",
+    "text": "Ég missti lykilinn að bréfhólfinu og pósturinn minn er þar inni."
+  },
+  {
+    "id": 74,
+    "category": "funny",
+    "text": "Ég var að glyðra stofugluggann og féll í hann."
+  },
+  {
+    "id": 75,
+    "category": "funny",
+    "text": "Þvottavélin mín fór í söng um nóttina og hét sér í strætómeðvitund."
+  },
+  {
+    "id": 76,
+    "category": "funny",
+    "text": "Ég fell upp stigann í stað þess að ofan."
+  },
+  {
+    "id": 77,
+    "category": "funny",
+    "text": "Ananas í matarbúðinni stóð í vegi minn og ég datt yfir hann."
+  },
+  {
+    "id": 78,
+    "category": "funny",
+    "text": "Kettlingurinn minn syng hátt klukkan þrjú um nóttina og ég get ekki sofið."
+  },
+  {
+    "id": 79,
+    "category": "funny",
+    "text": "Ég þvottaðist í myrkrinu og klæddist fötunum í öfuga röð."
+  },
+  {
+    "id": 80,
+    "category": "funny",
+    "text": "Sólartöfluglerin mín brotnaði og ég er of ljósnæmur til að keyra."
+  },
+  {
+    "id": 81,
+    "category": "funny",
+    "text": "Ég setti brauð í brauðristilinn og gleymdist að hann var á í gær. Eldhúsið þarf loftun."
+  },
+  {
+    "id": 82,
+    "category": "funny",
+    "text": "Bréf frá skattyfirvöldum kom í morgun og ég þarf að svara þessu strax."
+  },
+  {
+    "id": 83,
+    "category": "funny",
+    "text": "Strætóbílinn mitt var án loftkælingar og ég er mjög hitasættur."
+  },
+  {
+    "id": 84,
+    "category": "funny",
+    "text": "Ég gleymdi hvar ég parkertaði og er enn að leita."
+  },
+  {
+    "id": 85,
+    "category": "funny",
+    "text": "Ég of-fyrirbúin mig fyrir fundin í dag og er þreyttir of snemma."
+  },
+  {
+    "id": 86,
+    "category": "funny",
+    "text": "Við fundum leygð á vegg eldhússins í morgun og þetta þarf að leysa þegar í stað."
+  },
+  {
+    "id": 87,
+    "category": "funny",
+    "text": "Ég rann á stiga þegar hann brotnaði undir mér."
+  },
+  {
+    "id": 88,
+    "category": "funny",
+    "text": "Sandviturinn minn brotnaði þegar ég tók í hann og allt fór á gólfið."
+  },
+  {
+    "id": 89,
+    "category": "funny",
+    "text": "Ég hef verið þveginn í miklu roki og er allur blautur og þarf að skipta um föt."
+  },
+  {
+    "id": 90,
+    "category": "funny",
+    "text": "Ég braut vasann minn þegar ég rann inn í bílinn."
+  },
+  {
+    "id": 91,
+    "category": "funny",
+    "text": "Kettlingurinn minn hoppaði á mig á meðan ég var að sofa og ég rann út úr rúminu."
+  },
+  {
+    "id": 92,
+    "category": "funny",
+    "text": "Kettlingurinn komst inn í vinnupokann minn og nudd upp öll gögnin."
+  },
+  {
+    "id": 93,
+    "category": "funny",
+    "text": "Ég gleymdi bílnum á röngu svæðinu og hann var dreginn í burtu."
+  },
+  {
+    "id": 94,
+    "category": "funny",
+    "text": "Stigi minn brotnaði þegar ég var að ná í eitthvað á efstu hillu."
+  },
+  {
+    "id": 95,
+    "category": "funny",
+    "text": "Klósettið mitt fór að flóðast í morgun og vatnið er enn í gangi."
+  },
+  {
+    "id": 96,
+    "category": "funny",
+    "text": "Ég er fastur við útidyrnar vegna þess að hurðarhandfangið datt af."
+  },
+  {
+    "id": 97,
+    "category": "funny",
+    "text": "Vindurinn blés hurðinni og hún læstist á mig þegar ég var úti."
+  },
+  {
+    "id": 98,
+    "category": "funny",
+    "text": "Ég er enn í náttfötum því þvottavélin hefur enn öll fötin mín."
+  },
+  {
+    "id": 99,
+    "category": "funny",
+    "text": "Hnoðkúlan mín var gömul og sprakk þegar ég tók í hana."
+  },
+  {
+    "id": 100,
+    "category": "funny",
+    "text": "Hundurinn minn er hlustandi á þjálfun og og má ekki fara eftir að hafa byrjað."
+  },
+  {
+    "id": 101,
+    "category": "funny",
+    "text": "Ég rauk í gegnum sundlaug en gleymdi í nætina að skipuleggja ferðalag mitt."
+  },
+  {
+    "id": 102,
+    "category": "funny",
+    "text": "Ég þvottaðist með klæðningunum sem ég ætlaði að vinna í og þeir eru blautir."
+  },
+  {
+    "id": 103,
+    "category": "funny",
+    "text": "Ég sat ofan í stólinn minn og brotnaði hann."
+  },
+  {
+    "id": 104,
+    "category": "funny",
+    "text": "Ég fór í rangar mætingar og er nú í öðru skrifstofuhúsinu."
+  },
+  {
+    "id": 105,
+    "category": "funny",
+    "text": "Skinnjakinn minn frostnaði við bílinn og má ekki spenna."
+  },
+  {
+    "id": 106,
+    "category": "funny",
+    "text": "Framsætisveskið mitt er fast undir annarri bílnum."
+  },
+  {
+    "id": 107,
+    "category": "funny",
+    "text": "Ég klæddist boltunni þeirrar nágrannans, ekki minni, og útlit þeirra er ólíkt."
+  },
+  {
+    "id": 108,
+    "category": "funny",
+    "text": "Ég settist niður á kaffi sem stóð á stólnum mínum."
+  },
+  {
+    "id": 109,
+    "category": "funny",
+    "text": "Ég tók aðeins léttara gallar en venjulega og pungurinn fall niður á gangi."
+  },
+  {
+    "id": 110,
+    "category": "funny",
+    "text": "Þrösturinn minn syngur svo hátt að ég get ekki hugsað."
+  },
+  {
+    "id": 111,
+    "category": "funny",
+    "text": "Ég missti spegillinn minn á meðan ég var að þvvo upp."
+  },
+  {
+    "id": 112,
+    "category": "funny",
+    "text": "Hnífurinn minn dettur og nær mér á tærnar þegar ég var að búa til morgunmat."
+  },
+  {
+    "id": 113,
+    "category": "funny",
+    "text": "Koffortið mitt er fast undir rúminu og ég get ekki dregið það út."
+  },
+  {
+    "id": 114,
+    "category": "funny",
+    "text": "Ég fell niður þegar ég var að lyfta af mér töskuna."
+  },
+  {
+    "id": 115,
+    "category": "funny",
+    "text": "Rúmið mitt breiddist úr og fell niður á mig þegar ég fékk mér upp."
+  },
+  {
+    "id": 116,
+    "category": "funny",
+    "text": "Leggöngurnar á milli gatna eru lokaðar vegna vegavinnu í dag."
+  },
+  {
+    "id": 117,
+    "category": "funny",
+    "text": "Hundurinn minn hlökkuður upp hjá nágrannanum og þarf mig til að fara eftir honum."
+  },
+  {
+    "id": 118,
+    "category": "funny",
+    "text": "Ég blandaði saman bílalyklunum mínum og nágrannans og hann er á ferðalagi."
+  },
+  {
+    "id": 119,
+    "category": "funny",
+    "text": "Ég þarf að bíða heima vegna pakkasendingar sem á að koma í dag."
+  },
+  {
+    "id": 120,
+    "category": "funny",
+    "text": "Bílhjólið mitt brotnaði þegar ég var að aka á vinnuna."
+  },
+  {
+    "id": 121,
+    "category": "funny",
+    "text": "Lykillinn brotnaði í bílarlásnum þegar ég var að opna hann."
+  },
+  {
+    "id": 122,
+    "category": "funny",
+    "text": "Ég þurfti að taka hundinn til dýralæknisins og hann er enn þar."
+  },
+  {
+    "id": 123,
+    "category": "funny",
+    "text": "Ég braut glerið í bílnum á meðan ég var að hreinsa hann í morgun."
+  },
+  {
+    "id": 124,
+    "category": "funny",
+    "text": "Smurningurinn í bílnum rann út og ég þarf að bíða eftir hjálp."
+  },
+  {
+    "id": 125,
+    "category": "funny",
+    "text": "Ég fór í biðröð á bensínstöðinni og biðröðin er risavaxin."
+  },
+  {
+    "id": 126,
+    "category": "funny",
+    "text": "Strimillinn í bílshliðinu er fastur og ég get ekki opnað gluggann til að greiða."
+  },
+  {
+    "id": 127,
+    "category": "funny",
+    "text": "Bílinn okkar hafnar ekki – einhvern veginn er kveikjatakkinn brotinn."
+  },
+  {
+    "id": 128,
+    "category": "funny",
+    "text": "Bílhjólbarinn minn spratt þegar ég parkertaði í morgun."
+  },
+  {
+    "id": 129,
+    "category": "funny",
+    "text": "Ég þurfti að keyra systur mína á sjúkrahúsið og er enn þar með henni."
+  },
+  {
+    "id": 130,
+    "category": "funny",
+    "text": "Bílinn þarf olíuskipti áður en ég get keyrt lengra."
+  },
+  {
+    "id": 131,
+    "category": "funny",
+    "text": "Ég missti bílalyklana mína í niðurfall á götu."
+  },
+  {
+    "id": 132,
+    "category": "funny",
+    "text": "Bílrúllurnar frost við meðan þær stóðu yfir nótt og þarf þíðingu."
+  },
+  {
+    "id": 133,
+    "category": "funny",
+    "text": "Bílhjólarnir þurftu skiptingu og þjónustumaðurinn mætir ekki fyrr en í hádeginu."
+  },
+  {
+    "id": 134,
+    "category": "funny",
+    "text": "Ég komst að því að bremsan á bílnum er mjög laus og þarf að fara í þjónustu."
+  },
+  {
+    "id": 135,
+    "category": "funny",
+    "text": "Bílstjórnin er of seig í kulda og þarf hlýrun áður en ég geti keyrt."
+  },
+  {
+    "id": 136,
+    "category": "funny",
+    "text": "Þakið á húsinu þurfti skyndiviðgerð vegna leka þegar ég vaknaði."
+  },
+  {
+    "id": 137,
+    "category": "funny",
+    "text": "Ég hef verið í símaviku með netfyrirtæki heila nótt og er enn að bíða."
+  },
+  {
+    "id": 138,
+    "category": "funny",
+    "text": "Loftræstingin í húsinu strindist og við verðum að bíða eftir múrara."
+  },
+  {
+    "id": 139,
+    "category": "funny",
+    "text": "Ég þarf að sinna rafmagnsmálunum áður en ég geti farið."
+  },
+  {
+    "id": 140,
+    "category": "funny",
+    "text": "Ljósaperur í stofunni sprungu allar í einu og er dökkt hér inni."
+  },
+  {
+    "id": 141,
+    "category": "funny",
+    "text": "Ég þarf að mæta í upplýsingafund varðandi rekstrarleyfi bíls minn."
+  },
+  {
+    "id": 142,
+    "category": "funny",
+    "text": "Ég fann vatnsgalli í þvottahúsinu þetta morgun og þarf löggnara."
+  },
+  {
+    "id": 143,
+    "category": "funny",
+    "text": "Eldavélargasinn minn þarf skipti og þjónustumaðurinn kemur á morgun."
+  },
+  {
+    "id": 144,
+    "category": "believable",
+    "text": "Ég er með læknisstefnumót sem ég gleymdi alveg fyrr en í morgun."
+  },
+  {
+    "id": 145,
+    "category": "believable",
+    "text": "Barnið mitt er veikt og ég fann engan til að passa það."
+  },
+  {
+    "id": 146,
+    "category": "believable",
+    "text": "Bíllinn minn kveikir ekki — rafgeymirinn er dauður."
+  },
+  {
+    "id": 147,
+    "category": "believable",
+    "text": "Ég er með verulega höfuðverk og get ekki horft í skjá."
+  },
+  {
+    "id": 148,
+    "category": "believable",
+    "text": "Barnfóstrið mitt afpantaði í síðustu mínútu."
+  },
+  {
+    "id": 149,
+    "category": "believable",
+    "text": "Fjölskyldunáðarvísi sem ég get ekki fjallað um núna."
+  },
+  {
+    "id": 150,
+    "category": "believable",
+    "text": "Ég er með flatan dekk á leiðinni."
+  },
+  {
+    "id": 151,
+    "category": "believable",
+    "text": "Aldraður foreldri minn þarf að fara á spítala í dag."
+  },
+  {
+    "id": 152,
+    "category": "believable",
+    "text": "Ég vaknaði með matareitrun og það er ekki fallegt."
+  },
+  {
+    "id": 153,
+    "category": "believable",
+    "text": "Bakið mitt fór og ég get varla hreyft mig."
+  },
+  {
+    "id": 154,
+    "category": "believable",
+    "text": "Ég er fastur í óvæntri umferðarteppu — þjóðvegurinn er algerlega lokaður."
+  },
+  {
+    "id": 155,
+    "category": "believable",
+    "text": "Lestarferðin mín var afpöntuð án fyrirvara."
+  },
+  {
+    "id": 156,
+    "category": "believable",
+    "text": "Skólinn hringdi — hiti, ég þarf að sækja það."
+  },
+  {
+    "id": 157,
+    "category": "believable",
+    "text": "Ég er með gegnumæðisbólgu og vil ekki smita aðra."
+  },
+  {
+    "id": 158,
+    "category": "believable",
+    "text": "Vatnslagnirnar sprungu yfir nótt og vatn er alls staðar."
+  },
+  {
+    "id": 159,
+    "category": "believable",
+    "text": "Það er gasslys og verktakinn er á leiðinni."
+  },
+  {
+    "id": 160,
+    "category": "believable",
+    "text": "Ég er í dómnefnd sem var staðfest í morgun."
+  },
+  {
+    "id": 161,
+    "category": "believable",
+    "text": "Ég er með mjög alvarlegan veikindi sem þarf hvíld."
+  },
+  {
+    "id": 162,
+    "category": "believable",
+    "text": "Húslæknirinn minn bókaði mig inn í morguninn og ég gat ekki afborið."
+  },
+  {
+    "id": 163,
+    "category": "believable",
+    "text": "Ég er með flogaveiki og hef verið í krampa í nótt."
+  },
+  {
+    "id": 164,
+    "category": "believable",
+    "text": "Líkamleg meiðsl frá í gær þarfnast eftirfylgni í dag."
+  },
+  {
+    "id": 165,
+    "category": "believable",
+    "text": "Ég er að fara í aðgerð sem ég þorði ekki að segja frá."
+  },
+  {
+    "id": 166,
+    "category": "believable",
+    "text": "Barnið mitt braut handlegginn sinn í leikskólanum í gær."
+  },
+  {
+    "id": 167,
+    "category": "believable",
+    "text": "Að þurfa að fara með ungabarnið í sérstakt rannsóknarferð."
+  },
+  {
+    "id": 168,
+    "category": "believable",
+    "text": "Ég þarf að vera heima vegna þjónustumanns sem á að koma."
+  },
+  {
+    "id": 169,
+    "category": "believable",
+    "text": "Húsráðandinn minn er að skoða vandann og þarf aðgang."
+  },
+  {
+    "id": 170,
+    "category": "believable",
+    "text": "Rafmagnsmaðurinn er á leiðinni og þetta er lýsandi neyðarviðgerð."
+  },
+  {
+    "id": 171,
+    "category": "believable",
+    "text": "Ég er að bíða eftir niðurstöðum rannsóknar frá sjúkrahúsinu."
+  },
+  {
+    "id": 172,
+    "category": "believable",
+    "text": "Alvarleg ofnæmisviðbrögð hafa haft áhrif á mig í nótt."
+  },
+  {
+    "id": 173,
+    "category": "believable",
+    "text": "Ég þarf að vera hjá nákomnum einstaklingi sem er í erfitt sálfræðilegt ferli."
+  },
+  {
+    "id": 174,
+    "category": "believable",
+    "text": "Barnið mitt var greinst með smitsjúkdóm og við þurfum að sótta í sóttkví."
+  },
+  {
+    "id": 175,
+    "category": "believable",
+    "text": "Sjúkrabifreiðin er komin með fjölskyldumeðlim minn og ég er enn á spítalanum."
+  },
+  {
+    "id": 176,
+    "category": "believable",
+    "text": "Ég þarf hjálp við að sjá um aldraðan foreldri sem féll í nótt."
+  },
+  {
+    "id": 177,
+    "category": "believable",
+    "text": "Leiguíbúðin mín var flutt úr án samþykkis og ég þarf að leysa lögfræðimál."
+  },
+  {
+    "id": 178,
+    "category": "believable",
+    "text": "Barnið mitt þarf sérstakt námsmat sem er einungis í boði í dag."
+  },
+  {
+    "id": 179,
+    "category": "believable",
+    "text": "Tönn mín brotnaði og er mjög sárt og þarf tannlæknismeðferð þegar í stað."
+  },
+  {
+    "id": 180,
+    "category": "believable",
+    "text": "Ég er með augnaverk og læknirinn gæti greint eitthvað alvarlegt."
+  },
+  {
+    "id": 181,
+    "category": "believable",
+    "text": "Ég þarf að fara í krabbameinsrannsókn sem ég hafði gleymt."
+  },
+  {
+    "id": 182,
+    "category": "believable",
+    "text": "Húsvísurinn minn þarf að undirrita eitthvað á þessum degi."
+  },
+  {
+    "id": 183,
+    "category": "believable",
+    "text": "Einn af vinnufélögunum mínum er alvarlega veikur og ég þarf að aðstoða fjölskyldu þeirra."
+  },
+  {
+    "id": 184,
+    "category": "believable",
+    "text": "Bíllinn minn var stolinn og ég þarf að tilkynna það lögreglu."
+  },
+  {
+    "id": 185,
+    "category": "believable",
+    "text": "Lástakinn minn bilaði og ég er læstur inni og bíð eftir yfirfara."
+  },
+  {
+    "id": 186,
+    "category": "believable",
+    "text": "Barnaskólinn minn er lokaður vegna óvæntra aðstæðna og börnin eru heima."
+  },
+  {
+    "id": 187,
+    "category": "believable",
+    "text": "Ég fékk rangar lyfjar frá lyfjabúðinni og þarf að fara aftur."
+  },
+  {
+    "id": 188,
+    "category": "believable",
+    "text": "Nákominn minn þarf aðstoð við meðferðarúrræðin sín."
+  },
+  {
+    "id": 189,
+    "category": "believable",
+    "text": "Húsráðandinn þarf aðgang í íbúðina til skoðunar vegna truflunar."
+  },
+  {
+    "id": 190,
+    "category": "believable",
+    "text": "Ég hef verið með hár hita í þrjá daga og er loksins að fara til læknis."
+  },
+  {
+    "id": 191,
+    "category": "believable",
+    "text": "Bílstjórnin mín skaðaðist í umferðarlyktum og ég þarf viðgerð."
+  },
+  {
+    "id": 192,
+    "category": "believable",
+    "text": "Ég sæki barnið mitt frá skóla vegna eineltis sem þarf að ræða þegar í stað."
+  },
+  {
+    "id": 193,
+    "category": "believable",
+    "text": "Ég er með skráðan sálfræðingsviðtal í dag sem ég get ekki frestað."
+  },
+  {
+    "id": 194,
+    "category": "believable",
+    "text": "Ömmu mínni liðnaði og ég þarf að vera hjá fjölskyldunni."
+  },
+  {
+    "id": 195,
+    "category": "believable",
+    "text": "Lyfin mín þarf endurnýjunar og lyfjafræðingurinn opnar ekki fyrr en í dag."
+  },
+  {
+    "id": 196,
+    "category": "believable",
+    "text": "Aðgerðin mín er frestað og nýr tími er þegar í dag."
+  },
+  {
+    "id": 197,
+    "category": "believable",
+    "text": "Ég er með krampaverk og þarf hvíld."
+  },
+  {
+    "id": 198,
+    "category": "believable",
+    "text": "Örlegar námsniðurstöður barnsins míns krefjast hlutdrægrar umfjöllunar."
+  },
+  {
+    "id": 199,
+    "category": "believable",
+    "text": "Ég þarf að skila gögnum til úrskurðarnefndar sem líður út í dag."
+  },
+  {
+    "id": 200,
+    "category": "believable",
+    "text": "Ég er veikur og læknisvottorð er nú þegar á leiðinni til ykkar."
+  },
+  {
+    "id": 201,
+    "category": "believable",
+    "text": "Sjúkrabíllinn var hringdur í fjölskylduna mína í nótt."
+  },
+  {
+    "id": 202,
+    "category": "believable",
+    "text": "Verkurinn í hné mitt er orðinn svo slæmur að ég get ekki gengið."
+  },
+  {
+    "id": 203,
+    "category": "believable",
+    "text": "Ég þarf að fara í segulómun vegna þess sem kom upp á skoðun í síðasta mánuði."
+  },
+  {
+    "id": 204,
+    "category": "believable",
+    "text": "Barnið mitt þarf sértæka undirfylgni vegna þroskalegs vandamáls."
+  },
+  {
+    "id": 205,
+    "category": "believable",
+    "text": "Heimilisaðili minn þarf að komast á slysadeild og ég þarf að keyra."
+  },
+  {
+    "id": 206,
+    "category": "believable",
+    "text": "Barnið er í hríðarveiki og þarf foreldra sína."
+  },
+  {
+    "id": 207,
+    "category": "believable",
+    "text": "Ég er í heimsókn á sjúkrahúsið vegna nágranna sem á engan annan."
+  },
+  {
+    "id": 208,
+    "category": "believable",
+    "text": "Ég þarf að mæta í neyðarfund hjá lögfræðingi um erfingjafsál."
+  },
+  {
+    "id": 209,
+    "category": "believable",
+    "text": "Krafan um að mæta á þingsetu barnaverndarnefndar kemur í dag."
+  },
+  {
+    "id": 210,
+    "category": "believable",
+    "text": "Húsakaupasamningurinn á að undirritast og kaupmaðurinn getur aðeins í dag."
+  },
+  {
+    "id": 211,
+    "category": "believable",
+    "text": "Ég er með lyfjaverkan sem hefur áhrif á hæfni mína til að aka."
+  },
+  {
+    "id": 212,
+    "category": "believable",
+    "text": "Tafarlaus þjónusta við eldhúsið vegna vatnsleka."
+  },
+  {
+    "id": 213,
+    "category": "believable",
+    "text": "Sjúkrahúsviðtal um ástand sem legar mér á hjarta."
+  },
+  {
+    "id": 214,
+    "category": "believable",
+    "text": "Bíllinn minn er á bjargarsveinn og ég bíð."
+  },
+  {
+    "id": 215,
+    "category": "believable",
+    "text": "Ég þarf heildareftirlit á bíl minn áður en ég get keyrt."
+  },
+  {
+    "id": 216,
+    "category": "believable",
+    "text": "Hálsbólgan mín er svo slæm að ég get varla gleymt."
+  },
+  {
+    "id": 217,
+    "category": "believable",
+    "text": "Ég þarf að sinna flóku lagalegu máli sem nær yfir daginn."
+  },
+  {
+    "id": 218,
+    "category": "believable",
+    "text": "Ég kom að bruna í nágrenninu og þarf að vera til staðar."
+  },
+  {
+    "id": 219,
+    "category": "believable",
+    "text": "Lágþrýstingur minn hefur verið vandamál og ég þarf hvíld."
+  },
+  {
+    "id": 220,
+    "category": "believable",
+    "text": "Þögnin og erfiðleikinn á eftir dauða nákominn krefjast heimvistar."
+  },
+  {
+    "id": 221,
+    "category": "believable",
+    "text": "Ég þarf að taka að mér börnin bróður míns vegna neyðarástands."
+  },
+  {
+    "id": 222,
+    "category": "believable",
+    "text": "Lög krefjast þess að ég mæti á dómþing þennan dag."
+  },
+  {
+    "id": 223,
+    "category": "believable",
+    "text": "Ég er með öndunarvandamál sem þarf sérstaka athugun."
+  },
+  {
+    "id": 224,
+    "category": "believable",
+    "text": "Klíník sem ég er skráður í er opin aðeins þennan dag."
+  },
+  {
+    "id": 225,
+    "category": "believable",
+    "text": "Ég þarf að mæta á skurðlæknismat vegna þegar greindra einkenna."
+  },
+  {
+    "id": 226,
+    "category": "believable",
+    "text": "Tannpínan mín er orðin svo alvarleg að ég þarf neyðartannlæknisþjónustu."
+  },
+  {
+    "id": 227,
+    "category": "believable",
+    "text": "Ég er fastsettur í ráðstöfunum fyrir foreldradag á skólanum."
+  },
+  {
+    "id": 228,
+    "category": "believable",
+    "text": "Ég þarf að sinna samþykktarferli fyrir húsnæðis- og þjónustuaðgang."
+  },
+  {
+    "id": 229,
+    "category": "believable",
+    "text": "Lögmenn mínir þurfa undirskrift mína á mikilvægum skjölum í dag."
+  },
+  {
+    "id": 230,
+    "category": "believable",
+    "text": "Ég þarf sérstöðu fyrir þunglyndi sem þarf að taka til meðferðar þegar í stað."
+  },
+  {
+    "id": 231,
+    "category": "believable",
+    "text": "Viðhaldsvandinn á húsinu krefst tafarlausrar athygli."
+  },
+  {
+    "id": 232,
+    "category": "believable",
+    "text": "Ég fann vatnsgalla af rásum í íbúðinni í morgun."
+  },
+  {
+    "id": 233,
+    "category": "believable",
+    "text": "Eldavélin mín kviknaði til og ég þarfnast aðstoðar."
+  },
+  {
+    "id": 234,
+    "category": "believable",
+    "text": "Ég þarf að sinna öldruðum foreldrum um lengri tíma þessa vikuna."
+  },
+  {
+    "id": 235,
+    "category": "believable",
+    "text": "Bjargráðasveitin er að koma eftir slys barnsins míns."
+  },
+  {
+    "id": 236,
+    "category": "believable",
+    "text": "Ég þarf að taka þátt í skólaráðsfundi sem er einungis í dag."
+  },
+  {
+    "id": 237,
+    "category": "believable",
+    "text": "Barnið mitt er útilokað frá skólanum vegna líkamlegu vandamálsins."
+  },
+  {
+    "id": 238,
+    "category": "believable",
+    "text": "Ég er með þyngd á hjartanu og þarf hvíld til bata."
+  },
+  {
+    "id": 239,
+    "category": "believable",
+    "text": "Ég þarf hvíld vegna flókins meðferðarferlis sem er enn í gangi."
+  },
+  {
+    "id": 240,
+    "category": "believable",
+    "text": "Ég þarf að taka þátt í neyðarfundi um fjárhagsmál hér heima."
+  },
+  {
+    "id": 241,
+    "category": "believable",
+    "text": "Sjúkrahúsið þarf nánara mat á ástand mínu í morgun."
+  },
+  {
+    "id": 242,
+    "category": "believable",
+    "text": "Lyfið mitt þarf endurskoðun af sérfræðingi og hann er aðeins tiltækur í dag."
+  },
+  {
+    "id": 243,
+    "category": "believable",
+    "text": "Skurðlækningaviðtalið mitt er fluttur á þennan dag."
+  },
+  {
+    "id": 244,
+    "category": "believable",
+    "text": "Ég þarf hvíld eftir neyðartannaðgerð sem fór fram í gær."
+  },
+  {
+    "id": 245,
+    "category": "believable",
+    "text": "Barnið mitt er með hitasótt og þarf mig heima."
+  },
+  {
+    "id": 246,
+    "category": "believable",
+    "text": "Ég þarf tafarlaust að sinna fjölskyldumáli sem kemur upp á."
+  },
+  {
+    "id": 247,
+    "category": "believable",
+    "text": "Lyfið mitt þarf sérniðurstöður sem lega eru tilbúnar í dag."
+  },
+  {
+    "id": 248,
+    "category": "believable",
+    "text": "Ég þarf sérstaka aðstoð við fatlað fjölskyldumeðlim."
+  },
+  {
+    "id": 249,
+    "category": "believable",
+    "text": "Fæðingardagur nákominn gerir það að verkum að ég þarf að vera heima."
+  },
+  {
+    "id": 250,
+    "category": "believable",
+    "text": "Ég þarf að vera á ljósmóðurviðtali með maka mínum."
+  },
+  {
+    "id": 251,
+    "category": "believable",
+    "text": "Sérstök fjárhagsneyð þarf að leysa strax."
+  },
+  {
+    "id": 252,
+    "category": "believable",
+    "text": "Ég þarf að fara í geðheilsumat í dag sem ég get ekki frestað."
+  },
+  {
+    "id": 253,
+    "category": "believable",
+    "text": "Ég þarf hvíld vegna augnlæknisaðgerðar sem fór fram í gær."
+  },
+  {
+    "id": 254,
+    "category": "believable",
+    "text": "Ég þarf að sjá um barn sem er með sóttkví."
+  },
+  {
+    "id": 255,
+    "category": "believable",
+    "text": "Ég þarf tafarlaust að taka þátt í skýrslugerð þar sem ég er vitni."
+  },
+  {
+    "id": 256,
+    "category": "believable",
+    "text": "Lögráðamaður barnsins míns þarf mig á fundi í dag."
+  },
+  {
+    "id": 257,
+    "category": "believable",
+    "text": "Ég þarf sérstaka hvíld vegna sykursýkismeðferðar sem þarfnast eftirlits."
+  },
+  {
+    "id": 258,
+    "category": "believable",
+    "text": "Barn mitt þarf bólusetningarsafn sem þarf að vera tilbúið áður en skóli byrjar."
+  },
+  {
+    "id": 259,
+    "category": "believable",
+    "text": "Ég þarf að sinna foreldraleyfi í tengslum við fæðingarorlofsúrræði."
+  },
+  {
+    "id": 260,
+    "category": "believable",
+    "text": "Ég þarf að mæta á sérstaka námsráðgjöf vegna skólavals barnsins míns."
+  },
+  {
+    "id": 261,
+    "category": "believable",
+    "text": "Hér heima þarf húsmeistara til að skoða raka í múr."
+  },
+  {
+    "id": 262,
+    "category": "believable",
+    "text": "Ég er veikur með tengdar kvilla sem krefjast hvíldar."
+  },
+  {
+    "id": 263,
+    "category": "believable",
+    "text": "Barnið mitt fékk einkunn sem þarf aðstoð lögfræðings við að vinna."
+  },
+  {
+    "id": 264,
+    "category": "believable",
+    "text": "Ég þarf að sitja við hlið foreldris míns á skurðlæknisviðtali."
+  },
+  {
+    "id": 265,
+    "category": "believable",
+    "text": "Ég fór í rangar lyfjablöndur og þarfnast eftirlits."
+  },
+  {
+    "id": 266,
+    "category": "believable",
+    "text": "Smiðurinn er á leiðinni til að laga hurðina sem gekk í sundur."
+  },
+  {
+    "id": 267,
+    "category": "believable",
+    "text": "Ég er með sterka verk í kvið og þarf að fara á bráðamóttöku."
+  },
+  {
+    "id": 268,
+    "category": "believable",
+    "text": "Ég þarf endurnýjun á sérlyfjum sem er aðeins í boði í dag."
+  },
+  {
+    "id": 269,
+    "category": "believable",
+    "text": "Ég þarf að mæta á skólaráðsfund vegna breytt skólanámsáætlunar."
+  },
+  {
+    "id": 270,
+    "category": "believable",
+    "text": "Barnlæknirinn minn þarf eftirlit á barnið mitt vegna þroskavandans."
+  },
+  {
+    "id": 271,
+    "category": "believable",
+    "text": "Skyndileg sóttkví heima þýðir að ég get ekki komið inn á vinnustaðinn."
+  },
+  {
+    "id": 272,
+    "category": "believable",
+    "text": "Ég þarf viðgerð á hjálparstigi þar sem það brotnaði þennan morgun."
+  },
+  {
+    "id": 273,
+    "category": "believable",
+    "text": "Ég þarf að vera á löggæslu vegna innbrot í bílgeymsluna mína."
+  },
+  {
+    "id": 274,
+    "category": "believable",
+    "text": "Ég þarf sjúklingaviðtal sem er skráð einungis í dag."
+  },
+  {
+    "id": 275,
+    "category": "believable",
+    "text": "Fjölskyldumeðlimurinn minn þarf hvata og stuðning í dag."
+  },
+  {
+    "id": 276,
+    "category": "believable",
+    "text": "Ég þarf hvíld vegna augnkrampans í nótt."
+  },
+  {
+    "id": 277,
+    "category": "believable",
+    "text": "Húshitakerfi sprakk og við erum án hitunar."
+  },
+  {
+    "id": 278,
+    "category": "believable",
+    "text": "Lögmaðurinn minn þarf undirskrift mína á mikilvægum skjölum í dag."
+  },
+  {
+    "id": 279,
+    "category": "believable",
+    "text": "Ég þarf sérstaka hvíld vegna meðhöndlunar þreytu."
+  },
+  {
+    "id": 280,
+    "category": "believable",
+    "text": "Þjónustan á gasstöðinni þarf að koma og laga lekann sem við uppgötvuðum."
+  },
+  {
+    "id": 281,
+    "category": "believable",
+    "text": "Ég er veikur af smitsjúkdóm og vill ekki smita samstarfsmenn."
+  },
+  {
+    "id": 282,
+    "category": "believable",
+    "text": "Stigi minn á heimili brotnaði og þarf endurnýjun."
+  },
+  {
+    "id": 283,
+    "category": "believable",
+    "text": "Ég þarf hvíld eftir lyfjameðferð sem hefur sterk aukaverkanir."
+  },
+  {
+    "id": 284,
+    "category": "believable",
+    "text": "Ég þarf sérstaka sálfræðihjálp í dag vegna bresti sem kom upp."
+  },
+  {
+    "id": 285,
+    "category": "believable",
+    "text": "Barnið mitt fékk veiki sem þarf sérstaka einangrun."
+  },
+  {
+    "id": 286,
+    "category": "believable",
+    "text": "Ég þarf hvíld vegna svimmings og óglæðu."
+  },
+  {
+    "id": 287,
+    "category": "believable",
+    "text": "Ég þarf sérstaka hvíld vegna meiðsla sem ég hlaut í liðnum mánuði."
+  },
+  {
+    "id": 288,
+    "category": "believable",
+    "text": "Ég þarf lykil til að opna nýjar lásur eftir að gamla leyðirinn brotnaði."
+  },
+  {
+    "id": 289,
+    "category": "believable",
+    "text": "Leyndarskjöl þarfnast tilkynningar til yfirvalda þennan dag."
+  },
+  {
+    "id": 290,
+    "category": "chaotic",
+    "text": "Ég vaknaði í öðrum bæ án þess að muna eftir að hafa farið þangað."
+  },
+  {
+    "id": 291,
+    "category": "chaotic",
+    "text": "Granninn minn er að flytja og hefur þurft á hjálp minni að halda síðan klukkan fimm í morgun."
+  },
+  {
+    "id": 292,
+    "category": "chaotic",
+    "text": "Björgunarlið er utan við húsið mitt og ég veit ekki af hverju."
+  },
+  {
+    "id": 293,
+    "category": "chaotic",
+    "text": "Ég er á leiðinni en klettur er á þjóðveginum."
+  },
+  {
+    "id": 294,
+    "category": "chaotic",
+    "text": "Refurinn minn er fastur í þakrennu nágrannans og ég þarf að bjarga honum."
+  },
+  {
+    "id": 295,
+    "category": "chaotic",
+    "text": "Lögreglan bað mig að vera heima meðan þeir rannsaka eitthvað."
+  },
+  {
+    "id": 296,
+    "category": "chaotic",
+    "text": "Hundurinn minn rann í burtu og er núna hjá lögreglunni á öðrum bæ."
+  },
+  {
+    "id": 297,
+    "category": "chaotic",
+    "text": "Ég finn ekki bílinn minn. Líklega parkertaði ég hann einhvers staðar í gær."
+  },
+  {
+    "id": 298,
+    "category": "chaotic",
+    "text": "Ég er að reyna að bjarga fugli sem skall á glugganum og er að svima."
+  },
+  {
+    "id": 299,
+    "category": "chaotic",
+    "text": "Matarbúðin var tekin í gíslingu rétt þegar ég var að kaupa morgunverð."
+  },
+  {
+    "id": 300,
+    "category": "chaotic",
+    "text": "Ég er í miðjum eldsneytisstrika og bensíninu er næstum þrotið."
+  },
+  {
+    "id": 301,
+    "category": "chaotic",
+    "text": "Tímafarar tækið mitt brotnaði og ég er ekki viss um hvaða dag það er."
+  },
+  {
+    "id": 302,
+    "category": "chaotic",
+    "text": "Ég er fastur á milli hæða í lyftu."
+  },
+  {
+    "id": 303,
+    "category": "chaotic",
+    "text": "Vegurinn frá húsinu mínu er þakinn af kindakjöti."
+  },
+  {
+    "id": 304,
+    "category": "chaotic",
+    "text": "Kisan mín fjær af stigi og þarf björgun."
+  },
+  {
+    "id": 305,
+    "category": "chaotic",
+    "text": "Ég fékk óvænta heimsókn frá fjarlægum ættingja sem kom úr öðru landi."
+  },
+  {
+    "id": 306,
+    "category": "chaotic",
+    "text": "Bær minn er fluttur og ég get ekki fundið húsið mitt."
+  },
+  {
+    "id": 307,
+    "category": "chaotic",
+    "text": "Handahóflæg frétt fékk mig til að hlaupa úr húsinu og ég er enn að reyna að ná aftur."
+  },
+  {
+    "id": 308,
+    "category": "chaotic",
+    "text": "Stórfelld umræða um nágrannakappaksturs flutti heildarlokun á götunni."
+  },
+  {
+    "id": 309,
+    "category": "chaotic",
+    "text": "Sjálfskeyrandi bíllinn minn fór í frítíma og er nú í öðru borgarhlutanum."
+  },
+  {
+    "id": 310,
+    "category": "chaotic",
+    "text": "Lest sem ég er í stöðvast í göngli og við erum þar enn."
+  },
+  {
+    "id": 311,
+    "category": "chaotic",
+    "text": "Hótelherbergið mitt var tvíbókað og ég er enn á skrifstofunni að reyna að leysa þetta."
+  },
+  {
+    "id": 312,
+    "category": "chaotic",
+    "text": "Flugið mitt var flutt og ég er nú á röngum flugvelli."
+  },
+  {
+    "id": 313,
+    "category": "chaotic",
+    "text": "Þjálfari hundinn minn hefur þjálfað hann til að rífa upp skipulagsáætlanir."
+  },
+  {
+    "id": 314,
+    "category": "chaotic",
+    "text": "Ég var tekinn sem gíslingur á leikfimi og er nýlega sleppt."
+  },
+  {
+    "id": 315,
+    "category": "chaotic",
+    "text": "Leikur á bakaríinu tók mig að óvörum og ég tapaði biðröðinni."
+  },
+  {
+    "id": 316,
+    "category": "chaotic",
+    "text": "Öryggisgæslan á vinnustaðnum vildi ekki láta mig inn án auðkenniskortsins."
+  },
+  {
+    "id": 317,
+    "category": "chaotic",
+    "text": "Ég missti veskið á leiðinni og þarf að afturkalla allar kreditkort."
+  },
+  {
+    "id": 318,
+    "category": "chaotic",
+    "text": "Mannfjöldinn utan við kaffihúsið minn er svo stór að ég komst ekki út."
+  },
+  {
+    "id": 319,
+    "category": "chaotic",
+    "text": "Öryggissett mín á heimili gaf út ranga viðvörun og lögreglan er hér."
+  },
+  {
+    "id": 320,
+    "category": "chaotic",
+    "text": "Ég er á leiðinni en ég er fastur í snúningstré."
+  },
+  {
+    "id": 321,
+    "category": "chaotic",
+    "text": "Snjóflóð lokar götunni minni og ég get ekki komist á vinnuna."
+  },
+  {
+    "id": 322,
+    "category": "chaotic",
+    "text": "Streymi af vatnsdýrum rann yfir bílinn minn á meðan hann stóð."
+  },
+  {
+    "id": 323,
+    "category": "chaotic",
+    "text": "Lestartaka með nágrannann fór úrskeiðis og landi við gjá."
+  },
+  {
+    "id": 324,
+    "category": "chaotic",
+    "text": "Gamaður maðurinn á horninu bauð mér í stór verkefni og ég þorðist ekki að neita."
+  },
+  {
+    "id": 325,
+    "category": "chaotic",
+    "text": "Ég er í miðju af snjóhengju á fjallbraut."
+  },
+  {
+    "id": 326,
+    "category": "chaotic",
+    "text": "Borgarmestari báðst um aðstoð mína við sérstakt verkefni."
+  },
+  {
+    "id": 327,
+    "category": "chaotic",
+    "text": "Bærinn tók útivinnudag og ég þurfti að taka þátt."
+  },
+  {
+    "id": 328,
+    "category": "chaotic",
+    "text": "Útvarpsstöðin fékk mig til að taka þátt í þátttaka í beinni útsendingu."
+  },
+  {
+    "id": 329,
+    "category": "chaotic",
+    "text": "Fornleifagröftur fannst í garðinum mínum og þeir þurfa á mér að halda."
+  },
+  {
+    "id": 330,
+    "category": "chaotic",
+    "text": "Ég er á bjargfarartæki á Hraunfossum."
+  },
+  {
+    "id": 331,
+    "category": "chaotic",
+    "text": "Góssafarar bráðnuðu þrír vegna þess að ég gleymdi þeim í bílnum."
+  },
+  {
+    "id": 332,
+    "category": "chaotic",
+    "text": "Hundar á götu lokaðu yfirferð."
+  },
+  {
+    "id": 333,
+    "category": "chaotic",
+    "text": "Skólaborðið fellur í þakrennu."
+  },
+  {
+    "id": 334,
+    "category": "chaotic",
+    "text": "Mikið af frönskum steiktum kartöflum á þjóðveginum skapar hætta."
+  },
+  {
+    "id": 335,
+    "category": "chaotic",
+    "text": "Öll lestarstöðin er með einangrað fólk vegna meiriháttar leka."
+  },
+  {
+    "id": 336,
+    "category": "chaotic",
+    "text": "Frá morgunmál til kvöldmál: leita af hlaupabíl sem var stolinn í góðgildi."
+  },
+  {
+    "id": 337,
+    "category": "chaotic",
+    "text": "Grannarnir héldu upp á nýttárskvöld á röngum degi."
+  },
+  {
+    "id": 338,
+    "category": "chaotic",
+    "text": "Lágflugur voru yfir bílnum mínum og voru hindrandi."
+  },
+  {
+    "id": 339,
+    "category": "chaotic",
+    "text": "Ég er fastur í stórum rústum við gömlum sandskóla."
+  },
+  {
+    "id": 340,
+    "category": "chaotic",
+    "text": "Ég tók á leiðina og fór alla leið til Akureyrar í stað Reykjavíkur."
+  },
+  {
+    "id": 341,
+    "category": "chaotic",
+    "text": "Stór flugskaðaviðvörun á loftbrautinni kom þvert á ferðalag mitt."
+  },
+  {
+    "id": 342,
+    "category": "chaotic",
+    "text": "Gaslys í þjóðvegi krefst lokunar alls svæðisins."
+  },
+  {
+    "id": 343,
+    "category": "chaotic",
+    "text": "Ég missti herbergislyklana mína og er enn að leita."
+  },
+  {
+    "id": 344,
+    "category": "chaotic",
+    "text": "Sjóferð mín tafðist vegna reykinga á öldrandi skipi."
+  },
+  {
+    "id": 345,
+    "category": "chaotic",
+    "text": "Heimsminni jarðskjálfta var skráð þennan morgun og ég er vitni."
+  },
+  {
+    "id": 346,
+    "category": "chaotic",
+    "text": "Öll gata lokuð vegna leka á meginlögn."
+  },
+  {
+    "id": 347,
+    "category": "chaotic",
+    "text": "Ég sat yfir jafngildisráðstefna sem tók heilan dag."
+  },
+  {
+    "id": 348,
+    "category": "chaotic",
+    "text": "Ég er fastur í sérverkefni fyrir sveitarfélagið sem þeir þegjast yfir."
+  },
+  {
+    "id": 349,
+    "category": "chaotic",
+    "text": "Stór eldur í nágrenninu kerfst af björgunarlið og ég kem ekki fram."
+  },
+  {
+    "id": 350,
+    "category": "chaotic",
+    "text": "Ég er fastur í vegagerð sem tafðist vegna slyssins sem gerðist í gær."
+  },
+  {
+    "id": 351,
+    "category": "chaotic",
+    "text": "Mannfjöldi í kringum götu minn leyft ekki yfirferð."
+  },
+  {
+    "id": 352,
+    "category": "chaotic",
+    "text": "Þjóðlegar hátíð er á þessari götu í dag og umferð er lokuð."
+  },
+  {
+    "id": 353,
+    "category": "chaotic",
+    "text": "Ég er boðinn á sérstaka heimsókn á opinberri stofnun."
+  },
+  {
+    "id": 354,
+    "category": "chaotic",
+    "text": "Húslágt er á þessum stað og þarf viðgerð þegar í stað."
+  },
+  {
+    "id": 355,
+    "category": "chaotic",
+    "text": "Stór kreppuverkefni hjá nágrannanum þarfnast aðstoðar."
+  },
+  {
+    "id": 356,
+    "category": "chaotic",
+    "text": "Ég er á leið en gangbrúin er lokuð vegna umsamskomsins."
+  },
+  {
+    "id": 357,
+    "category": "chaotic",
+    "text": "Ég er fastsettur í uppeldishætti sem krefjast heilveru dagsins."
+  },
+  {
+    "id": 358,
+    "category": "chaotic",
+    "text": "Slysið á þjóðveginum þarf vitni og ég var á vettvangi."
+  },
+  {
+    "id": 359,
+    "category": "chaotic",
+    "text": "Ég er meðal björgunarlags sem þarf aðstoð við erfiðar aðstæður."
+  },
+  {
+    "id": 360,
+    "category": "chaotic",
+    "text": "Geimskipið lenti á svæðinu mínu og þeir þurfa á mér að halda."
+  },
+  {
+    "id": 361,
+    "category": "chaotic",
+    "text": "Ég var valinn sem dómsmaður í stóru keppni og get ekki neitað."
+  },
+  {
+    "id": 362,
+    "category": "chaotic",
+    "text": "Ráðgjafarþjónustan mín við nágranna tók heilan dag."
+  },
+  {
+    "id": 363,
+    "category": "chaotic",
+    "text": "Ég þarf að vera við hlið nákomins í sérstöku persónulegu ferli."
+  },
+  {
+    "id": 364,
+    "category": "chaotic",
+    "text": "Lögmaðurinn minn krefst þess að ég mæti á fund þennan dag."
+  },
+  {
+    "id": 365,
+    "category": "chaotic",
+    "text": "Framkvæmdastjóri félagsins þarfnast sérstakrar aðstoðar minnar."
+  },
+  {
+    "id": 366,
+    "category": "chaotic",
+    "text": "Ég er fastur á milli ferja."
+  },
+  {
+    "id": 367,
+    "category": "chaotic",
+    "text": "Öll leiðakerfi eru vistað utan starfssvæðisins."
+  },
+  {
+    "id": 368,
+    "category": "chaotic",
+    "text": "Bíóið mitt var að keyra og kom í biðröð á heimleið."
+  },
+  {
+    "id": 369,
+    "category": "chaotic",
+    "text": "Ég er boðinn í sérfundar sem ég þori ekki að hafna."
+  },
+  {
+    "id": 370,
+    "category": "chaotic",
+    "text": "Nákvæmni í uppgjöri þarfnast þátttöku minnar."
+  },
+  {
+    "id": 371,
+    "category": "chaotic",
+    "text": "Barnið mitt var tekið í rangar skóla og þarf uppgjör."
+  },
+  {
+    "id": 372,
+    "category": "chaotic",
+    "text": "Grannarnir mínir halda ótrúlega stóra veislu og hún brotnar út á gangstéttina."
+  },
+  {
+    "id": 373,
+    "category": "chaotic",
+    "text": "Ég er á biðröð á þjónustu sem mun aðeins taka 5 mínútur þegar ég komst að."
+  },
+  {
+    "id": 374,
+    "category": "chaotic",
+    "text": "Ég þarf að taka þátt í nákvæmum skrásettum umræðum."
+  },
+  {
+    "id": 375,
+    "category": "chaotic",
+    "text": "Þversagnakennd vandinn við fjarskiptanet þarfnast aðstoðar minnar."
+  },
+  {
+    "id": 376,
+    "category": "chaotic",
+    "text": "Ég er fastsettur á fundi sem var kallaður saman í síðustu mínútu."
+  },
+  {
+    "id": 377,
+    "category": "chaotic",
+    "text": "Flottahundar hlupu yfir bílinn minn á leið til vinnu."
+  },
+  {
+    "id": 378,
+    "category": "chaotic",
+    "text": "Ég er enn á heimleið frá miðnætti vegna skemmtiferðar sem fór úr böndunum."
+  },
+  {
+    "id": 379,
+    "category": "chaotic",
+    "text": "Strætóstjórnandinn var mér þekktur og við fórum á aukaferðalag."
+  },
+  {
+    "id": 380,
+    "category": "chaotic",
+    "text": "Ég reyndi að gera gott og það dróst út í heilan dag."
+  },
+  {
+    "id": 381,
+    "category": "chaotic",
+    "text": "Þjóðleg keppni hófst á götu minni þegar ég var á leið."
+  },
+  {
+    "id": 382,
+    "category": "chaotic",
+    "text": "Ég fór á rangar síður á netinu og þarf tæknilegar leiðbeiningar."
+  },
+  {
+    "id": 383,
+    "category": "chaotic",
+    "text": "Rúsínu-uppákomur tóku allan morguninn."
+  },
+  {
+    "id": 384,
+    "category": "chaotic",
+    "text": "Ég þarf að ljúka neyðarverkefni sem er ekki unnt að fresta."
+  },
+  {
+    "id": 385,
+    "category": "chaotic",
+    "text": "Ég er víðs fjarri vegna þess að hringurinn minn vildi mig sjá."
+  },
+  {
+    "id": 386,
+    "category": "chaotic",
+    "text": "Ég þarfnaðist sérstaks útbúnaðar sem var aðeins tiltækur fjarri."
+  },
+  {
+    "id": 387,
+    "category": "chaotic",
+    "text": "Mikilvægt verkefni heimsótti mig á vinnustaðinn og tók heilan dag."
+  },
+  {
+    "id": 388,
+    "category": "chaotic",
+    "text": "Ég er að þóknast sérstöku innskoti í þjóðfélagsstarfi."
+  },
+  {
+    "id": 389,
+    "category": "chaotic",
+    "text": "Bíóstjórinn minn þarfnaðist ráðgjafar og við ræddum á langri hringferð."
+  },
+  {
+    "id": 390,
+    "category": "chaotic",
+    "text": "Ég er á sérleið til að skoða náttúrufyrirbæri."
+  },
+  {
+    "id": 391,
+    "category": "chaotic",
+    "text": "Ég þarf að vera til staðar á sérstöku tilviki í nágrenninu."
+  },
+  {
+    "id": 392,
+    "category": "chaotic",
+    "text": "Ég er staddur í svæðislokun vegna öryggismála."
+  },
+  {
+    "id": 393,
+    "category": "chaotic",
+    "text": "Ég var beðinn um sérfræðilegar upplýsingar við sérfræðingsfund."
+  },
+  {
+    "id": 394,
+    "category": "chaotic",
+    "text": "Ég er fastur í bílalest sem nær yfir allt svæðið."
+  },
+  {
+    "id": 395,
+    "category": "chaotic",
+    "text": "Keppni þjóðlags fékk mig til að sjúkdegur."
+  },
+  {
+    "id": 396,
+    "category": "chaotic",
+    "text": "Ég þarf að leysa flókin kerfisvandamál sem komu upp í nótt."
+  },
+  {
+    "id": 397,
+    "category": "chaotic",
+    "text": "Sérstök athugun á nágrennið krefst viðveru minnar."
+  },
+  {
+    "id": 398,
+    "category": "chaotic",
+    "text": "Ég er á rangarleið á grund hjól hraðaks."
+  },
+  {
+    "id": 399,
+    "category": "chaotic",
+    "text": "Heimilissalan mín krefst meiri skoðunar en gert var ráð fyrir."
+  },
+  {
+    "id": 400,
+    "category": "chaotic",
+    "text": "Ég er á leið í sérstakt nákvæmniviðtal."
+  },
+  {
+    "id": 401,
+    "category": "chaotic",
+    "text": "Þjóðlegur viðburður á opnum svæðum þarfnast þátttöku minnar."
+  },
+  {
+    "id": 402,
+    "category": "chaotic",
+    "text": "Ég er að skoða eitt sem á sér samhljóðlega þátttöku."
+  },
+  {
+    "id": 403,
+    "category": "chaotic",
+    "text": "Útvarpsnálgunin mín þarfnast sérstakrar þátttöku."
+  },
+  {
+    "id": 404,
+    "category": "chaotic",
+    "text": "Ég er á rangarleið við flæðibraut."
+  },
+  {
+    "id": 405,
+    "category": "chaotic",
+    "text": "Ný íbúðar þarfnast sérskoðunar í dag."
+  },
+  {
+    "id": 406,
+    "category": "chaotic",
+    "text": "Ég er á leiðarenda með sérstaka verkefni."
+  },
+  {
+    "id": 407,
+    "category": "chaotic",
+    "text": "Ég er aðdragandi að sérstakri þjóðlegri atburð."
+  },
+  {
+    "id": 408,
+    "category": "chaotic",
+    "text": "Nýtt skipulag þarfnast sérstakrar þátttöku minnar."
+  },
+  {
+    "id": 409,
+    "category": "chaotic",
+    "text": "Ég er á sérstöku verkefni sem þarfnast heilveru dagsins."
+  },
+  {
+    "id": 410,
+    "category": "chaotic",
+    "text": "Frí heimsókn frá sérstakra einstaklings þarfnast heilveru."
+  },
+  {
+    "id": 411,
+    "category": "chaotic",
+    "text": "Ég þarf að mæta á flókin kynningarfund."
+  },
+  {
+    "id": 412,
+    "category": "chaotic",
+    "text": "Ég er á leið í sérstaka hringrásarannsókn."
+  },
+  {
+    "id": 413,
+    "category": "chaotic",
+    "text": "Ég þarf sérstaka hvíld vegna meiðsla."
+  },
+  {
+    "id": 414,
+    "category": "chaotic",
+    "text": "Ég er á söfnuðum til sérstakra rannsókna."
+  },
+  {
+    "id": 415,
+    "category": "chaotic",
+    "text": "Sérstök þjálfunarlota þarfnast heilveru minnar."
+  },
+  {
+    "id": 416,
+    "category": "chaotic",
+    "text": "Ég er á sérstaka þátttöku á þessum degi."
+  },
+  {
+    "id": 417,
+    "category": "chaotic",
+    "text": "Nýtt félagsverkefni þarfnast sérstakrar þátttöku minnar."
+  },
+  {
+    "id": 418,
+    "category": "chaotic",
+    "text": "Ég er á leið til sérstaks ráðstefnu."
+  },
+  {
+    "id": 419,
+    "category": "chaotic",
+    "text": "Sérstök mæting þarfnast minnar viðveru."
+  },
+  {
+    "id": 420,
+    "category": "chaotic",
+    "text": "Ég er á sérstaka öldrungarannsókn."
+  },
+  {
+    "id": 421,
+    "category": "chaotic",
+    "text": "Nýtt samstarf þarfnast sérstakrar þátttöku í dag."
+  },
+  {
+    "id": 422,
+    "category": "dark",
+    "text": "Ég fann mig ekki fær um að mæta í dag. Þarf smá tíma."
+  },
+  {
+    "id": 423,
+    "category": "dark",
+    "text": "Ég er að glíma við persónuleg mál sem þarf að leysa áður en ég get einbeitt mér að vinnu."
+  },
+  {
+    "id": 424,
+    "category": "dark",
+    "text": "Andleg heilsa mín þarf á hvíld að halda í dag."
+  },
+  {
+    "id": 425,
+    "category": "dark",
+    "text": "Ég er mjög þreyttur og þarf á endurnýjun að halda."
+  },
+  {
+    "id": 426,
+    "category": "dark",
+    "text": "Ég er að takast á við eitthvað erfitt og þarf daginn til þess."
+  },
+  {
+    "id": 427,
+    "category": "dark",
+    "text": "Mér líður ekki vel í dag og þarf á hvíld að halda."
+  },
+  {
+    "id": 428,
+    "category": "dark",
+    "text": "Ég þarf sálfræðilegan rúm til að takast á við eitthvað sem gerðist."
+  },
+  {
+    "id": 429,
+    "category": "dark",
+    "text": "Ég er að fara í gegnum erfiðan tíma og þarf á stuðningi að halda."
+  },
+  {
+    "id": 430,
+    "category": "dark",
+    "text": "Líkamleg og andleg þreyta hefur safnast upp og ég þarf hvíld."
+  },
+  {
+    "id": 431,
+    "category": "dark",
+    "text": "Ég er að reyna að ráða við söknuð eftir nákominn."
+  },
+  {
+    "id": 432,
+    "category": "dark",
+    "text": "Ég þarf daginn til að vinna úr erfiðum tilfinningum."
+  },
+  {
+    "id": 433,
+    "category": "dark",
+    "text": "Ég er ekki í ástandi til að vinna í dag og þarf að hlúa að mér sjálfum."
+  },
+  {
+    "id": 434,
+    "category": "dark",
+    "text": "Ég er að kljást við kvíða sem þarfnast athugunar."
+  },
+  {
+    "id": 435,
+    "category": "dark",
+    "text": "Þetta er erfiður dagur fyrir mig og ég þarf að vera heima."
+  },
+  {
+    "id": 436,
+    "category": "dark",
+    "text": "Ég er að reyna að komast í gegnum persónulega erfiðleika."
+  },
+  {
+    "id": 437,
+    "category": "dark",
+    "text": "Ég hef verið með svefntruflanir og er mjög þreyttur."
+  },
+  {
+    "id": 438,
+    "category": "dark",
+    "text": "Ég þarf einveru og stillingu til að vinna úr eitthvað."
+  },
+  {
+    "id": 439,
+    "category": "dark",
+    "text": "Ég er að fá stuðning við eitthvað persónulegt og get ekki mætt."
+  },
+  {
+    "id": 440,
+    "category": "dark",
+    "text": "Ég þarf daginn til að skipuleggja líf mitt á nýjan leik."
+  },
+  {
+    "id": 441,
+    "category": "dark",
+    "text": "Ég er að glíma við sorg eftir tap."
+  },
+  {
+    "id": 442,
+    "category": "dark",
+    "text": "Ég er að læra að lifa með nýja raunveruleika."
+  },
+  {
+    "id": 443,
+    "category": "dark",
+    "text": "Ég þarf sálfræðilega hvíld frá streitu dagsins."
+  },
+  {
+    "id": 444,
+    "category": "dark",
+    "text": "Ég er að kljást við átök og þarf rúm til að hugsa."
+  },
+  {
+    "id": 445,
+    "category": "dark",
+    "text": "Ég þarf á stuðnings að halda á þessum tíma."
+  },
+  {
+    "id": 446,
+    "category": "dark",
+    "text": "Andlegar áskoranir krefjast þess að ég sé heima."
+  },
+  {
+    "id": 447,
+    "category": "dark",
+    "text": "Ég er ekki fær um að einbeita mér í dag vegna persónulegra mála."
+  },
+  {
+    "id": 448,
+    "category": "dark",
+    "text": "Ég þarf hvíld vegna tilfinningalegrar þreytu."
+  },
+  {
+    "id": 449,
+    "category": "dark",
+    "text": "Ég er að takast á við eitthvað sem er meira en vinna getur leyst."
+  },
+  {
+    "id": 450,
+    "category": "dark",
+    "text": "Ég er í meðferð sem krefst hvíldar í dag."
+  },
+  {
+    "id": 451,
+    "category": "dark",
+    "text": "Ég þarf tíma til að endurreisa jafnvægi mitt."
+  },
+  {
+    "id": 452,
+    "category": "dark",
+    "text": "Ég er að glíma við eitthvað sem þarf persónulega athygli."
+  },
+  {
+    "id": 453,
+    "category": "dark",
+    "text": "Ég þarf hvíld til að koma í veg fyrir versnun á heilsumálum."
+  },
+  {
+    "id": 454,
+    "category": "dark",
+    "text": "Ég er þreyttur á þreytuna og þarf daginn."
+  },
+  {
+    "id": 455,
+    "category": "dark",
+    "text": "Ég er búinn að gefa svo mikið og þarf á gæslu að halda."
+  },
+  {
+    "id": 456,
+    "category": "dark",
+    "text": "Ég er að vinna úr eitthvað sem gerðist nýlega og er hlustandi á líkama minn."
+  },
+  {
+    "id": 457,
+    "category": "dark",
+    "text": "Ég þarf tíma til að gera upp við sjálfan mig."
+  },
+  {
+    "id": 458,
+    "category": "dark",
+    "text": "Ég er að glíma við kvíða og þunglyndi og þarf á hlúð að halda."
+  },
+  {
+    "id": 459,
+    "category": "dark",
+    "text": "Ég er í sálfræðilegri meðferð og þarf dag til þess."
+  },
+  {
+    "id": 460,
+    "category": "dark",
+    "text": "Ég þarf á hvíld að halda vegna þreytu sem er tilfinningaleg."
+  },
+  {
+    "id": 461,
+    "category": "dark",
+    "text": "Ég er að vinna úr trauma og þarf rúm til þess."
+  },
+  {
+    "id": 462,
+    "category": "dark",
+    "text": "Ég er að takast á við einsemd og þarf tíma til að gera eitthvað við það."
+  },
+  {
+    "id": 463,
+    "category": "dark",
+    "text": "Ég þarf á stuðnings við geðheilsu að halda í dag."
+  },
+  {
+    "id": 464,
+    "category": "dark",
+    "text": "Ég er þreyttur af að þykjast og þarf daginn til að vera mér sjálfum."
+  },
+  {
+    "id": 465,
+    "category": "dark",
+    "text": "Ég er að vinna úr erfiðum áhrifum af nýlegum atburðum."
+  },
+  {
+    "id": 466,
+    "category": "dark",
+    "text": "Ég þarf tíma til að endurkoma í jafnvægi."
+  },
+  {
+    "id": 467,
+    "category": "dark",
+    "text": "Ég er að glíma við streitu sem hefur safnast upp í langa tíma."
+  },
+  {
+    "id": 468,
+    "category": "dark",
+    "text": "Ég þarf daginn til að nota meðferðarúrræði."
+  },
+  {
+    "id": 469,
+    "category": "dark",
+    "text": "Ég er að reyna að finna leið til að vinna úr eitthvað erfitt."
+  },
+  {
+    "id": 470,
+    "category": "dark",
+    "text": "Ég þarf rúm til að hugsa og hvíla."
+  },
+  {
+    "id": 471,
+    "category": "dark",
+    "text": "Ég er að takast á við erfiðar aðstæður sem krefjast þess að ég sé heima."
+  },
+  {
+    "id": 472,
+    "category": "dark",
+    "text": "Ég þarf á léttri hvíld að halda eftir langan tíma."
+  },
+  {
+    "id": 473,
+    "category": "dark",
+    "text": "Ég er að glíma við sorg sem þarf á tíma að halda."
+  },
+  {
+    "id": 474,
+    "category": "dark",
+    "text": "Ég þarf stillingu til að vinna úr eitthvað sem er erfitt."
+  },
+  {
+    "id": 475,
+    "category": "dark",
+    "text": "Ég er að kljást við geðheilsuáskoranir sem þarf á huga að halda."
+  },
+  {
+    "id": 476,
+    "category": "dark",
+    "text": "Ég þarf á hvíld frá þreytu allrar vinnu að halda."
+  },
+  {
+    "id": 477,
+    "category": "dark",
+    "text": "Ég er mjög þreyttur og þarf á hvíld að halda."
+  },
+  {
+    "id": 478,
+    "category": "dark",
+    "text": "Ég er að glíma við eitthvað persónulegt sem þarf á tíma að halda."
+  },
+  {
+    "id": 479,
+    "category": "dark",
+    "text": "Ég þarf á meðferð að halda vegna þessa sem er að gerast."
+  },
+  {
+    "id": 480,
+    "category": "dark",
+    "text": "Ég er að vinna úr erfiðum tilfinningum sem þarf tíma til."
+  },
+  {
+    "id": 481,
+    "category": "dark",
+    "text": "Ég þarf tíma til að hlúa að mér og vera heima."
+  },
+  {
+    "id": 482,
+    "category": "dark",
+    "text": "Ég er að takast á við erfiðan tíma og þarf rúm til þess."
+  },
+  {
+    "id": 483,
+    "category": "dark",
+    "text": "Ég þarf á stuðnings af nánum að halda í dag."
+  },
+  {
+    "id": 484,
+    "category": "dark",
+    "text": "Ég er að kljást við innri átök sem þarf á hlustun að halda."
+  },
+  {
+    "id": 485,
+    "category": "dark",
+    "text": "Ég þarf dag til þess að endurlíta allt og ná jafnvægi."
+  },
+  {
+    "id": 486,
+    "category": "dark",
+    "text": "Ég er mjög þreyttur af löngu ferli og þarf hvíld."
+  },
+  {
+    "id": 487,
+    "category": "dark",
+    "text": "Ég þarf tíma til að vinna úr erfiðum áhrifum."
+  },
+  {
+    "id": 488,
+    "category": "dark",
+    "text": "Ég er að fara í gegnum miklar breytingar og þarf hvíld."
+  },
+  {
+    "id": 489,
+    "category": "dark",
+    "text": "Ég þarf á dag til þess að vera með sjálfan mig."
+  },
+  {
+    "id": 490,
+    "category": "dark",
+    "text": "Ég er búinn að gleyma mér sjálfum og þarf dag til að endurfinna mig."
+  },
+  {
+    "id": 491,
+    "category": "dark",
+    "text": "Ég þarf á hlutlægri hvíld að halda vegna streitu."
+  },
+  {
+    "id": 492,
+    "category": "dark",
+    "text": "Ég er að glíma við tilfinningalegar áskoranir sem þarf á umhyggju að halda."
+  },
+  {
+    "id": 493,
+    "category": "dark",
+    "text": "Ég þarf hvíld vegna þreytu sem hefur safnast upp."
+  },
+  {
+    "id": 494,
+    "category": "dark",
+    "text": "Ég er að fara í gegnum erfitt og þarf tíma til að gera uppgjör."
+  },
+  {
+    "id": 495,
+    "category": "dark",
+    "text": "Ég þarf dag til að einbeita mér að geðheilsu minni."
+  },
+  {
+    "id": 496,
+    "category": "dark",
+    "text": "Ég er að þola eitthvað sem þarf á hvíld að halda."
+  },
+  {
+    "id": 497,
+    "category": "dark",
+    "text": "Ég þarf tíma til að fara í gegnum eitthvað persónulegt."
+  },
+  {
+    "id": 498,
+    "category": "dark",
+    "text": "Ég er þreyttur af hlutverki mínu og þarf hvíld."
+  },
+  {
+    "id": 499,
+    "category": "dark",
+    "text": "Ég þarf dag til að hvíla mig vegna streitu."
+  },
+  {
+    "id": 500,
+    "category": "dark",
+    "text": "Ég er að glíma við kvíða og þarf á hvíld að halda."
+  },
+  {
+    "id": 501,
+    "category": "dark",
+    "text": "Ég þarf tíma til að finna hvar ég er staddur."
+  },
+  {
+    "id": 502,
+    "category": "dark",
+    "text": "Ég er að vinna úr erfiðum lífsatburðum."
+  },
+  {
+    "id": 503,
+    "category": "dark",
+    "text": "Ég þarf á hlustun og hlutfallslegri hvíld að halda."
+  },
+  {
+    "id": 504,
+    "category": "dark",
+    "text": "Ég er að takast á við persónuleg vandamál sem þarf á tíma að halda."
+  },
+  {
+    "id": 505,
+    "category": "dark",
+    "text": "Ég þarf dag til að endurkoma mér sjálfum."
+  },
+  {
+    "id": 506,
+    "category": "dark",
+    "text": "Ég er þreyttur og þarf á hvíld að halda vegna þessa sem er í gangi."
+  },
+  {
+    "id": 507,
+    "category": "dark",
+    "text": "Ég er að glíma við erfið lífsþraut og þarf á tíma að halda."
+  },
+  {
+    "id": 508,
+    "category": "dark",
+    "text": "Ég þarf hvíld til að verða betri."
+  },
+  {
+    "id": 509,
+    "category": "dark",
+    "text": "Ég er að fá hjálp við andlegar áskoranir og þarf dag til þess."
+  },
+  {
+    "id": 510,
+    "category": "dark",
+    "text": "Ég þarf tíma til að fara í gegnum eitthvað erfitt."
+  },
+  {
+    "id": 511,
+    "category": "dark",
+    "text": "Ég er að kljást við eitthvað sem þarf á meðferð að halda."
+  },
+  {
+    "id": 512,
+    "category": "dark",
+    "text": "Ég þarf dag til að staldra við og hvíla."
+  },
+  {
+    "id": 513,
+    "category": "dark",
+    "text": "Ég er á leið í sérstaka meðferð fyrir kvíða."
+  },
+  {
+    "id": 514,
+    "category": "dark",
+    "text": "Ég þarf á hlustun og hvíld að halda í dag."
+  },
+  {
+    "id": 515,
+    "category": "dark",
+    "text": "Ég er að glíma við eitthvað sem þarfnast einbeitingar og hvíldar."
+  },
+  {
+    "id": 516,
+    "category": "dark",
+    "text": "Ég þarf dag til þess að fara yfir þetta sem er að gerast."
+  },
+  {
+    "id": 517,
+    "category": "dark",
+    "text": "Ég er þreyttur og óskaplegur og þarf hvíld."
+  },
+  {
+    "id": 518,
+    "category": "dark",
+    "text": "Ég er að fara í gegnum erfiðleika sem þarf á tíma að halda."
+  },
+  {
+    "id": 519,
+    "category": "dark",
+    "text": "Ég þarf að vera heima til að hlúa að sál minni."
+  },
+  {
+    "id": 520,
+    "category": "dark",
+    "text": "Ég er að takast á við eitthvað persónulegt sem þarf á hvíld að halda."
+  },
+  {
+    "id": 521,
+    "category": "dark",
+    "text": "Ég þarf dag til þess að finna friðinn."
+  },
+  {
+    "id": 522,
+    "category": "dark",
+    "text": "Ég er að kljást við erfiðar aðstæður og þarf rúm til að gera eitthvað við það."
+  },
+  {
+    "id": 523,
+    "category": "dark",
+    "text": "Ég þarf hvíld vegna þreytu af streitu."
+  },
+  {
+    "id": 524,
+    "category": "dark",
+    "text": "Ég er að vinna úr eitthvað sem gerðist og þarf á tíma að halda."
+  },
+  {
+    "id": 525,
+    "category": "dark",
+    "text": "Ég þarf dag til þess að endurgera hug minn og sál."
+  },
+  {
+    "id": 526,
+    "category": "dark",
+    "text": "Ég er þreyttur af líf sem er of fast og þarf hvíld."
+  },
+  {
+    "id": 527,
+    "category": "dark",
+    "text": "Ég er að glíma við eitthvað sem þarf á hvíld og stillingunni að halda."
+  },
+  {
+    "id": 528,
+    "category": "dark",
+    "text": "Ég þarf dag til þess að endurkoma sem maður."
+  },
+  {
+    "id": 529,
+    "category": "dark",
+    "text": "Ég er að fara í gegnum erfiðan samhengistíma og þarf á tíma að halda."
+  },
+  {
+    "id": 530,
+    "category": "dark",
+    "text": "Ég er þreyttur og þarf daginn til að vera mér sjálfum."
+  },
+  {
+    "id": 531,
+    "category": "dark",
+    "text": "Ég þarf á hvíld og ró að halda í dag."
+  },
+  {
+    "id": 532,
+    "category": "dark",
+    "text": "Ég er að vinna úr eitthvað erfitt og þarf rúm til þess."
+  },
+  {
+    "id": 533,
+    "category": "dark",
+    "text": "Ég þarf dag til þess að vera heima og hlúa að mér."
+  },
+  {
+    "id": 534,
+    "category": "dark",
+    "text": "Ég er að takast á við eitthvað sem þarf á hvíld og hlustun að halda."
+  },
+  {
+    "id": 535,
+    "category": "dark",
+    "text": "Ég þarf tíma til að endurhlaða mig og fá kraft."
+  },
+  {
+    "id": 536,
+    "category": "dark",
+    "text": "Ég er þreyttur og þarf dag til þess að vera mér sjálfum."
+  },
+  {
+    "id": 537,
+    "category": "dark",
+    "text": "Ég er að glíma við eitthvað persónulegt og þarf á hvíld að halda."
+  },
+  {
+    "id": 538,
+    "category": "dark",
+    "text": "Ég þarf dag til þess að fara í gegnum erfiðar tilfinningar."
+  },
+  {
+    "id": 539,
+    "category": "dark",
+    "text": "Ég er að kljást við lífsástæður sem krefst þess að ég sé heima."
+  },
+  {
+    "id": 540,
+    "category": "dark",
+    "text": "Ég þarf hvíld vegna álags sem hefur safnast upp."
+  },
+  {
+    "id": 541,
+    "category": "dark",
+    "text": "Ég er að takast á við eitthvað sem þarf á einveru og hvíld að halda."
+  },
+  {
+    "id": 542,
+    "category": "dark",
+    "text": "Ég þarf dag til þess að fara í gegnum þetta."
+  },
+  {
+    "id": 543,
+    "category": "dark",
+    "text": "Ég er þreyttur af daglegum skyldum og þarf hvíld."
+  },
+  {
+    "id": 544,
+    "category": "dark",
+    "text": "Ég er að glíma við eitthvað sem krefjast þess að ég sé heima."
+  },
+  {
+    "id": 545,
+    "category": "dark",
+    "text": "Ég þarf dag til þess að hlusta á líkama minn og sál."
+  },
+  {
+    "id": 546,
+    "category": "dark",
+    "text": "Ég er að fara í gegnum eitthvað sem þarf á tíma og hlutlægni að halda."
+  },
+  {
+    "id": 547,
+    "category": "dark",
+    "text": "Ég þarf hvíld til þess að vera betri maður á morgun."
+  },
+  {
+    "id": 548,
+    "category": "dark",
+    "text": "Ég er þreyttur og þarf á hvíld og friðsömu að halda."
+  },
+  {
+    "id": 549,
+    "category": "dark",
+    "text": "Ég er að vinna úr erfiðum hlutum og þarf rúm til þess."
+  },
+  {
+    "id": 550,
+    "category": "dark",
+    "text": "Ég þarf dag til þess að standa upp og vera í friðsemi."
+  },
+  {
+    "id": 551,
+    "category": "dark",
+    "text": "Ég er að kljást við eitthvað sem þarf á tíma og hvíld að halda."
+  },
+  {
+    "id": 552,
+    "category": "dark",
+    "text": "Ég þarf dag til þess að endurkoma mér sem heildarmanneskju."
+  },
+  {
+    "id": 553,
+    "category": "dark",
+    "text": "Ég er að fara í gegnum eitthvað erfitt og þarf á tíma að halda."
+  },
+  {
+    "id": 554,
+    "category": "dark",
+    "text": "Ég þarf hvíld til þess að koma mér aftur í gott ástand."
+  },
+  {
+    "id": 555,
+    "category": "dark",
+    "text": "Ég er þreyttur og þarf daginn til þess að vera heima og hvíla."
+  },
+  {
+    "id": 556,
+    "category": "dark",
+    "text": "Ég er að glíma við eitthvað sem þarf á hvíld og einveru að halda."
+  },
+  {
+    "id": 557,
+    "category": "dark",
+    "text": "Ég þarf dag til þess að fara yfir þetta allt og hvíla."
+  },
+  {
+    "id": 558,
+    "category": "dark",
+    "text": "Ég er að takast á við erfiðar aðstæður og þarf rúm til þess."
+  },
+  {
+    "id": 559,
+    "category": "dark",
+    "text": "Ég þarf hvíld vegna andlegrar þreytu."
+  },
+  {
+    "id": 560,
+    "category": "dark",
+    "text": "Ég er þreyttur og þarf dag til þess að vera mér sjálfum."
+  },
+  {
+    "id": 561,
+    "category": "office",
+    "text": "Ég gleymdi aðgangsorðinu mínu og get ekki skráð mig inn á neitt."
+  },
+  {
+    "id": 562,
+    "category": "office",
+    "text": "Prentarinn minn er enn niðri og ég þarf að prenta skjöl."
+  },
+  {
+    "id": 563,
+    "category": "office",
+    "text": "Samstarfsmaðurinn minn er veikur og ég verð að taka yfir verkefni hans að heiman."
+  },
+  {
+    "id": 564,
+    "category": "office",
+    "text": "Hljóðsinnið okkar er biluð og ég get ekki mætt á fundi."
+  },
+  {
+    "id": 565,
+    "category": "office",
+    "text": "Nettengingin mín er orðin svo lítil að ég get ekki unnið."
+  },
+  {
+    "id": 566,
+    "category": "office",
+    "text": "Ég þarf að klára skýrslu áður en ég get mætt á fundinn."
+  },
+  {
+    "id": 567,
+    "category": "office",
+    "text": "Sýnatökubeiðnin mín þarf afgreiðslu áður en ég get farið."
+  },
+  {
+    "id": 568,
+    "category": "office",
+    "text": "Ég gleymdi mikilvægu skjali heima."
+  },
+  {
+    "id": 569,
+    "category": "office",
+    "text": "Fundurinn minn var fluttur og ég þarf að endurskipuleggja daginn."
+  },
+  {
+    "id": 570,
+    "category": "office",
+    "text": "Ég þarf tíma til að undirbúa mig fyrir kynningu sem er á morgun."
+  },
+  {
+    "id": 571,
+    "category": "office",
+    "text": "Ég get ekki mætt fyrr en hljóðkerfi á heimilisskrifstofu er lagað."
+  },
+  {
+    "id": 572,
+    "category": "office",
+    "text": "Ég er í langvarandi símtali með mikilvægan viðskiptavin."
+  },
+  {
+    "id": 573,
+    "category": "office",
+    "text": "Stöðvunin sem kemur krefst þess að ég vinn heima."
+  },
+  {
+    "id": 574,
+    "category": "office",
+    "text": "Ég þarf að ná í pöntun sem berst einungis í dag."
+  },
+  {
+    "id": 575,
+    "category": "office",
+    "text": "Samantekt mín á gögnum er ekki lokið og mun taka lengri tíma."
+  },
+  {
+    "id": 576,
+    "category": "office",
+    "text": "Kerfisvandamál í fyrirtækinu krefst þess að ég vinn heima."
+  },
+  {
+    "id": 577,
+    "category": "office",
+    "text": "Ég er að bíða eftir samstillingu á mikilvægum skrám."
+  },
+  {
+    "id": 578,
+    "category": "office",
+    "text": "Tæknilegar breytingar á kerfinu krefst þess að ég vinn heima í dag."
+  },
+  {
+    "id": 579,
+    "category": "office",
+    "text": "Ég þarf að ljúka við endurskoðun skjala áður en ég get mætt."
+  },
+  {
+    "id": 580,
+    "category": "office",
+    "text": "Fundurinn minn í morgun var afpantaður og ég þarf að endurskipuleggja."
+  },
+  {
+    "id": 581,
+    "category": "office",
+    "text": "Ég þarf að vinna frá heima vegna kerfisuppfærslu."
+  },
+  {
+    "id": 582,
+    "category": "office",
+    "text": "Reglubundnar úttektir þarfnast þess að ég sé heima í dag."
+  },
+  {
+    "id": 583,
+    "category": "office",
+    "text": "Ég þarf tíma til að setja upp nýja hugbúnaðinn sem var sendur mér."
+  },
+  {
+    "id": 584,
+    "category": "office",
+    "text": "Skráningarskjölin þarfnast sérstakrar úrvinnslu heima."
+  },
+  {
+    "id": 585,
+    "category": "office",
+    "text": "Ég þarf að ganga frá mikilvægum samningum áður en ég fer."
+  },
+  {
+    "id": 586,
+    "category": "office",
+    "text": "Lykilgögnin eru á heimastöðina og ég þarf að ganga frá þeim."
+  },
+  {
+    "id": 587,
+    "category": "office",
+    "text": "Kerfisvandamál þarf tafarlausar lagfæringar."
+  },
+  {
+    "id": 588,
+    "category": "office",
+    "text": "Ég er á sérstöku fjarfundi sem krefst heilveru dagsins."
+  },
+  {
+    "id": 589,
+    "category": "office",
+    "text": "Ég þarf tíma til að fara í gegnum flókin gögn."
+  },
+  {
+    "id": 590,
+    "category": "office",
+    "text": "Samstarfsmaðurinn minn þarf aðstoð við verkefni sem aðeins ég get aðstoðað við."
+  },
+  {
+    "id": 591,
+    "category": "office",
+    "text": "Ég þarf að vinna á sérstaka skýrslu sem krefst einbeitingar."
+  },
+  {
+    "id": 592,
+    "category": "office",
+    "text": "Ég er að bíða eftir mikilvægu samþykki áður en ég get haldið áfram."
+  },
+  {
+    "id": 593,
+    "category": "office",
+    "text": "Kerfisvandamál þarf tafarlausar lagfæringar á heimilisskrifstofu."
+  },
+  {
+    "id": 594,
+    "category": "office",
+    "text": "Ég þarf tíma til að undirbúa gögn fyrir fundinn á morgun."
+  },
+  {
+    "id": 595,
+    "category": "office",
+    "text": "Ég er á sérstaka fjarfundi um mikilvægar breytingar."
+  },
+  {
+    "id": 596,
+    "category": "office",
+    "text": "Ég þarf tíma til að setja upp nýtt tæki sem barst í dag."
+  },
+  {
+    "id": 597,
+    "category": "office",
+    "text": "Skjöl sem þarf að undirrita eru einungis tiltæk heima."
+  },
+  {
+    "id": 598,
+    "category": "office",
+    "text": "Ég þarf tíma til að fara í gegnum flókar kröfur."
+  },
+  {
+    "id": 599,
+    "category": "office",
+    "text": "Kerfisvandamál þarfnast sérstakrar úrvinnslu."
+  },
+  {
+    "id": 600,
+    "category": "office",
+    "text": "Ég þarf að vera á fjarfundi sem var kallaður saman í síðustu mínútu."
+  },
+  {
+    "id": 601,
+    "category": "office",
+    "text": "Ég þarf tíma til að klára gögn sem eru nauðsynleg."
+  },
+  {
+    "id": 602,
+    "category": "office",
+    "text": "Skýrslan mín þarf sérstaka endurskoðun áður en hún er send."
+  },
+  {
+    "id": 603,
+    "category": "office",
+    "text": "Kerfisvandamál krefst þess að ég vinn heima í dag."
+  },
+  {
+    "id": 604,
+    "category": "office",
+    "text": "Ég þarf að bíða eftir samstillingu á skrám sem þarf að klára."
+  },
+  {
+    "id": 605,
+    "category": "office",
+    "text": "Ég er á sérstakri þjálfunarlotu sem krefst heilveru."
+  },
+  {
+    "id": 606,
+    "category": "office",
+    "text": "Ég þarf tíma til að fara yfir stefnu í tengslum við verkefnið."
+  },
+  {
+    "id": 607,
+    "category": "office",
+    "text": "Kerfisvandamál er stórt og þarf aðstoð sérfræðings."
+  },
+  {
+    "id": 608,
+    "category": "office",
+    "text": "Ég þarf tíma til að ljúka við áætlun sem var umbeðin."
+  },
+  {
+    "id": 609,
+    "category": "office",
+    "text": "Þýðingarverkefni þarfnast sérstakrar einbeitingar."
+  },
+  {
+    "id": 610,
+    "category": "office",
+    "text": "Ég þarf tíma til að setja upp nýtt þjónustusamkomulag."
+  },
+  {
+    "id": 611,
+    "category": "office",
+    "text": "Kerfisvandamál þarfnast tafarlausrar þjónustu."
+  },
+  {
+    "id": 612,
+    "category": "office",
+    "text": "Ég þarf tíma til að vinna úr gögn sem barst um nóttina."
+  },
+  {
+    "id": 613,
+    "category": "office",
+    "text": "Sérstök þjálfun þarfnast heilveru dagsins."
+  },
+  {
+    "id": 614,
+    "category": "office",
+    "text": "Ég þarf tíma til að endurskoða reglur sem breyttust nýlega."
+  },
+  {
+    "id": 615,
+    "category": "office",
+    "text": "Kerfisvandamál þarfnast sérstakrar þjónustu."
+  },
+  {
+    "id": 616,
+    "category": "office",
+    "text": "Ég þarf tíma til að ganga frá kröfum sem eru á gjalddaga í dag."
+  },
+  {
+    "id": 617,
+    "category": "office",
+    "text": "Ég er á sérstöku þjálfunarferli sem krefst heilveru."
+  },
+  {
+    "id": 618,
+    "category": "office",
+    "text": "Ég þarf tíma til að fara í gegnum nýja skipulagsbreytingu."
+  },
+  {
+    "id": 619,
+    "category": "office",
+    "text": "Kerfisvandamál þarfnast umhirðu og vandvirkni."
+  },
+  {
+    "id": 620,
+    "category": "office",
+    "text": "Ég þarf tíma til að ganga frá sérstökum málefnum."
+  },
+  {
+    "id": 621,
+    "category": "office",
+    "text": "Fjarfundur þarfnast sérstakrar þátttöku minnar."
+  },
+  {
+    "id": 622,
+    "category": "office",
+    "text": "Ég þarf tíma til að ljúka við sérstaka greiningu."
+  },
+  {
+    "id": 623,
+    "category": "office",
+    "text": "Kerfisvandamál þarfnast þess að ég sé heima."
+  },
+  {
+    "id": 624,
+    "category": "office",
+    "text": "Ég þarf tíma til að ganga frá gögnum sem þarf í dag."
+  },
+  {
+    "id": 625,
+    "category": "office",
+    "text": "Sérstak athugun þarfnast heilveru minnar."
+  },
+  {
+    "id": 626,
+    "category": "office",
+    "text": "Ég þarf tíma til að fara í gegnum flókin mál."
+  },
+  {
+    "id": 627,
+    "category": "office",
+    "text": "Kerfisvandamál krefst þess að ég hafi aðgang að heimanetinu."
+  },
+  {
+    "id": 628,
+    "category": "office",
+    "text": "Ég þarf tíma til að klára mikilvægt verkefni."
+  },
+  {
+    "id": 629,
+    "category": "office",
+    "text": "Sérstök rannsókn þarfnast einbeitingarinnar."
+  },
+  {
+    "id": 630,
+    "category": "office",
+    "text": "Ég þarf tíma til að ganga frá kröfum sem er á gjalddaga."
+  },
+  {
+    "id": 631,
+    "category": "office",
+    "text": "Kerfisvandamál þarfnast sérstakrar þjónustu."
+  },
+  {
+    "id": 632,
+    "category": "office",
+    "text": "Ég þarf tíma til að ljúka við sérstaka skýrslu."
+  },
+  {
+    "id": 633,
+    "category": "office",
+    "text": "Fjarfundur þarfnast þátttöku minnar."
+  },
+  {
+    "id": 634,
+    "category": "office",
+    "text": "Ég þarf tíma til að vinna úr gögn sem barst."
+  },
+  {
+    "id": 635,
+    "category": "office",
+    "text": "Kerfisvandamál þarfnast sérstakrar vandvirkni."
+  },
+  {
+    "id": 636,
+    "category": "office",
+    "text": "Ég þarf tíma til að ganga frá sérstökum kröfum."
+  },
+  {
+    "id": 637,
+    "category": "office",
+    "text": "Sérstakt þjálfunarferli þarfnast heilveru dagsins."
+  },
+  {
+    "id": 638,
+    "category": "office",
+    "text": "Ég þarf tíma til að fara í gegnum nýja stefnu."
+  },
+  {
+    "id": 639,
+    "category": "office",
+    "text": "Kerfisvandamál þarfnast sérstakrar þjónustu og tíma."
+  },
+  {
+    "id": 640,
+    "category": "office",
+    "text": "Ég þarf tíma til að ganga frá flóknum gögnum."
+  },
+  {
+    "id": 641,
+    "category": "office",
+    "text": "Sérstakur fjarfundur þarfnast þátttöku minnar."
+  },
+  {
+    "id": 642,
+    "category": "office",
+    "text": "Ég þarf tíma til að klára sérstaka greiningu."
+  },
+  {
+    "id": 643,
+    "category": "office",
+    "text": "Kerfisvandamál þarfnast þess að ég sé heima."
+  },
+  {
+    "id": 644,
+    "category": "office",
+    "text": "Ég þarf tíma til að ganga frá mikilvægum skrám."
+  },
+  {
+    "id": 645,
+    "category": "office",
+    "text": "Sérstök þjálfun þarfnast heilveru dagsins."
+  },
+  {
+    "id": 646,
+    "category": "office",
+    "text": "Ég þarf tíma til að fara yfir breyttar kröfur."
+  },
+  {
+    "id": 647,
+    "category": "office",
+    "text": "Kerfisvandamál krefst sérstakrar þjónustu."
+  },
+  {
+    "id": 648,
+    "category": "office",
+    "text": "Ég þarf tíma til að ljúka við sérstaka úttekt."
+  },
+  {
+    "id": 649,
+    "category": "office",
+    "text": "Fjarfundur þarfnast sérstakrar þátttöku."
+  },
+  {
+    "id": 650,
+    "category": "office",
+    "text": "Ég þarf tíma til að vinna úr flóknum gögnum."
+  },
+  {
+    "id": 651,
+    "category": "office",
+    "text": "Kerfisvandamál þarfnast sérstakrar þjónustu."
+  },
+  {
+    "id": 652,
+    "category": "office",
+    "text": "Ég þarf tíma til að ganga frá sérstakri skýrslu."
+  },
+  {
+    "id": 653,
+    "category": "office",
+    "text": "Sérstök rannsókn þarfnast heilveru dagsins."
+  },
+  {
+    "id": 654,
+    "category": "office",
+    "text": "Ég þarf tíma til að fara í gegnum flókar kröfur."
+  },
+  {
+    "id": 655,
+    "category": "office",
+    "text": "Kerfisvandamál þarfnast sérstakrar umhirðu."
+  },
+  {
+    "id": 656,
+    "category": "office",
+    "text": "Ég þarf tíma til að ljúka við sérstökt verkefni."
+  },
+  {
+    "id": 657,
+    "category": "office",
+    "text": "Fjarfundur þarfnast þátttöku minnar í dag."
+  },
+  {
+    "id": 658,
+    "category": "office",
+    "text": "Ég þarf tíma til að ganga frá sérstaka málefnum."
+  },
+  {
+    "id": 659,
+    "category": "office",
+    "text": "Kerfisvandamál krefst þess að ég vinn frá heima."
+  },
+  {
+    "id": 660,
+    "category": "office",
+    "text": "Ég þarf tíma til að fara yfir nýjar kröfur."
+  },
+  {
+    "id": 661,
+    "category": "office",
+    "text": "Sérstök þjálfunarlota þarfnast heilveru dagsins."
+  },
+  {
+    "id": 662,
+    "category": "office",
+    "text": "Ég þarf tíma til að ganga frá sérstaka gögnum."
+  },
+  {
+    "id": 663,
+    "category": "office",
+    "text": "Kerfisvandamál þarfnast tafarlausrar þjónustu."
+  },
+  {
+    "id": 664,
+    "category": "office",
+    "text": "Ég þarf tíma til að klára sérstökt verkefni."
+  },
+  {
+    "id": 665,
+    "category": "office",
+    "text": "Fjarfundur þarfnast sérstakrar þátttöku minnar."
+  },
+  {
+    "id": 666,
+    "category": "office",
+    "text": "Ég þarf tíma til að vinna úr sérstaka gögnum."
+  },
+  {
+    "id": 667,
+    "category": "office",
+    "text": "Kerfisvandamál þarfnast sérstakrar þjónustu."
+  },
+  {
+    "id": 668,
+    "category": "office",
+    "text": "Ég þarf tíma til að ganga frá flóknum kröfum."
+  },
+  {
+    "id": 669,
+    "category": "office",
+    "text": "Sérstök rannsókn þarfnast heilveru minnar."
+  },
+  {
+    "id": 670,
+    "category": "office",
+    "text": "Ég þarf tíma til að fara í gegnum breytt skipulag."
+  },
+  {
+    "id": 671,
+    "category": "office",
+    "text": "Kerfisvandamál krefst þess að ég vinn heima."
+  },
+  {
+    "id": 672,
+    "category": "office",
+    "text": "Ég þarf tíma til að ljúka við sérstaka úttekt."
+  },
+  {
+    "id": 673,
+    "category": "office",
+    "text": "Fjarfundur þarfnast þátttöku minnar."
+  },
+  {
+    "id": 674,
+    "category": "office",
+    "text": "Ég þarf tíma til að ganga frá sérstaka skjölum."
+  },
+  {
+    "id": 675,
+    "category": "office",
+    "text": "Kerfisvandamál þarfnast sérstakrar þjónustu."
+  },
+  {
+    "id": 676,
+    "category": "office",
+    "text": "Ég þarf tíma til að vinna úr flóknum gögnum."
+  },
+  {
+    "id": 677,
+    "category": "office",
+    "text": "Sérstök þjálfun þarfnast heilveru minnar."
+  },
+  {
+    "id": 678,
+    "category": "office",
+    "text": "Ég þarf tíma til að fara yfir nýja stefnu."
+  },
+  {
+    "id": 679,
+    "category": "office",
+    "text": "Kerfisvandamál þarfnast sérstakrar vandvirkni."
+  },
+  {
+    "id": 680,
+    "category": "office",
+    "text": "Ég þarf tíma til að ganga frá sérstökum kröfum."
+  },
+  {
+    "id": 681,
+    "category": "office",
+    "text": "Sérstakur fjarfundur þarfnast þátttöku minnar."
+  },
+  {
+    "id": 682,
+    "category": "office",
+    "text": "Ég þarf tíma til að klára sérstaka greiningu."
+  },
+  {
+    "id": 683,
+    "category": "office",
+    "text": "Kerfisvandamál þarfnast sérstakrar þjónustu."
+  },
+  {
+    "id": 684,
+    "category": "office",
+    "text": "Ég þarf tíma til að ganga frá flóknum málefnum."
+  },
+  {
+    "id": 685,
+    "category": "office",
+    "text": "Fjarfundur þarfnast sérstakrar þátttöku."
+  },
+  {
+    "id": 686,
+    "category": "office",
+    "text": "Ég þarf tíma til að vinna úr sérstaka gögnum."
+  },
+  {
+    "id": 687,
+    "category": "office",
+    "text": "Kerfisvandamál þarfnast þess að ég sé heima."
+  },
+  {
+    "id": 688,
+    "category": "office",
+    "text": "Ég þarf tíma til að fara í gegnum sérstaka kröfur."
+  },
+  {
+    "id": 689,
+    "category": "office",
+    "text": "Sérstök rannsókn þarfnast heilveru dagsins."
+  },
+  {
+    "id": 690,
+    "category": "office",
+    "text": "Ég þarf tíma til að ljúka við sérstökt mál."
+  },
+  {
+    "id": 691,
+    "category": "office",
+    "text": "Kerfisvandamál krefst sérstakrar þjónustu."
+  },
+  {
+    "id": 692,
+    "category": "office",
+    "text": "Ég þarf tíma til að ganga frá breytta gögnum."
+  },
+  {
+    "id": 693,
+    "category": "tech",
+    "text": "Tölvan mín uppfærði sig og eyðilagði allt sem ég var að vinna að."
+  },
+  {
+    "id": 694,
+    "category": "tech",
+    "text": "Nettengingin mín brotnaði og ISP kemur ekki fyrr en seint í dag."
+  },
+  {
+    "id": 695,
+    "category": "tech",
+    "text": "Sýndarfundarþjónustan min er biluð og ég get ekki mætt á fundi."
+  },
+  {
+    "id": 696,
+    "category": "tech",
+    "text": "Ég þarf að endurstilla alla kerfislykla vegna öryggisbrests."
+  },
+  {
+    "id": 697,
+    "category": "tech",
+    "text": "Leynilykillinn minn á vinnustöðinni brotnaði."
+  },
+  {
+    "id": 698,
+    "category": "tech",
+    "text": "VPN þjónustan brotnaði og ég get ekki komist inn á vinnukerfin."
+  },
+  {
+    "id": 699,
+    "category": "tech",
+    "text": "Gagnasafnið sem ég vinn með gaf upp öll gögnin af gömlum uppfærslu vandamálum."
+  },
+  {
+    "id": 700,
+    "category": "tech",
+    "text": "Tölvan mín er í tímalínu og mun líklega taka heilan dag að laga."
+  },
+  {
+    "id": 701,
+    "category": "tech",
+    "text": "Hugbúnaðurinn sem ég nota er bilaður vegna óvæntrar uppfærslu."
+  },
+  {
+    "id": 702,
+    "category": "tech",
+    "text": "Myndavélarkamerur á þjónustufundi eru bilaðar og við getum ekki haldið fund."
+  },
+  {
+    "id": 703,
+    "category": "tech",
+    "text": "Netþjónninn sem ég er tengdur við bilaði og er niðri."
+  },
+  {
+    "id": 704,
+    "category": "tech",
+    "text": "Ég þarf að uppfæra vinnuumhverfi vegna öryggisbrests."
+  },
+  {
+    "id": 705,
+    "category": "tech",
+    "text": "Gagnageymslan mín er full og ég get ekki unnið."
+  },
+  {
+    "id": 706,
+    "category": "tech",
+    "text": "Kerfislykillinn minn er útrunninn og ég þarf nýjan."
+  },
+  {
+    "id": 707,
+    "category": "tech",
+    "text": "Forritið sem ég vinn með er niðri vegna kerfisuppfærslu."
+  },
+  {
+    "id": 708,
+    "category": "tech",
+    "text": "Nettengingin mín er svo hæg að ég get ekki unnið."
+  },
+  {
+    "id": 709,
+    "category": "tech",
+    "text": "Skjárinn minn brotnaði og ég þarf nýjan."
+  },
+  {
+    "id": 710,
+    "category": "tech",
+    "text": "Tölvan mín er hítuppáöl og kveiknar ekki."
+  },
+  {
+    "id": 711,
+    "category": "tech",
+    "text": "Hugbúnaðaruppfærslan brotnaði alla gagnasöfnin mín."
+  },
+  {
+    "id": 712,
+    "category": "tech",
+    "text": "Ég þarf að uppfæra öryggislykla vegna reglna."
+  },
+  {
+    "id": 713,
+    "category": "tech",
+    "text": "Vinnustraumur minn er bilaður vegna nýrrar útgáfu."
+  },
+  {
+    "id": 714,
+    "category": "tech",
+    "text": "Ég þarf að setja upp nýja vinnutól sem berst í dag."
+  },
+  {
+    "id": 715,
+    "category": "tech",
+    "text": "Netþjónninn minn er ekki að svara og ég þarf aðgang."
+  },
+  {
+    "id": 716,
+    "category": "tech",
+    "text": "Gagnageymslan er í viðhaldi og ég get ekki sótt gögn."
+  },
+  {
+    "id": 717,
+    "category": "tech",
+    "text": "Forritakerfið mitt brotnaði vegna rangrar uppfærslu."
+  },
+  {
+    "id": 718,
+    "category": "tech",
+    "text": "Ég þarf sérstakan aðgang að kerfinu sem er ekki tiltækur."
+  },
+  {
+    "id": 719,
+    "category": "tech",
+    "text": "Nettenging er svo lítil að myndafundur er ómögulegt."
+  },
+  {
+    "id": 720,
+    "category": "tech",
+    "text": "Tölvan mín þarf sérstakan viðhald sem er aðeins í boði í dag."
+  },
+  {
+    "id": 721,
+    "category": "tech",
+    "text": "Kerfið mitt bilaði vegna uppfærslu og þarf endurstillingu."
+  },
+  {
+    "id": 722,
+    "category": "tech",
+    "text": "Ég þarf sérstaka aðstoð við kerfisuppfærsluna."
+  },
+  {
+    "id": 723,
+    "category": "tech",
+    "text": "Nettengingin mín er biluð og þarf viðgerð."
+  },
+  {
+    "id": 724,
+    "category": "tech",
+    "text": "Skjárinn minn fór í draumasvefn og kemur ekki aftur."
+  },
+  {
+    "id": 725,
+    "category": "tech",
+    "text": "Tölvan mín er öll í uppfærslu sem tekur svo langan tíma."
+  },
+  {
+    "id": 726,
+    "category": "tech",
+    "text": "Lykilorðstjórninn minn brotnaði og ég man ekki lykilorðin."
+  },
+  {
+    "id": 727,
+    "category": "tech",
+    "text": "Kerfið mitt er ekki samhæft við nýja hugbúnaðinn."
+  },
+  {
+    "id": 728,
+    "category": "tech",
+    "text": "Ég þarf tíma til að laga stilla umhverfi vinnutólanna."
+  },
+  {
+    "id": 729,
+    "category": "tech",
+    "text": "Netþjónninn minn er niðri vegna kerfisuppfærslu."
+  },
+  {
+    "id": 730,
+    "category": "tech",
+    "text": "Gagnasöfnið mitt þarf sérstaka endurstillingu."
+  },
+  {
+    "id": 731,
+    "category": "tech",
+    "text": "Forritið mitt krefst sérstakrar stillingarinnar til að virka."
+  },
+  {
+    "id": 732,
+    "category": "tech",
+    "text": "Ég þarf sérstaka tíma til að setja upp nýtt vinnuumhverfi."
+  },
+  {
+    "id": 733,
+    "category": "tech",
+    "text": "Kerfið brotnaði og við þurfum tafarlausar lagfæringar."
+  },
+  {
+    "id": 734,
+    "category": "tech",
+    "text": "Ég þarf sérstaka aðstoð við kerfis-stillingu."
+  },
+  {
+    "id": 735,
+    "category": "tech",
+    "text": "Nettengingin mín krefst sérstakrar uppfærslu."
+  },
+  {
+    "id": 736,
+    "category": "tech",
+    "text": "Tölvan mín er í viðhaldi sem tekur heilan dag."
+  },
+  {
+    "id": 737,
+    "category": "tech",
+    "text": "Hugbúnaðaruppfærslan tók niður alla kerfisuppsetningu."
+  },
+  {
+    "id": 738,
+    "category": "tech",
+    "text": "Ég þarf sérstakan aðgang sem er ekki tiltækur nú."
+  },
+  {
+    "id": 739,
+    "category": "tech",
+    "text": "Gagnageymslan mín þarf sérstaka umhirðu."
+  },
+  {
+    "id": 740,
+    "category": "tech",
+    "text": "Kerfið mitt bilaði og þarf sérstaka endurstillingu."
+  },
+  {
+    "id": 741,
+    "category": "tech",
+    "text": "Ég þarf tíma til að vinna úr kerfisuppfærslu."
+  },
+  {
+    "id": 742,
+    "category": "tech",
+    "text": "Netþjónninn þarf sérstaka viðgerð."
+  },
+  {
+    "id": 743,
+    "category": "tech",
+    "text": "Tölvan mín þarf sérstaka viðhald."
+  },
+  {
+    "id": 744,
+    "category": "tech",
+    "text": "Forritið mitt þarf sérstaka stillingu."
+  },
+  {
+    "id": 745,
+    "category": "tech",
+    "text": "Ég þarf sérstakan tíma til að setja upp vinnuumhverfið."
+  },
+  {
+    "id": 746,
+    "category": "tech",
+    "text": "Kerfið krefst sérstakrar endurstillingar."
+  },
+  {
+    "id": 747,
+    "category": "tech",
+    "text": "Nettengingin krefst sérstakrar þjónustu."
+  },
+  {
+    "id": 748,
+    "category": "tech",
+    "text": "Tölvan mín er í sérstöku viðhaldi."
+  },
+  {
+    "id": 749,
+    "category": "tech",
+    "text": "Hugbúnaðurinn krefst sérstakrar uppfærslu."
+  },
+  {
+    "id": 750,
+    "category": "tech",
+    "text": "Ég þarf sérstakan aðgang að kerfinu."
+  },
+  {
+    "id": 751,
+    "category": "tech",
+    "text": "Gagnageymslan krefst sérstakrar umhirðu."
+  },
+  {
+    "id": 752,
+    "category": "tech",
+    "text": "Kerfið brotnaði vegna hugbúnaðarvandamáls."
+  },
+  {
+    "id": 753,
+    "category": "tech",
+    "text": "Ég þarf sérstaka aðstoð við tæknilega vandann."
+  },
+  {
+    "id": 754,
+    "category": "tech",
+    "text": "Netþjónninn krefst sérstakrar þjónustu."
+  },
+  {
+    "id": 755,
+    "category": "tech",
+    "text": "Tölvan mín krefst sérstakrar lagfæringar."
+  },
+  {
+    "id": 756,
+    "category": "tech",
+    "text": "Forritið krefst sérstakrar uppfærslu."
+  },
+  {
+    "id": 757,
+    "category": "tech",
+    "text": "Ég þarf sérstakan tíma til að laga kerfið."
+  },
+  {
+    "id": 758,
+    "category": "tech",
+    "text": "Kerfið krefst sérstakrar þjónustu."
+  },
+  {
+    "id": 759,
+    "category": "tech",
+    "text": "Nettengingin þarf sérstaka viðgerð."
+  },
+  {
+    "id": 760,
+    "category": "tech",
+    "text": "Tölvan mín þarf sérstaka endurstillingu."
+  },
+  {
+    "id": 761,
+    "category": "tech",
+    "text": "Hugbúnaðurinn þarf sérstaka uppfærslu."
+  },
+  {
+    "id": 762,
+    "category": "tech",
+    "text": "Ég þarf sérstakan aðgang til að vinna."
+  },
+  {
+    "id": 763,
+    "category": "tech",
+    "text": "Gagnageymslan þarf sérstaka umhirðu."
+  },
+  {
+    "id": 764,
+    "category": "tech",
+    "text": "Kerfið þarfnast sérstakrar þjónustu."
+  },
+  {
+    "id": 765,
+    "category": "tech",
+    "text": "Netþjónninn þarf sérstaka viðgerð."
+  },
+  {
+    "id": 766,
+    "category": "tech",
+    "text": "Tölvan mín þarf sérstaka stillingu."
+  },
+  {
+    "id": 767,
+    "category": "tech",
+    "text": "Forritið þarf sérstaka lagfæringu."
+  },
+  {
+    "id": 768,
+    "category": "tech",
+    "text": "Ég þarf sérstakan tíma til að setja upp nýtt umhverfi."
+  },
+  {
+    "id": 769,
+    "category": "tech",
+    "text": "Kerfið þarf sérstaka endurstillingu."
+  },
+  {
+    "id": 770,
+    "category": "tech",
+    "text": "Nettengingin þarf sérstaka þjónustu."
+  },
+  {
+    "id": 771,
+    "category": "tech",
+    "text": "Tölvan mín þarf sérstaka viðhald."
+  },
+  {
+    "id": 772,
+    "category": "tech",
+    "text": "Hugbúnaðurinn þarf sérstaka stillingu."
+  },
+  {
+    "id": 773,
+    "category": "tech",
+    "text": "Ég þarf sérstakan aðgang að vinnukerfinu."
+  },
+  {
+    "id": 774,
+    "category": "tech",
+    "text": "Gagnageymslan þarf sérstaka meðhöndlun."
+  },
+  {
+    "id": 775,
+    "category": "tech",
+    "text": "Kerfið krefst sérstakrar endurstillingar."
+  },
+  {
+    "id": 776,
+    "category": "tech",
+    "text": "Netþjónninn krefst sérstakrar umhirðu."
+  },
+  {
+    "id": 777,
+    "category": "tech",
+    "text": "Tölvan mín krefst sérstakrar þjónustu."
+  },
+  {
+    "id": 778,
+    "category": "tech",
+    "text": "Forritið krefst sérstakrar stillingar."
+  },
+  {
+    "id": 779,
+    "category": "tech",
+    "text": "Ég þarf sérstakan tíma til að laga tæknilegan vanda."
+  },
+  {
+    "id": 780,
+    "category": "tech",
+    "text": "Kerfið þarfnast tafarlausrar þjónustu."
+  },
+  {
+    "id": 781,
+    "category": "tech",
+    "text": "Nettengingin krefst sérstakrar viðgerðar."
+  },
+  {
+    "id": 782,
+    "category": "tech",
+    "text": "Tölvan mín krefst sérstakrar lagfæringar."
+  },
+  {
+    "id": 783,
+    "category": "tech",
+    "text": "Hugbúnaðurinn krefst sérstakrar uppfærslu."
+  },
+  {
+    "id": 784,
+    "category": "tech",
+    "text": "Ég þarf sérstakan aðgang þegar í stað."
+  },
+  {
+    "id": 785,
+    "category": "tech",
+    "text": "Gagnageymslan krefst tafarlausrar þjónustu."
+  },
+  {
+    "id": 786,
+    "category": "tech",
+    "text": "Kerfið bilaði og þarf sérstaka endurstillingu."
+  },
+  {
+    "id": 787,
+    "category": "tech",
+    "text": "Netþjónninn bilaði og þarf sérstaka lagfæringu."
+  },
+  {
+    "id": 788,
+    "category": "tech",
+    "text": "Tölvan mín bilaði og þarf sérstaka viðgerð."
+  },
+  {
+    "id": 789,
+    "category": "tech",
+    "text": "Forritið bilaði og þarf sérstaka uppfærslu."
+  },
+  {
+    "id": 790,
+    "category": "tech",
+    "text": "Ég þarf sérstaka þjálfun á nýjum kerfisverkfærum."
+  },
+  {
+    "id": 791,
+    "category": "tech",
+    "text": "Kerfið bilaði og þarf sérstaka þjónustu."
+  },
+  {
+    "id": 792,
+    "category": "tech",
+    "text": "Nettengingin bilaði og þarf sérstaka viðgerð."
+  },
+  {
+    "id": 793,
+    "category": "tech",
+    "text": "Tölvan mín bilaði og þarf sérstaka stillingu."
+  },
+  {
+    "id": 794,
+    "category": "tech",
+    "text": "Hugbúnaðurinn bilaði og þarf sérstaka lagfæringu."
+  },
+  {
+    "id": 795,
+    "category": "tech",
+    "text": "Ég þarf sérstaka aðgang að tæknilega kerfinu."
+  },
+  {
+    "id": 796,
+    "category": "tech",
+    "text": "Gagnageymslan bilaði og þarf sérstaka þjónustu."
+  },
+  {
+    "id": 797,
+    "category": "tech",
+    "text": "Kerfið krefst tafarlausrar endurstillingar."
+  },
+  {
+    "id": 798,
+    "category": "tech",
+    "text": "Netþjónninn krefst tafarlausrar þjónustu."
+  },
+  {
+    "id": 799,
+    "category": "tech",
+    "text": "Tölvan mín krefst tafarlausrar lagfæringar."
+  },
+  {
+    "id": 800,
+    "category": "tech",
+    "text": "Forritið krefst tafarlausrar uppfærslu."
+  },
+  {
+    "id": 801,
+    "category": "tech",
+    "text": "Ég þarf sérstaka tíma til að leysa tæknivandann."
+  },
+  {
+    "id": 802,
+    "category": "tech",
+    "text": "Kerfið þarf tafarlausar lagfæringar."
+  },
+  {
+    "id": 803,
+    "category": "tech",
+    "text": "Nettengingin þarf tafarlausar lagfæringar."
+  },
+  {
+    "id": 804,
+    "category": "tech",
+    "text": "Tölvan mín þarf tafarlausar lagfæringar."
+  },
+  {
+    "id": 805,
+    "category": "tech",
+    "text": "Hugbúnaðurinn þarf tafarlausar lagfæringar."
+  },
+  {
+    "id": 806,
+    "category": "tech",
+    "text": "Ég þarf sérstaka tíma til að laga kerfið."
+  },
+  {
+    "id": 807,
+    "category": "tech",
+    "text": "Gagnageymslan þarf tafarlausar lagfæringar."
+  },
+  {
+    "id": 808,
+    "category": "tech",
+    "text": "Kerfið bilaði vegna hugbúnaðaruppfærslu."
+  },
+  {
+    "id": 809,
+    "category": "tech",
+    "text": "Netþjónninn bilaði vegna kerfisuppfærslu."
+  },
+  {
+    "id": 810,
+    "category": "tech",
+    "text": "Tölvan mín bilaði vegna hugbúnaðarvandamáls."
+  },
+  {
+    "id": 811,
+    "category": "tech",
+    "text": "Forritið bilaði vegna kerfisuppfærslu."
+  },
+  {
+    "id": 812,
+    "category": "tech",
+    "text": "Ég þarf sérstaka aðgang að kerfinu þegar í stað."
+  },
+  {
+    "id": 813,
+    "category": "tech",
+    "text": "Kerfið þarf sérstaka endurstillingu þegar í stað."
+  },
+  {
+    "id": 814,
+    "category": "tech",
+    "text": "Nettengingin þarf sérstaka þjónustu þegar í stað."
+  },
+  {
+    "id": 815,
+    "category": "tech",
+    "text": "Tölvan mín þarf sérstaka viðgerð þegar í stað."
+  },
+  {
+    "id": 816,
+    "category": "tech",
+    "text": "Hugbúnaðurinn þarf sérstaka uppfærslu þegar í stað."
+  },
+  {
+    "id": 817,
+    "category": "tech",
+    "text": "Ég þarf sérstaka þjálfun á nýjum vinnuverkfærum."
+  },
+  {
+    "id": 818,
+    "category": "tech",
+    "text": "Gagnageymslan þarf sérstaka meðhöndlun þegar í stað."
+  },
+  {
+    "id": 819,
+    "category": "tech",
+    "text": "Kerfið krefst sérstakrar þjónustu þegar í stað."
+  },
+  {
+    "id": 820,
+    "category": "tech",
+    "text": "Netþjónninn krefst sérstakrar viðgerðar þegar í stað."
+  },
+  {
+    "id": 821,
+    "category": "tech",
+    "text": "Tölvan mín krefst sérstakrar lagfæringar þegar í stað."
+  },
+  {
+    "id": 822,
+    "category": "tech",
+    "text": "Forritið krefst sérstakrar stillingar þegar í stað."
+  },
+  {
+    "id": 823,
+    "category": "tech",
+    "text": "Ég þarf sérstakan tíma til að setja upp nýja tæki."
+  },
+  {
+    "id": 824,
+    "category": "tech",
+    "text": "Kerfið krefst sérstakrar endurstillingar þegar í stað."
+  },
+  {
+    "id": 825,
+    "category": "tech",
+    "text": "Nettengingin krefst sérstakrar viðgerðar þegar í stað."
+  },
+  {
+    "id": 826,
+    "category": "tech",
+    "text": "Tölvan mín krefst sérstakrar uppfærslu þegar í stað."
+  },
+  {
+    "id": 827,
+    "category": "tech",
+    "text": "Hugbúnaðurinn krefst sérstakrar lagfæringar þegar í stað."
+  },
+  {
+    "id": 828,
+    "category": "tech",
+    "text": "Ég þarf sérstaka aðgang að vinnukerfinu þegar í stað."
+  },
+  {
+    "id": 829,
+    "category": "tech",
+    "text": "Gagnageymslan krefst sérstakrar þjónustu þegar í stað."
+  },
+  {
+    "id": 830,
+    "category": "tech",
+    "text": "Kerfið bilaði og krefst tafarlausrar lagfæringar."
+  },
+  {
+    "id": 831,
+    "category": "tech",
+    "text": "Netþjónninn bilaði og krefst tafarlausrar þjónustu."
+  },
+  {
+    "id": 832,
+    "category": "tech",
+    "text": "Tölvan mín bilaði og krefst tafarlausrar viðgerðar."
+  },
+  {
+    "id": 833,
+    "category": "tech",
+    "text": "Forritið bilaði og krefst tafarlausrar uppfærslu."
+  },
+  {
+    "id": 834,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt neitar að kveikja — rafgeymirinn er dauður."
+  },
+  {
+    "id": 835,
+    "category": "motorcycle",
+    "text": "Hjólbarinn á mótorhjólinu mínu spratt á leiðinni."
+  },
+  {
+    "id": 836,
+    "category": "motorcycle",
+    "text": "Bremsan á mótorhjólinu mínu er laus og þarf viðgerð."
+  },
+  {
+    "id": 837,
+    "category": "motorcycle",
+    "text": "Kveikjulykillinn á mótorhjólinu mínu brotnaði af."
+  },
+  {
+    "id": 838,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt er í þjónustu og kemur ekki fyrr en seint í dag."
+  },
+  {
+    "id": 839,
+    "category": "motorcycle",
+    "text": "Ég féll af mótorhjólinu mínu en er blessunarlega lífsönn."
+  },
+  {
+    "id": 840,
+    "category": "motorcycle",
+    "text": "Keðjan á mótorhjólinu mínu brotnaði á miðri leið."
+  },
+  {
+    "id": 841,
+    "category": "motorcycle",
+    "text": "Olían lak úr mótorhjólinu mínu og ég þarf viðgerð."
+  },
+  {
+    "id": 842,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt er frosið við í bílskúrnum."
+  },
+  {
+    "id": 843,
+    "category": "motorcycle",
+    "text": "Vélarhjólið mitt fer í villur og þarf greiningu."
+  },
+  {
+    "id": 844,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt er í viðhaldi sem tafðist."
+  },
+  {
+    "id": 845,
+    "category": "motorcycle",
+    "text": "Kveikjarinn á mótorhjólinu mínu þarf endurnýjun."
+  },
+  {
+    "id": 846,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt hefur rafmagnsbilanir sem þarf að skoða."
+  },
+  {
+    "id": 847,
+    "category": "motorcycle",
+    "text": "Ég þarf sérstaka verkfæri til að laga mótorhjólið sem ég hef ekki."
+  },
+  {
+    "id": 848,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka smurningu sem er aðeins í boði í verkstæði."
+  },
+  {
+    "id": 849,
+    "category": "motorcycle",
+    "text": "Keðjan er of laus á mótorhjólinu og þarf stillingu."
+  },
+  {
+    "id": 850,
+    "category": "motorcycle",
+    "text": "Stýri á mótorhjólinu er biluð og get ekki stjórnað því."
+  },
+  {
+    "id": 851,
+    "category": "motorcycle",
+    "text": "Hjólabarnar þurfa endurnýjun áður en ég get ekið."
+  },
+  {
+    "id": 852,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstakan skoðun vegna einkenna."
+  },
+  {
+    "id": 853,
+    "category": "motorcycle",
+    "text": "Ljósin á mótorhjólinu eru biluð og ég má ekki aka án þeirra."
+  },
+  {
+    "id": 854,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka viðgerð sem tók lengri tíma."
+  },
+  {
+    "id": 855,
+    "category": "motorcycle",
+    "text": "Bremsuolían á mótorhjólinu þarf endurnýjun."
+  },
+  {
+    "id": 856,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt er niðri vegna rafmagnsbilanar."
+  },
+  {
+    "id": 857,
+    "category": "motorcycle",
+    "text": "Hjólbararnir eru of gömlu til að aka örugglega."
+  },
+  {
+    "id": 858,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka þjónustu í dag."
+  },
+  {
+    "id": 859,
+    "category": "motorcycle",
+    "text": "Keðjan á mótorhjólinu þarf viðgerð."
+  },
+  {
+    "id": 860,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka stillingu."
+  },
+  {
+    "id": 861,
+    "category": "motorcycle",
+    "text": "Olían á mótorhjólinu þarf endurnýjun."
+  },
+  {
+    "id": 862,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt er í þjónustu sem tekur heilan dag."
+  },
+  {
+    "id": 863,
+    "category": "motorcycle",
+    "text": "Vélin á mótorhjólinu gengur ekki sem skyldi."
+  },
+  {
+    "id": 864,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka skoðun."
+  },
+  {
+    "id": 865,
+    "category": "motorcycle",
+    "text": "Ljósin á mótorhjólinu þarf lagfæringu."
+  },
+  {
+    "id": 866,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka viðhald."
+  },
+  {
+    "id": 867,
+    "category": "motorcycle",
+    "text": "Keðjan á mótorhjólinu þarf stillingu."
+  },
+  {
+    "id": 868,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka olíuskipti."
+  },
+  {
+    "id": 869,
+    "category": "motorcycle",
+    "text": "Bremsan á mótorhjólinu þarf lagfæringu."
+  },
+  {
+    "id": 870,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka rafmagnsviðgerð."
+  },
+  {
+    "id": 871,
+    "category": "motorcycle",
+    "text": "Hjólabarnar á mótorhjólinu þarf endurnýjun."
+  },
+  {
+    "id": 872,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka skoðun á vélinni."
+  },
+  {
+    "id": 873,
+    "category": "motorcycle",
+    "text": "Kveikjarinn á mótorhjólinu þarf viðgerð."
+  },
+  {
+    "id": 874,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka þjónustu."
+  },
+  {
+    "id": 875,
+    "category": "motorcycle",
+    "text": "Stýrið á mótorhjólinu þarf lagfæringu."
+  },
+  {
+    "id": 876,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka viðhald á keðju."
+  },
+  {
+    "id": 877,
+    "category": "motorcycle",
+    "text": "Olían á mótorhjólinu þarf endurnýjun þegar í stað."
+  },
+  {
+    "id": 878,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka skoðun á rafmagni."
+  },
+  {
+    "id": 879,
+    "category": "motorcycle",
+    "text": "Bremsuolían á mótorhjólinu þarf endurnýjun þegar í stað."
+  },
+  {
+    "id": 880,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka viðgerð á vélinni."
+  },
+  {
+    "id": 881,
+    "category": "motorcycle",
+    "text": "Keðjan á mótorhjólinu þarf viðgerð þegar í stað."
+  },
+  {
+    "id": 882,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka þjónustu á stýri."
+  },
+  {
+    "id": 883,
+    "category": "motorcycle",
+    "text": "Ljósin á mótorhjólinu þarf lagfæringu þegar í stað."
+  },
+  {
+    "id": 884,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka skoðun á bremsum."
+  },
+  {
+    "id": 885,
+    "category": "motorcycle",
+    "text": "Hjólabarnar á mótorhjólinu þarf endurnýjun þegar í stað."
+  },
+  {
+    "id": 886,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka viðhald á ljósum."
+  },
+  {
+    "id": 887,
+    "category": "motorcycle",
+    "text": "Kveikjarinn á mótorhjólinu þarf viðgerð þegar í stað."
+  },
+  {
+    "id": 888,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka þjónustu á olíu."
+  },
+  {
+    "id": 889,
+    "category": "motorcycle",
+    "text": "Stýrið á mótorhjólinu þarf lagfæringu þegar í stað."
+  },
+  {
+    "id": 890,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka viðgerð á bremsum."
+  },
+  {
+    "id": 891,
+    "category": "motorcycle",
+    "text": "Olían á mótorhjólinu þarf sérstaka endurnýjun."
+  },
+  {
+    "id": 892,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka skoðun á stýri."
+  },
+  {
+    "id": 893,
+    "category": "motorcycle",
+    "text": "Bremsan á mótorhjólinu þarf sérstaka lagfæringu."
+  },
+  {
+    "id": 894,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka viðhald á kveikjara."
+  },
+  {
+    "id": 895,
+    "category": "motorcycle",
+    "text": "Keðjan á mótorhjólinu þarf sérstaka stillingu."
+  },
+  {
+    "id": 896,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka þjónustu á vélinni."
+  },
+  {
+    "id": 897,
+    "category": "motorcycle",
+    "text": "Ljósin á mótorhjólinu þarf sérstaka lagfæringu."
+  },
+  {
+    "id": 898,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka skoðun á olíu."
+  },
+  {
+    "id": 899,
+    "category": "motorcycle",
+    "text": "Hjólabarnar á mótorhjólinu þarf sérstaka endurnýjun."
+  },
+  {
+    "id": 900,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka viðgerð á keðju."
+  },
+  {
+    "id": 901,
+    "category": "motorcycle",
+    "text": "Kveikjarinn á mótorhjólinu þarf sérstaka viðgerð."
+  },
+  {
+    "id": 902,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka þjónustu á bremsum."
+  },
+  {
+    "id": 903,
+    "category": "motorcycle",
+    "text": "Stýrið á mótorhjólinu þarf sérstaka lagfæringu."
+  },
+  {
+    "id": 904,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka viðhald á hjólabörum."
+  },
+  {
+    "id": 905,
+    "category": "motorcycle",
+    "text": "Olían á mótorhjólinu þarf tafarlausar endurnýjun."
+  },
+  {
+    "id": 906,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka skoðun þegar í stað."
+  },
+  {
+    "id": 907,
+    "category": "motorcycle",
+    "text": "Bremsuolían á mótorhjólinu þarf sérstaka endurnýjun."
+  },
+  {
+    "id": 908,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka viðgerð þegar í stað."
+  },
+  {
+    "id": 909,
+    "category": "motorcycle",
+    "text": "Keðjan á mótorhjólinu þarf tafarlausar viðgerð."
+  },
+  {
+    "id": 910,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka þjónustu þegar í stað."
+  },
+  {
+    "id": 911,
+    "category": "motorcycle",
+    "text": "Ljósin á mótorhjólinu þarf tafarlausar lagfæringar."
+  },
+  {
+    "id": 912,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka viðhald þegar í stað."
+  },
+  {
+    "id": 913,
+    "category": "motorcycle",
+    "text": "Kveikjarinn á mótorhjólinu þarf tafarlausar viðgerð."
+  },
+  {
+    "id": 914,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka þjónustu á ljósum."
+  },
+  {
+    "id": 915,
+    "category": "motorcycle",
+    "text": "Stýrið á mótorhjólinu þarf tafarlausar lagfæringu."
+  },
+  {
+    "id": 916,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka viðgerð á stýri."
+  },
+  {
+    "id": 917,
+    "category": "motorcycle",
+    "text": "Hjólabarnar á mótorhjólinu þarf tafarlausar endurnýjun."
+  },
+  {
+    "id": 918,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka skoðun á keðju."
+  },
+  {
+    "id": 919,
+    "category": "motorcycle",
+    "text": "Olían á mótorhjólinu þarf sérstaka þjónustu."
+  },
+  {
+    "id": 920,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka viðhald á vélinni."
+  },
+  {
+    "id": 921,
+    "category": "motorcycle",
+    "text": "Bremsan á mótorhjólinu þarf tafarlausar lagfæringu."
+  },
+  {
+    "id": 922,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka skoðun á kveikjara."
+  },
+  {
+    "id": 923,
+    "category": "motorcycle",
+    "text": "Keðjan á mótorhjólinu þarf tafarlausar stillingu."
+  },
+  {
+    "id": 924,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka þjónustu á hjólabörum."
+  },
+  {
+    "id": 925,
+    "category": "motorcycle",
+    "text": "Ljósin á mótorhjólinu þarf sérstaka viðgerð."
+  },
+  {
+    "id": 926,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka skoðun á stýri."
+  },
+  {
+    "id": 927,
+    "category": "motorcycle",
+    "text": "Kveikjarinn á mótorhjólinu þarf sérstaka lagfæringu."
+  },
+  {
+    "id": 928,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka þjónustu á keðju."
+  },
+  {
+    "id": 929,
+    "category": "motorcycle",
+    "text": "Stýrið á mótorhjólinu þarf sérstaka viðgerð."
+  },
+  {
+    "id": 930,
+    "category": "motorcycle",
+    "text": "Mótorhjólið mitt þarf sérstaka skoðun á ljósum."
+  },
+  {
+    "id": 931,
+    "category": "funny",
+    "text": "Kötturinn minn setti sig á lyklaborðið og sendi inn uppsagnarbréfið mitt — er enn að reyna að afturkalla það."
+  },
+  {
+    "id": 932,
+    "category": "funny",
+    "text": "Ég hnerraði svo fast að ég togaði alla vöðva í efri hluta líkamans."
+  },
+  {
+    "id": 933,
+    "category": "funny",
+    "text": "Ég límdi handið mitt óvart við útidyrnahúninn."
+  },
+  {
+    "id": 934,
+    "category": "funny",
+    "text": "Máfur stal bílslyklunum mínum og flaug í burtu. Ég er ekki að grínast."
+  },
+  {
+    "id": 935,
+    "category": "funny",
+    "text": "Ég setti símann í kæli og matinn í vasann. Fann bæði mörgum klukkustundum síðar."
+  },
+  {
+    "id": 936,
+    "category": "funny",
+    "text": "Páfagaukurinn minn hefur lært að hringja og skrá sig veikan í mínu nafni — því miður gerði hann það aftur."
+  },
+  {
+    "id": 937,
+    "category": "funny",
+    "text": "Ég sat á gleraugunum mínum og get nú ekki fundið þau til að leita að þeim."
+  },
+  {
+    "id": 938,
+    "category": "funny",
+    "text": "Ég sofnaði á sófanum og hundurinn minn læsti hundadyrunum að utan."
+  },
+  {
+    "id": 939,
+    "category": "funny",
+    "text": "Ég skráði mig óvart í 5 km hlaupaviðburð sem byrjar í hverfinu mínu í morgun."
+  },
+  {
+    "id": 940,
+    "category": "funny",
+    "text": "Morgunmaturinn minn barðist við mig."
+  },
+  {
+    "id": 941,
+    "category": "funny",
+    "text": "Ég rann á eigin skóhnút og rann niður alla stiga."
+  },
+  {
+    "id": 942,
+    "category": "funny",
+    "text": "Fiskurinn minn er veikur og ég hef verið vakandi alla nótt að gera fisk-hjartahnoð."
+  },
+  {
+    "id": 943,
+    "category": "funny",
+    "text": "Ég fékk peysu mína fösta í bílhurðinni og þurfti að klippa mig laus."
+  },
+  {
+    "id": 944,
+    "category": "funny",
+    "text": "Ég skildi skóna mína eftir hjá vini í gær og uppgötvaði það fyrst við strætóstoppið."
+  },
+  {
+    "id": 945,
+    "category": "funny",
+    "text": "Vekjarinn minn sýndi PM í stað AM á mjög sannfærandi hátt."
+  },
+  {
+    "id": 946,
+    "category": "funny",
+    "text": "Ég reyndi að gera kaffi og gerði súpu í staðinn. Ég veit ekki hvernig."
+  },
+  {
+    "id": 947,
+    "category": "funny",
+    "text": "Refur hefur girt af sér í bílskúrnum mínum og neitar að semja."
+  },
+  {
+    "id": 948,
+    "category": "funny",
+    "text": "Ég laðst út á meðan ég var að sækja póstinn í náttfötum mínum."
+  },
+  {
+    "id": 949,
+    "category": "funny",
+    "text": "Hundurinn minn borðaði bílskráninguna og þjónustumiðstöðin þarf hana í dag."
+  },
+  {
+    "id": 950,
+    "category": "funny",
+    "text": "Ég prófaði nýja hárlit og hárin mín eru nú litur sem finnst ekki í náttúrunni."
+  },
+  {
+    "id": 951,
+    "category": "funny",
+    "text": "Ég svaraði tölvupósti til allra með mjög persónulegt skilaboð í morgun."
+  },
+  {
+    "id": 952,
+    "category": "funny",
+    "text": "Íkorni gnagaði í gegnum eina og einustu hleðslulínuna mína og síminn er dauður."
+  },
+  {
+    "id": 953,
+    "category": "funny",
+    "text": "Ég gekk beint í rennihlera og þarf augnablik."
+  },
+  {
+    "id": 954,
+    "category": "funny",
+    "text": "Blaðra grannaherbergisins flataðist og lokaði bílnum mínum."
+  },
+  {
+    "id": 955,
+    "category": "funny",
+    "text": "Ég rann á bananahýðis. Já, það er einmitt það sem gerðist."
+  },
+  {
+    "id": 956,
+    "category": "funny",
+    "text": "Börnin mín settu augnakúlur á öll vinnuföt mín og ég tók það ekki eftir fyrr en í strætó."
+  },
+  {
+    "id": 957,
+    "category": "funny",
+    "text": "Ég gekk óvart í flashmóbb og komst ekki út."
+  },
+  {
+    "id": 958,
+    "category": "funny",
+    "text": "Ég vaknaði og fann bílinn minn pakkaðan inn í salernispappír."
+  },
+  {
+    "id": 959,
+    "category": "funny",
+    "text": "Ég brann brauðið mitt svo slæmt að reykskynjarinn hringdi til slökkvilidsins."
+  },
+  {
+    "id": 960,
+    "category": "funny",
+    "text": "Bílskúrshurðin mín sjálfvirka hefur ákveðið að taka sér frídaginn í dag."
+  },
+  {
+    "id": 961,
+    "category": "funny",
+    "text": "Ég klæddist tveimur mismunandi skóm óvart og komst að þessu við strætóstoppið."
+  },
+  {
+    "id": 962,
+    "category": "funny",
+    "text": "Herbergismakkinn minn tók sér geit án þess að segja mér frá. Geitin er ekki að laga sig."
+  },
+  {
+    "id": 963,
+    "category": "funny",
+    "text": "Ég fékk bindi mitt fast í prentarann í gær og náði ekki í símann."
+  },
+  {
+    "id": 964,
+    "category": "funny",
+    "text": "Ég velti yfir alla fataskápinn minn í morgun og þarf tíma til að vinna úr þessu."
+  },
+  {
+    "id": 965,
+    "category": "funny",
+    "text": "Ég reyndi að taka skyndileið og endaði í annarri borg."
+  },
+  {
+    "id": 966,
+    "category": "funny",
+    "text": "Dyrklukkan mín tók upp eitthvað sem ég þarf að tilkynna til yfirvalda."
+  },
+  {
+    "id": 967,
+    "category": "funny",
+    "text": "Ég eyddi dagatalinu mínu óvart ásamt öllum fundum dagsins."
+  },
+  {
+    "id": 968,
+    "category": "funny",
+    "text": "Skrifstofustóllinn minn rann á brött og ég glataðist í 45 mínútur."
+  },
+  {
+    "id": 969,
+    "category": "funny",
+    "text": "Rennilásinn minn brotnaði algerlega og ég er enn í úlpunni."
+  },
+  {
+    "id": 970,
+    "category": "funny",
+    "text": "Fugl hefur byggt sér hreiður í uppgjarðarmynni bílsins míns og mér líður ekki til að trufla hann."
+  },
+  {
+    "id": 971,
+    "category": "funny",
+    "text": "Ég ofhluð kaffikökuna mína og hún sprakk. Þvottastarfið er enn í gangi."
+  },
+  {
+    "id": 972,
+    "category": "funny",
+    "text": "Ég fékk límmiða föstu við augnlinsuna."
+  },
+  {
+    "id": 973,
+    "category": "funny",
+    "text": "Ég svaraði dyrunum í svefni. Sendingamaðurinn skildi eftir miða."
+  },
+  {
+    "id": 974,
+    "category": "funny",
+    "text": "Örbylgjuofnsinn minn fell af og lenti einhvern veginn á bílslyklunum."
+  },
+  {
+    "id": 975,
+    "category": "funny",
+    "text": "Ég uppgötvaði í morgun að ég er ofnæmur fyrir nýja sápunni. Andlit mitt er áhugavert."
+  },
+  {
+    "id": 976,
+    "category": "funny",
+    "text": "Ég pantaði morgunverð á heimleið og hann kom til nágrannans — fékk hann aldrei."
+  },
+  {
+    "id": 977,
+    "category": "funny",
+    "text": "Ég skráði mig í líkamsræktartíma klukkan 4 á morgnana og mætti einhvern veginn."
+  },
+  {
+    "id": 978,
+    "category": "funny",
+    "text": "Beltið mitt brotnaði í tvennt þegar ég var að fara. Ég á ekkert varabelt."
+  },
+  {
+    "id": 979,
+    "category": "funny",
+    "text": "Ég settist á eitthvað dularfullt í strætónum og þarf að fara heim til að skipta um föt."
+  },
+  {
+    "id": 980,
+    "category": "funny",
+    "text": "Dós með tómatsósu sprakk í töskuni og eyðilagði hleðslulínuna."
+  },
+  {
+    "id": 981,
+    "category": "funny",
+    "text": "Ég fékk örvasa í vasann þar sem símahluthleðarinn er."
+  },
+  {
+    "id": 982,
+    "category": "funny",
+    "text": "Vindurinn blés frumskjalið mitt burt um leið og ég opnaði bílinn."
+  },
+  {
+    "id": 983,
+    "category": "funny",
+    "text": "Ég klappaði hundinum á nágrannanum og hann sleit leyfið á mér."
+  },
+  {
+    "id": 984,
+    "category": "funny",
+    "text": "Froðan í kaffistönginni minn rifnaði og fleygði heitu kaffi á frammáfatið mitt."
+  },
+  {
+    "id": 985,
+    "category": "funny",
+    "text": "Ég leigði hjól í morgun og það brotnaði á miðri leið."
+  },
+  {
+    "id": 986,
+    "category": "funny",
+    "text": "Ég eyðilagði skó minn þar sem þakrennan rann yfir og féll ofan á mig."
+  },
+  {
+    "id": 987,
+    "category": "funny",
+    "text": "Barnið mitt bjó til list á veggnum í eldhúsinu klukkan fimm í morgun og ég get ekki skilið þetta."
+  },
+  {
+    "id": 988,
+    "category": "funny",
+    "text": "Ég rann á ís á gangstéttinni og henti tömbu og kaffibolla."
+  },
+  {
+    "id": 989,
+    "category": "funny",
+    "text": "Hundurinn minn tók skóinn minn upp á þakið og ég veit ekki hvernig."
+  },
+  {
+    "id": 990,
+    "category": "funny",
+    "text": "Ég rak mig í nýja skrímslið af strætó vegna þess að ég var að lesa."
+  },
+  {
+    "id": 991,
+    "category": "funny",
+    "text": "Ég opnaði ranga hurð hjá næsta húsi og settist niður í eldhúsinu þeirra áður en ég tók eftir þessu."
+  },
+  {
+    "id": 992,
+    "category": "funny",
+    "text": "Einhver parkertaði of nálægt og ég get ekki opnað bílhurðina."
+  },
+  {
+    "id": 993,
+    "category": "funny",
+    "text": "Sveppurinn minn í gróðurhúsinu er í neyðarástandi og þarf sérstaka meðferð."
+  },
+  {
+    "id": 994,
+    "category": "funny",
+    "text": "Ég renndi öllum morgunkaffa mínum á skjáborðið og á lyklaborðið."
+  },
+  {
+    "id": 995,
+    "category": "funny",
+    "text": "Ég þumalfingur minn er fastfrosinn við póstkassann."
+  },
+  {
+    "id": 996,
+    "category": "funny",
+    "text": "Ég keypti ranga stærð af fötum í gær og vandinn er augljós."
+  },
+  {
+    "id": 997,
+    "category": "funny",
+    "text": "Klukkan í stofunni fór að slá 23 sinnum að nóttu til og vekti mig."
+  },
+  {
+    "id": 998,
+    "category": "funny",
+    "text": "Granninn minn er að fá þilviðarklæðningu og þilviðurinn er ansi nálægt bílnum mínum."
+  },
+  {
+    "id": 999,
+    "category": "funny",
+    "text": "Ég er í óvissu um hvort hundurinn minn sé að spila leik á mér eða sé í raun veikur."
+  },
+  {
+    "id": 1000,
+    "category": "funny",
+    "text": "Ég fann jógúrtdós í stað skóanna minna í stígvélatabbasamanum."
+  },
+  {
+    "id": 1001,
+    "category": "funny",
+    "text": "Kettlingurinn minn lærði að opna kælir og tók matinn minn til að fela."
+  }
+]

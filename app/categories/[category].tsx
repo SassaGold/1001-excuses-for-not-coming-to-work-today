@@ -2,12 +2,14 @@ import React from "react";
 import { View, Text, FlatList, StyleSheet } from "react-native";
 import { useLocalSearchParams } from "expo-router";
 import { getExcusesByCategory } from "../../hooks/useExcuses";
+import { useLanguage } from "../../hooks/useLanguage";
 import { colors } from "../../utils/colors";
 import { Category } from "../../utils/categories";
 
 export default function CategoryScreen() {
   const { category } = useLocalSearchParams<{ category: string }>();
-  const list = getExcusesByCategory(category as Category);
+  const { language } = useLanguage();
+  const list = getExcusesByCategory(category as Category, language);
 
   return (
     <View style={styles.container}>

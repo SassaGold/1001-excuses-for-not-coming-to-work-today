@@ -1,0 +1,5007 @@
+[
+  {
+    "id": 1,
+    "category": "funny",
+    "text": "Katten min satt på tastaturet og sendte inn oppsigelsen min — prøver fortsatt å angre det."
+  },
+  {
+    "id": 2,
+    "category": "funny",
+    "text": "Jeg nøs så hardt at jeg trakk alle muskler i overkroppen."
+  },
+  {
+    "id": 3,
+    "category": "funny",
+    "text": "Jeg limte hånden min fast til dørhåndtaket ved et uhell."
+  },
+  {
+    "id": 4,
+    "category": "funny",
+    "text": "En måke stjal bilnøklene mine og fløy av gårde. Jeg spøker ikke."
+  },
+  {
+    "id": 5,
+    "category": "funny",
+    "text": "Jeg la telefonen i kjøleskapet og matpakken i lommen. Fant begge flere timer senere."
+  },
+  {
+    "id": 6,
+    "category": "funny",
+    "text": "Papegøyen min har lært å ringe og melde seg syk på mine vegne — dessverre gjorde den det igjen."
+  },
+  {
+    "id": 7,
+    "category": "funny",
+    "text": "Jeg satte meg på brillene mine og kan nå ikke finne dem for å lete etter dem."
+  },
+  {
+    "id": 8,
+    "category": "funny",
+    "text": "Jeg sovnet i sofaen og hunden min låste hundedøren fra utsiden."
+  },
+  {
+    "id": 9,
+    "category": "funny",
+    "text": "Jeg meldte meg ved et uhell på et 5 km-løp som starter i nabolaget mitt i morges."
+  },
+  {
+    "id": 10,
+    "category": "funny",
+    "text": "Frokosten min slo tilbake."
+  },
+  {
+    "id": 11,
+    "category": "funny",
+    "text": "Jeg snublet i egne skolisser og gled ned en hel trapp."
+  },
+  {
+    "id": 12,
+    "category": "funny",
+    "text": "Fisken min er syk og jeg har vært oppe hele natten med å gjøre fiske-HLR."
+  },
+  {
+    "id": 13,
+    "category": "funny",
+    "text": "Jeg fikk genseren fast i bildøren og måtte klippe meg fri."
+  },
+  {
+    "id": 14,
+    "category": "funny",
+    "text": "Jeg glemte skoene mine hos en venn i går og oppdaget det først ved bussholdeplassen."
+  },
+  {
+    "id": 15,
+    "category": "funny",
+    "text": "Vekkerklokken min viste PM i stedet for AM på et veldig overbevisende vis."
+  },
+  {
+    "id": 16,
+    "category": "funny",
+    "text": "Jeg prøvde å lage kaffe og lagde suppe i stedet. Vet ikke hvordan det skjedde."
+  },
+  {
+    "id": 17,
+    "category": "funny",
+    "text": "En rev har barrikadert seg i garasjen min og nekter å forhandle."
+  },
+  {
+    "id": 18,
+    "category": "funny",
+    "text": "Jeg låste meg ute mens jeg hentet posten i pyjamasen."
+  },
+  {
+    "id": 19,
+    "category": "funny",
+    "text": "Hunden min spiste bilregistreringen og Statens vegvesen trenger den i dag."
+  },
+  {
+    "id": 20,
+    "category": "funny",
+    "text": "Jeg prøvde et nytt hårfarge og håret mitt er nå en farge som ikke finnes i naturen."
+  },
+  {
+    "id": 21,
+    "category": "funny",
+    "text": "Jeg svarte-på-alle på en veldig personlig e-posttråd i morges."
+  },
+  {
+    "id": 22,
+    "category": "funny",
+    "text": "En ekorn gnagde gjennom den eneste ladekabelen min og telefonen er død."
+  },
+  {
+    "id": 23,
+    "category": "funny",
+    "text": "Jeg gikk inn i en glassdør og trenger et øyeblikk."
+  },
+  {
+    "id": 24,
+    "category": "funny",
+    "text": "Naboens luftmadrass rømte inn i hagen min og blokkerte bilen."
+  },
+  {
+    "id": 25,
+    "category": "funny",
+    "text": "Jeg glei på et bananskal. Ja, det er faktisk det som skjedde."
+  },
+  {
+    "id": 26,
+    "category": "funny",
+    "text": "Barna mine satte googly-øyne på alle arbeidsklærne mine og jeg la ikke merke til det før på bussen."
+  },
+  {
+    "id": 27,
+    "category": "funny",
+    "text": "Jeg gikk ved et uhell inn i en flashmob og klarte ikke å komme meg ut."
+  },
+  {
+    "id": 28,
+    "category": "funny",
+    "text": "Jeg våknet og fant bilen min pakket inn i toalettpapir."
+  },
+  {
+    "id": 29,
+    "category": "funny",
+    "text": "Jeg brant toasten så dårlig at røykvarsleren ringte brannvesenet."
+  },
+  {
+    "id": 30,
+    "category": "funny",
+    "text": "Den automatiske garasjeporten min har bestemt seg for at i dag er fridagen dens."
+  },
+  {
+    "id": 31,
+    "category": "funny",
+    "text": "Jeg oppdaget at jeg hadde to forskjellige sko på ved bussholdeplassen."
+  },
+  {
+    "id": 32,
+    "category": "funny",
+    "text": "Romkompisen min adopterte en geit uten å fortelle meg. Geiten tilpasser seg ikke bra."
+  },
+  {
+    "id": 33,
+    "category": "funny",
+    "text": "Jeg fikk slipset fast i skriveren i går og kom meg ikke til telefonen."
+  },
+  {
+    "id": 34,
+    "category": "funny",
+    "text": "Jeg veltet hele garderoben min i morges og trenger tid til å bearbeide det."
+  },
+  {
+    "id": 35,
+    "category": "funny",
+    "text": "Jeg prøvde en snarvei og endte opp i en annen by."
+  },
+  {
+    "id": 36,
+    "category": "funny",
+    "text": "Dørkamera mitt fanget noe jeg må rapportere til flere myndigheter."
+  },
+  {
+    "id": 37,
+    "category": "funny",
+    "text": "Jeg slettet hele kalenderen min ved et uhell, inkludert dagens møter."
+  },
+  {
+    "id": 38,
+    "category": "funny",
+    "text": "Kontorstolen min rullet ut på et svakt hellende underlag og jeg mistet den i 45 minutter."
+  },
+  {
+    "id": 39,
+    "category": "funny",
+    "text": "Glidelåsen min har satt seg fast irreversibelt og jeg er fortsatt i frakken."
+  },
+  {
+    "id": 40,
+    "category": "funny",
+    "text": "En fugl bygde reir i inntaksmunnen på bilen min og jeg kan ikke bry meg om å forstyrre den."
+  },
+  {
+    "id": 41,
+    "category": "funny",
+    "text": "Jeg overvarmet kaffebrødet og det eksploderte. Ryddejobben pågår fortsatt."
+  },
+  {
+    "id": 42,
+    "category": "funny",
+    "text": "Jeg fikk et klistremerke fast på kontaktlinsen."
+  },
+  {
+    "id": 43,
+    "category": "funny",
+    "text": "Jeg svarte døren i søvne. Budet etterlot en lapp."
+  },
+  {
+    "id": 44,
+    "category": "funny",
+    "text": "Mikrobølgeovnen min falt av hyllen og landet på bilnøklene."
+  },
+  {
+    "id": 45,
+    "category": "funny",
+    "text": "Jeg oppdaget i morges at jeg er allergisk mot den nye såpen. Ansiktet mitt er interessant."
+  },
+  {
+    "id": 46,
+    "category": "funny",
+    "text": "Jeg bestilte frokost på vei hjem og den ble levert til naboen — fikk den aldri."
+  },
+  {
+    "id": 47,
+    "category": "funny",
+    "text": "Jeg meldte meg på en treningstime klokka fire om morgenen og møtte opp av en eller annen grunn."
+  },
+  {
+    "id": 48,
+    "category": "funny",
+    "text": "Beltet mitt sprakk i to da jeg skulle dra. Jeg har ingen reservebelte."
+  },
+  {
+    "id": 49,
+    "category": "funny",
+    "text": "Jeg satte meg på noe mystisk på bussen og må hjem for å skifte klær."
+  },
+  {
+    "id": 50,
+    "category": "funny",
+    "text": "En hermetikkboks med tomatsaus eksploderte i vesken og ødela ladekabelen."
+  },
+  {
+    "id": 51,
+    "category": "funny",
+    "text": "Jeg fikk en propp i lommen der mobillader er."
+  },
+  {
+    "id": 52,
+    "category": "funny",
+    "text": "Vinden blåste originaldokumentet mitt vekk akkurat da jeg åpnet bilen."
+  },
+  {
+    "id": 53,
+    "category": "funny",
+    "text": "Jeg klappet nabohunden og den rev leietillatelsen min."
+  },
+  {
+    "id": 54,
+    "category": "funny",
+    "text": "Skummet fra kaffemaskinen min sprang lekk og kastet varm kaffe på skjortefortet."
+  },
+  {
+    "id": 55,
+    "category": "funny",
+    "text": "Jeg leide sykkel i morges og den gikk i stykker midt på veien."
+  },
+  {
+    "id": 56,
+    "category": "funny",
+    "text": "Jeg ødela skoen min da takrennen rant over og traff meg."
+  },
+  {
+    "id": 57,
+    "category": "funny",
+    "text": "Barnet mitt laget kunst på kjøkkenveggen klokken fem i morges og jeg kan ikke forstå det."
+  },
+  {
+    "id": 58,
+    "category": "funny",
+    "text": "Jeg gled på is på fortauet og mistet termos og kaffekopp."
+  },
+  {
+    "id": 59,
+    "category": "funny",
+    "text": "Hunden min tok skoen min opp på taket og jeg vet ikke hvordan."
+  },
+  {
+    "id": 60,
+    "category": "funny",
+    "text": "Jeg krasjet i en ny bussdemonen fordi jeg leste."
+  },
+  {
+    "id": 61,
+    "category": "funny",
+    "text": "Jeg åpnet feil dør hos naboen og satte meg ned på kjøkkenet deres før jeg la merke til det."
+  },
+  {
+    "id": 62,
+    "category": "funny",
+    "text": "Noen parkerte for nær og jeg kan ikke åpne bildøren."
+  },
+  {
+    "id": 63,
+    "category": "funny",
+    "text": "Soppen min i drivhuset er i nødstilstand og trenger spesiell behandling."
+  },
+  {
+    "id": 64,
+    "category": "funny",
+    "text": "Jeg sølt all morgenkaffe på skrivebordet og tastaturet."
+  },
+  {
+    "id": 65,
+    "category": "funny",
+    "text": "Tommelen min er frosset fast til postkassen."
+  },
+  {
+    "id": 66,
+    "category": "funny",
+    "text": "Jeg kjøpte feil størrelse klær i går og problemet er åpenbart."
+  },
+  {
+    "id": 67,
+    "category": "funny",
+    "text": "Klokken i stuen begynte å slå 23 ganger om natten og vekket meg."
+  },
+  {
+    "id": 68,
+    "category": "funny",
+    "text": "Naboen min får kledning og materialene er farlig nær bilen min."
+  },
+  {
+    "id": 69,
+    "category": "funny",
+    "text": "Jeg er usikker på om hunden min leker et spill eller faktisk er syk."
+  },
+  {
+    "id": 70,
+    "category": "funny",
+    "text": "Jeg fant en yoghurtboks i stedet for skoen min i støvleskapet."
+  },
+  {
+    "id": 71,
+    "category": "funny",
+    "text": "Katten min lærte seg å åpne kjøleskapet og gjemte maten min."
+  },
+  {
+    "id": 72,
+    "category": "funny",
+    "text": "Jeg hørte på feil podcast og havnet utilsiktet på et symposium om selvstyreteori."
+  },
+  {
+    "id": 73,
+    "category": "funny",
+    "text": "Jeg mistet nøkkelen til postkassen og posten min er der inne."
+  },
+  {
+    "id": 74,
+    "category": "funny",
+    "text": "Jeg tørket kjøkkenvinduet og falt inn i det."
+  },
+  {
+    "id": 75,
+    "category": "funny",
+    "text": "Vaskemaskinen min sang høyt om natten og fikk bussbevissthet."
+  },
+  {
+    "id": 76,
+    "category": "funny",
+    "text": "Jeg falt oppover trappen i stedet for ned."
+  },
+  {
+    "id": 77,
+    "category": "funny",
+    "text": "En ananas i matbutikken sto i veien for meg og jeg falt over den."
+  },
+  {
+    "id": 78,
+    "category": "funny",
+    "text": "Katten min synger høyt klokken tre om morgenen og jeg kan ikke sove."
+  },
+  {
+    "id": 79,
+    "category": "funny",
+    "text": "Jeg vasket meg i mørket og kledde på meg klærne i feil rekkefølge."
+  },
+  {
+    "id": 80,
+    "category": "funny",
+    "text": "Solbrillestativet mitt brakk og jeg er for lysfølsom til å kjøre."
+  },
+  {
+    "id": 81,
+    "category": "funny",
+    "text": "Jeg satte brød i brødristeren og glemte at den var på fra i går. Kjøkkenet trenger ventilering."
+  },
+  {
+    "id": 82,
+    "category": "funny",
+    "text": "Et brev fra skattemyndighetene kom i morges og jeg må svare umiddelbart."
+  },
+  {
+    "id": 83,
+    "category": "funny",
+    "text": "Bussen var uten klimaanlegg og jeg er veldig varmfølsom."
+  },
+  {
+    "id": 84,
+    "category": "funny",
+    "text": "Jeg glemte hvor jeg parkerte og leter fortsatt."
+  },
+  {
+    "id": 85,
+    "category": "funny",
+    "text": "Jeg overforberedte meg til møtene i dag og er for trøtt for tidlig."
+  },
+  {
+    "id": 86,
+    "category": "funny",
+    "text": "Vi oppdaget en sprekk i kjøkkenveggen i morges og dette må løses umiddelbart."
+  },
+  {
+    "id": 87,
+    "category": "funny",
+    "text": "Jeg gled på stigen da den knakk under meg."
+  },
+  {
+    "id": 88,
+    "category": "funny",
+    "text": "Smørbrødet mitt gikk i stykker da jeg tok i det og alt havnet på gulvet."
+  },
+  {
+    "id": 89,
+    "category": "funny",
+    "text": "Jeg har blitt skylt i kraftig regn og er gjennomvåt og trenger å skifte."
+  },
+  {
+    "id": 90,
+    "category": "funny",
+    "text": "Jeg knakk hånden min da jeg skled inn i bilen."
+  },
+  {
+    "id": 91,
+    "category": "funny",
+    "text": "Katten min hoppet på meg mens jeg sov og jeg rullet ut av sengen."
+  },
+  {
+    "id": 92,
+    "category": "funny",
+    "text": "Katten kom seg inn i arbeidsvesken min og gnog opp alle dokumentene."
+  },
+  {
+    "id": 93,
+    "category": "funny",
+    "text": "Jeg glemte bilen på feil sted og den ble tauet bort."
+  },
+  {
+    "id": 94,
+    "category": "funny",
+    "text": "Stigen min knakk da jeg skulle hente noe på øverste hylle."
+  },
+  {
+    "id": 95,
+    "category": "funny",
+    "text": "Toalettet mitt begynte å flomme i morges og vannet renner fortsatt."
+  },
+  {
+    "id": 96,
+    "category": "funny",
+    "text": "Jeg er fast ved inngangsdøren fordi dørknappen falt av."
+  },
+  {
+    "id": 97,
+    "category": "funny",
+    "text": "Vinden blåste døren igjen og låste meg ute da jeg var ute."
+  },
+  {
+    "id": 98,
+    "category": "funny",
+    "text": "Jeg er fortsatt i pyjamas fordi vaskemaskinen har alle klærne mine."
+  },
+  {
+    "id": 99,
+    "category": "funny",
+    "text": "Kulepennen min var gammel og eksploderte da jeg tok i den."
+  },
+  {
+    "id": 100,
+    "category": "funny",
+    "text": "Hunden min er på lydighetsopplæring og kan ikke forlates etter at den begynte."
+  },
+  {
+    "id": 101,
+    "category": "funny",
+    "text": "Jeg rennet gjennom svømmebasseng men glemte natten å planlegge reisen."
+  },
+  {
+    "id": 102,
+    "category": "funny",
+    "text": "Jeg vasket meg med klærne jeg skulle jobbe i og de er våte."
+  },
+  {
+    "id": 103,
+    "category": "funny",
+    "text": "Jeg satte meg ned i stolen min og knakk den."
+  },
+  {
+    "id": 104,
+    "category": "funny",
+    "text": "Jeg gikk til feil møte og er nå i et annet kontorbygg."
+  },
+  {
+    "id": 105,
+    "category": "funny",
+    "text": "Skinnjakken min frøs fast til bilen og kan ikke spennes opp."
+  },
+  {
+    "id": 106,
+    "category": "funny",
+    "text": "Forsetesvesken min er fast under en annen bil."
+  },
+  {
+    "id": 107,
+    "category": "funny",
+    "text": "Jeg tok på naboens jakke, ikke min, og utseendet er annerledes."
+  },
+  {
+    "id": 108,
+    "category": "funny",
+    "text": "Jeg satte meg ned i kaffe som sto på stolen min."
+  },
+  {
+    "id": 109,
+    "category": "funny",
+    "text": "Jeg tok lettere bukser enn vanlig og lommeboken falt ut på gangen."
+  },
+  {
+    "id": 110,
+    "category": "funny",
+    "text": "Trostel min synger så høyt at jeg ikke kan tenke."
+  },
+  {
+    "id": 111,
+    "category": "funny",
+    "text": "Jeg mistet speilet mitt mens jeg vasket."
+  },
+  {
+    "id": 112,
+    "category": "funny",
+    "text": "Kniven min falt og traff tærne mine da jeg lagde frokost."
+  },
+  {
+    "id": 113,
+    "category": "funny",
+    "text": "Kofferten min er fast under sengen og jeg kan ikke dra den ut."
+  },
+  {
+    "id": 114,
+    "category": "funny",
+    "text": "Jeg falt da jeg løftet av meg vesken."
+  },
+  {
+    "id": 115,
+    "category": "funny",
+    "text": "Sengen min brettet seg ut og falt ned på meg da jeg skulle stå opp."
+  },
+  {
+    "id": 116,
+    "category": "funny",
+    "text": "Veikryss mellom gatene er stengt på grunn av veiarbeid i dag."
+  },
+  {
+    "id": 117,
+    "category": "funny",
+    "text": "Hunden min har låst seg inn hos naboen og trenger at jeg henter den."
+  },
+  {
+    "id": 118,
+    "category": "funny",
+    "text": "Jeg blandet bilnøklene mine med naboens og han er på reise."
+  },
+  {
+    "id": 119,
+    "category": "funny",
+    "text": "Jeg må vente hjemme på grunn av en pakkeleveranse som skal komme i dag."
+  },
+  {
+    "id": 120,
+    "category": "funny",
+    "text": "Dekket mitt punkterte da jeg kjørte til jobb."
+  },
+  {
+    "id": 121,
+    "category": "funny",
+    "text": "Nøkkelen brakk i lås da jeg skulle åpne bilen."
+  },
+  {
+    "id": 122,
+    "category": "funny",
+    "text": "Jeg måtte ta hunden til veterinæren og den er fortsatt der."
+  },
+  {
+    "id": 123,
+    "category": "funny",
+    "text": "Jeg knakk bilruten mens jeg rengjorde den i morges."
+  },
+  {
+    "id": 124,
+    "category": "funny",
+    "text": "Olje lekket ut av bilen min og jeg venter på hjelp."
+  },
+  {
+    "id": 125,
+    "category": "funny",
+    "text": "Jeg sto i kø på bensinstasjonen og køen er enorm."
+  },
+  {
+    "id": 126,
+    "category": "funny",
+    "text": "Brikkestrimlen i bilvinduet er fast og jeg kan ikke åpne vinduet for å betale."
+  },
+  {
+    "id": 127,
+    "category": "funny",
+    "text": "Bilen vår starter ikke — på en eller annen måte er tenningsbryteren ødelagt."
+  },
+  {
+    "id": 128,
+    "category": "funny",
+    "text": "Bildekket mitt sprakk da jeg parkerte i morges."
+  },
+  {
+    "id": 129,
+    "category": "funny",
+    "text": "Jeg måtte kjøre søsteren min til sykehuset og er fortsatt der med henne."
+  },
+  {
+    "id": 130,
+    "category": "funny",
+    "text": "Bilen trenger oljeskifte før jeg kan kjøre lenger."
+  },
+  {
+    "id": 131,
+    "category": "funny",
+    "text": "Jeg mistet bilnøklene i en kloakk i gaten."
+  },
+  {
+    "id": 132,
+    "category": "funny",
+    "text": "Bilhjulene frøs fast over natten og trenger tining."
+  },
+  {
+    "id": 133,
+    "category": "funny",
+    "text": "Dekkene trengte utskifting og serviceteknikeren kommer ikke før middag."
+  },
+  {
+    "id": 134,
+    "category": "funny",
+    "text": "Jeg oppdaget at bremsen på bilen er veldig løs og må til service."
+  },
+  {
+    "id": 135,
+    "category": "funny",
+    "text": "Rattet er for stivt i kulde og trenger oppvarming før jeg kan kjøre."
+  },
+  {
+    "id": 136,
+    "category": "funny",
+    "text": "Taket på huset trenger akutt reparasjon på grunn av lekkasje da jeg våknet."
+  },
+  {
+    "id": 137,
+    "category": "funny",
+    "text": "Jeg har vært i telefonkø med internettleverandøren hele natten og venter fortsatt."
+  },
+  {
+    "id": 138,
+    "category": "funny",
+    "text": "Ventilasjonen i huset stoppet og vi venter på en murer."
+  },
+  {
+    "id": 139,
+    "category": "funny",
+    "text": "Jeg må ta meg av elektriske forhold før jeg kan dra."
+  },
+  {
+    "id": 140,
+    "category": "funny",
+    "text": "Lysglødepærer i stuen sprakk alle på en gang og det er mørkt her inne."
+  },
+  {
+    "id": 141,
+    "category": "funny",
+    "text": "Jeg må møte på en informasjonssamling om kjøretillatelse for bilen min."
+  },
+  {
+    "id": 142,
+    "category": "funny",
+    "text": "Jeg oppdaget en vannskade fra rørledninger i leiligheten i morges og trenger rørlegger."
+  },
+  {
+    "id": 143,
+    "category": "funny",
+    "text": "Kjøkkengassen min trenger utskifting og teknikeren kommer i morgen."
+  },
+  {
+    "id": 144,
+    "category": "believable",
+    "text": "Jeg har en legeavtale jeg hadde glemt helt til i morges."
+  },
+  {
+    "id": 145,
+    "category": "believable",
+    "text": "Barnet mitt er sykt og jeg fant ingen til å passe det."
+  },
+  {
+    "id": 146,
+    "category": "believable",
+    "text": "Bilen min starter ikke — batteriet er dødt."
+  },
+  {
+    "id": 147,
+    "category": "believable",
+    "text": "Jeg har kraftig hodepine og kan ikke stirre på en skjerm."
+  },
+  {
+    "id": 148,
+    "category": "believable",
+    "text": "Barnevakten avbestilte i siste liten."
+  },
+  {
+    "id": 149,
+    "category": "believable",
+    "text": "En familienødsituasjon som jeg ikke kan diskutere nå."
+  },
+  {
+    "id": 150,
+    "category": "believable",
+    "text": "Jeg har flate dekk på vei hit."
+  },
+  {
+    "id": 151,
+    "category": "believable",
+    "text": "Den eldre forelderen min trenger å komme til sykehus i dag."
+  },
+  {
+    "id": 152,
+    "category": "believable",
+    "text": "Jeg våknet med matforgiftning og det er ikke pent."
+  },
+  {
+    "id": 153,
+    "category": "believable",
+    "text": "Ryggen min gikk og jeg kan knapt bevege meg."
+  },
+  {
+    "id": 154,
+    "category": "believable",
+    "text": "Jeg sitter fast i en uventet trafikkork — motorveien er helt stengt."
+  },
+  {
+    "id": 155,
+    "category": "believable",
+    "text": "Togreisen min ble avlyst uten varsel."
+  },
+  {
+    "id": 156,
+    "category": "believable",
+    "text": "Skolen ringte — feber, jeg trenger å hente barnet."
+  },
+  {
+    "id": 157,
+    "category": "believable",
+    "text": "Jeg har mage-tarminfeksjon og vil ikke smitte andre."
+  },
+  {
+    "id": 158,
+    "category": "believable",
+    "text": "Vannrørene sprakk over natten og det er vann overalt."
+  },
+  {
+    "id": 159,
+    "category": "believable",
+    "text": "Det er en gasslekkasje og fagmannen er på vei."
+  },
+  {
+    "id": 160,
+    "category": "believable",
+    "text": "Jeg er i en jury som ble bekreftet i morges."
+  },
+  {
+    "id": 161,
+    "category": "believable",
+    "text": "Jeg har en veldig alvorlig sykdom som trenger hvile."
+  },
+  {
+    "id": 162,
+    "category": "believable",
+    "text": "Fastlegen min bestilte meg inn i morges og jeg kunne ikke avlyse."
+  },
+  {
+    "id": 163,
+    "category": "believable",
+    "text": "Jeg har hatt kramper og har vært til lege."
+  },
+  {
+    "id": 164,
+    "category": "believable",
+    "text": "Fysiske skader fra i går trenger oppfølging i dag."
+  },
+  {
+    "id": 165,
+    "category": "believable",
+    "text": "Jeg skal til en operasjon jeg ikke torde fortelle om."
+  },
+  {
+    "id": 166,
+    "category": "believable",
+    "text": "Barnet mitt brakk armen i barnehagen i går."
+  },
+  {
+    "id": 167,
+    "category": "believable",
+    "text": "Måtte ta spedbarnet til en spesiell undersøkelse."
+  },
+  {
+    "id": 168,
+    "category": "believable",
+    "text": "Jeg trenger å være hjemme på grunn av en fagperson som skal komme."
+  },
+  {
+    "id": 169,
+    "category": "believable",
+    "text": "Huseieren min trenger tilgang til leiligheten for inspeksjon."
+  },
+  {
+    "id": 170,
+    "category": "believable",
+    "text": "Elektrikeren er på vei og dette er en kritisk nødreparasjon."
+  },
+  {
+    "id": 171,
+    "category": "believable",
+    "text": "Jeg venter på resultater fra en undersøkelse på sykehuset."
+  },
+  {
+    "id": 172,
+    "category": "believable",
+    "text": "Alvorlige allergireaksjoner har plaget meg over natten."
+  },
+  {
+    "id": 173,
+    "category": "believable",
+    "text": "Jeg trenger å være hos en nærstående som er i en vanskelig psykologisk prosess."
+  },
+  {
+    "id": 174,
+    "category": "believable",
+    "text": "Barnet mitt er diagnostisert med en smittsom sykdom og vi trenger karantene."
+  },
+  {
+    "id": 175,
+    "category": "believable",
+    "text": "Ambulansen kom for et familiemedlem og jeg er fortsatt på sykehuset."
+  },
+  {
+    "id": 176,
+    "category": "believable",
+    "text": "Jeg trenger hjelp til å ta vare på en eldre forelder som falt i natt."
+  },
+  {
+    "id": 177,
+    "category": "believable",
+    "text": "Leilighetens leier ble tvangsflyttet uten tillatelse og jeg trenger å ordne juridisk."
+  },
+  {
+    "id": 178,
+    "category": "believable",
+    "text": "Barnet mitt trenger spesiell pedagogisk vurdering som bare er tilgjengelig i dag."
+  },
+  {
+    "id": 179,
+    "category": "believable",
+    "text": "Tannen min brakk og det er veldig vondt og trenger akutt tannbehandling."
+  },
+  {
+    "id": 180,
+    "category": "believable",
+    "text": "Jeg har øyeverk og legen kan finne noe alvorlig."
+  },
+  {
+    "id": 181,
+    "category": "believable",
+    "text": "Jeg trenger å gå til en kreftscreening jeg hadde glemt."
+  },
+  {
+    "id": 182,
+    "category": "believable",
+    "text": "Hjemmehjelperen min trenger å undertegne noe denne dagen."
+  },
+  {
+    "id": 183,
+    "category": "believable",
+    "text": "En av kollegene mine er alvorlig syk og jeg trenger å hjelpe familien."
+  },
+  {
+    "id": 184,
+    "category": "believable",
+    "text": "Bilen min ble stjålet og jeg trenger å rapportere det til politiet."
+  },
+  {
+    "id": 185,
+    "category": "believable",
+    "text": "Låseimittenten min sviktet og jeg er låst inne og venter på låsesmed."
+  },
+  {
+    "id": 186,
+    "category": "believable",
+    "text": "Barneskolen min er stengt på grunn av uventede omstendigheter og barna er hjemme."
+  },
+  {
+    "id": 187,
+    "category": "believable",
+    "text": "Jeg fikk feil medisin fra apoteket og trenger å dra tilbake."
+  },
+  {
+    "id": 188,
+    "category": "believable",
+    "text": "En nærstående trenger hjelp til behandlingsressursene sine."
+  },
+  {
+    "id": 189,
+    "category": "believable",
+    "text": "Utleieren trenger tilgang til leiligheten for inspeksjon på grunn av forstyrrelse."
+  },
+  {
+    "id": 190,
+    "category": "believable",
+    "text": "Jeg har hatt høy feber i tre dager og drar endelig til legen."
+  },
+  {
+    "id": 191,
+    "category": "believable",
+    "text": "Rattet mitt ble skadet i trafikklyset og jeg trenger reparasjon."
+  },
+  {
+    "id": 192,
+    "category": "believable",
+    "text": "Jeg henter barnet mitt fra skolen på grunn av mobbing som trenger øyeblikkelig diskusjon."
+  },
+  {
+    "id": 193,
+    "category": "believable",
+    "text": "Jeg har et fastlåst psykologmøte i dag som jeg ikke kan utsette."
+  },
+  {
+    "id": 194,
+    "category": "believable",
+    "text": "Bestemor min gikk bort og jeg trenger å være hos familien."
+  },
+  {
+    "id": 195,
+    "category": "believable",
+    "text": "Medisinen min trenger fornyelse og farmasøyten er bare tilgjengelig i dag."
+  },
+  {
+    "id": 196,
+    "category": "believable",
+    "text": "Operasjonen min er utsatt og ny time er akkurat i dag."
+  },
+  {
+    "id": 197,
+    "category": "believable",
+    "text": "Jeg har krampesmerter og trenger hvile."
+  },
+  {
+    "id": 198,
+    "category": "believable",
+    "text": "Viktige skoleresultater for barnet mitt krever upartisk behandling."
+  },
+  {
+    "id": 199,
+    "category": "believable",
+    "text": "Jeg trenger å levere dokumenter til en klagemyndighet som utløper i dag."
+  },
+  {
+    "id": 200,
+    "category": "believable",
+    "text": "Jeg er syk og legeattest er allerede på vei til dere."
+  },
+  {
+    "id": 201,
+    "category": "believable",
+    "text": "Ambulansen ble tilkalt for familien min i natt."
+  },
+  {
+    "id": 202,
+    "category": "believable",
+    "text": "Smertene i kneet mitt er blitt så ille at jeg ikke kan gå."
+  },
+  {
+    "id": 203,
+    "category": "believable",
+    "text": "Jeg trenger å gå til en MR-undersøkelse på grunn av det som kom opp på forrige undersøkelse."
+  },
+  {
+    "id": 204,
+    "category": "believable",
+    "text": "Barnet mitt trenger spesifikk oppfølging på grunn av et utviklingsproblem."
+  },
+  {
+    "id": 205,
+    "category": "believable",
+    "text": "Et husstandsmedlem trenger å komme til akuttmottaket og jeg trenger å kjøre."
+  },
+  {
+    "id": 206,
+    "category": "believable",
+    "text": "Barnet er i en heftig sykdom og trenger foreldrene sine."
+  },
+  {
+    "id": 207,
+    "category": "believable",
+    "text": "Jeg er på besøk på sykehuset på grunn av en nabo som ikke har noen andre."
+  },
+  {
+    "id": 208,
+    "category": "believable",
+    "text": "Jeg trenger å møte til advokat i nødstilfelle om arveoppgjør."
+  },
+  {
+    "id": 209,
+    "category": "believable",
+    "text": "Kravet om å møte til barnevernsnemndsøkt kommer i dag."
+  },
+  {
+    "id": 210,
+    "category": "believable",
+    "text": "Kjøpskontrakt for hus skal underskrives og kjøperen kan bare i dag."
+  },
+  {
+    "id": 211,
+    "category": "believable",
+    "text": "Jeg har en medisinbivirkning som påvirker kjøreevnen min."
+  },
+  {
+    "id": 212,
+    "category": "believable",
+    "text": "Akutt service på kjøkkenet på grunn av vannskadesituasjon."
+  },
+  {
+    "id": 213,
+    "category": "believable",
+    "text": "Sykehuskonsultasjon om tilstand som veier tungt på hjertet mitt."
+  },
+  {
+    "id": 214,
+    "category": "believable",
+    "text": "Bilen min er hos veihjelpen og jeg venter."
+  },
+  {
+    "id": 215,
+    "category": "believable",
+    "text": "Jeg trenger en full gjennomgang av bilen min før jeg kan kjøre."
+  },
+  {
+    "id": 216,
+    "category": "believable",
+    "text": "Halsbetennelsen min er så ille at jeg knapt kan svelge."
+  },
+  {
+    "id": 217,
+    "category": "believable",
+    "text": "Jeg trenger å ta meg av en komplisert juridisk sak som strekker seg over dagen."
+  },
+  {
+    "id": 218,
+    "category": "believable",
+    "text": "Jeg kom til en brann i nærheten og trenger å være til stede."
+  },
+  {
+    "id": 219,
+    "category": "believable",
+    "text": "Lavt blodtrykk har vært et problem og jeg trenger hvile."
+  },
+  {
+    "id": 220,
+    "category": "believable",
+    "text": "Stillheten og vanskeligheten etter tap av en nær krever hjemstedsopphold."
+  },
+  {
+    "id": 221,
+    "category": "believable",
+    "text": "Jeg trenger å ta vare på brorens barn på grunn av en nødsituasjon."
+  },
+  {
+    "id": 222,
+    "category": "believable",
+    "text": "Loven krever at jeg møter til en rettshøring denne dagen."
+  },
+  {
+    "id": 223,
+    "category": "believable",
+    "text": "Jeg har et pusteproblem som trenger spesiell undersøkelse."
+  },
+  {
+    "id": 224,
+    "category": "believable",
+    "text": "Klinikken jeg er registrert ved er kun åpen denne dagen."
+  },
+  {
+    "id": 225,
+    "category": "believable",
+    "text": "Jeg trenger å møte til en kirurgisk vurdering på grunn av allerede diagnostiserte symptomer."
+  },
+  {
+    "id": 226,
+    "category": "believable",
+    "text": "Tannsmerten min er blitt så alvorlig at jeg trenger akutt tannlegeservice."
+  },
+  {
+    "id": 227,
+    "category": "believable",
+    "text": "Jeg er fastlåst i arrangementene for foreldredag på skolen."
+  },
+  {
+    "id": 228,
+    "category": "believable",
+    "text": "Jeg trenger å ta hånd om godkjenningsprosessen for bolig- og tjenestetilgang."
+  },
+  {
+    "id": 229,
+    "category": "believable",
+    "text": "Advokatene mine trenger underskriften min på viktige dokumenter i dag."
+  },
+  {
+    "id": 230,
+    "category": "believable",
+    "text": "Jeg trenger spesialstilling for depresjon som trenger behandling øyeblikkelig."
+  },
+  {
+    "id": 231,
+    "category": "believable",
+    "text": "Vedlikeholdsproblemet på huset krever umiddelbar oppmerksomhet."
+  },
+  {
+    "id": 232,
+    "category": "believable",
+    "text": "Jeg oppdaget en vannskade fra ledninger i leiligheten i morges."
+  },
+  {
+    "id": 233,
+    "category": "believable",
+    "text": "Komfyren min tok fyr og jeg trenger hjelp."
+  },
+  {
+    "id": 234,
+    "category": "believable",
+    "text": "Jeg trenger å ta vare på eldre foreldre over lengre tid denne uken."
+  },
+  {
+    "id": 235,
+    "category": "believable",
+    "text": "Redningstjenesten er på vei etter barnets ulykke."
+  },
+  {
+    "id": 236,
+    "category": "believable",
+    "text": "Jeg trenger å delta i skolestyremøte som bare er i dag."
+  },
+  {
+    "id": 237,
+    "category": "believable",
+    "text": "Barnet mitt er utestengt fra skolen på grunn av et fysisk problem."
+  },
+  {
+    "id": 238,
+    "category": "believable",
+    "text": "Jeg har en tyngde på hjertet og trenger hvile for å bli bedre."
+  },
+  {
+    "id": 239,
+    "category": "believable",
+    "text": "Jeg trenger hvile på grunn av en kompleks behandlingsprosess som fremdeles pågår."
+  },
+  {
+    "id": 240,
+    "category": "believable",
+    "text": "Jeg trenger å delta i nødsmøte om familieøkonomien hjemme."
+  },
+  {
+    "id": 241,
+    "category": "believable",
+    "text": "Sykehuset trenger en nærmere vurdering av tilstanden min i morges."
+  },
+  {
+    "id": 242,
+    "category": "believable",
+    "text": "Medisinen min trenger gjennomgang av spesialist som bare er tilgjengelig i dag."
+  },
+  {
+    "id": 243,
+    "category": "believable",
+    "text": "Den kirurgiske konsultasjonen min er flyttet til denne dagen."
+  },
+  {
+    "id": 244,
+    "category": "believable",
+    "text": "Jeg trenger hvile etter en akutt tanntrekking som ble gjort i går."
+  },
+  {
+    "id": 245,
+    "category": "believable",
+    "text": "Barnet mitt har feber og trenger meg hjemme."
+  },
+  {
+    "id": 246,
+    "category": "believable",
+    "text": "Jeg trenger umiddelbart å ta seg av en familiesak som dukker opp."
+  },
+  {
+    "id": 247,
+    "category": "believable",
+    "text": "Medisinen min trenger spesialresultater som er klare i dag."
+  },
+  {
+    "id": 248,
+    "category": "believable",
+    "text": "Jeg trenger spesiell hjelp til et funksjonshemmet familiemedlem."
+  },
+  {
+    "id": 249,
+    "category": "believable",
+    "text": "Fødselsdagen til en nærstående gjør at jeg trenger å være hjemme."
+  },
+  {
+    "id": 250,
+    "category": "believable",
+    "text": "Jeg trenger å være på jordmorkonsultasjon med ektefellen min."
+  },
+  {
+    "id": 251,
+    "category": "believable",
+    "text": "Spesiell finansiell nød trenger å løses umiddelbart."
+  },
+  {
+    "id": 252,
+    "category": "believable",
+    "text": "Jeg trenger å gå til en psykisk helsevurdering i dag som jeg ikke kan utsette."
+  },
+  {
+    "id": 253,
+    "category": "believable",
+    "text": "Jeg trenger hvile etter en øyeoperasjon som ble gjort i går."
+  },
+  {
+    "id": 254,
+    "category": "believable",
+    "text": "Jeg trenger å ta vare på et barn som er i karantene."
+  },
+  {
+    "id": 255,
+    "category": "believable",
+    "text": "Jeg trenger umiddelbart å delta i rapportskriving der jeg er vitne."
+  },
+  {
+    "id": 256,
+    "category": "believable",
+    "text": "Barnets verge trenger meg i et møte i dag."
+  },
+  {
+    "id": 257,
+    "category": "believable",
+    "text": "Jeg trenger spesiell hvile på grunn av diabetesbehandling som trenger overvåking."
+  },
+  {
+    "id": 258,
+    "category": "believable",
+    "text": "Barnet mitt trenger et vaksinepass som må være klart før skolestart."
+  },
+  {
+    "id": 259,
+    "category": "believable",
+    "text": "Jeg trenger å håndtere fødselspermisjon knyttet til foreldrepermisjonstiltak."
+  },
+  {
+    "id": 260,
+    "category": "believable",
+    "text": "Jeg trenger å møte til spesiell karriereveiledning for barnets skolevalg."
+  },
+  {
+    "id": 261,
+    "category": "believable",
+    "text": "Her hjemme trenger en byggmester å se på fukt i murverket."
+  },
+  {
+    "id": 262,
+    "category": "believable",
+    "text": "Jeg er syk med relaterte plager som krever hvile."
+  },
+  {
+    "id": 263,
+    "category": "believable",
+    "text": "Barnet mitt fikk en karakter som trenger advokatbistand for å bestride."
+  },
+  {
+    "id": 264,
+    "category": "believable",
+    "text": "Jeg trenger å sitte ved siden av forelderen min på kirurgisk konsultasjon."
+  },
+  {
+    "id": 265,
+    "category": "believable",
+    "text": "Jeg gikk på feil medikamentblanding og trenger overvåking."
+  },
+  {
+    "id": 266,
+    "category": "believable",
+    "text": "Håndverkeren er på vei for å reparere døren som gikk i stykker."
+  },
+  {
+    "id": 267,
+    "category": "believable",
+    "text": "Jeg har sterke magesmerter og trenger å komme til akuttmottaket."
+  },
+  {
+    "id": 268,
+    "category": "believable",
+    "text": "Jeg trenger fornying av spesialmedisin som bare er tilgjengelig i dag."
+  },
+  {
+    "id": 269,
+    "category": "believable",
+    "text": "Jeg trenger å møte til skolestyremøte på grunn av endret pensum."
+  },
+  {
+    "id": 270,
+    "category": "believable",
+    "text": "Barnelegen trenger kontroll på barnet mitt på grunn av et utviklingsproblem."
+  },
+  {
+    "id": 271,
+    "category": "believable",
+    "text": "Plutselig karantene hjemme betyr at jeg ikke kan komme inn på arbeidsstedet."
+  },
+  {
+    "id": 272,
+    "category": "believable",
+    "text": "Jeg trenger reparasjon av støtteskinner som knakk denne morgenen."
+  },
+  {
+    "id": 273,
+    "category": "believable",
+    "text": "Jeg trenger å være til stede for politiet på grunn av innbrudd i garasjen min."
+  },
+  {
+    "id": 274,
+    "category": "believable",
+    "text": "Jeg trenger en pasientkonsultasjon som bare er registrert i dag."
+  },
+  {
+    "id": 275,
+    "category": "believable",
+    "text": "Et familiemedlem trenger motivasjon og støtte i dag."
+  },
+  {
+    "id": 276,
+    "category": "believable",
+    "text": "Jeg trenger hvile på grunn av øyekramper i natt."
+  },
+  {
+    "id": 277,
+    "category": "believable",
+    "text": "Varmesystemet i huset eksploderte og vi er uten varme."
+  },
+  {
+    "id": 278,
+    "category": "believable",
+    "text": "Advokaten min trenger underskriften min på viktige dokumenter i dag."
+  },
+  {
+    "id": 279,
+    "category": "believable",
+    "text": "Jeg trenger spesiell hvile på grunn av behandling av utmattelse."
+  },
+  {
+    "id": 280,
+    "category": "believable",
+    "text": "Gasservice trenger å komme og fikse lekkasjen vi oppdaget."
+  },
+  {
+    "id": 281,
+    "category": "believable",
+    "text": "Jeg er syk med smittsom sykdom og vil ikke smitte kolleger."
+  },
+  {
+    "id": 282,
+    "category": "believable",
+    "text": "Trappen min hjemme knakk og trenger utskifting."
+  },
+  {
+    "id": 283,
+    "category": "believable",
+    "text": "Jeg trenger hvile etter medisinkur som har sterke bivirkninger."
+  },
+  {
+    "id": 284,
+    "category": "believable",
+    "text": "Jeg trenger spesiell psykologhjelp i dag på grunn av et sammenbrudd som oppsto."
+  },
+  {
+    "id": 285,
+    "category": "believable",
+    "text": "Barnet mitt fikk sykdom som trenger spesiell isolasjon."
+  },
+  {
+    "id": 286,
+    "category": "believable",
+    "text": "Jeg trenger hvile på grunn av svimmelhet og kvalme."
+  },
+  {
+    "id": 287,
+    "category": "believable",
+    "text": "Jeg trenger spesiell hvile på grunn av skader jeg pådro meg forrige måned."
+  },
+  {
+    "id": 288,
+    "category": "believable",
+    "text": "Jeg trenger nøkkel for å åpne nye låser etter at gammel nøkkel knakk."
+  },
+  {
+    "id": 289,
+    "category": "believable",
+    "text": "Hemmelige dokumenter krever varsling til myndigheter denne dagen."
+  },
+  {
+    "id": 290,
+    "category": "chaotic",
+    "text": "Jeg våknet i en annen by uten å huske at jeg dro dit."
+  },
+  {
+    "id": 291,
+    "category": "chaotic",
+    "text": "Naboen min flytter og trenger hjelpen min siden klokken fem i morges."
+  },
+  {
+    "id": 292,
+    "category": "chaotic",
+    "text": "Redningstjenesten er utenfor huset mitt og jeg vet ikke hvorfor."
+  },
+  {
+    "id": 293,
+    "category": "chaotic",
+    "text": "Jeg er på vei men en steinblokk er i veien på motorveien."
+  },
+  {
+    "id": 294,
+    "category": "chaotic",
+    "text": "Reven min er fast i takrennene til naboen og jeg trenger å redde den."
+  },
+  {
+    "id": 295,
+    "category": "chaotic",
+    "text": "Politiet ba meg bli hjemme mens de undersøker noe."
+  },
+  {
+    "id": 296,
+    "category": "chaotic",
+    "text": "Hunden min rømte og er nå hos politiet i en annen by."
+  },
+  {
+    "id": 297,
+    "category": "chaotic",
+    "text": "Jeg finner ikke bilen min. Parkerte sannsynligvis et sted i går."
+  },
+  {
+    "id": 298,
+    "category": "chaotic",
+    "text": "Jeg prøver å redde en fugl som krasjet i vinduet og er svimmel."
+  },
+  {
+    "id": 299,
+    "category": "chaotic",
+    "text": "Dagligvarebutikken ble tatt som gissel akkurat da jeg skulle kjøpe frokost."
+  },
+  {
+    "id": 300,
+    "category": "chaotic",
+    "text": "Jeg er midt i et drivstoffstreik og bensinen er nesten tom."
+  },
+  {
+    "id": 301,
+    "category": "chaotic",
+    "text": "Tidsmaskinen min knakk og jeg er ikke sikker på hvilken dag det er."
+  },
+  {
+    "id": 302,
+    "category": "chaotic",
+    "text": "Jeg er fast mellom etasjer i en heis."
+  },
+  {
+    "id": 303,
+    "category": "chaotic",
+    "text": "Veien fra huset mitt er dekket av sauelam."
+  },
+  {
+    "id": 304,
+    "category": "chaotic",
+    "text": "Katten min falt av trappen og trenger redning."
+  },
+  {
+    "id": 305,
+    "category": "chaotic",
+    "text": "Jeg fikk et uventet besøk fra en fjern slektning som kom fra et annet land."
+  },
+  {
+    "id": 306,
+    "category": "chaotic",
+    "text": "Kommunen er fraflyttet og jeg finner ikke huset mitt."
+  },
+  {
+    "id": 307,
+    "category": "chaotic",
+    "text": "En tilfeldig nyhet fikk meg til å løpe ut av huset og jeg prøver fortsatt å komme meg tilbake."
+  },
+  {
+    "id": 308,
+    "category": "chaotic",
+    "text": "Et gigantisk nabolagsveddeløp forårsaket total gatestengning."
+  },
+  {
+    "id": 309,
+    "category": "chaotic",
+    "text": "Den selvkjørende bilen min tok ferie og er nå i en annen bydel."
+  },
+  {
+    "id": 310,
+    "category": "chaotic",
+    "text": "Toget jeg er på har stoppet i en tunnel og vi er fortsatt der."
+  },
+  {
+    "id": 311,
+    "category": "chaotic",
+    "text": "Hotellrommet mitt var dobbeltbooket og jeg er fortsatt på kontoret og prøver å løse det."
+  },
+  {
+    "id": 312,
+    "category": "chaotic",
+    "text": "Flyet mitt ble omdisponert og jeg er nå på feil flyplass."
+  },
+  {
+    "id": 313,
+    "category": "chaotic",
+    "text": "Hundetreneren min har trent hunden til å rive opp planleggingsplaner."
+  },
+  {
+    "id": 314,
+    "category": "chaotic",
+    "text": "Jeg ble tatt som gissel på et treningsstudio og er nylig løslatt."
+  },
+  {
+    "id": 315,
+    "category": "chaotic",
+    "text": "Et spill på bakeriet tok meg på sengen og jeg mistet køen."
+  },
+  {
+    "id": 316,
+    "category": "chaotic",
+    "text": "Sikkerhetsvakten på arbeidsstedet ville ikke slippe meg inn uten ID-kortet."
+  },
+  {
+    "id": 317,
+    "category": "chaotic",
+    "text": "Jeg mistet lommeboken på vei og trenger å avbestille alle kredittkort."
+  },
+  {
+    "id": 318,
+    "category": "chaotic",
+    "text": "Folkemengden utenfor kafeen min er så stor at jeg ikke kan komme meg ut."
+  },
+  {
+    "id": 319,
+    "category": "chaotic",
+    "text": "Sikkerhetssystemet mitt hjemme ga ut falskt varsel og politiet er her."
+  },
+  {
+    "id": 320,
+    "category": "chaotic",
+    "text": "Jeg er på vei men sitter fast i et snurrende tre."
+  },
+  {
+    "id": 321,
+    "category": "chaotic",
+    "text": "Et snøskred stenger veien min og jeg kommer meg ikke til jobb."
+  },
+  {
+    "id": 322,
+    "category": "chaotic",
+    "text": "En strøm av sjødyr løp over bilen min mens den sto."
+  },
+  {
+    "id": 323,
+    "category": "chaotic",
+    "text": "En kjøretur med naboen gikk galt og landet ved en klippe."
+  },
+  {
+    "id": 324,
+    "category": "chaotic",
+    "text": "Den gamle mannen i hjørnet inviterte meg til et stort prosjekt og jeg torde ikke avslå."
+  },
+  {
+    "id": 325,
+    "category": "chaotic",
+    "text": "Jeg er midt i et snøras på en fjellvei."
+  },
+  {
+    "id": 326,
+    "category": "chaotic",
+    "text": "Ordføreren ba om hjelpen min til et spesielt prosjekt."
+  },
+  {
+    "id": 327,
+    "category": "chaotic",
+    "text": "Kommunen tok en utendørsdag og jeg måtte delta."
+  },
+  {
+    "id": 328,
+    "category": "chaotic",
+    "text": "Radiostasjonen fikk meg til å delta i en direktesendt sending."
+  },
+  {
+    "id": 329,
+    "category": "chaotic",
+    "text": "Et arkeologisk funn ble gjort i hagen min og de trenger meg."
+  },
+  {
+    "id": 330,
+    "category": "chaotic",
+    "text": "Jeg er på en redningsbåt ved Steinsfjord."
+  },
+  {
+    "id": 331,
+    "category": "chaotic",
+    "text": "Sjokoladepålegget smeltet tre stykker fordi jeg glemte dem i bilen."
+  },
+  {
+    "id": 332,
+    "category": "chaotic",
+    "text": "Hunder på gaten blokkerte fremkomsten."
+  },
+  {
+    "id": 333,
+    "category": "chaotic",
+    "text": "Skolebordet falt i takrennene."
+  },
+  {
+    "id": 334,
+    "category": "chaotic",
+    "text": "Mye pommes frites på motorveien skaper fare."
+  },
+  {
+    "id": 335,
+    "category": "chaotic",
+    "text": "Hele togstasjonen har isolert folk på grunn av en stor lekkasje."
+  },
+  {
+    "id": 336,
+    "category": "chaotic",
+    "text": "Fra frokost til middag: leter etter stjålet bil som ble tatt i god tro."
+  },
+  {
+    "id": 337,
+    "category": "chaotic",
+    "text": "Naboene feiret nyttår på feil dato."
+  },
+  {
+    "id": 338,
+    "category": "chaotic",
+    "text": "Lavtflyende fly var over bilen min og var hindrende."
+  },
+  {
+    "id": 339,
+    "category": "chaotic",
+    "text": "Jeg er fast i store ruiner ved en gammel sandskole."
+  },
+  {
+    "id": 340,
+    "category": "chaotic",
+    "text": "Jeg tok veien og dro helt til Tromsø i stedet for Oslo."
+  },
+  {
+    "id": 341,
+    "category": "chaotic",
+    "text": "En stor flyskadeadvarsel på landingsbanen kryss av reisen min."
+  },
+  {
+    "id": 342,
+    "category": "chaotic",
+    "text": "Gasslekkasje på motorveien krever stenging av hele området."
+  },
+  {
+    "id": 343,
+    "category": "chaotic",
+    "text": "Jeg mistet rommelsnøklene mine og leter fortsatt."
+  },
+  {
+    "id": 344,
+    "category": "chaotic",
+    "text": "Båtreisen min ble forsinket på grunn av røyk på et gammelt skip."
+  },
+  {
+    "id": 345,
+    "category": "chaotic",
+    "text": "Et verdensnyhetsscene ble registrert denne morgenen og jeg er vitne."
+  },
+  {
+    "id": 346,
+    "category": "chaotic",
+    "text": "All gate stengt på grunn av lekkasje på en hoved vannledning."
+  },
+  {
+    "id": 347,
+    "category": "chaotic",
+    "text": "Jeg satt over likestillingskonferansen som tok hele dagen."
+  },
+  {
+    "id": 348,
+    "category": "chaotic",
+    "text": "Jeg er fast i et spesialprosjekt for kommunen som de holder hemmelig."
+  },
+  {
+    "id": 349,
+    "category": "chaotic",
+    "text": "En stor brann i nærheten krever redningstjeneste og jeg kan ikke komme frem."
+  },
+  {
+    "id": 350,
+    "category": "chaotic",
+    "text": "Jeg er fast i vegarbeid som ble forsinket på grunn av ulykken i går."
+  },
+  {
+    "id": 351,
+    "category": "chaotic",
+    "text": "Folkemengde rundt gaten min tillater ikke fremkomst."
+  },
+  {
+    "id": 352,
+    "category": "chaotic",
+    "text": "En nasjonal festival er på denne gaten i dag og trafikken er stengt."
+  },
+  {
+    "id": 353,
+    "category": "chaotic",
+    "text": "Jeg er invitert til et spesielt besøk på en offentlig institusjon."
+  },
+  {
+    "id": 354,
+    "category": "chaotic",
+    "text": "Her er det lavt tak og det trengs reparasjon umiddelbart."
+  },
+  {
+    "id": 355,
+    "category": "chaotic",
+    "text": "Et stort kriseprosjekt hos naboen trenger hjelp."
+  },
+  {
+    "id": 356,
+    "category": "chaotic",
+    "text": "Jeg er på vei men gangbroen er stengt på grunn av en avtale."
+  },
+  {
+    "id": 357,
+    "category": "chaotic",
+    "text": "Jeg er fastlåst i oppdragelsesmetoder som krever heldagsnærvær."
+  },
+  {
+    "id": 358,
+    "category": "chaotic",
+    "text": "Ulykken på motorveien trenger vitner og jeg var på stedet."
+  },
+  {
+    "id": 359,
+    "category": "chaotic",
+    "text": "Jeg er blant redningstjenesten som trenger hjelp i vanskelige situasjoner."
+  },
+  {
+    "id": 360,
+    "category": "chaotic",
+    "text": "Et romskip landet i nærheten av meg og de trenger meg."
+  },
+  {
+    "id": 361,
+    "category": "chaotic",
+    "text": "Jeg ble valgt som dommer i en stor konkurranse og kan ikke nekte."
+  },
+  {
+    "id": 362,
+    "category": "chaotic",
+    "text": "Rådgivningstjenesten min til naboen tok hele dagen."
+  },
+  {
+    "id": 363,
+    "category": "chaotic",
+    "text": "Jeg trenger å være ved siden av en nærstående i en spesiell personlig prosess."
+  },
+  {
+    "id": 364,
+    "category": "chaotic",
+    "text": "Advokaten min krever at jeg møter til møte denne dagen."
+  },
+  {
+    "id": 365,
+    "category": "chaotic",
+    "text": "Administrerende direktør i selskapet trenger min spesielle hjelp."
+  },
+  {
+    "id": 366,
+    "category": "chaotic",
+    "text": "Jeg er fast mellom ferjer."
+  },
+  {
+    "id": 367,
+    "category": "chaotic",
+    "text": "Alle veivisningssystemer er lagret utenfor serviceområdet."
+  },
+  {
+    "id": 368,
+    "category": "chaotic",
+    "text": "Bilen min holdt på å kjøre og kom i kø på vei hjem."
+  },
+  {
+    "id": 369,
+    "category": "chaotic",
+    "text": "Jeg er invitert til et spesialmøte som jeg ikke tør avslå."
+  },
+  {
+    "id": 370,
+    "category": "chaotic",
+    "text": "Nøyaktighet i oppgjør krever min deltakelse."
+  },
+  {
+    "id": 371,
+    "category": "chaotic",
+    "text": "Barnet mitt ble tatt til feil skole og trenger oppgjør."
+  },
+  {
+    "id": 372,
+    "category": "chaotic",
+    "text": "Naboene mine holder en utrolig stor fest som brøt ut på fortauet."
+  },
+  {
+    "id": 373,
+    "category": "chaotic",
+    "text": "Jeg er i kø på en tjeneste som bare vil ta 5 minutter når jeg kommer frem."
+  },
+  {
+    "id": 374,
+    "category": "chaotic",
+    "text": "Jeg trenger å delta i nøyaktig registrerte diskusjoner."
+  },
+  {
+    "id": 375,
+    "category": "chaotic",
+    "text": "Det paradoksale problemet med telekommunikasjonsnett krever min hjelp."
+  },
+  {
+    "id": 376,
+    "category": "chaotic",
+    "text": "Jeg er fastlåst i et møte som ble innkalt i siste minutt."
+  },
+  {
+    "id": 377,
+    "category": "chaotic",
+    "text": "Moteriktige hunder løp over bilen min på vei til jobb."
+  },
+  {
+    "id": 378,
+    "category": "chaotic",
+    "text": "Jeg er fortsatt på hjemvei fra midnatt på grunn av et utflukt som gikk av stabelen."
+  },
+  {
+    "id": 379,
+    "category": "chaotic",
+    "text": "Bussjåføren var en jeg kjente og vi dro på en ekstratur."
+  },
+  {
+    "id": 380,
+    "category": "chaotic",
+    "text": "Jeg prøvde å gjøre noe godt og det strakte seg til en hel dag."
+  },
+  {
+    "id": 381,
+    "category": "chaotic",
+    "text": "En nasjonal konkurranse startet på gaten min da jeg var på vei."
+  },
+  {
+    "id": 382,
+    "category": "chaotic",
+    "text": "Jeg havnet på feil sider på internett og trenger teknisk veiledning."
+  },
+  {
+    "id": 383,
+    "category": "chaotic",
+    "text": "Rosiner-hendelser tok opp hele morgenen."
+  },
+  {
+    "id": 384,
+    "category": "chaotic",
+    "text": "Jeg trenger å fullføre et nødprosjekt som ikke kan utsettes."
+  },
+  {
+    "id": 385,
+    "category": "chaotic",
+    "text": "Jeg er langt borte fordi ringen min ville se meg."
+  },
+  {
+    "id": 386,
+    "category": "chaotic",
+    "text": "Jeg trengte spesielt utstyr som bare var tilgjengelig langt borte."
+  },
+  {
+    "id": 387,
+    "category": "chaotic",
+    "text": "Et viktig prosjekt besøkte meg på arbeidsstedet og tok hele dagen."
+  },
+  {
+    "id": 388,
+    "category": "chaotic",
+    "text": "Jeg er i ferd med å ta del i et spesielt samfunnsoppdrag."
+  },
+  {
+    "id": 389,
+    "category": "chaotic",
+    "text": "Direktøren min trengte rådgivning og vi diskuterte på en lang rundtur."
+  },
+  {
+    "id": 390,
+    "category": "chaotic",
+    "text": "Jeg er på spesialvei for å undersøke et naturfenomen."
+  },
+  {
+    "id": 391,
+    "category": "chaotic",
+    "text": "Jeg trenger å være til stede på et spesielt arrangement i nærheten."
+  },
+  {
+    "id": 392,
+    "category": "chaotic",
+    "text": "Jeg befinner meg i en soneblokade på grunn av sikkerhetsspørsmål."
+  },
+  {
+    "id": 393,
+    "category": "chaotic",
+    "text": "Jeg ble bedt om faglig ekspertinformasjon på et spesialistmøte."
+  },
+  {
+    "id": 394,
+    "category": "chaotic",
+    "text": "Jeg sitter fast i en bilkø som dekker hele området."
+  },
+  {
+    "id": 395,
+    "category": "chaotic",
+    "text": "En folkelig sangkonkurranse fikk meg til å bli syk."
+  },
+  {
+    "id": 396,
+    "category": "chaotic",
+    "text": "Jeg trenger å løse komplekse systemproblemer som dukket opp i natt."
+  },
+  {
+    "id": 397,
+    "category": "chaotic",
+    "text": "En spesiell undersøkelse av nabolaget krever min tilstedeværelse."
+  },
+  {
+    "id": 398,
+    "category": "chaotic",
+    "text": "Jeg er på feil vei til en rask sykkelstrekning."
+  },
+  {
+    "id": 399,
+    "category": "chaotic",
+    "text": "Hussalget mitt krever mer undersøkelse enn forventet."
+  },
+  {
+    "id": 400,
+    "category": "chaotic",
+    "text": "Jeg er på vei til et spesialt nøyaktighetsintervju."
+  },
+  {
+    "id": 401,
+    "category": "chaotic",
+    "text": "Et nasjonalt arrangement på åpne plasser krever min deltakelse."
+  },
+  {
+    "id": 402,
+    "category": "chaotic",
+    "text": "Jeg er i ferd med å delta i noe som har harmonisk deltakelse."
+  },
+  {
+    "id": 403,
+    "category": "chaotic",
+    "text": "Radiotilnærmingen min krever spesiell deltakelse."
+  },
+  {
+    "id": 404,
+    "category": "chaotic",
+    "text": "Jeg er på feil vei til en strømsykkelstrekning."
+  },
+  {
+    "id": 405,
+    "category": "chaotic",
+    "text": "En ny bolig krever spesiell inspeksjon i dag."
+  },
+  {
+    "id": 406,
+    "category": "chaotic",
+    "text": "Jeg er ved reisemålet for spesielle prosjekter."
+  },
+  {
+    "id": 407,
+    "category": "chaotic",
+    "text": "Jeg er en forløper til et spesielt nasjonalt arrangement."
+  },
+  {
+    "id": 408,
+    "category": "chaotic",
+    "text": "Ny planlegging krever min spesielle deltakelse."
+  },
+  {
+    "id": 409,
+    "category": "chaotic",
+    "text": "Jeg er på et spesielt prosjekt som krever heldagsnærvær."
+  },
+  {
+    "id": 410,
+    "category": "chaotic",
+    "text": "Et gratis besøk fra en spesiell person krever heldagsnærvær."
+  },
+  {
+    "id": 411,
+    "category": "chaotic",
+    "text": "Jeg trenger å møte på et komplekst introduksjonsmøte."
+  },
+  {
+    "id": 412,
+    "category": "chaotic",
+    "text": "Jeg er på vei til en spesiell sirkulasjonsundersøkelse."
+  },
+  {
+    "id": 413,
+    "category": "chaotic",
+    "text": "Jeg trenger spesiell hvile på grunn av skader."
+  },
+  {
+    "id": 414,
+    "category": "chaotic",
+    "text": "Jeg er på en samling for spesielle undersøkelser."
+  },
+  {
+    "id": 415,
+    "category": "chaotic",
+    "text": "En spesiell opplæringsøkt krever mitt heldagsnærvær."
+  },
+  {
+    "id": 416,
+    "category": "chaotic",
+    "text": "Jeg er på spesiell deltakelse denne dagen."
+  },
+  {
+    "id": 417,
+    "category": "chaotic",
+    "text": "Et nytt foreningsprosjekt krever min spesielle deltakelse."
+  },
+  {
+    "id": 418,
+    "category": "chaotic",
+    "text": "Jeg er på vei til en spesiell konferanse."
+  },
+  {
+    "id": 419,
+    "category": "chaotic",
+    "text": "Et spesielt møte krever min tilstedeværelse."
+  },
+  {
+    "id": 420,
+    "category": "chaotic",
+    "text": "Jeg er på en spesiell aldersundersøkelse."
+  },
+  {
+    "id": 421,
+    "category": "chaotic",
+    "text": "Et nytt samarbeid krever spesiell deltakelse i dag."
+  },
+  {
+    "id": 422,
+    "category": "dark",
+    "text": "Jeg finner meg ikke i stand til å møte opp i dag. Trenger litt tid."
+  },
+  {
+    "id": 423,
+    "category": "dark",
+    "text": "Jeg sliter med personlige ting som trenger å løses før jeg kan konsentrere meg om jobb."
+  },
+  {
+    "id": 424,
+    "category": "dark",
+    "text": "Den mentale helsen min trenger hvile i dag."
+  },
+  {
+    "id": 425,
+    "category": "dark",
+    "text": "Jeg er veldig sliten og trenger fornying."
+  },
+  {
+    "id": 426,
+    "category": "dark",
+    "text": "Jeg takler noe vanskelig og trenger dagen til det."
+  },
+  {
+    "id": 427,
+    "category": "dark",
+    "text": "Jeg har det ikke bra i dag og trenger hvile."
+  },
+  {
+    "id": 428,
+    "category": "dark",
+    "text": "Jeg trenger psykologisk plass til å takle noe som skjedde."
+  },
+  {
+    "id": 429,
+    "category": "dark",
+    "text": "Jeg går gjennom en vanskelig periode og trenger støtte."
+  },
+  {
+    "id": 430,
+    "category": "dark",
+    "text": "Fysisk og mental utmattelse har bygget seg opp og jeg trenger hvile."
+  },
+  {
+    "id": 431,
+    "category": "dark",
+    "text": "Jeg prøver å takle sorg etter å ha mistet en nær."
+  },
+  {
+    "id": 432,
+    "category": "dark",
+    "text": "Jeg trenger dagen til å arbeide gjennom vanskelige følelser."
+  },
+  {
+    "id": 433,
+    "category": "dark",
+    "text": "Jeg er ikke i stand til å jobbe i dag og trenger å ta vare på meg selv."
+  },
+  {
+    "id": 434,
+    "category": "dark",
+    "text": "Jeg sliter med angst som trenger oppmerksomhet."
+  },
+  {
+    "id": 435,
+    "category": "dark",
+    "text": "Dette er en vanskelig dag for meg og jeg trenger å være hjemme."
+  },
+  {
+    "id": 436,
+    "category": "dark",
+    "text": "Jeg prøver å komme gjennom personlige vanskeligheter."
+  },
+  {
+    "id": 437,
+    "category": "dark",
+    "text": "Jeg har hatt søvnforstyrrelser og er veldig sliten."
+  },
+  {
+    "id": 438,
+    "category": "dark",
+    "text": "Jeg trenger ensomhet og ro til å arbeide gjennom noe."
+  },
+  {
+    "id": 439,
+    "category": "dark",
+    "text": "Jeg mottar støtte for noe personlig og kan ikke møte."
+  },
+  {
+    "id": 440,
+    "category": "dark",
+    "text": "Jeg trenger dagen til å reorganisere livet mitt."
+  },
+  {
+    "id": 441,
+    "category": "dark",
+    "text": "Jeg sliter med sorg etter et tap."
+  },
+  {
+    "id": 442,
+    "category": "dark",
+    "text": "Jeg lærer å leve med en ny virkelighet."
+  },
+  {
+    "id": 443,
+    "category": "dark",
+    "text": "Jeg trenger psykologisk hvile fra dagens stress."
+  },
+  {
+    "id": 444,
+    "category": "dark",
+    "text": "Jeg sliter med konflikter og trenger plass til å tenke."
+  },
+  {
+    "id": 445,
+    "category": "dark",
+    "text": "Jeg trenger støtte i denne perioden."
+  },
+  {
+    "id": 446,
+    "category": "dark",
+    "text": "Mentale utfordringer krever at jeg er hjemme."
+  },
+  {
+    "id": 447,
+    "category": "dark",
+    "text": "Jeg er ikke i stand til å konsentrere meg i dag på grunn av personlige saker."
+  },
+  {
+    "id": 448,
+    "category": "dark",
+    "text": "Jeg trenger hvile på grunn av emosjonell utmattelse."
+  },
+  {
+    "id": 449,
+    "category": "dark",
+    "text": "Jeg takler noe som er mer enn jobb kan løse."
+  },
+  {
+    "id": 450,
+    "category": "dark",
+    "text": "Jeg er i behandling som krever hvile i dag."
+  },
+  {
+    "id": 451,
+    "category": "dark",
+    "text": "Jeg trenger tid til å gjenopprette balansen min."
+  },
+  {
+    "id": 452,
+    "category": "dark",
+    "text": "Jeg sliter med noe som trenger personlig oppmerksomhet."
+  },
+  {
+    "id": 453,
+    "category": "dark",
+    "text": "Jeg trenger hvile for å forhindre forverring av helseproblemer."
+  },
+  {
+    "id": 454,
+    "category": "dark",
+    "text": "Jeg er sliten på trøtthet og trenger dagen."
+  },
+  {
+    "id": 455,
+    "category": "dark",
+    "text": "Jeg har gitt så mye og trenger omsorg."
+  },
+  {
+    "id": 456,
+    "category": "dark",
+    "text": "Jeg arbeider gjennom noe som skjedde nylig og lytter til kroppen min."
+  },
+  {
+    "id": 457,
+    "category": "dark",
+    "text": "Jeg trenger tid til å gjøre opp med meg selv."
+  },
+  {
+    "id": 458,
+    "category": "dark",
+    "text": "Jeg sliter med angst og depresjon og trenger omsorg."
+  },
+  {
+    "id": 459,
+    "category": "dark",
+    "text": "Jeg er i psykologisk behandling og trenger en dag til det."
+  },
+  {
+    "id": 460,
+    "category": "dark",
+    "text": "Jeg trenger hvile på grunn av utmattelse som er emosjonell."
+  },
+  {
+    "id": 461,
+    "category": "dark",
+    "text": "Jeg arbeider gjennom traumer og trenger plass til det."
+  },
+  {
+    "id": 462,
+    "category": "dark",
+    "text": "Jeg takler ensomhet og trenger tid til å gjøre noe med det."
+  },
+  {
+    "id": 463,
+    "category": "dark",
+    "text": "Jeg trenger mental helsestøtte i dag."
+  },
+  {
+    "id": 464,
+    "category": "dark",
+    "text": "Jeg er sliten av å late som og trenger dagen til å være meg selv."
+  },
+  {
+    "id": 465,
+    "category": "dark",
+    "text": "Jeg arbeider gjennom vanskelige effekter av nylige hendelser."
+  },
+  {
+    "id": 466,
+    "category": "dark",
+    "text": "Jeg trenger tid til å komme tilbake i balanse."
+  },
+  {
+    "id": 467,
+    "category": "dark",
+    "text": "Jeg sliter med stress som har bygget seg opp over lang tid."
+  },
+  {
+    "id": 468,
+    "category": "dark",
+    "text": "Jeg trenger dagen til å bruke behandlingsressurser."
+  },
+  {
+    "id": 469,
+    "category": "dark",
+    "text": "Jeg prøver å finne en vei gjennom noe vanskelig."
+  },
+  {
+    "id": 470,
+    "category": "dark",
+    "text": "Jeg trenger plass til å tenke og hvile."
+  },
+  {
+    "id": 471,
+    "category": "dark",
+    "text": "Jeg takler vanskelige omstendigheter som krever at jeg er hjemme."
+  },
+  {
+    "id": 472,
+    "category": "dark",
+    "text": "Jeg trenger litt lett hvile etter en lang periode."
+  },
+  {
+    "id": 473,
+    "category": "dark",
+    "text": "Jeg sliter med sorg som trenger tid."
+  },
+  {
+    "id": 474,
+    "category": "dark",
+    "text": "Jeg trenger ro til å arbeide gjennom noe vanskelig."
+  },
+  {
+    "id": 475,
+    "category": "dark",
+    "text": "Jeg sliter med mentale helseutfordringer som trenger oppmerksomhet."
+  },
+  {
+    "id": 476,
+    "category": "dark",
+    "text": "Jeg trenger hvile fra arbeidsstress."
+  },
+  {
+    "id": 477,
+    "category": "dark",
+    "text": "Jeg er veldig sliten og trenger hvile."
+  },
+  {
+    "id": 478,
+    "category": "dark",
+    "text": "Jeg sliter med noe personlig som trenger tid."
+  },
+  {
+    "id": 479,
+    "category": "dark",
+    "text": "Jeg trenger behandling på grunn av det som skjer."
+  },
+  {
+    "id": 480,
+    "category": "dark",
+    "text": "Jeg arbeider gjennom vanskelige følelser som trenger tid."
+  },
+  {
+    "id": 481,
+    "category": "dark",
+    "text": "Jeg trenger tid til å ta vare på meg selv og være hjemme."
+  },
+  {
+    "id": 482,
+    "category": "dark",
+    "text": "Jeg takler en vanskelig periode og trenger plass til det."
+  },
+  {
+    "id": 483,
+    "category": "dark",
+    "text": "Jeg trenger støtte fra nærstående i dag."
+  },
+  {
+    "id": 484,
+    "category": "dark",
+    "text": "Jeg sliter med indre konflikter som trenger lytting."
+  },
+  {
+    "id": 485,
+    "category": "dark",
+    "text": "Jeg trenger en dag til å se over alt og oppnå balanse."
+  },
+  {
+    "id": 486,
+    "category": "dark",
+    "text": "Jeg er veldig sliten av en lang prosess og trenger hvile."
+  },
+  {
+    "id": 487,
+    "category": "dark",
+    "text": "Jeg trenger tid til å arbeide gjennom vanskelige effekter."
+  },
+  {
+    "id": 488,
+    "category": "dark",
+    "text": "Jeg går gjennom store endringer og trenger hvile."
+  },
+  {
+    "id": 489,
+    "category": "dark",
+    "text": "Jeg trenger en dag til å være med meg selv."
+  },
+  {
+    "id": 490,
+    "category": "dark",
+    "text": "Jeg har glemt meg selv og trenger en dag til å gjenfinne meg."
+  },
+  {
+    "id": 491,
+    "category": "dark",
+    "text": "Jeg trenger objektiv hvile på grunn av stress."
+  },
+  {
+    "id": 492,
+    "category": "dark",
+    "text": "Jeg sliter med emosjonelle utfordringer som trenger omsorg."
+  },
+  {
+    "id": 493,
+    "category": "dark",
+    "text": "Jeg trenger hvile på grunn av utmattelse som har bygget seg opp."
+  },
+  {
+    "id": 494,
+    "category": "dark",
+    "text": "Jeg går gjennom noe og trenger tid til å gjøre opp."
+  },
+  {
+    "id": 495,
+    "category": "dark",
+    "text": "Jeg trenger en dag til å fokusere på den mentale helsen min."
+  },
+  {
+    "id": 496,
+    "category": "dark",
+    "text": "Jeg tåler noe som trenger hvile."
+  },
+  {
+    "id": 497,
+    "category": "dark",
+    "text": "Jeg trenger tid til å gå gjennom noe personlig."
+  },
+  {
+    "id": 498,
+    "category": "dark",
+    "text": "Jeg er sliten av rollen min og trenger hvile."
+  },
+  {
+    "id": 499,
+    "category": "dark",
+    "text": "Jeg trenger en dag til å hvile på grunn av stress."
+  },
+  {
+    "id": 500,
+    "category": "dark",
+    "text": "Jeg sliter med angst og trenger hvile."
+  },
+  {
+    "id": 501,
+    "category": "dark",
+    "text": "Jeg trenger tid til å finne ut av hvor jeg befinner meg."
+  },
+  {
+    "id": 502,
+    "category": "dark",
+    "text": "Jeg arbeider gjennom vanskelige livshendelser."
+  },
+  {
+    "id": 503,
+    "category": "dark",
+    "text": "Jeg trenger lyttende og proporsjonal hvile."
+  },
+  {
+    "id": 504,
+    "category": "dark",
+    "text": "Jeg takler personlige problemer som trenger tid."
+  },
+  {
+    "id": 505,
+    "category": "dark",
+    "text": "Jeg trenger en dag til å komme tilbake til meg selv."
+  },
+  {
+    "id": 506,
+    "category": "dark",
+    "text": "Jeg er sliten og trenger dagen til å være hjemme og hvile."
+  },
+  {
+    "id": 507,
+    "category": "dark",
+    "text": "Jeg sliter med noe og trenger plass til det som pågår."
+  },
+  {
+    "id": 508,
+    "category": "dark",
+    "text": "Jeg sliter med et vanskelig livsproblem og trenger tid."
+  },
+  {
+    "id": 509,
+    "category": "dark",
+    "text": "Jeg trenger hvile for å bli bedre."
+  },
+  {
+    "id": 510,
+    "category": "dark",
+    "text": "Jeg får hjelp med mentale utfordringer og trenger en dag til det."
+  },
+  {
+    "id": 511,
+    "category": "dark",
+    "text": "Jeg trenger tid til å gå gjennom noe vanskelig."
+  },
+  {
+    "id": 512,
+    "category": "dark",
+    "text": "Jeg sliter med noe som trenger behandling."
+  },
+  {
+    "id": 513,
+    "category": "dark",
+    "text": "Jeg trenger en dag til å stanse og hvile."
+  },
+  {
+    "id": 514,
+    "category": "dark",
+    "text": "Jeg er på vei til spesiell behandling for angst."
+  },
+  {
+    "id": 515,
+    "category": "dark",
+    "text": "Jeg trenger lyttende og hvile i dag."
+  },
+  {
+    "id": 516,
+    "category": "dark",
+    "text": "Jeg sliter med noe som krever konsentrasjon og hvile."
+  },
+  {
+    "id": 517,
+    "category": "dark",
+    "text": "Jeg trenger en dag til å gå over det som skjer."
+  },
+  {
+    "id": 518,
+    "category": "dark",
+    "text": "Jeg er sliten og utilpass og trenger hvile."
+  },
+  {
+    "id": 519,
+    "category": "dark",
+    "text": "Jeg går gjennom vanskeligheter som trenger tid."
+  },
+  {
+    "id": 520,
+    "category": "dark",
+    "text": "Jeg trenger å være hjemme for å ta vare på sjelen min."
+  },
+  {
+    "id": 521,
+    "category": "dark",
+    "text": "Jeg takler noe personlig som trenger hvile."
+  },
+  {
+    "id": 522,
+    "category": "dark",
+    "text": "Jeg trenger en dag til å finne fred."
+  },
+  {
+    "id": 523,
+    "category": "dark",
+    "text": "Jeg sliter med vanskelige omstendigheter og trenger plass til å gjøre noe med det."
+  },
+  {
+    "id": 524,
+    "category": "dark",
+    "text": "Jeg trenger hvile på grunn av utmattelse fra stress."
+  },
+  {
+    "id": 525,
+    "category": "dark",
+    "text": "Jeg arbeider gjennom noe som skjedde og trenger tid."
+  },
+  {
+    "id": 526,
+    "category": "dark",
+    "text": "Jeg trenger en dag til å gjenopprette sinn og sjel."
+  },
+  {
+    "id": 527,
+    "category": "dark",
+    "text": "Jeg er sliten av et for travelt liv og trenger hvile."
+  },
+  {
+    "id": 528,
+    "category": "dark",
+    "text": "Jeg sliter med noe som trenger hvile og ro."
+  },
+  {
+    "id": 529,
+    "category": "dark",
+    "text": "Jeg trenger en dag til å komme tilbake som person."
+  },
+  {
+    "id": 530,
+    "category": "dark",
+    "text": "Jeg går gjennom en vanskelig overgangstid og trenger tid."
+  },
+  {
+    "id": 531,
+    "category": "dark",
+    "text": "Jeg er sliten og trenger dagen til å være meg selv."
+  },
+  {
+    "id": 532,
+    "category": "dark",
+    "text": "Jeg trenger hvile og fred i dag."
+  },
+  {
+    "id": 533,
+    "category": "dark",
+    "text": "Jeg arbeider gjennom noe vanskelig og trenger plass til det."
+  },
+  {
+    "id": 534,
+    "category": "dark",
+    "text": "Jeg trenger en dag til å være hjemme og ta vare på meg."
+  },
+  {
+    "id": 535,
+    "category": "dark",
+    "text": "Jeg takler noe som trenger hvile og lytting."
+  },
+  {
+    "id": 536,
+    "category": "dark",
+    "text": "Jeg trenger tid til å lade opp og få energi."
+  },
+  {
+    "id": 537,
+    "category": "dark",
+    "text": "Jeg er sliten og trenger dagen til å være meg selv."
+  },
+  {
+    "id": 538,
+    "category": "dark",
+    "text": "Jeg sliter med noe personlig og trenger hvile."
+  },
+  {
+    "id": 539,
+    "category": "dark",
+    "text": "Jeg trenger en dag til å gå gjennom vanskelige følelser."
+  },
+  {
+    "id": 540,
+    "category": "dark",
+    "text": "Jeg sliter med livsomstendigheter som krever at jeg er hjemme."
+  },
+  {
+    "id": 541,
+    "category": "dark",
+    "text": "Jeg trenger hvile på grunn av opphopet belastning."
+  },
+  {
+    "id": 542,
+    "category": "dark",
+    "text": "Jeg takler noe som trenger ensomhet og hvile."
+  },
+  {
+    "id": 543,
+    "category": "dark",
+    "text": "Jeg trenger en dag til å gå gjennom dette."
+  },
+  {
+    "id": 544,
+    "category": "dark",
+    "text": "Jeg er sliten av daglige plikter og trenger hvile."
+  },
+  {
+    "id": 545,
+    "category": "dark",
+    "text": "Jeg sliter med noe som krever at jeg er hjemme."
+  },
+  {
+    "id": 546,
+    "category": "dark",
+    "text": "Jeg trenger en dag til å lytte til kropp og sjel."
+  },
+  {
+    "id": 547,
+    "category": "dark",
+    "text": "Jeg går gjennom noe som trenger tid og objektivitet."
+  },
+  {
+    "id": 548,
+    "category": "dark",
+    "text": "Jeg trenger hvile for å bli et bedre menneske i morgen."
+  },
+  {
+    "id": 549,
+    "category": "dark",
+    "text": "Jeg er sliten og trenger hvile og stillhet."
+  },
+  {
+    "id": 550,
+    "category": "dark",
+    "text": "Jeg arbeider gjennom vanskelige ting og trenger plass til det."
+  },
+  {
+    "id": 551,
+    "category": "dark",
+    "text": "Jeg trenger en dag til å stå opp og være i fred."
+  },
+  {
+    "id": 552,
+    "category": "dark",
+    "text": "Jeg sliter med noe som trenger tid og hvile."
+  },
+  {
+    "id": 553,
+    "category": "dark",
+    "text": "Jeg trenger en dag til å komme tilbake som helhetlig person."
+  },
+  {
+    "id": 554,
+    "category": "dark",
+    "text": "Jeg går gjennom noe vanskelig og trenger tid."
+  },
+  {
+    "id": 555,
+    "category": "dark",
+    "text": "Jeg trenger hvile for å komme tilbake i god stand."
+  },
+  {
+    "id": 556,
+    "category": "dark",
+    "text": "Jeg er sliten og trenger dagen til å være hjemme og hvile."
+  },
+  {
+    "id": 557,
+    "category": "dark",
+    "text": "Jeg sliter med noe som trenger hvile og ensomhet."
+  },
+  {
+    "id": 558,
+    "category": "dark",
+    "text": "Jeg trenger en dag til å gå over alt og hvile."
+  },
+  {
+    "id": 559,
+    "category": "dark",
+    "text": "Jeg takler vanskelige omstendigheter og trenger plass til det."
+  },
+  {
+    "id": 560,
+    "category": "dark",
+    "text": "Jeg trenger hvile på grunn av mental utmattelse."
+  },
+  {
+    "id": 561,
+    "category": "dark",
+    "text": "Jeg er sliten og trenger en dag til å være meg selv."
+  },
+  {
+    "id": 562,
+    "category": "office",
+    "text": "Jeg glemte passordet mitt og kan ikke logge på noe."
+  },
+  {
+    "id": 563,
+    "category": "office",
+    "text": "Skriveren min er fortsatt nede og jeg trenger å skrive ut dokumenter."
+  },
+  {
+    "id": 564,
+    "category": "office",
+    "text": "Kollegaen min er syk og jeg må overta prosjektene hans hjemmefra."
+  },
+  {
+    "id": 565,
+    "category": "office",
+    "text": "Høyttalersystemet vårt er ødelagt og jeg kan ikke møte til møter."
+  },
+  {
+    "id": 566,
+    "category": "office",
+    "text": "Internettforbindelsen min er blitt så liten at jeg ikke kan jobbe."
+  },
+  {
+    "id": 567,
+    "category": "office",
+    "text": "Jeg trenger å fullføre en rapport før jeg kan møte til møtet."
+  },
+  {
+    "id": 568,
+    "category": "office",
+    "text": "Prøvetakingsforespørselen min trenger behandling før jeg kan dra."
+  },
+  {
+    "id": 569,
+    "category": "office",
+    "text": "Jeg glemte et viktig dokument hjemme."
+  },
+  {
+    "id": 570,
+    "category": "office",
+    "text": "Møtet mitt ble flyttet og jeg trenger å reorganisere dagen."
+  },
+  {
+    "id": 571,
+    "category": "office",
+    "text": "Jeg trenger tid til å forberede meg til en presentasjon som er i morgen."
+  },
+  {
+    "id": 572,
+    "category": "office",
+    "text": "Jeg kan ikke møte før lydsystemet på hjemmekontoret er reparert."
+  },
+  {
+    "id": 573,
+    "category": "office",
+    "text": "Jeg er i et langvarig telefonmøte med en viktig klient."
+  },
+  {
+    "id": 574,
+    "category": "office",
+    "text": "Nedstengingen som kommer krever at jeg jobber hjemmefra."
+  },
+  {
+    "id": 575,
+    "category": "office",
+    "text": "Jeg trenger å hente en bestilling som bare ankommer i dag."
+  },
+  {
+    "id": 576,
+    "category": "office",
+    "text": "Oppsummeringen min av data er ikke ferdig og vil ta lengre tid."
+  },
+  {
+    "id": 577,
+    "category": "office",
+    "text": "Systemproblemer i selskapet krever at jeg jobber hjemmefra."
+  },
+  {
+    "id": 578,
+    "category": "office",
+    "text": "Jeg venter på synkronisering av viktige filer."
+  },
+  {
+    "id": 579,
+    "category": "office",
+    "text": "Tekniske endringer i systemet krever at jeg jobber hjemmefra i dag."
+  },
+  {
+    "id": 580,
+    "category": "office",
+    "text": "Jeg trenger å fullføre gjennomgang av dokumenter før jeg kan møte."
+  },
+  {
+    "id": 581,
+    "category": "office",
+    "text": "Møtet mitt i morges ble avlyst og jeg trenger å reorganisere."
+  },
+  {
+    "id": 582,
+    "category": "office",
+    "text": "Jeg trenger å jobbe hjemmefra på grunn av systemoppdatering."
+  },
+  {
+    "id": 583,
+    "category": "office",
+    "text": "Regelmessige revisjoner krever at jeg er hjemme i dag."
+  },
+  {
+    "id": 584,
+    "category": "office",
+    "text": "Jeg trenger tid til å sette opp den nye programvaren som ble sendt meg."
+  },
+  {
+    "id": 585,
+    "category": "office",
+    "text": "Registreringsdokumenter trenger spesiell behandling hjemme."
+  },
+  {
+    "id": 586,
+    "category": "office",
+    "text": "Jeg trenger å avslutte viktige kontrakter før jeg drar."
+  },
+  {
+    "id": 587,
+    "category": "office",
+    "text": "Nøkkeldataene er på hjemmestasjonen og jeg trenger å fullføre dem."
+  },
+  {
+    "id": 588,
+    "category": "office",
+    "text": "Systemproblemer trenger umiddelbare løsninger."
+  },
+  {
+    "id": 589,
+    "category": "office",
+    "text": "Jeg er på et spesielt fjernmøte som krever heldagsnærvær."
+  },
+  {
+    "id": 590,
+    "category": "office",
+    "text": "Jeg trenger tid til å gå gjennom komplekse data."
+  },
+  {
+    "id": 591,
+    "category": "office",
+    "text": "Kollegaen min trenger hjelp med et prosjekt som bare jeg kan hjelpe med."
+  },
+  {
+    "id": 592,
+    "category": "office",
+    "text": "Jeg trenger å jobbe med en spesiell rapport som krever konsentrasjon."
+  },
+  {
+    "id": 593,
+    "category": "office",
+    "text": "Jeg venter på en viktig godkjenning før jeg kan fortsette."
+  },
+  {
+    "id": 594,
+    "category": "office",
+    "text": "Systemproblemer trenger umiddelbare løsninger på hjemmekontoret."
+  },
+  {
+    "id": 595,
+    "category": "office",
+    "text": "Jeg trenger tid til å forberede data til møtet i morgen."
+  },
+  {
+    "id": 596,
+    "category": "office",
+    "text": "Jeg er på et spesielt fjernmøte om viktige endringer."
+  },
+  {
+    "id": 597,
+    "category": "office",
+    "text": "Jeg trenger tid til å sette opp nytt utstyr som ankom i dag."
+  },
+  {
+    "id": 598,
+    "category": "office",
+    "text": "Dokumenter som trenger underskrift er bare tilgjengelige hjemme."
+  },
+  {
+    "id": 599,
+    "category": "office",
+    "text": "Jeg trenger tid til å gå gjennom komplekse krav."
+  },
+  {
+    "id": 600,
+    "category": "office",
+    "text": "Systemproblemer trenger spesiell behandling."
+  },
+  {
+    "id": 601,
+    "category": "office",
+    "text": "Jeg trenger å være på et fjernmøte som ble innkalt i siste minutt."
+  },
+  {
+    "id": 602,
+    "category": "office",
+    "text": "Jeg trenger tid til å fullføre data som er nødvendige."
+  },
+  {
+    "id": 603,
+    "category": "office",
+    "text": "Rapporten min trenger spesiell gjennomgang før den sendes."
+  },
+  {
+    "id": 604,
+    "category": "office",
+    "text": "Systemproblemer krever at jeg jobber hjemmefra i dag."
+  },
+  {
+    "id": 605,
+    "category": "office",
+    "text": "Jeg trenger å vente på synkronisering av filer som trenger å fullføres."
+  },
+  {
+    "id": 606,
+    "category": "office",
+    "text": "Jeg er på en spesiell opplæringsøkt som krever heldagsnærvær."
+  },
+  {
+    "id": 607,
+    "category": "office",
+    "text": "Jeg trenger tid til å gå over policy knyttet til prosjektet."
+  },
+  {
+    "id": 608,
+    "category": "office",
+    "text": "Systemproblemet er stort og trenger hjelp fra en ekspert."
+  },
+  {
+    "id": 609,
+    "category": "office",
+    "text": "Jeg trenger tid til å fullføre en plan som ble forespurt."
+  },
+  {
+    "id": 610,
+    "category": "office",
+    "text": "Oversettelsesprosjektet trenger spesiell konsentrasjon."
+  },
+  {
+    "id": 611,
+    "category": "office",
+    "text": "Jeg trenger tid til å sette opp en ny serviceavtale."
+  },
+  {
+    "id": 612,
+    "category": "office",
+    "text": "Systemproblemer trenger umiddelbar service."
+  },
+  {
+    "id": 613,
+    "category": "office",
+    "text": "Jeg trenger tid til å behandle data som ankom i løpet av natten."
+  },
+  {
+    "id": 614,
+    "category": "office",
+    "text": "Spesiell opplæring krever heldagsnærvær."
+  },
+  {
+    "id": 615,
+    "category": "office",
+    "text": "Jeg trenger tid til å gjennomgå regler som nylig ble endret."
+  },
+  {
+    "id": 616,
+    "category": "office",
+    "text": "Systemproblemer trenger spesiell service."
+  },
+  {
+    "id": 617,
+    "category": "office",
+    "text": "Jeg trenger tid til å fullføre krav som forfaller i dag."
+  },
+  {
+    "id": 618,
+    "category": "office",
+    "text": "Jeg er på en spesiell opplæringsprosess som krever heldagsnærvær."
+  },
+  {
+    "id": 619,
+    "category": "office",
+    "text": "Jeg trenger tid til å gå gjennom ny organisasjonsendring."
+  },
+  {
+    "id": 620,
+    "category": "office",
+    "text": "Systemproblemer trenger omsorg og nøyaktighet."
+  },
+  {
+    "id": 621,
+    "category": "office",
+    "text": "Jeg trenger tid til å ta seg av spesielle saker."
+  },
+  {
+    "id": 622,
+    "category": "office",
+    "text": "Fjernmøte krever min spesielle deltakelse."
+  },
+  {
+    "id": 623,
+    "category": "office",
+    "text": "Jeg trenger tid til å fullføre en spesiell analyse."
+  },
+  {
+    "id": 624,
+    "category": "office",
+    "text": "Systemproblemer krever at jeg er hjemme."
+  },
+  {
+    "id": 625,
+    "category": "office",
+    "text": "Jeg trenger tid til å fullføre data som trengs i dag."
+  },
+  {
+    "id": 626,
+    "category": "office",
+    "text": "Spesiell undersøkelse krever mitt nærvær."
+  },
+  {
+    "id": 627,
+    "category": "office",
+    "text": "Jeg trenger tid til å gå gjennom komplekse saker."
+  },
+  {
+    "id": 628,
+    "category": "office",
+    "text": "Systemproblemer krever at jeg har tilgang til hjemmenettverket."
+  },
+  {
+    "id": 629,
+    "category": "office",
+    "text": "Jeg trenger tid til å fullføre et viktig prosjekt."
+  },
+  {
+    "id": 630,
+    "category": "office",
+    "text": "Spesiell forskning krever konsentrasjonen."
+  },
+  {
+    "id": 631,
+    "category": "office",
+    "text": "Jeg trenger tid til å ta hånd om krav som forfaller."
+  },
+  {
+    "id": 632,
+    "category": "office",
+    "text": "Systemproblemer trenger spesiell service."
+  },
+  {
+    "id": 633,
+    "category": "office",
+    "text": "Jeg trenger tid til å fullføre en spesiell rapport."
+  },
+  {
+    "id": 634,
+    "category": "office",
+    "text": "Fjernmøte krever min deltakelse."
+  },
+  {
+    "id": 635,
+    "category": "office",
+    "text": "Jeg trenger tid til å behandle data som ankom."
+  },
+  {
+    "id": 636,
+    "category": "office",
+    "text": "Systemproblemer trenger spesiell nøyaktighet."
+  },
+  {
+    "id": 637,
+    "category": "office",
+    "text": "Jeg trenger tid til å ta seg av spesielle krav."
+  },
+  {
+    "id": 638,
+    "category": "office",
+    "text": "Spesiell opplæringsøkt krever heldagsnærvær."
+  },
+  {
+    "id": 639,
+    "category": "office",
+    "text": "Jeg trenger tid til å gå gjennom ny policy."
+  },
+  {
+    "id": 640,
+    "category": "office",
+    "text": "Systemproblemer trenger spesiell service og tid."
+  },
+  {
+    "id": 641,
+    "category": "office",
+    "text": "Jeg trenger tid til å ta hånd om komplekse data."
+  },
+  {
+    "id": 642,
+    "category": "office",
+    "text": "Spesielt fjernmøte krever min deltakelse."
+  },
+  {
+    "id": 643,
+    "category": "office",
+    "text": "Jeg trenger tid til å fullføre en spesiell analyse."
+  },
+  {
+    "id": 644,
+    "category": "office",
+    "text": "Systemproblemer krever at jeg er hjemme."
+  },
+  {
+    "id": 645,
+    "category": "office",
+    "text": "Jeg trenger tid til å ta hånd om viktige filer."
+  },
+  {
+    "id": 646,
+    "category": "office",
+    "text": "Spesiell opplæring krever heldagsnærvær."
+  },
+  {
+    "id": 647,
+    "category": "office",
+    "text": "Jeg trenger tid til å gå over endrede krav."
+  },
+  {
+    "id": 648,
+    "category": "office",
+    "text": "Systemproblemer krever spesiell service."
+  },
+  {
+    "id": 649,
+    "category": "office",
+    "text": "Jeg trenger tid til å fullføre en spesiell revisjon."
+  },
+  {
+    "id": 650,
+    "category": "office",
+    "text": "Fjernmøte krever spesiell deltakelse."
+  },
+  {
+    "id": 651,
+    "category": "office",
+    "text": "Jeg trenger tid til å behandle komplekse data."
+  },
+  {
+    "id": 652,
+    "category": "office",
+    "text": "Systemproblemer trenger spesiell service."
+  },
+  {
+    "id": 653,
+    "category": "office",
+    "text": "Jeg trenger tid til å fullføre en spesiell rapport."
+  },
+  {
+    "id": 654,
+    "category": "office",
+    "text": "Spesiell forskning krever heldagsnærvær."
+  },
+  {
+    "id": 655,
+    "category": "office",
+    "text": "Jeg trenger tid til å gå gjennom komplekse krav."
+  },
+  {
+    "id": 656,
+    "category": "office",
+    "text": "Systemproblemer trenger spesiell omsorg."
+  },
+  {
+    "id": 657,
+    "category": "office",
+    "text": "Jeg trenger tid til å fullføre et spesielt prosjekt."
+  },
+  {
+    "id": 658,
+    "category": "office",
+    "text": "Fjernmøte krever min deltakelse i dag."
+  },
+  {
+    "id": 659,
+    "category": "office",
+    "text": "Jeg trenger tid til å ta seg av spesielle saker."
+  },
+  {
+    "id": 660,
+    "category": "office",
+    "text": "Systemproblemer krever at jeg jobber hjemmefra."
+  },
+  {
+    "id": 661,
+    "category": "office",
+    "text": "Jeg trenger tid til å gå over nye krav."
+  },
+  {
+    "id": 662,
+    "category": "office",
+    "text": "Spesiell opplæringsøkt krever heldagsnærvær."
+  },
+  {
+    "id": 663,
+    "category": "office",
+    "text": "Jeg trenger tid til å ta seg av spesielle data."
+  },
+  {
+    "id": 664,
+    "category": "office",
+    "text": "Systemproblemer trenger umiddelbar service."
+  },
+  {
+    "id": 665,
+    "category": "office",
+    "text": "Jeg trenger tid til å fullføre et spesielt prosjekt."
+  },
+  {
+    "id": 666,
+    "category": "office",
+    "text": "Fjernmøte krever spesiell deltakelse."
+  },
+  {
+    "id": 667,
+    "category": "office",
+    "text": "Jeg trenger tid til å behandle spesielle data."
+  },
+  {
+    "id": 668,
+    "category": "office",
+    "text": "Systemproblemer trenger spesiell service."
+  },
+  {
+    "id": 669,
+    "category": "office",
+    "text": "Jeg trenger tid til å ta hånd om komplekse krav."
+  },
+  {
+    "id": 670,
+    "category": "office",
+    "text": "Spesiell forskning krever mitt nærvær."
+  },
+  {
+    "id": 671,
+    "category": "office",
+    "text": "Jeg trenger tid til å gå gjennom endret oppsett."
+  },
+  {
+    "id": 672,
+    "category": "office",
+    "text": "Systemproblemer krever at jeg jobber hjemme."
+  },
+  {
+    "id": 673,
+    "category": "office",
+    "text": "Jeg trenger tid til å fullføre en spesiell revisjon."
+  },
+  {
+    "id": 674,
+    "category": "office",
+    "text": "Fjernmøte krever min deltakelse."
+  },
+  {
+    "id": 675,
+    "category": "office",
+    "text": "Jeg trenger tid til å ta seg av spesielle dokumenter."
+  },
+  {
+    "id": 676,
+    "category": "office",
+    "text": "Systemproblemer trenger spesiell service."
+  },
+  {
+    "id": 677,
+    "category": "office",
+    "text": "Jeg trenger tid til å behandle komplekse data."
+  },
+  {
+    "id": 678,
+    "category": "office",
+    "text": "Spesiell opplæring krever mitt nærvær."
+  },
+  {
+    "id": 679,
+    "category": "office",
+    "text": "Jeg trenger tid til å gå over ny policy."
+  },
+  {
+    "id": 680,
+    "category": "office",
+    "text": "Systemproblemer trenger spesiell nøyaktighet."
+  },
+  {
+    "id": 681,
+    "category": "office",
+    "text": "Jeg trenger tid til å ta hånd om spesielle krav."
+  },
+  {
+    "id": 682,
+    "category": "office",
+    "text": "Spesielt fjernmøte krever min deltakelse."
+  },
+  {
+    "id": 683,
+    "category": "office",
+    "text": "Jeg trenger tid til å fullføre en spesiell analyse."
+  },
+  {
+    "id": 684,
+    "category": "office",
+    "text": "Systemproblemer trenger spesiell service."
+  },
+  {
+    "id": 685,
+    "category": "office",
+    "text": "Jeg trenger tid til å ta hånd om komplekse saker."
+  },
+  {
+    "id": 686,
+    "category": "office",
+    "text": "Fjernmøte krever spesiell deltakelse."
+  },
+  {
+    "id": 687,
+    "category": "office",
+    "text": "Jeg trenger tid til å behandle spesielle data."
+  },
+  {
+    "id": 688,
+    "category": "office",
+    "text": "Systemproblemer krever at jeg er hjemme."
+  },
+  {
+    "id": 689,
+    "category": "office",
+    "text": "Jeg trenger tid til å gå gjennom spesielle krav."
+  },
+  {
+    "id": 690,
+    "category": "office",
+    "text": "Spesiell forskning krever heldagsnærvær."
+  },
+  {
+    "id": 691,
+    "category": "office",
+    "text": "Jeg trenger tid til å fullføre en spesiell sak."
+  },
+  {
+    "id": 692,
+    "category": "office",
+    "text": "Systemproblemer krever spesiell service."
+  },
+  {
+    "id": 693,
+    "category": "office",
+    "text": "Jeg trenger tid til å ta hånd om endrede data."
+  },
+  {
+    "id": 694,
+    "category": "tech",
+    "text": "Datamaskinen min oppdaterte seg og ødela alt jeg jobbet med."
+  },
+  {
+    "id": 695,
+    "category": "tech",
+    "text": "Internettforbindelsen min brakk og ISP kommer ikke før sent i dag."
+  },
+  {
+    "id": 696,
+    "category": "tech",
+    "text": "Videokonferansetjenesten min er ødelagt og jeg kan ikke møte."
+  },
+  {
+    "id": 697,
+    "category": "tech",
+    "text": "Jeg trenger å tilbakestille alle systemtaster på grunn av et sikkerhetsbrudd."
+  },
+  {
+    "id": 698,
+    "category": "tech",
+    "text": "Sikkerhetsnøkkelen min på arbeidsstasjonen brakk."
+  },
+  {
+    "id": 699,
+    "category": "tech",
+    "text": "VPN-tjenesten brakk og jeg kan ikke komme inn i arbeidssystemene."
+  },
+  {
+    "id": 700,
+    "category": "tech",
+    "text": "Databasen jeg jobber med mistet alle data på grunn av gamle oppdateringsproblemer."
+  },
+  {
+    "id": 701,
+    "category": "tech",
+    "text": "Datamaskinen min er på tidslinjen og vil sannsynligvis ta hele dagen å fikse."
+  },
+  {
+    "id": 702,
+    "category": "tech",
+    "text": "Programvaren jeg bruker er ødelagt på grunn av en uventet oppdatering."
+  },
+  {
+    "id": 703,
+    "category": "tech",
+    "text": "Videokameraet på servicemøtet er ødelagt og vi kan ikke holde møte."
+  },
+  {
+    "id": 704,
+    "category": "tech",
+    "text": "Serveren jeg er koblet til sviktet og er nede."
+  },
+  {
+    "id": 705,
+    "category": "tech",
+    "text": "Jeg trenger å oppdatere arbeidsmiljøet på grunn av et sikkerhetsbrudd."
+  },
+  {
+    "id": 706,
+    "category": "tech",
+    "text": "Datalagringen min er full og jeg kan ikke jobbe."
+  },
+  {
+    "id": 707,
+    "category": "tech",
+    "text": "Systemtasten min er utløpt og jeg trenger en ny."
+  },
+  {
+    "id": 708,
+    "category": "tech",
+    "text": "Programmet jeg jobber med er nede på grunn av en systemoppdatering."
+  },
+  {
+    "id": 709,
+    "category": "tech",
+    "text": "Internettforbindelsen min er så treg at jeg ikke kan jobbe."
+  },
+  {
+    "id": 710,
+    "category": "tech",
+    "text": "Skjermen min brakk og jeg trenger en ny."
+  },
+  {
+    "id": 711,
+    "category": "tech",
+    "text": "Datamaskinen min overopphetes og starter ikke."
+  },
+  {
+    "id": 712,
+    "category": "tech",
+    "text": "Programvareoppdateringen ødela alle databasene mine."
+  },
+  {
+    "id": 713,
+    "category": "tech",
+    "text": "Jeg trenger å oppdatere sikkerhetsnøkler på grunn av regler."
+  },
+  {
+    "id": 714,
+    "category": "tech",
+    "text": "Arbeidsstrømmen min er ødelagt på grunn av en ny versjon."
+  },
+  {
+    "id": 715,
+    "category": "tech",
+    "text": "Jeg trenger å sette opp nye arbeidsverktøy som ankom i dag."
+  },
+  {
+    "id": 716,
+    "category": "tech",
+    "text": "Tjenerserveren min svarer ikke og jeg trenger tilgang."
+  },
+  {
+    "id": 717,
+    "category": "tech",
+    "text": "Datalagringen er under vedlikehold og jeg kan ikke hente data."
+  },
+  {
+    "id": 718,
+    "category": "tech",
+    "text": "Programvaresystemet mitt brakk på grunn av feil oppdatering."
+  },
+  {
+    "id": 719,
+    "category": "tech",
+    "text": "Jeg trenger spesiell tilgang til systemet som ikke er tilgjengelig."
+  },
+  {
+    "id": 720,
+    "category": "tech",
+    "text": "Internettforbindelsen er for svak til at videomøte er mulig."
+  },
+  {
+    "id": 721,
+    "category": "tech",
+    "text": "Datamaskinen min trenger spesielt vedlikehold som bare er tilgjengelig i dag."
+  },
+  {
+    "id": 722,
+    "category": "tech",
+    "text": "Systemet mitt brakk på grunn av en oppdatering og trenger tilbakestilling."
+  },
+  {
+    "id": 723,
+    "category": "tech",
+    "text": "Jeg trenger spesiell hjelp med systemoppdateringen."
+  },
+  {
+    "id": 724,
+    "category": "tech",
+    "text": "Internettforbindelsen min er ødelagt og trenger reparasjon."
+  },
+  {
+    "id": 725,
+    "category": "tech",
+    "text": "Skjermen min gikk i dvale og kommer ikke tilbake."
+  },
+  {
+    "id": 726,
+    "category": "tech",
+    "text": "Datamaskinen min er i en oppdatering som tar så lang tid."
+  },
+  {
+    "id": 727,
+    "category": "tech",
+    "text": "Passordbehandleren min brakk og jeg husker ikke passordene."
+  },
+  {
+    "id": 728,
+    "category": "tech",
+    "text": "Systemet mitt er ikke kompatibelt med den nye programvaren."
+  },
+  {
+    "id": 729,
+    "category": "tech",
+    "text": "Jeg trenger tid til å fikse innstillingene for arbeidsverktøyene."
+  },
+  {
+    "id": 730,
+    "category": "tech",
+    "text": "Tjenerserveren min er nede på grunn av en systemoppdatering."
+  },
+  {
+    "id": 731,
+    "category": "tech",
+    "text": "Databasen min trenger spesiell tilbakestilling."
+  },
+  {
+    "id": 732,
+    "category": "tech",
+    "text": "Programmet mitt krever spesiell konfigurasjon for å fungere."
+  },
+  {
+    "id": 733,
+    "category": "tech",
+    "text": "Jeg trenger spesiell tid til å sette opp nytt arbeidsmiljø."
+  },
+  {
+    "id": 734,
+    "category": "tech",
+    "text": "Systemet brakk og vi trenger umiddelbare løsninger."
+  },
+  {
+    "id": 735,
+    "category": "tech",
+    "text": "Jeg trenger spesiell hjelp med systemkonfigurasjonen."
+  },
+  {
+    "id": 736,
+    "category": "tech",
+    "text": "Internettforbindelsen min krever spesiell oppdatering."
+  },
+  {
+    "id": 737,
+    "category": "tech",
+    "text": "Datamaskinen min er under vedlikehold som tar hele dagen."
+  },
+  {
+    "id": 738,
+    "category": "tech",
+    "text": "Programvareoppdateringen ødela all systemoppsett."
+  },
+  {
+    "id": 739,
+    "category": "tech",
+    "text": "Jeg trenger spesiell tilgang som ikke er tilgjengelig nå."
+  },
+  {
+    "id": 740,
+    "category": "tech",
+    "text": "Datalagringen min trenger spesiell omsorg."
+  },
+  {
+    "id": 741,
+    "category": "tech",
+    "text": "Systemet mitt brakk og trenger spesiell tilbakestilling."
+  },
+  {
+    "id": 742,
+    "category": "tech",
+    "text": "Jeg trenger tid til å behandle en systemoppdatering."
+  },
+  {
+    "id": 743,
+    "category": "tech",
+    "text": "Tjenerserveren trenger spesiell reparasjon."
+  },
+  {
+    "id": 744,
+    "category": "tech",
+    "text": "Datamaskinen min trenger spesielt vedlikehold."
+  },
+  {
+    "id": 745,
+    "category": "tech",
+    "text": "Programmet mitt trenger spesiell konfigurasjon."
+  },
+  {
+    "id": 746,
+    "category": "tech",
+    "text": "Jeg trenger spesiell tid til å sette opp arbeidsmiljøet."
+  },
+  {
+    "id": 747,
+    "category": "tech",
+    "text": "Systemet krever spesiell tilbakestilling."
+  },
+  {
+    "id": 748,
+    "category": "tech",
+    "text": "Internettforbindelsen krever spesiell service."
+  },
+  {
+    "id": 749,
+    "category": "tech",
+    "text": "Datamaskinen min er under spesielt vedlikehold."
+  },
+  {
+    "id": 750,
+    "category": "tech",
+    "text": "Programvaren krever spesiell oppdatering."
+  },
+  {
+    "id": 751,
+    "category": "tech",
+    "text": "Jeg trenger spesiell tilgang til systemet."
+  },
+  {
+    "id": 752,
+    "category": "tech",
+    "text": "Datalagringen krever spesiell omsorg."
+  },
+  {
+    "id": 753,
+    "category": "tech",
+    "text": "Systemet brakk på grunn av en programvareproblematikk."
+  },
+  {
+    "id": 754,
+    "category": "tech",
+    "text": "Jeg trenger spesiell hjelp med et teknisk problem."
+  },
+  {
+    "id": 755,
+    "category": "tech",
+    "text": "Tjenerserveren krever spesiell service."
+  },
+  {
+    "id": 756,
+    "category": "tech",
+    "text": "Datamaskinen min krever spesiell reparasjon."
+  },
+  {
+    "id": 757,
+    "category": "tech",
+    "text": "Programmet krever spesiell oppdatering."
+  },
+  {
+    "id": 758,
+    "category": "tech",
+    "text": "Jeg trenger spesiell tid til å fikse systemet."
+  },
+  {
+    "id": 759,
+    "category": "tech",
+    "text": "Systemet krever spesiell service."
+  },
+  {
+    "id": 760,
+    "category": "tech",
+    "text": "Internettforbindelsen trenger spesiell reparasjon."
+  },
+  {
+    "id": 761,
+    "category": "tech",
+    "text": "Datamaskinen min trenger spesiell tilbakestilling."
+  },
+  {
+    "id": 762,
+    "category": "tech",
+    "text": "Programvaren trenger spesiell oppdatering."
+  },
+  {
+    "id": 763,
+    "category": "tech",
+    "text": "Jeg trenger spesiell tilgang til å jobbe."
+  },
+  {
+    "id": 764,
+    "category": "tech",
+    "text": "Datalagringen trenger spesiell omsorg."
+  },
+  {
+    "id": 765,
+    "category": "tech",
+    "text": "Systemet krever spesiell tilbakestilling."
+  },
+  {
+    "id": 766,
+    "category": "tech",
+    "text": "Tjenerserveren trenger spesiell reparasjon."
+  },
+  {
+    "id": 767,
+    "category": "tech",
+    "text": "Datamaskinen min trenger spesiell konfigurasjon."
+  },
+  {
+    "id": 768,
+    "category": "tech",
+    "text": "Programmet trenger spesiell reparasjon."
+  },
+  {
+    "id": 769,
+    "category": "tech",
+    "text": "Jeg trenger spesiell tid til å sette opp nye enheter."
+  },
+  {
+    "id": 770,
+    "category": "tech",
+    "text": "Systemet trenger spesiell tilbakestilling."
+  },
+  {
+    "id": 771,
+    "category": "tech",
+    "text": "Internettforbindelsen trenger spesiell service."
+  },
+  {
+    "id": 772,
+    "category": "tech",
+    "text": "Datamaskinen min trenger spesielt vedlikehold."
+  },
+  {
+    "id": 773,
+    "category": "tech",
+    "text": "Programvaren trenger spesiell konfigurasjon."
+  },
+  {
+    "id": 774,
+    "category": "tech",
+    "text": "Jeg trenger spesiell tilgang til arbeidsystemet."
+  },
+  {
+    "id": 775,
+    "category": "tech",
+    "text": "Datalagringen trenger spesiell behandling."
+  },
+  {
+    "id": 776,
+    "category": "tech",
+    "text": "Systemet krever spesiell tilbakestilling."
+  },
+  {
+    "id": 777,
+    "category": "tech",
+    "text": "Tjenerserveren krever spesiell omsorg."
+  },
+  {
+    "id": 778,
+    "category": "tech",
+    "text": "Datamaskinen min krever spesiell service."
+  },
+  {
+    "id": 779,
+    "category": "tech",
+    "text": "Programmet krever spesiell konfigurasjon."
+  },
+  {
+    "id": 780,
+    "category": "tech",
+    "text": "Jeg trenger spesiell tid til å løse det tekniske problemet."
+  },
+  {
+    "id": 781,
+    "category": "tech",
+    "text": "Systemet trenger umiddelbar service."
+  },
+  {
+    "id": 782,
+    "category": "tech",
+    "text": "Internettforbindelsen krever spesiell reparasjon."
+  },
+  {
+    "id": 783,
+    "category": "tech",
+    "text": "Datamaskinen min krever spesiell tilbakestilling."
+  },
+  {
+    "id": 784,
+    "category": "tech",
+    "text": "Programvaren krever spesiell oppdatering."
+  },
+  {
+    "id": 785,
+    "category": "tech",
+    "text": "Jeg trenger spesiell tilgang umiddelbart."
+  },
+  {
+    "id": 786,
+    "category": "tech",
+    "text": "Datalagringen krever umiddelbar service."
+  },
+  {
+    "id": 787,
+    "category": "tech",
+    "text": "Systemet brakk og krever umiddelbar reparasjon."
+  },
+  {
+    "id": 788,
+    "category": "tech",
+    "text": "Tjenerserveren brakk og krever umiddelbar service."
+  },
+  {
+    "id": 789,
+    "category": "tech",
+    "text": "Datamaskinen min brakk og krever umiddelbar reparasjon."
+  },
+  {
+    "id": 790,
+    "category": "tech",
+    "text": "Programmet brakk og krever umiddelbar oppdatering."
+  },
+  {
+    "id": 791,
+    "category": "tech",
+    "text": "Jeg trenger spesiell opplæring på nye systemverktøy."
+  },
+  {
+    "id": 792,
+    "category": "tech",
+    "text": "Systemet brakk og krever spesiell service."
+  },
+  {
+    "id": 793,
+    "category": "tech",
+    "text": "Internettforbindelsen brakk og krever spesiell reparasjon."
+  },
+  {
+    "id": 794,
+    "category": "tech",
+    "text": "Datamaskinen min brakk og krever spesiell konfigurasjon."
+  },
+  {
+    "id": 795,
+    "category": "tech",
+    "text": "Programvaren brakk og trenger spesiell reparasjon."
+  },
+  {
+    "id": 796,
+    "category": "tech",
+    "text": "Jeg trenger spesiell tilgang til det tekniske systemet."
+  },
+  {
+    "id": 797,
+    "category": "tech",
+    "text": "Datalagringen brakk og trenger spesiell service."
+  },
+  {
+    "id": 798,
+    "category": "tech",
+    "text": "Systemet krever umiddelbar tilbakestilling."
+  },
+  {
+    "id": 799,
+    "category": "tech",
+    "text": "Tjenerserveren krever umiddelbar service."
+  },
+  {
+    "id": 800,
+    "category": "tech",
+    "text": "Datamaskinen min krever umiddelbar reparasjon."
+  },
+  {
+    "id": 801,
+    "category": "tech",
+    "text": "Programmet krever umiddelbar oppdatering."
+  },
+  {
+    "id": 802,
+    "category": "tech",
+    "text": "Jeg trenger spesiell tid til å løse det tekniske problemet."
+  },
+  {
+    "id": 803,
+    "category": "tech",
+    "text": "Systemet trenger umiddelbare løsninger."
+  },
+  {
+    "id": 804,
+    "category": "tech",
+    "text": "Internettforbindelsen trenger umiddelbare løsninger."
+  },
+  {
+    "id": 805,
+    "category": "tech",
+    "text": "Datamaskinen min trenger umiddelbare løsninger."
+  },
+  {
+    "id": 806,
+    "category": "tech",
+    "text": "Programvaren trenger umiddelbare løsninger."
+  },
+  {
+    "id": 807,
+    "category": "tech",
+    "text": "Jeg trenger spesiell tid til å fikse systemet."
+  },
+  {
+    "id": 808,
+    "category": "tech",
+    "text": "Datalagringen trenger umiddelbare løsninger."
+  },
+  {
+    "id": 809,
+    "category": "tech",
+    "text": "Systemet brakk på grunn av programvareoppdatering."
+  },
+  {
+    "id": 810,
+    "category": "tech",
+    "text": "Tjenerserveren brakk på grunn av systemoppdatering."
+  },
+  {
+    "id": 811,
+    "category": "tech",
+    "text": "Datamaskinen min brakk på grunn av et programvareproblem."
+  },
+  {
+    "id": 812,
+    "category": "tech",
+    "text": "Programmet brakk på grunn av en systemoppdatering."
+  },
+  {
+    "id": 813,
+    "category": "tech",
+    "text": "Jeg trenger spesiell tilgang til systemet umiddelbart."
+  },
+  {
+    "id": 814,
+    "category": "tech",
+    "text": "Systemet trenger spesiell tilbakestilling umiddelbart."
+  },
+  {
+    "id": 815,
+    "category": "tech",
+    "text": "Internettforbindelsen trenger spesiell service umiddelbart."
+  },
+  {
+    "id": 816,
+    "category": "tech",
+    "text": "Datamaskinen min trenger spesiell reparasjon umiddelbart."
+  },
+  {
+    "id": 817,
+    "category": "tech",
+    "text": "Programvaren trenger spesiell oppdatering umiddelbart."
+  },
+  {
+    "id": 818,
+    "category": "tech",
+    "text": "Jeg trenger spesiell tilgang til arbeidsystemet umiddelbart."
+  },
+  {
+    "id": 819,
+    "category": "tech",
+    "text": "Datalagringen trenger spesiell behandling umiddelbart."
+  },
+  {
+    "id": 820,
+    "category": "tech",
+    "text": "Systemet krever spesiell service umiddelbart."
+  },
+  {
+    "id": 821,
+    "category": "tech",
+    "text": "Tjenerserveren krever spesiell reparasjon umiddelbart."
+  },
+  {
+    "id": 822,
+    "category": "tech",
+    "text": "Datamaskinen min krever spesiell reparasjon umiddelbart."
+  },
+  {
+    "id": 823,
+    "category": "tech",
+    "text": "Programmet krever spesiell konfigurasjon umiddelbart."
+  },
+  {
+    "id": 824,
+    "category": "tech",
+    "text": "Jeg trenger spesiell opplæring på nye arbeidsverktøy."
+  },
+  {
+    "id": 825,
+    "category": "tech",
+    "text": "Systemet krever spesiell tilbakestilling umiddelbart."
+  },
+  {
+    "id": 826,
+    "category": "tech",
+    "text": "Internettforbindelsen krever spesiell reparasjon umiddelbart."
+  },
+  {
+    "id": 827,
+    "category": "tech",
+    "text": "Datamaskinen min krever spesiell oppdatering umiddelbart."
+  },
+  {
+    "id": 828,
+    "category": "tech",
+    "text": "Programvaren krever spesiell reparasjon umiddelbart."
+  },
+  {
+    "id": 829,
+    "category": "tech",
+    "text": "Jeg trenger spesiell tilgang til arbeidsystemet umiddelbart."
+  },
+  {
+    "id": 830,
+    "category": "tech",
+    "text": "Datalagringen krever spesiell service umiddelbart."
+  },
+  {
+    "id": 831,
+    "category": "tech",
+    "text": "Systemet brakk og krever umiddelbar reparasjon."
+  },
+  {
+    "id": 832,
+    "category": "tech",
+    "text": "Tjenerserveren brakk og krever umiddelbar service."
+  },
+  {
+    "id": 833,
+    "category": "tech",
+    "text": "Datamaskinen min brakk og krever umiddelbar reparasjon."
+  },
+  {
+    "id": 834,
+    "category": "tech",
+    "text": "Programmet brakk og krever umiddelbar oppdatering."
+  },
+  {
+    "id": 835,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min nekter å starte — batteriet er dødt."
+  },
+  {
+    "id": 836,
+    "category": "motorcycle",
+    "text": "Dekket på motorsykkelen min punkterte på vei hit."
+  },
+  {
+    "id": 837,
+    "category": "motorcycle",
+    "text": "Bremsen på motorsykkelen min er løs og trenger reparasjon."
+  },
+  {
+    "id": 838,
+    "category": "motorcycle",
+    "text": "Tenningsnøkkelen på motorsykkelen min brakk."
+  },
+  {
+    "id": 839,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min er til service og kommer ikke tilbake før sent i dag."
+  },
+  {
+    "id": 840,
+    "category": "motorcycle",
+    "text": "Jeg falt av motorsykkelen min men er heldigvis i live."
+  },
+  {
+    "id": 841,
+    "category": "motorcycle",
+    "text": "Kjeden på motorsykkelen min brakk midt på veien."
+  },
+  {
+    "id": 842,
+    "category": "motorcycle",
+    "text": "Olje lekket fra motorsykkelen min og jeg trenger reparasjon."
+  },
+  {
+    "id": 843,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min er frosset fast i garasjen."
+  },
+  {
+    "id": 844,
+    "category": "motorcycle",
+    "text": "Motorsykkelens motor gir feil og trenger diagnose."
+  },
+  {
+    "id": 845,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min er under vedlikehold som ble forsinket."
+  },
+  {
+    "id": 846,
+    "category": "motorcycle",
+    "text": "Tenningen på motorsykkelen min trenger utskifting."
+  },
+  {
+    "id": 847,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min har elektriske feil som trenger undersøkelse."
+  },
+  {
+    "id": 848,
+    "category": "motorcycle",
+    "text": "Jeg trenger spesielle verktøy for å fikse motorsykkelen som jeg ikke har."
+  },
+  {
+    "id": 849,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell smøring som bare er tilgjengelig på verksted."
+  },
+  {
+    "id": 850,
+    "category": "motorcycle",
+    "text": "Kjeden er for løs på motorsykkelen og trenger justering."
+  },
+  {
+    "id": 851,
+    "category": "motorcycle",
+    "text": "Styret på motorsykkelen er ødelagt og jeg kan ikke styre den."
+  },
+  {
+    "id": 852,
+    "category": "motorcycle",
+    "text": "Dekkene trenger utskifting før jeg kan kjøre."
+  },
+  {
+    "id": 853,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell inspeksjon på grunn av symptomer."
+  },
+  {
+    "id": 854,
+    "category": "motorcycle",
+    "text": "Lysene på motorsykkelen er ødelagt og jeg kan ikke kjøre uten dem."
+  },
+  {
+    "id": 855,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell reparasjon som tok lengre tid."
+  },
+  {
+    "id": 856,
+    "category": "motorcycle",
+    "text": "Bremse-oljen på motorsykkelen trenger utskifting."
+  },
+  {
+    "id": 857,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min er nede på grunn av elektrisk feil."
+  },
+  {
+    "id": 858,
+    "category": "motorcycle",
+    "text": "Dekkene er for gamle til å kjøre trygt."
+  },
+  {
+    "id": 859,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell service i dag."
+  },
+  {
+    "id": 860,
+    "category": "motorcycle",
+    "text": "Kjeden på motorsykkelen trenger reparasjon."
+  },
+  {
+    "id": 861,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell justering."
+  },
+  {
+    "id": 862,
+    "category": "motorcycle",
+    "text": "Oljen på motorsykkelen trenger utskifting."
+  },
+  {
+    "id": 863,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min er til service som tar hele dagen."
+  },
+  {
+    "id": 864,
+    "category": "motorcycle",
+    "text": "Motoren på motorsykkelen går ikke som den skal."
+  },
+  {
+    "id": 865,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell inspeksjon."
+  },
+  {
+    "id": 866,
+    "category": "motorcycle",
+    "text": "Lysene på motorsykkelen trenger reparasjon."
+  },
+  {
+    "id": 867,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesielt vedlikehold."
+  },
+  {
+    "id": 868,
+    "category": "motorcycle",
+    "text": "Kjeden på motorsykkelen trenger justering."
+  },
+  {
+    "id": 869,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell oljeskift."
+  },
+  {
+    "id": 870,
+    "category": "motorcycle",
+    "text": "Bremsen på motorsykkelen trenger reparasjon."
+  },
+  {
+    "id": 871,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell elektrisk reparasjon."
+  },
+  {
+    "id": 872,
+    "category": "motorcycle",
+    "text": "Dekkene på motorsykkelen trenger utskifting."
+  },
+  {
+    "id": 873,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell inspeksjon av motoren."
+  },
+  {
+    "id": 874,
+    "category": "motorcycle",
+    "text": "Tenningen på motorsykkelen trenger reparasjon."
+  },
+  {
+    "id": 875,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell service."
+  },
+  {
+    "id": 876,
+    "category": "motorcycle",
+    "text": "Styret på motorsykkelen trenger reparasjon."
+  },
+  {
+    "id": 877,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesielt vedlikehold av kjeden."
+  },
+  {
+    "id": 878,
+    "category": "motorcycle",
+    "text": "Oljen på motorsykkelen trenger umiddelbar utskifting."
+  },
+  {
+    "id": 879,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell inspeksjon av det elektriske."
+  },
+  {
+    "id": 880,
+    "category": "motorcycle",
+    "text": "Bremse-oljen på motorsykkelen trenger umiddelbar utskifting."
+  },
+  {
+    "id": 881,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell reparasjon av motoren."
+  },
+  {
+    "id": 882,
+    "category": "motorcycle",
+    "text": "Kjeden på motorsykkelen trenger umiddelbar reparasjon."
+  },
+  {
+    "id": 883,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell service av styret."
+  },
+  {
+    "id": 884,
+    "category": "motorcycle",
+    "text": "Lysene på motorsykkelen trenger umiddelbar reparasjon."
+  },
+  {
+    "id": 885,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell inspeksjon av bremsene."
+  },
+  {
+    "id": 886,
+    "category": "motorcycle",
+    "text": "Dekkene på motorsykkelen trenger umiddelbar utskifting."
+  },
+  {
+    "id": 887,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesielt vedlikehold av lysene."
+  },
+  {
+    "id": 888,
+    "category": "motorcycle",
+    "text": "Tenningen på motorsykkelen trenger umiddelbar reparasjon."
+  },
+  {
+    "id": 889,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell service av oljen."
+  },
+  {
+    "id": 890,
+    "category": "motorcycle",
+    "text": "Styret på motorsykkelen trenger umiddelbar reparasjon."
+  },
+  {
+    "id": 891,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell reparasjon av bremsene."
+  },
+  {
+    "id": 892,
+    "category": "motorcycle",
+    "text": "Oljen på motorsykkelen trenger spesiell utskifting."
+  },
+  {
+    "id": 893,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell inspeksjon av styret."
+  },
+  {
+    "id": 894,
+    "category": "motorcycle",
+    "text": "Bremsen på motorsykkelen trenger spesiell reparasjon."
+  },
+  {
+    "id": 895,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesielt vedlikehold av tenningen."
+  },
+  {
+    "id": 896,
+    "category": "motorcycle",
+    "text": "Kjeden på motorsykkelen trenger spesiell justering."
+  },
+  {
+    "id": 897,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell service av motoren."
+  },
+  {
+    "id": 898,
+    "category": "motorcycle",
+    "text": "Lysene på motorsykkelen trenger spesiell reparasjon."
+  },
+  {
+    "id": 899,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell inspeksjon av oljen."
+  },
+  {
+    "id": 900,
+    "category": "motorcycle",
+    "text": "Dekkene på motorsykkelen trenger spesiell utskifting."
+  },
+  {
+    "id": 901,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell reparasjon av kjeden."
+  },
+  {
+    "id": 902,
+    "category": "motorcycle",
+    "text": "Tenningen på motorsykkelen trenger spesiell reparasjon."
+  },
+  {
+    "id": 903,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell service av bremsene."
+  },
+  {
+    "id": 904,
+    "category": "motorcycle",
+    "text": "Styret på motorsykkelen trenger spesiell reparasjon."
+  },
+  {
+    "id": 905,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesielt vedlikehold av dekkene."
+  },
+  {
+    "id": 906,
+    "category": "motorcycle",
+    "text": "Oljen på motorsykkelen trenger umiddelbar utskifting."
+  },
+  {
+    "id": 907,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell inspeksjon umiddelbart."
+  },
+  {
+    "id": 908,
+    "category": "motorcycle",
+    "text": "Bremse-oljen på motorsykkelen trenger spesiell utskifting."
+  },
+  {
+    "id": 909,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell reparasjon umiddelbart."
+  },
+  {
+    "id": 910,
+    "category": "motorcycle",
+    "text": "Kjeden på motorsykkelen trenger umiddelbar reparasjon."
+  },
+  {
+    "id": 911,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell service umiddelbart."
+  },
+  {
+    "id": 912,
+    "category": "motorcycle",
+    "text": "Lysene på motorsykkelen trenger umiddelbar reparasjon."
+  },
+  {
+    "id": 913,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesielt vedlikehold umiddelbart."
+  },
+  {
+    "id": 914,
+    "category": "motorcycle",
+    "text": "Tenningen på motorsykkelen trenger umiddelbar reparasjon."
+  },
+  {
+    "id": 915,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell service av lysene."
+  },
+  {
+    "id": 916,
+    "category": "motorcycle",
+    "text": "Styret på motorsykkelen trenger umiddelbar reparasjon."
+  },
+  {
+    "id": 917,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell reparasjon av styret."
+  },
+  {
+    "id": 918,
+    "category": "motorcycle",
+    "text": "Dekkene på motorsykkelen trenger umiddelbar utskifting."
+  },
+  {
+    "id": 919,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell inspeksjon av kjeden."
+  },
+  {
+    "id": 920,
+    "category": "motorcycle",
+    "text": "Oljen på motorsykkelen trenger spesiell service."
+  },
+  {
+    "id": 921,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesielt vedlikehold av motoren."
+  },
+  {
+    "id": 922,
+    "category": "motorcycle",
+    "text": "Bremsen på motorsykkelen trenger umiddelbar reparasjon."
+  },
+  {
+    "id": 923,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell inspeksjon av tenningen."
+  },
+  {
+    "id": 924,
+    "category": "motorcycle",
+    "text": "Kjeden på motorsykkelen trenger umiddelbar justering."
+  },
+  {
+    "id": 925,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell service av dekkene."
+  },
+  {
+    "id": 926,
+    "category": "motorcycle",
+    "text": "Lysene på motorsykkelen trenger spesiell reparasjon."
+  },
+  {
+    "id": 927,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell inspeksjon av styret."
+  },
+  {
+    "id": 928,
+    "category": "motorcycle",
+    "text": "Tenningen på motorsykkelen trenger spesiell reparasjon."
+  },
+  {
+    "id": 929,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell service av kjeden."
+  },
+  {
+    "id": 930,
+    "category": "motorcycle",
+    "text": "Styret på motorsykkelen trenger spesiell reparasjon."
+  },
+  {
+    "id": 931,
+    "category": "motorcycle",
+    "text": "Motorsykkelen min trenger spesiell inspeksjon av lysene."
+  },
+  {
+    "id": 932,
+    "category": "funny",
+    "text": "Katten min satt på tastaturet og sendte inn oppsigelsen min — prøver fortsatt å angre det."
+  },
+  {
+    "id": 933,
+    "category": "funny",
+    "text": "Jeg nøs så hardt at jeg trakk alle muskler i overkroppen."
+  },
+  {
+    "id": 934,
+    "category": "funny",
+    "text": "Jeg limte hånden min fast til dørhåndtaket ved et uhell."
+  },
+  {
+    "id": 935,
+    "category": "funny",
+    "text": "En måke stjal bilnøklene mine og fløy av gårde. Jeg spøker ikke."
+  },
+  {
+    "id": 936,
+    "category": "funny",
+    "text": "Jeg la telefonen i kjøleskapet og matpakken i lommen. Fant begge flere timer senere."
+  },
+  {
+    "id": 937,
+    "category": "funny",
+    "text": "Papegøyen min har lært å ringe og melde seg syk på mine vegne — dessverre gjorde den det igjen."
+  },
+  {
+    "id": 938,
+    "category": "funny",
+    "text": "Jeg satte meg på brillene mine og kan nå ikke finne dem for å lete etter dem."
+  },
+  {
+    "id": 939,
+    "category": "funny",
+    "text": "Jeg sovnet i sofaen og hunden min låste hundedøren fra utsiden."
+  },
+  {
+    "id": 940,
+    "category": "funny",
+    "text": "Jeg meldte meg ved et uhell på et 5 km-løp som starter i nabolaget mitt i morges."
+  },
+  {
+    "id": 941,
+    "category": "funny",
+    "text": "Frokosten min slo tilbake."
+  },
+  {
+    "id": 942,
+    "category": "funny",
+    "text": "Jeg snublet i egne skolisser og gled ned en hel trapp."
+  },
+  {
+    "id": 943,
+    "category": "funny",
+    "text": "Fisken min er syk og jeg har vært oppe hele natten med å gjøre fiske-HLR."
+  },
+  {
+    "id": 944,
+    "category": "funny",
+    "text": "Jeg fikk genseren fast i bildøren og måtte klippe meg fri."
+  },
+  {
+    "id": 945,
+    "category": "funny",
+    "text": "Jeg glemte skoene mine hos en venn i går og oppdaget det først ved bussholdeplassen."
+  },
+  {
+    "id": 946,
+    "category": "funny",
+    "text": "Vekkerklokken min viste PM i stedet for AM på et veldig overbevisende vis."
+  },
+  {
+    "id": 947,
+    "category": "funny",
+    "text": "Jeg prøvde å lage kaffe og lagde suppe i stedet. Vet ikke hvordan det skjedde."
+  },
+  {
+    "id": 948,
+    "category": "funny",
+    "text": "En rev har barrikadert seg i garasjen min og nekter å forhandle."
+  },
+  {
+    "id": 949,
+    "category": "funny",
+    "text": "Jeg låste meg ute mens jeg hentet posten i pyjamasen."
+  },
+  {
+    "id": 950,
+    "category": "funny",
+    "text": "Hunden min spiste bilregistreringen og Statens vegvesen trenger den i dag."
+  },
+  {
+    "id": 951,
+    "category": "funny",
+    "text": "Jeg prøvde et nytt hårfarge og håret mitt er nå en farge som ikke finnes i naturen."
+  },
+  {
+    "id": 952,
+    "category": "funny",
+    "text": "Jeg svarte-på-alle på en veldig personlig e-posttråd i morges."
+  },
+  {
+    "id": 953,
+    "category": "funny",
+    "text": "En ekorn gnagde gjennom den eneste ladekabelen min og telefonen er død."
+  },
+  {
+    "id": 954,
+    "category": "funny",
+    "text": "Jeg gikk inn i en glassdør og trenger et øyeblikk."
+  },
+  {
+    "id": 955,
+    "category": "funny",
+    "text": "Naboens luftmadrass rømte inn i hagen min og blokkerte bilen."
+  },
+  {
+    "id": 956,
+    "category": "funny",
+    "text": "Jeg glei på et bananskal. Ja, det er faktisk det som skjedde."
+  },
+  {
+    "id": 957,
+    "category": "funny",
+    "text": "Barna mine satte googly-øyne på alle arbeidsklærne mine og jeg la ikke merke til det før på bussen."
+  },
+  {
+    "id": 958,
+    "category": "funny",
+    "text": "Jeg gikk ved et uhell inn i en flashmob og klarte ikke å komme meg ut."
+  },
+  {
+    "id": 959,
+    "category": "funny",
+    "text": "Jeg våknet og fant bilen min pakket inn i toalettpapir."
+  },
+  {
+    "id": 960,
+    "category": "funny",
+    "text": "Jeg brant toasten så dårlig at røykvarsleren ringte brannvesenet."
+  },
+  {
+    "id": 961,
+    "category": "funny",
+    "text": "Den automatiske garasjeporten min har bestemt seg for at i dag er fridagen dens."
+  },
+  {
+    "id": 962,
+    "category": "funny",
+    "text": "Jeg oppdaget at jeg hadde to forskjellige sko på ved bussholdeplassen."
+  },
+  {
+    "id": 963,
+    "category": "funny",
+    "text": "Romkompisen min adopterte en geit uten å fortelle meg. Geiten tilpasser seg ikke bra."
+  },
+  {
+    "id": 964,
+    "category": "funny",
+    "text": "Jeg fikk slipset fast i skriveren i går og kom meg ikke til telefonen."
+  },
+  {
+    "id": 965,
+    "category": "funny",
+    "text": "Jeg veltet hele garderoben min i morges og trenger tid til å bearbeide det."
+  },
+  {
+    "id": 966,
+    "category": "funny",
+    "text": "Jeg prøvde en snarvei og endte opp i en annen by."
+  },
+  {
+    "id": 967,
+    "category": "funny",
+    "text": "Dørkamera mitt fanget noe jeg må rapportere til flere myndigheter."
+  },
+  {
+    "id": 968,
+    "category": "funny",
+    "text": "Jeg slettet hele kalenderen min ved et uhell, inkludert dagens møter."
+  },
+  {
+    "id": 969,
+    "category": "funny",
+    "text": "Kontorstolen min rullet ut på et svakt hellende underlag og jeg mistet den i 45 minutter."
+  },
+  {
+    "id": 970,
+    "category": "funny",
+    "text": "Glidelåsen min har satt seg fast irreversibelt og jeg er fortsatt i frakken."
+  },
+  {
+    "id": 971,
+    "category": "funny",
+    "text": "En fugl bygde reir i inntaksmunnen på bilen min og jeg kan ikke bry meg om å forstyrre den."
+  },
+  {
+    "id": 972,
+    "category": "funny",
+    "text": "Jeg overvarmet kaffebrødet og det eksploderte. Ryddejobben pågår fortsatt."
+  },
+  {
+    "id": 973,
+    "category": "funny",
+    "text": "Jeg fikk et klistremerke fast på kontaktlinsen."
+  },
+  {
+    "id": 974,
+    "category": "funny",
+    "text": "Jeg svarte døren i søvne. Budet etterlot en lapp."
+  },
+  {
+    "id": 975,
+    "category": "funny",
+    "text": "Mikrobølgeovnen min falt av hyllen og landet på bilnøklene."
+  },
+  {
+    "id": 976,
+    "category": "funny",
+    "text": "Jeg oppdaget i morges at jeg er allergisk mot den nye såpen. Ansiktet mitt er interessant."
+  },
+  {
+    "id": 977,
+    "category": "funny",
+    "text": "Jeg bestilte frokost på vei hjem og den ble levert til naboen — fikk den aldri."
+  },
+  {
+    "id": 978,
+    "category": "funny",
+    "text": "Jeg meldte meg på en treningstime klokka fire om morgenen og møtte opp av en eller annen grunn."
+  },
+  {
+    "id": 979,
+    "category": "funny",
+    "text": "Beltet mitt sprakk i to da jeg skulle dra. Jeg har ingen reservebelte."
+  },
+  {
+    "id": 980,
+    "category": "funny",
+    "text": "Jeg satte meg på noe mystisk på bussen og må hjem for å skifte klær."
+  },
+  {
+    "id": 981,
+    "category": "funny",
+    "text": "En hermetikkboks med tomatsaus eksploderte i vesken og ødela ladekabelen."
+  },
+  {
+    "id": 982,
+    "category": "funny",
+    "text": "Jeg fikk en propp i lommen der mobillader er."
+  },
+  {
+    "id": 983,
+    "category": "funny",
+    "text": "Vinden blåste originaldokumentet mitt vekk akkurat da jeg åpnet bilen."
+  },
+  {
+    "id": 984,
+    "category": "funny",
+    "text": "Jeg klappet nabohunden og den rev leietillatelsen min."
+  },
+  {
+    "id": 985,
+    "category": "funny",
+    "text": "Skummet fra kaffemaskinen min sprang lekk og kastet varm kaffe på skjortefortet."
+  },
+  {
+    "id": 986,
+    "category": "funny",
+    "text": "Jeg leide sykkel i morges og den gikk i stykker midt på veien."
+  },
+  {
+    "id": 987,
+    "category": "funny",
+    "text": "Jeg ødela skoen min da takrennen rant over og traff meg."
+  },
+  {
+    "id": 988,
+    "category": "funny",
+    "text": "Barnet mitt laget kunst på kjøkkenveggen klokken fem i morges og jeg kan ikke forstå det."
+  },
+  {
+    "id": 989,
+    "category": "funny",
+    "text": "Jeg gled på is på fortauet og mistet termos og kaffekopp."
+  },
+  {
+    "id": 990,
+    "category": "funny",
+    "text": "Hunden min tok skoen min opp på taket og jeg vet ikke hvordan."
+  },
+  {
+    "id": 991,
+    "category": "funny",
+    "text": "Jeg krasjet i en ny bussdemonen fordi jeg leste."
+  },
+  {
+    "id": 992,
+    "category": "funny",
+    "text": "Jeg åpnet feil dør hos naboen og satte meg ned på kjøkkenet deres før jeg la merke til det."
+  },
+  {
+    "id": 993,
+    "category": "funny",
+    "text": "Noen parkerte for nær og jeg kan ikke åpne bildøren."
+  },
+  {
+    "id": 994,
+    "category": "funny",
+    "text": "Soppen min i drivhuset er i nødstilstand og trenger spesiell behandling."
+  },
+  {
+    "id": 995,
+    "category": "funny",
+    "text": "Jeg sølt all morgenkaffe på skrivebordet og tastaturet."
+  },
+  {
+    "id": 996,
+    "category": "funny",
+    "text": "Tommelen min er frosset fast til postkassen."
+  },
+  {
+    "id": 997,
+    "category": "funny",
+    "text": "Jeg kjøpte feil størrelse klær i går og problemet er åpenbart."
+  },
+  {
+    "id": 998,
+    "category": "funny",
+    "text": "Klokken i stuen begynte å slå 23 ganger om natten og vekket meg."
+  },
+  {
+    "id": 999,
+    "category": "funny",
+    "text": "Naboen min får kledning og materialene er farlig nær bilen min."
+  },
+  {
+    "id": 1000,
+    "category": "funny",
+    "text": "Jeg er usikker på om hunden min leker et spill eller faktisk er syk."
+  },
+  {
+    "id": 1001,
+    "category": "funny",
+    "text": "Jeg fant en yoghurtboks i stedet for skoen min i støvleskapet."
+  }
+]
