@@ -45,6 +45,7 @@ export default function HomeScreen() {
 
   return (
     <View style={styles.container}>
+      <Text style={styles.tagline}>😈 Your ticket out of the office</Text>
       <ExcuseCard excuse={excuse} />
       <GenerateButton onPress={generate} />
       <CategoryChips value={category} onChange={setCategory} />
@@ -59,6 +60,12 @@ const styles = StyleSheet.create({
     backgroundColor: colors.background,
     padding: 20,
     gap: 16,
+  },
+  tagline: {
+    color: colors.muted,
+    fontSize: 13,
+    textAlign: "center",
+    letterSpacing: 0.3,
   },
   headerButtons: {
     flexDirection: "row",

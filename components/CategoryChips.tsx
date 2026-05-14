@@ -1,6 +1,6 @@
 import React from "react";
 import { ScrollView, Pressable, Text, StyleSheet } from "react-native";
-import { CATEGORIES, Category } from "../utils/categories";
+import { CATEGORIES, CATEGORY_EMOJIS, Category } from "../utils/categories";
 import { colors } from "../utils/colors";
 
 type Props = {
@@ -22,7 +22,7 @@ export function CategoryChips({ value, onChange }: Props) {
           onPress={() => onChange(cat)}
         >
           <Text style={[styles.text, value === cat && styles.textActive]}>
-            {cat}
+            {CATEGORY_EMOJIS[cat]} {cat}
           </Text>
         </Pressable>
       ))}
@@ -33,8 +33,8 @@ export function CategoryChips({ value, onChange }: Props) {
 const styles = StyleSheet.create({
   row: { gap: 8, paddingVertical: 8 },
   chip: {
-    paddingHorizontal: 12,
-    paddingVertical: 6,
+    paddingHorizontal: 14,
+    paddingVertical: 7,
     borderRadius: 999,
     borderWidth: 1,
     borderColor: colors.border,
@@ -43,6 +43,6 @@ const styles = StyleSheet.create({
     backgroundColor: colors.accent,
     borderColor: colors.accent,
   },
-  text: { color: colors.text, fontSize: 12 },
-  textActive: { color: "#000" },
+  text: { color: colors.text, fontSize: 12, fontWeight: "500" },
+  textActive: { color: "#000", fontWeight: "700" },
 });
