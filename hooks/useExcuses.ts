@@ -1,5 +1,8 @@
-import excusesData from "../assets/excuses.json";
+import excusesEn from "../assets/excuses.json";
+import excusesIs from "../assets/excuses_is.json";
+import excusesNo from "../assets/excuses_no.json";
 import { Category } from "../utils/categories";
+import { Language } from "./useLanguage";
 
 export type Excuse = {
   id: number;
@@ -7,9 +10,14 @@ export type Excuse = {
   text: string;
 };
 
-const allExcuses: Excuse[] = excusesData as Excuse[];
+const dataByLanguage: Record<Language, Excuse[]> = {
+  en: excusesEn as Excuse[],
+  is: excusesIs as Excuse[],
+  no: excusesNo as Excuse[],
+};
 
-export function getRandomExcuse(category: Category): Excuse {
+export function getRandomExcuse(category: Category, language: Language = "en"): Excuse {
+  const allExcuses = dataByLanguage[language];
   const pool =
     category === "any"
       ? allExcuses
@@ -18,7 +26,8 @@ export function getRandomExcuse(category: Category): Excuse {
   return source[Math.floor(Math.random() * source.length)];
 }
 
-export function getExcusesByCategory(category: Category): Excuse[] {
+export function getExcusesByCategory(category: Category, language: Language = "en"): Excuse[] {
+  const allExcuses = dataByLanguage[language];
   if (category === "any") return allExcuses;
   return allExcuses.filter((e) => e.category === category);
 }

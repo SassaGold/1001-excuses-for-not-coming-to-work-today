@@ -7,6 +7,7 @@ import { CategoryChips } from "../components/CategoryChips";
 import { ShareButtons } from "../components/ShareButtons";
 import { getRandomExcuse, type Excuse } from "../hooks/useExcuses";
 import { useHistory } from "../hooks/useHistory";
+import { useLanguage } from "../hooks/useLanguage";
 import { Category } from "../utils/categories";
 import { colors } from "../utils/colors";
 
@@ -14,6 +15,7 @@ export default function HomeScreen() {
   const [category, setCategory] = useState<Category>("any");
   const [excuse, setExcuse] = useState<Excuse | undefined>(undefined);
   const { add } = useHistory();
+  const { language } = useLanguage();
   const router = useRouter();
   const navigation = useNavigation();
 
@@ -36,7 +38,7 @@ export default function HomeScreen() {
   }, [navigation, router]);
 
   const generate = () => {
-    const e = getRandomExcuse(category);
+    const e = getRandomExcuse(category, language);
     setExcuse(e);
     add(e);
   };
