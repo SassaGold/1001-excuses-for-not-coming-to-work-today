@@ -2,11 +2,13 @@ import React from "react";
 import { Stack } from "expo-router";
 import { colors } from "../utils/colors";
 import { useTheme } from "../hooks/useTheme";
+import { LanguageProvider } from "../hooks/useLanguage";
 
 export default function RootLayout() {
   const { isDark } = useTheme();
 
   return (
+    <LanguageProvider>
     <Stack
       screenOptions={{
         headerStyle: {
@@ -29,5 +31,6 @@ export default function RootLayout() {
         options={{ title: "Category" }}
       />
     </Stack>
+    </LanguageProvider>
   );
 }
