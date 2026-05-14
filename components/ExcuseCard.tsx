@@ -57,12 +57,12 @@ export function ExcuseCard({ excuse }: Props) {
 
 const styles = StyleSheet.create({
   card: {
-    flex: 1,
     backgroundColor: colors.card,
     borderRadius: 24,
     padding: 28,
     paddingTop: 34,
-    minHeight: 210,
+    minHeight: 160,
+    maxHeight: 220,
     justifyContent: "center",
     borderWidth: 1,
     borderColor: colors.border,
