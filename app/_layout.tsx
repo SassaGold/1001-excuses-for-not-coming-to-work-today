@@ -22,6 +22,7 @@ function NavigationStack() {
       <Stack.Screen name="index" options={{ title: t.appTitle }} />
       <Stack.Screen name="history" options={{ title: t.history }} />
       <Stack.Screen name="settings" options={{ title: t.settings }} />
+      <Stack.Screen name="about" options={{ title: t.about }} />
       <Stack.Screen
         name="categories/index"
         options={{ title: t.categories }}
