@@ -53,7 +53,7 @@ export function CategoryChips({ value, onChange }: Props) {
           key={cat}
           cat={cat}
           active={value === cat}
-          label={t.categoryNames[cat] ?? cat}
+          label={t.categoryNames[cat] || cat}
           onPress={() => onChange(cat)}
         />
       ))}

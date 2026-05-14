@@ -40,7 +40,7 @@ export function ExcuseCard({ excuse }: Props) {
         {excuse ? (
           <>
             <Text style={styles.category}>
-              {CATEGORY_EMOJIS[excuse.category as Category] ?? "🎯"}{" "}{excuse.category}
+              {CATEGORY_EMOJIS[excuse.category as Category] ?? "🎯"}{" "}{t.categoryNames[excuse.category] || excuse.category}
             </Text>
             <Text style={styles.text}>{excuse.text}</Text>
           </>
