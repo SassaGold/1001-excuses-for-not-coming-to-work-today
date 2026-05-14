@@ -20,7 +20,7 @@ export default function CategoryListScreen() {
           <View style={styles.emojiContainer}>
             <Text style={styles.emoji}>{CATEGORY_EMOJIS[cat]}</Text>
           </View>
-          <Text style={styles.text}>{t.categoryNames[cat] ?? cat}</Text>
+          <Text style={styles.text}>{t.categoryNames[cat] || cat}</Text>
           <Text style={styles.arrow}>›</Text>
         </Pressable>
       ))}

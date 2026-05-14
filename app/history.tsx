@@ -28,7 +28,7 @@ export default function HistoryScreen() {
               <Text style={styles.text}>{item.text}</Text>
               <View style={styles.badge}>
                 <Text style={styles.badgeText}>
-                  {CATEGORY_EMOJIS[item.category as Category] ?? "🎯"}{" "}{t.categoryNames[item.category] ?? item.category}
+                  {CATEGORY_EMOJIS[item.category as Category] ?? "🎯"}{" "}{t.categoryNames[item.category] || item.category}
                 </Text>
               </View>
             </View>
