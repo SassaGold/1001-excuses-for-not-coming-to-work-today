@@ -10,3 +10,14 @@ export const CATEGORIES = [
 ] as const;
 
 export type Category = (typeof CATEGORIES)[number];
+
+export const CATEGORY_EMOJIS: Record<string, string> = {
+  any: "🎲",
+  funny: "😂",
+  believable: "🎯",
+  chaotic: "🌀",
+  dark: "🖤",
+  office: "💼",
+  tech: "💻",
+  motorcycle: "🏍️",
+};
