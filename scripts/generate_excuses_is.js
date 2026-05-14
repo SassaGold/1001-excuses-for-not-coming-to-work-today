@@ -100,7 +100,7 @@ const categories = {
     "Ég braut vasann minn þegar ég rann inn í bílinn.",
     "Kettlingurinn minn hoppaði á mig á meðan ég var að sofa og ég rann út úr rúminu.",
     "Kettlingurinn komst inn í vinnupokann minn og nudd upp öll gögnin.",
-    "Eg gleymdi bílnum á röngu svæðinu og hann var dreginn í burtu.",
+    "Ég gleymdi bílnum á röngu svæðinu og hann var dreginn í burtu.",
     "Stigi minn brotnaði þegar ég var að ná í eitthvað á efstu hillu.",
     "Klósettið mitt fór að flóðast í morgun og vatnið er enn í gangi.",
     "Ég er fastur við útidyrnar vegna þess að hurðarhandfangið datt af.",
