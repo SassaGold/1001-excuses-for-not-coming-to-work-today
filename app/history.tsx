@@ -1,19 +1,21 @@
 import React from "react";
 import { View, Text, FlatList, StyleSheet } from "react-native";
 import { useHistory } from "../hooks/useHistory";
+import { useLanguage } from "../hooks/useLanguage";
 import { colors } from "../utils/colors";
 import { CATEGORY_EMOJIS, Category } from "../utils/categories";
 
 export default function HistoryScreen() {
   const { history } = useHistory();
+  const { t } = useLanguage();
 
   return (
     <View style={styles.container}>
       {history.length === 0 ? (
         <View style={styles.emptyContainer}>
           <Text style={styles.emptyIcon}>📭</Text>
-          <Text style={styles.empty}>No history yet.</Text>
-          <Text style={styles.emptyHint}>Generate an excuse first!</Text>
+          <Text style={styles.empty}>{t.noHistory}</Text>
+          <Text style={styles.emptyHint}>{t.noHistoryHint}</Text>
         </View>
       ) : (
         <FlatList
@@ -26,7 +28,7 @@ export default function HistoryScreen() {
               <Text style={styles.text}>{item.text}</Text>
               <View style={styles.badge}>
                 <Text style={styles.badgeText}>
-                  {CATEGORY_EMOJIS[item.category as Category] ?? "🎯"}{" "}{item.category}
+                  {CATEGORY_EMOJIS[item.category as Category] ?? "🎯"}{" "}{t.categoryNames[item.category] ?? item.category}
                 </Text>
               </View>
             </View>

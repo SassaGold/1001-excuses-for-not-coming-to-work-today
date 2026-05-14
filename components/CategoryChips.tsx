@@ -2,6 +2,7 @@ import React from "react";
 import { ScrollView, Pressable, Text, StyleSheet } from "react-native";
 import { CATEGORIES, CATEGORY_EMOJIS, Category } from "../utils/categories";
 import { colors } from "../utils/colors";
+import { useLanguage } from "../hooks/useLanguage";
 
 type Props = {
   value: Category;
@@ -9,6 +10,8 @@ type Props = {
 };
 
 export function CategoryChips({ value, onChange }: Props) {
+  const { t } = useLanguage();
+
   return (
     <ScrollView
       horizontal
@@ -22,7 +25,7 @@ export function CategoryChips({ value, onChange }: Props) {
           onPress={() => onChange(cat)}
         >
           <Text style={[styles.text, value === cat && styles.textActive]}>
-            {CATEGORY_EMOJIS[cat]} {cat}
+            {CATEGORY_EMOJIS[cat]} {t.categoryNames[cat] ?? cat}
           </Text>
         </Pressable>
       ))}

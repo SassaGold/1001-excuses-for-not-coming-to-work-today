@@ -6,14 +6,14 @@ import { colors } from "../utils/colors";
 
 export default function SettingsScreen() {
   const { clear } = useHistory();
-  const { language, changeLanguage } = useLanguage();
+  const { language, changeLanguage, t } = useLanguage();
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Settings</Text>
+      <Text style={styles.title}>{t.settings}</Text>
 
       <View style={styles.section}>
-        <Text style={styles.sectionLabel}>Language</Text>
+        <Text style={styles.sectionLabel}>{t.language}</Text>
         <View style={styles.languageRow}>
           {LANGUAGES.map((lang) => (
             <Pressable
@@ -30,10 +30,10 @@ export default function SettingsScreen() {
       </View>
 
       <Pressable style={styles.btn} onPress={clear}>
-        <Text style={styles.btnText}>Clear history</Text>
+        <Text style={styles.btnText}>{t.clearHistory}</Text>
       </Pressable>
 
-      <Text style={styles.muted}>Dark mode follows system theme.</Text>
+      <Text style={styles.muted}>{t.darkModeNote}</Text>
     </View>
   );
 }

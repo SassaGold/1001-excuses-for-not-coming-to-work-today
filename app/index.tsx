@@ -15,7 +15,7 @@ export default function HomeScreen() {
   const [category, setCategory] = useState<Category>("any");
   const [excuse, setExcuse] = useState<Excuse | undefined>(undefined);
   const { add } = useHistory();
-  const { language } = useLanguage();
+  const { language, t } = useLanguage();
   const router = useRouter();
   const navigation = useNavigation();
 
@@ -24,18 +24,18 @@ export default function HomeScreen() {
       headerRight: () => (
         <View style={styles.headerButtons}>
           <Pressable onPress={() => router.push("/categories")} style={styles.headerBtn}>
-            <Text style={styles.headerBtnText}>Categories</Text>
+            <Text style={styles.headerBtnText}>{t.categories}</Text>
           </Pressable>
           <Pressable onPress={() => router.push("/history")} style={styles.headerBtn}>
-            <Text style={styles.headerBtnText}>History</Text>
+            <Text style={styles.headerBtnText}>{t.history}</Text>
           </Pressable>
-          <Pressable onPress={() => router.push("/settings")} style={styles.headerBtn} accessibilityLabel="Settings">
+          <Pressable onPress={() => router.push("/settings")} style={styles.headerBtn} accessibilityLabel={t.settings}>
             <Text style={styles.headerBtnText}>⚙️</Text>
           </Pressable>
         </View>
       ),
     });
-  }, [navigation, router]);
+  }, [navigation, router, t]);
 
   const generate = () => {
     const e = getRandomExcuse(category, language);
@@ -45,7 +45,7 @@ export default function HomeScreen() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.tagline}>😈 Your ticket out of the office</Text>
+      <Text style={styles.tagline}>{t.tagline}</Text>
       <ExcuseCard excuse={excuse} />
       <GenerateButton onPress={generate} />
       <CategoryChips value={category} onChange={setCategory} />
