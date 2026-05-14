@@ -30,7 +30,7 @@ export function ExcuseCard({ excuse }: Props) {
         }),
       ]).start();
     }
-  }, [excuse?.id]);
+  }, [excuse?.id, fadeAnim, slideAnim]);
 
   return (
     <View style={styles.card}>
@@ -46,7 +46,7 @@ export function ExcuseCard({ excuse }: Props) {
           </>
         ) : (
           <View style={styles.placeholderContainer}>
-            <Text style={styles.placeholderEmoji}>✨</Text>
+            <Text style={styles.placeholderEmoji} accessibilityLabel="sparkles" accessibilityRole="image">✨</Text>
             <Text style={styles.placeholder}>{t.tapToGenerate}</Text>
           </View>
         )}

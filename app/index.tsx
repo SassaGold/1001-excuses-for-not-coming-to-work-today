@@ -46,7 +46,7 @@ export default function HomeScreen() {
   return (
     <View style={styles.container}>
       <View style={styles.hero}>
-        <Text style={styles.heroEmoji}>🤥</Text>
+        <Text style={styles.heroEmoji} accessibilityLabel="lying face" accessibilityRole="image">🤥</Text>
         <Text style={styles.tagline}>{t.tagline}</Text>
       </View>
       <ExcuseCard excuse={excuse} />

@@ -20,7 +20,7 @@ export function GenerateButton({ onPress }: Props) {
     );
     loop.start();
     return () => loop.stop();
-  }, []);
+  }, [breathe]);
 
   const handlePressIn = () => {
     Animated.spring(scale, {
@@ -53,7 +53,7 @@ export function GenerateButton({ onPress }: Props) {
         onPressIn={handlePressIn}
         onPressOut={handlePressOut}
       >
-        <Text style={styles.emoji}>🎲</Text>
+        <Text style={styles.emoji} accessibilityLabel="dice icon" accessibilityRole="image">🎲</Text>
         <Text style={styles.text}>{t.generateExcuse}</Text>
       </Pressable>
     </Animated.View>
