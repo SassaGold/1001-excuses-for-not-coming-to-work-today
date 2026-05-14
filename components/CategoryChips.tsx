@@ -1,5 +1,5 @@
 import React, { useRef } from "react";
-import { ScrollView, Pressable, Text, StyleSheet, Animated } from "react-native";
+import { View, Pressable, Text, StyleSheet, Animated } from "react-native";
 import { CATEGORIES, CATEGORY_EMOJIS, Category } from "../utils/categories";
 import { colors } from "../utils/colors";
 import { useLanguage } from "../hooks/useLanguage";
@@ -47,11 +47,7 @@ export function CategoryChips({ value, onChange }: Props) {
   const { t } = useLanguage();
 
   return (
-    <ScrollView
-      horizontal
-      showsHorizontalScrollIndicator={false}
-      contentContainerStyle={styles.row}
-    >
+    <View style={styles.row}>
       {CATEGORIES.map((cat) => (
         <AnimatedChip
           key={cat}
@@ -61,12 +57,12 @@ export function CategoryChips({ value, onChange }: Props) {
           onPress={() => onChange(cat)}
         />
       ))}
-    </ScrollView>
+    </View>
   );
 }
 
 const styles = StyleSheet.create({
-  row: { gap: 8, paddingVertical: 8 },
+  row: { flexDirection: "row", flexWrap: "wrap", gap: 8, paddingVertical: 4 },
   chip: {
     paddingHorizontal: 14,
     paddingVertical: 8,
