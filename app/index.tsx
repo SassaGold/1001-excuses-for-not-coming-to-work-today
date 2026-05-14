@@ -45,7 +45,7 @@ export default function HomeScreen() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.tagline}>😈  Your ticket out of the office</Text>
+      <Text style={styles.tagline}>😈 Your ticket out of the office</Text>
       <ExcuseCard excuse={excuse} />
       <GenerateButton onPress={generate} />
       <CategoryChips value={category} onChange={setCategory} />

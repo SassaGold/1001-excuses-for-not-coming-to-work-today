@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from "react";
 import { View, Text, StyleSheet, Animated } from "react-native";
 import { Excuse } from "../hooks/useExcuses";
 import { colors } from "../utils/colors";
-import { CATEGORY_EMOJIS } from "../utils/categories";
+import { CATEGORY_EMOJIS, Category } from "../utils/categories";
 
 type Props = { excuse?: Excuse };
 
@@ -27,7 +27,7 @@ export function ExcuseCard({ excuse }: Props) {
         {excuse ? (
           <>
             <Text style={styles.category}>
-              {CATEGORY_EMOJIS[excuse.category] ?? "🎯"}{"  "}{excuse.category}
+              {CATEGORY_EMOJIS[excuse.category as Category] ?? "🎯"}{" "}{excuse.category}
             </Text>
             <Text style={styles.text}>{excuse.text}</Text>
           </>

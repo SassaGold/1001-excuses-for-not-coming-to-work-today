@@ -39,7 +39,7 @@ export function GenerateButton({ onPress }: Props) {
         onPressIn={handlePressIn}
         onPressOut={handlePressOut}
       >
-        <Text style={styles.text}>🎲  Generate Excuse</Text>
+        <Text style={styles.text}>🎲 Generate Excuse</Text>
       </Pressable>
     </Animated.View>
   );

@@ -2,7 +2,7 @@ import React from "react";
 import { View, Text, FlatList, StyleSheet } from "react-native";
 import { useHistory } from "../hooks/useHistory";
 import { colors } from "../utils/colors";
-import { CATEGORY_EMOJIS } from "../utils/categories";
+import { CATEGORY_EMOJIS, Category } from "../utils/categories";
 
 export default function HistoryScreen() {
   const { history } = useHistory();
@@ -26,7 +26,7 @@ export default function HistoryScreen() {
               <Text style={styles.text}>{item.text}</Text>
               <View style={styles.badge}>
                 <Text style={styles.badgeText}>
-                  {CATEGORY_EMOJIS[item.category] ?? "🎯"}{"  "}{item.category}
+                  {CATEGORY_EMOJIS[item.category as Category] ?? "🎯"}{" "}{item.category}
                 </Text>
               </View>
             </View>

@@ -11,7 +11,7 @@ export const CATEGORIES = [
 
 export type Category = (typeof CATEGORIES)[number];
 
-export const CATEGORY_EMOJIS: Record<string, string> = {
+export const CATEGORY_EMOJIS: Record<Category, string> = {
   any: "🎲",
   funny: "😂",
   believable: "🎯",

@@ -32,7 +32,7 @@ export function ShareButtons({ text }: Props) {
         onPress={copy}
         disabled={disabled}
       >
-        <Text style={[styles.text, disabled && styles.textDisabled]}>📋  Copy</Text>
+        <Text style={[styles.text, disabled && styles.textDisabled]}>📋 Copy</Text>
       </Pressable>
       <Pressable
         style={({ pressed }) => [
@@ -44,7 +44,7 @@ export function ShareButtons({ text }: Props) {
         onPress={share}
         disabled={disabled}
       >
-        <Text style={[styles.text, styles.textShare, disabled && styles.textDisabled]}>📤  Share</Text>
+        <Text style={[styles.text, styles.textShare, disabled && styles.textDisabled]}>📤 Share</Text>
       </Pressable>
     </View>
   );
