@@ -3,11 +3,13 @@ import { View, Pressable, Text, StyleSheet, Share } from "react-native";
 import * as Clipboard from "expo-clipboard";
 import * as Haptics from "expo-haptics";
 import { colors } from "../utils/colors";
+import { useLanguage } from "../hooks/useLanguage";
 
 type Props = { text?: string };
 
 export function ShareButtons({ text }: Props) {
   const disabled = !text;
+  const { t } = useLanguage();
 
   const copy = async () => {
     if (!text) return;
@@ -32,7 +34,7 @@ export function ShareButtons({ text }: Props) {
         onPress={copy}
         disabled={disabled}
       >
-        <Text style={[styles.text, disabled && styles.textDisabled]}>📋 Copy</Text>
+        <Text style={[styles.text, disabled && styles.textDisabled]}>{t.copy}</Text>
       </Pressable>
       <Pressable
         style={({ pressed }) => [
@@ -44,7 +46,7 @@ export function ShareButtons({ text }: Props) {
         onPress={share}
         disabled={disabled}
       >
-        <Text style={[styles.text, styles.textShare, disabled && styles.textDisabled]}>📤 Share</Text>
+        <Text style={[styles.text, styles.textShare, disabled && styles.textDisabled]}>{t.share}</Text>
       </Pressable>
     </View>
   );

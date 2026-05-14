@@ -3,11 +3,13 @@ import { View, Text, StyleSheet, Animated } from "react-native";
 import { Excuse } from "../hooks/useExcuses";
 import { colors } from "../utils/colors";
 import { CATEGORY_EMOJIS, Category } from "../utils/categories";
+import { useLanguage } from "../hooks/useLanguage";
 
 type Props = { excuse?: Excuse };
 
 export function ExcuseCard({ excuse }: Props) {
   const fadeAnim = useRef(new Animated.Value(1)).current;
+  const { t } = useLanguage();
 
   useEffect(() => {
     if (excuse) {
@@ -33,7 +35,7 @@ export function ExcuseCard({ excuse }: Props) {
           </>
         ) : (
           <Text style={styles.placeholder}>
-            {"🎲 Tap the button below\nto get your excuse!"}
+            {t.tapToGenerate}
           </Text>
         )}
       </Animated.View>

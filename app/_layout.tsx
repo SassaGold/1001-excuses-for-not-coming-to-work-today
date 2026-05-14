@@ -2,13 +2,13 @@ import React from "react";
 import { Stack } from "expo-router";
 import { colors } from "../utils/colors";
 import { useTheme } from "../hooks/useTheme";
-import { LanguageProvider } from "../hooks/useLanguage";
+import { LanguageProvider, useLanguage } from "../hooks/useLanguage";
 
-export default function RootLayout() {
+function NavigationStack() {
   const { isDark } = useTheme();
+  const { t } = useLanguage();
 
   return (
-    <LanguageProvider>
     <Stack
       screenOptions={{
         headerStyle: {
@@ -19,18 +19,25 @@ export default function RootLayout() {
         contentStyle: { backgroundColor: colors.background },
       }}
     >
-      <Stack.Screen name="index" options={{ title: "1001 Excuses" }} />
-      <Stack.Screen name="history" options={{ title: "History" }} />
-      <Stack.Screen name="settings" options={{ title: "Settings" }} />
+      <Stack.Screen name="index" options={{ title: t.appTitle }} />
+      <Stack.Screen name="history" options={{ title: t.history }} />
+      <Stack.Screen name="settings" options={{ title: t.settings }} />
       <Stack.Screen
         name="categories/index"
-        options={{ title: "Categories" }}
+        options={{ title: t.categories }}
       />
       <Stack.Screen
         name="categories/[category]"
-        options={{ title: "Category" }}
+        options={{ title: t.category }}
       />
     </Stack>
+  );
+}
+
+export default function RootLayout() {
+  return (
+    <LanguageProvider>
+      <NavigationStack />
     </LanguageProvider>
   );
 }

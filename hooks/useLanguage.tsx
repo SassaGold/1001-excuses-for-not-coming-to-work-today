@@ -6,6 +6,7 @@ import React, {
   createContext,
 } from "react";
 import AsyncStorage from "@react-native-async-storage/async-storage";
+import { getTranslations, Translations } from "../utils/translations";
 
 export type Language = "en" | "is" | "no";
 
@@ -20,6 +21,7 @@ const STORAGE_KEY = "@excuses_language";
 type LanguageContextValue = {
   language: Language;
   changeLanguage: (lang: Language) => void;
+  t: Translations;
 };
 
 const LanguageContext = createContext<LanguageContextValue | undefined>(
@@ -45,7 +47,7 @@ export function LanguageProvider({ children }: { children: React.ReactNode }) {
   }, []);
 
   return (
-    <LanguageContext.Provider value={{ language, changeLanguage }}>
+    <LanguageContext.Provider value={{ language, changeLanguage, t: getTranslations(language) }}>
       {children}
     </LanguageContext.Provider>
   );

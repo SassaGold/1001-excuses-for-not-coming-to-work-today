@@ -2,11 +2,13 @@ import React, { useRef } from "react";
 import { Pressable, Text, StyleSheet, Animated } from "react-native";
 import * as Haptics from "expo-haptics";
 import { colors } from "../utils/colors";
+import { useLanguage } from "../hooks/useLanguage";
 
 type Props = { onPress: () => void };
 
 export function GenerateButton({ onPress }: Props) {
   const scale = useRef(new Animated.Value(1)).current;
+  const { t } = useLanguage();
 
   const handlePressIn = () => {
     Animated.spring(scale, {
@@ -39,7 +41,7 @@ export function GenerateButton({ onPress }: Props) {
         onPressIn={handlePressIn}
         onPressOut={handlePressOut}
       >
-        <Text style={styles.text}>🎲 Generate Excuse</Text>
+        <Text style={styles.text}>{t.generateExcuse}</Text>
       </Pressable>
     </Animated.View>
   );
