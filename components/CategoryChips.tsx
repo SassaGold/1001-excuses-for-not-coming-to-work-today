@@ -28,16 +28,15 @@ function AnimatedChip({
     Animated.spring(scale, { toValue: 1, useNativeDriver: true, speed: 20, bounciness: 10 }).start();
 
   return (
-    <Animated.View style={{ transform: [{ scale }] }}>
+    <Animated.View style={[styles.chipWrapper, { transform: [{ scale }] }]}>
       <Pressable
         style={[styles.chip, active && styles.chipActive]}
         onPress={onPress}
         onPressIn={onPressIn}
         onPressOut={onPressOut}
       >
-        <Text style={[styles.text, active && styles.textActive]}>
-          {CATEGORY_EMOJIS[cat]} {label}
-        </Text>
+        <Text style={styles.emoji} numberOfLines={1}>{CATEGORY_EMOJIS[cat]}</Text>
+        <Text style={[styles.text, active && styles.textActive]} numberOfLines={1}>{label}</Text>
       </Pressable>
     </Animated.View>
   );
@@ -63,7 +62,11 @@ export function CategoryChips({ value, onChange }: Props) {
 
 const styles = StyleSheet.create({
   row: { flexDirection: "row", flexWrap: "wrap", gap: 8, paddingVertical: 4 },
+  chipWrapper: { flexShrink: 0 },
   chip: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 4,
     paddingHorizontal: 14,
     paddingVertical: 8,
     borderRadius: 999,
@@ -75,6 +78,7 @@ const styles = StyleSheet.create({
     backgroundColor: colors.accent,
     borderColor: colors.accent,
   },
+  emoji: { fontSize: 12 },
   text: { color: colors.muted, fontSize: 12, fontWeight: "600" },
   textActive: { color: "#fff", fontWeight: "700" },
 });
