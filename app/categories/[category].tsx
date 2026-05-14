@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
   list: { padding: 16, gap: 10 },
   item: {
     backgroundColor: colors.card,
-    borderRadius: 14,
+    borderRadius: 16,
     padding: 16,
     borderWidth: 1,
     borderColor: colors.border,
@@ -43,10 +43,11 @@ const styles = StyleSheet.create({
   },
   num: {
     color: colors.accent,
-    fontSize: 12,
+    fontSize: 11,
     fontWeight: "700",
-    minWidth: 24,
+    minWidth: 26,
     marginTop: 2,
+    letterSpacing: 0.5,
   },
-  text: { color: colors.text, fontSize: 14, lineHeight: 21, flex: 1 },
+  text: { color: colors.text, fontSize: 15, lineHeight: 23, flex: 1 },
 });

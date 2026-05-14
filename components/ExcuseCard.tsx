@@ -9,23 +9,34 @@ type Props = { excuse?: Excuse };
 
 export function ExcuseCard({ excuse }: Props) {
   const fadeAnim = useRef(new Animated.Value(1)).current;
+  const slideAnim = useRef(new Animated.Value(0)).current;
   const { t } = useLanguage();
 
   useEffect(() => {
     if (excuse) {
       fadeAnim.setValue(0);
-      Animated.timing(fadeAnim, {
-        toValue: 1,
-        duration: 300,
-        useNativeDriver: true,
-      }).start();
+      slideAnim.setValue(24);
+      Animated.parallel([
+        Animated.timing(fadeAnim, {
+          toValue: 1,
+          duration: 350,
+          useNativeDriver: true,
+        }),
+        Animated.spring(slideAnim, {
+          toValue: 0,
+          speed: 18,
+          bounciness: 7,
+          useNativeDriver: true,
+        }),
+      ]).start();
     }
-  }, [excuse?.id]);
+  }, [excuse?.id, fadeAnim, slideAnim]);
 
   return (
     <View style={styles.card}>
+      <View style={styles.accentBar} />
       <Text style={styles.quoteDecor}>{"\u201C"}</Text>
-      <Animated.View style={{ opacity: fadeAnim }}>
+      <Animated.View style={{ opacity: fadeAnim, transform: [{ translateY: slideAnim }] }}>
         {excuse ? (
           <>
             <Text style={styles.category}>
@@ -34,9 +45,10 @@ export function ExcuseCard({ excuse }: Props) {
             <Text style={styles.text}>{excuse.text}</Text>
           </>
         ) : (
-          <Text style={styles.placeholder}>
-            {t.tapToGenerate}
-          </Text>
+          <View style={styles.placeholderContainer}>
+            <Text style={styles.placeholderEmoji} accessibilityLabel="sparkles" accessibilityRole="image">✨</Text>
+            <Text style={styles.placeholder}>{t.tapToGenerate}</Text>
+          </View>
         )}
       </Animated.View>
     </View>
@@ -46,42 +58,60 @@ export function ExcuseCard({ excuse }: Props) {
 const styles = StyleSheet.create({
   card: {
     backgroundColor: colors.card,
-    borderRadius: 20,
+    borderRadius: 24,
     padding: 28,
-    minHeight: 180,
+    paddingTop: 34,
+    minHeight: 210,
     justifyContent: "center",
     borderWidth: 1,
     borderColor: colors.border,
     overflow: "hidden",
     shadowColor: colors.accent,
-    shadowOffset: { width: 0, height: 4 },
-    shadowOpacity: 0.12,
-    shadowRadius: 12,
-    elevation: 6,
+    shadowOffset: { width: 0, height: 8 },
+    shadowOpacity: 0.28,
+    shadowRadius: 22,
+    elevation: 12,
+  },
+  accentBar: {
+    position: "absolute",
+    top: 0,
+    left: 0,
+    right: 0,
+    height: 4,
+    backgroundColor: colors.accent,
+    borderTopLeftRadius: 24,
+    borderTopRightRadius: 24,
   },
   quoteDecor: {
     position: "absolute",
-    top: -8,
-    left: 14,
-    fontSize: 100,
+    top: -10,
+    right: 14,
+    fontSize: 120,
     color: colors.accent,
-    opacity: 0.1,
+    opacity: 0.07,
     fontWeight: "700",
-    lineHeight: 110,
+    lineHeight: 130,
   },
   category: {
     color: colors.accent,
     fontSize: 11,
     fontWeight: "700",
     textTransform: "uppercase",
-    letterSpacing: 1.4,
+    letterSpacing: 1.6,
     marginBottom: 14,
   },
   text: {
     color: colors.text,
-    fontSize: 19,
-    lineHeight: 28,
+    fontSize: 20,
+    lineHeight: 32,
     fontStyle: "italic",
+  },
+  placeholderContainer: {
+    alignItems: "center",
+    gap: 10,
+  },
+  placeholderEmoji: {
+    fontSize: 38,
   },
   placeholder: {
     color: colors.muted,
