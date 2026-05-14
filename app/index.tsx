@@ -45,7 +45,10 @@ export default function HomeScreen() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.tagline}>{t.tagline}</Text>
+      <View style={styles.hero}>
+        <Text style={styles.heroEmoji}>🤥</Text>
+        <Text style={styles.tagline}>{t.tagline}</Text>
+      </View>
       <ExcuseCard excuse={excuse} />
       <GenerateButton onPress={generate} />
       <CategoryChips value={category} onChange={setCategory} />
@@ -61,11 +64,19 @@ const styles = StyleSheet.create({
     padding: 20,
     gap: 16,
   },
+  hero: {
+    alignItems: "center",
+    gap: 4,
+    paddingVertical: 4,
+  },
+  heroEmoji: {
+    fontSize: 44,
+  },
   tagline: {
     color: colors.muted,
     fontSize: 13,
     textAlign: "center",
-    letterSpacing: 0.3,
+    letterSpacing: 0.4,
   },
   headerButtons: {
     flexDirection: "row",

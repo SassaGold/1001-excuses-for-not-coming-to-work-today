@@ -1,5 +1,5 @@
-import React from "react";
-import { ScrollView, Pressable, Text, StyleSheet } from "react-native";
+import React, { useRef } from "react";
+import { ScrollView, Pressable, Text, StyleSheet, Animated } from "react-native";
 import { CATEGORIES, CATEGORY_EMOJIS, Category } from "../utils/categories";
 import { colors } from "../utils/colors";
 import { useLanguage } from "../hooks/useLanguage";
@@ -8,6 +8,40 @@ type Props = {
   value: Category;
   onChange: (c: Category) => void;
 };
+
+function AnimatedChip({
+  cat,
+  active,
+  label,
+  onPress,
+}: {
+  cat: Category;
+  active: boolean;
+  label: string;
+  onPress: () => void;
+}) {
+  const scale = useRef(new Animated.Value(1)).current;
+
+  const onPressIn = () =>
+    Animated.spring(scale, { toValue: 0.9, useNativeDriver: true, speed: 40, bounciness: 0 }).start();
+  const onPressOut = () =>
+    Animated.spring(scale, { toValue: 1, useNativeDriver: true, speed: 20, bounciness: 10 }).start();
+
+  return (
+    <Animated.View style={{ transform: [{ scale }] }}>
+      <Pressable
+        style={[styles.chip, active && styles.chipActive]}
+        onPress={onPress}
+        onPressIn={onPressIn}
+        onPressOut={onPressOut}
+      >
+        <Text style={[styles.text, active && styles.textActive]}>
+          {CATEGORY_EMOJIS[cat]} {label}
+        </Text>
+      </Pressable>
+    </Animated.View>
+  );
+}
 
 export function CategoryChips({ value, onChange }: Props) {
   const { t } = useLanguage();
@@ -19,15 +53,13 @@ export function CategoryChips({ value, onChange }: Props) {
       contentContainerStyle={styles.row}
     >
       {CATEGORIES.map((cat) => (
-        <Pressable
+        <AnimatedChip
           key={cat}
-          style={[styles.chip, value === cat && styles.chipActive]}
+          cat={cat}
+          active={value === cat}
+          label={t.categoryNames[cat] ?? cat}
           onPress={() => onChange(cat)}
-        >
-          <Text style={[styles.text, value === cat && styles.textActive]}>
-            {CATEGORY_EMOJIS[cat]} {t.categoryNames[cat] ?? cat}
-          </Text>
-        </Pressable>
+        />
       ))}
     </ScrollView>
   );
@@ -37,15 +69,16 @@ const styles = StyleSheet.create({
   row: { gap: 8, paddingVertical: 8 },
   chip: {
     paddingHorizontal: 14,
-    paddingVertical: 7,
+    paddingVertical: 8,
     borderRadius: 999,
-    borderWidth: 1,
+    borderWidth: 1.5,
     borderColor: colors.border,
+    backgroundColor: colors.card,
   },
   chipActive: {
     backgroundColor: colors.accent,
     borderColor: colors.accent,
   },
-  text: { color: colors.text, fontSize: 12, fontWeight: "500" },
-  textActive: { color: "#000", fontWeight: "700" },
+  text: { color: colors.muted, fontSize: 12, fontWeight: "600" },
+  textActive: { color: "#fff", fontWeight: "700" },
 });
