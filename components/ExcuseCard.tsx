@@ -57,6 +57,7 @@ export function ExcuseCard({ excuse }: Props) {
 
 const styles = StyleSheet.create({
   card: {
+    flex: 1,
     backgroundColor: colors.card,
     borderRadius: 24,
     padding: 28,
