@@ -1,5 +1,6 @@
 import React from "react";
 import { View, Text, Pressable, StyleSheet } from "react-native";
+import { useRouter } from "expo-router";
 import { useHistory } from "../hooks/useHistory";
 import { useLanguage, LANGUAGES } from "../hooks/useLanguage";
 import { colors } from "../utils/colors";
@@ -7,6 +8,7 @@ import { colors } from "../utils/colors";
 export default function SettingsScreen() {
   const { clear } = useHistory();
   const { language, changeLanguage, t } = useLanguage();
+  const router = useRouter();
 
   return (
     <View style={styles.container}>
@@ -34,6 +36,10 @@ export default function SettingsScreen() {
       </Pressable>
 
       <Text style={styles.muted}>{t.darkModeNote}</Text>
+
+      <Pressable style={styles.btn} onPress={() => router.push("/about")}>
+        <Text style={styles.btnText}>ℹ️ {t.about}</Text>
+      </Pressable>
     </View>
   );
 }
