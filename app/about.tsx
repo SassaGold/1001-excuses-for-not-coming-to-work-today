@@ -1,5 +1,5 @@
 import React from "react";
-import { View, Text, ScrollView, StyleSheet } from "react-native";
+import { View, Text, ScrollView, StyleSheet, Linking, Pressable } from "react-native";
 import Constants from "expo-constants";
 import { useLanguage } from "../hooks/useLanguage";
 import { colors } from "../utils/colors";
@@ -24,7 +24,11 @@ export default function AboutScreen() {
         </Text>
       </View>
 
-      <Section label={t.privacyPolicy} body={t.privacyPolicyBody} />
+      <Section
+        label={t.privacyPolicy}
+        body={t.privacyPolicyBody}
+        url="https://sassagold.com/1001excuses-privacy.html"
+      />
       <Section label={t.dataStorage} body={t.dataStorageBody} />
       <Section label={t.termsOfUse} body={t.termsOfUseBody} />
       <Section label={t.contact} body={t.contactBody} />
@@ -32,11 +36,19 @@ export default function AboutScreen() {
   );
 }
 
-function Section({ label, body }: { label: string; body: string }) {
+function Section({ label, body, url }: { label: string; body: string; url?: string }) {
   return (
     <View style={styles.section}>
       <Text style={styles.sectionLabel}>{label}</Text>
       <Text style={styles.sectionBody}>{body}</Text>
+      {url && (
+        <Pressable
+          accessibilityRole="link"
+          onPress={() => Linking.openURL(url).catch(() => {})}
+        >
+          <Text style={styles.link}>{url}</Text>
+        </Pressable>
+      )}
     </View>
   );
 }
@@ -80,5 +92,11 @@ const styles = StyleSheet.create({
     color: colors.text,
     fontSize: 14,
     lineHeight: 22,
+  },
+  link: {
+    color: colors.accent,
+    fontSize: 13,
+    textDecorationLine: "underline",
+    marginTop: 4,
   },
 });
