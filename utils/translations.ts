@@ -60,7 +60,7 @@ const translations: Record<Language, Translations> = {
     dataStorageBody:
       "• Excuse history — stored locally on device only.\n• Language preference — stored locally on device only.\n• No internet permission is required or used.\n• No account or sign-in is required.",
     contact: "Contact",
-    contactBody: "For support or questions, email us or open an issue on the project's GitHub page.",
+    contactBody: "For support or questions, email us at support@sassagold.com.",
     categoryNames: {
       any: "any",
       funny: "funny",
@@ -101,7 +101,7 @@ const translations: Record<Language, Translations> = {
     dataStorageBody:
       "• Saga afsökunarástæðna — geymd staðbundið á tæki.\n• Tungumálastilling — geymd staðbundið á tæki.\n• Engin nettenging er nauðsynleg eða notuð.\n• Engin reikningur eða innskráning er nauðsynleg.",
     contact: "Hafa samband",
-    contactBody: "Vegna aðstoðar eða spurninga, sendu okkur tölvupóst eða opnaðu mál á GitHub síðu verkefnisins.",
+    contactBody: "Vegna aðstoðar eða spurninga, sendu okkur tölvupóst á support@sassagold.com.",
     categoryNames: {
       any: "allt",
       funny: "fyndið",
@@ -142,7 +142,7 @@ const translations: Record<Language, Translations> = {
     dataStorageBody:
       "• Unnskyldningshistorikk — lagret lokalt på enheten.\n• Språkpreferanse — lagret lokalt på enheten.\n• Ingen internett-tillatelse kreves eller brukes.\n• Ingen konto eller innlogging kreves.",
     contact: "Kontakt",
-    contactBody: "For støtte eller spørsmål, send oss en e-post eller åpne en sak på prosjektets GitHub-side.",
+    contactBody: "For støtte eller spørsmål, send oss en e-post på support@sassagold.com.",
     categoryNames: {
       any: "alle",
       funny: "morsom",
