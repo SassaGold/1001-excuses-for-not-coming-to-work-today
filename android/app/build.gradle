@@ -104,15 +104,33 @@ android {
             keyAlias 'androiddebugkey'
             keyPassword 'android'
         }
+        release {
+            // Keystore properties are read from gradle.properties or environment
+            // variables (ORG_GRADLE_PROJECT_MYAPP_UPLOAD_*). Place your release
+            // keystore file at android/app/<MYAPP_UPLOAD_STORE_FILE>.
+            // See https://reactnative.dev/docs/signed-apk-android
+            def storeFileProp = findProperty('MYAPP_UPLOAD_STORE_FILE')
+            if (storeFileProp) {
+                storeFile file(storeFileProp)
+            }
+            def storePasswordProp = findProperty('MYAPP_UPLOAD_STORE_PASSWORD')
+            if (storePasswordProp) storePassword storePasswordProp
+            def keyAliasProp = findProperty('MYAPP_UPLOAD_KEY_ALIAS')
+            if (keyAliasProp) keyAlias keyAliasProp
+            def keyPasswordProp = findProperty('MYAPP_UPLOAD_KEY_PASSWORD')
+            if (keyPasswordProp) keyPassword keyPasswordProp
+        }
     }
     buildTypes {
         debug {
             signingConfig signingConfigs.debug
         }
         release {
-            // Caution! In production, you need to generate your own keystore file.
-            // see https://reactnative.dev/docs/signed-apk-android.
-            signingConfig signingConfigs.debug
+            def hasReleaseKeystore = findProperty('MYAPP_UPLOAD_STORE_FILE')?.trim() &&
+                findProperty('MYAPP_UPLOAD_STORE_PASSWORD')?.trim() &&
+                findProperty('MYAPP_UPLOAD_KEY_ALIAS')?.trim() &&
+                findProperty('MYAPP_UPLOAD_KEY_PASSWORD')?.trim()
+            signingConfig hasReleaseKeystore ? signingConfigs.release : signingConfigs.debug
             def enableShrinkResources = findProperty('android.enableShrinkResourcesInReleaseBuilds') ?: 'false'
             shrinkResources enableShrinkResources.toBoolean()
             minifyEnabled enableMinifyInReleaseBuilds
