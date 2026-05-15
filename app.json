@@ -20,7 +20,7 @@
       "typedRoutes": true
     },
     "android": {
-      "package": "com.sassagold.x1001excuses",
+      "package": "com.sassagold.excuses1001",
       "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon.png",
