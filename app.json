@@ -2,7 +2,7 @@
   "expo": {
     "name": "1001 Excuses",
     "slug": "1001-excuses",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "scheme": "excuses",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
